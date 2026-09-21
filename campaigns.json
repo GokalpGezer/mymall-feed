@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T13:05:44+00:00",
+  "generatedAt": "2026-09-21T13:12:48+00:00",
   "campaigns": [
     {
       "id": "dogal-uretici-pazari",
@@ -741,6 +741,255 @@
       "description": "Kampanyalar Mağazalar Yeme-İçme Sinema Etkinlikler Hizmetler Blog TR | EN TR | EN Ana Sayfa Kampanyalar 2020’ye Mutlu Son 2020’ye Mutlu Son Paylaş Facebook'ta Paylaş Twitter'da Paylaş Whatsapp'ta Paylaş 2020’ye Mutlu Son Yılbaşı Kampanyası",
       "title": "2020’ye Mutlu Son",
       "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya6_thumb.jpeg"
+    },
+    {
+      "id": "flying-tiger-x-akbati-etkinlik",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/flying-tiger-x-akbati-etkinlik/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-09-17",
+      "title": "Flying Tiger X Akbatı Etkinlik"
+    },
+    {
+      "id": "ipek-hanim-ciftligi-her-cumartesi-akbatida",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/ipek-hanim-ciftligi-her-cumartesi-akbatida/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-08-20",
+      "title": "İpek Hanım Çiftliği Her Cumartesi Akbatı’da!",
+      "image": "https://akbati.com/wp-content/uploads/2026/08/akbati-sinema.jpg"
+    },
+    {
+      "id": "acik-hava-sinemasi-akbatida",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/acik-hava-sinemasi-akbatida/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-08-19",
+      "title": "Açık Hava Sineması, Akbatı’da!",
+      "image": "https://akbati.com/wp-content/uploads/2026/07/Tiyatro-Senligi-e1784707055713.webp"
+    },
+    {
+      "id": "cocuk-tiyatrosu-senligi-akbatida",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/cocuk-tiyatrosu-senligi-akbatida/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-07-22",
+      "title": "Çocuk Tiyatrosu Şenliği Akbatı’da",
+      "image": "https://akbati.com/wp-content/uploads/2026/07/Loccitane-e1784706921977.png"
+    },
+    {
+      "id": "loccitane-akbati",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/loccitane-akbati/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-07-22",
+      "title": "L’OCCITANE | Akbatı",
+      "image": "https://akbati.com/wp-content/uploads/2026/07/Yoga-e1784706734348.jpg"
+    },
+    {
+      "id": "akbati-terasta-yoga",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/akbati-terasta-yoga/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-07-22",
+      "title": "Akbatı Teras’ta Yoga",
+      "image": "https://akbati.com/wp-content/uploads/2026/07/Cycle-e1784705487120.webp"
+    },
+    {
+      "id": "babalar-gunune-ozel-cycle-deneyimi-akbatida",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/babalar-gunune-ozel-cycle-deneyimi-akbatida/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-07-22",
+      "title": "Babalar Günü’ne Özel Cycle Deneyimi Akbatı’da",
+      "image": "https://akbati.com/wp-content/uploads/2026/07/Kupa-Boyama-e1784703986269.jpg"
+    },
+    {
+      "id": "akbatida-anneler-gunune-ozel-kupa-boyama-atolyesi",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/akbatida-anneler-gunune-ozel-kupa-boyama-atolyesi/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-07-22",
+      "title": "Akbatı’da Anneler Günü’ne Özel Kupa Boyama Atölyesi",
+      "image": "https://akbati.com/wp-content/uploads/2026/07/23-Nisan-Cark-e1784703631368.jpg"
+    },
+    {
+      "id": "akbati-uygulamasindan-cocuklara-ozel-bayram-surprizleri",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/akbati-uygulamasindan-cocuklara-ozel-bayram-surprizleri/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-07-22",
+      "title": "Akbatı Uygulaması’ndan Çocuklara Özel Bayram Sürprizleri!",
+      "image": "https://akbati.com/wp-content/uploads/2026/07/Mol-E-e1784702569890.jpg"
+    },
+    {
+      "id": "elektronik-atik-kahramanlari-akbatida-bulusuyor",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/elektronik-atik-kahramanlari-akbatida-bulusuyor/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-07-21",
+      "title": "Elektronik Atık Kahramanları Akbatı’da Buluşuyor",
+      "image": "https://akbati.com/wp-content/uploads/2026/04/2407_1_852754682-akbati-avm-490x428-1.jpg"
+    },
+    {
+      "id": "red-bull-sound-clash-aktivasyon-alani-seni-bekliyor",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/red-bull-sound-clash-aktivasyon-alani-seni-bekliyor/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-04-07",
+      "title": "Red Bull Sound Clash Aktivasyon Alanı Seni Bekliyor",
+      "image": "https://akbati.com/wp-content/uploads/2026/04/2405_1_9_490-x-428-mobil-uygulama.jpg"
+    },
+    {
+      "id": "loccitane-ile-flora-orchestra-parfum-koleksiyonu-deneyimi",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/loccitane-ile-flora-orchestra-parfum-koleksiyonu-deneyimi/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-04-07",
+      "title": "L’Occitane ile Flora Orchestra Parfüm Koleksiyonu Deneyimi"
+    },
+    {
+      "id": "akbati-15-yil-ozel-cekilis-kampanyasi",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/akbati-15-yil-ozel-cekilis-kampanyasi/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-09-02",
+      "title": "Akbatı 15. Yıl Özel Çekiliş Kampanyası",
+      "image": "https://akbati.com/wp-content/uploads/2026/07/akbati.webp"
+    },
+    {
+      "id": "akbati-mobil-uygulamasi-kullanicilari-kazaniyor",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/akbati-mobil-uygulamasi-kullanicilari-kazaniyor/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-07-25",
+      "title": "Akbatı Mobil Uygulaması Kullanıcıları Kazanıyor",
+      "image": "https://akbati.com/wp-content/uploads/2026/08/490x428.jpg"
+    },
+    {
+      "id": "akbatinin-yeni-web-sitesine-gir-surpriz-hediyeni-yakala",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/akbatinin-yeni-web-sitesine-gir-surpriz-hediyeni-yakala/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-07-24",
+      "title": "Akbatı’nın Yeni Web Sitesine Gir, Sürpriz Hediyeni Yakala!"
+    },
+    {
+      "id": "babalar-gunune-ozel-surprizler-akbatida",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/babalar-gunune-ozel-surprizler-akbatida/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-07-22",
+      "title": "Babalar Günü’ne özel sürprizler Akbatı’da!",
+      "image": "https://akbati.com/wp-content/uploads/2026/07/LGS-Heyecani-e1784707349846.jpg"
+    },
+    {
+      "id": "genclerle-lgs-heyecanini-paylasiyoruz",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/genclerle-lgs-heyecanini-paylasiyoruz/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-07-22",
+      "title": "Gençlerle LGS Heyecanını Paylaşıyoruz!",
+      "image": "https://akbati.com/wp-content/uploads/2026/07/YKS-Heyecani-e1784707245309.jpg"
+    },
+    {
+      "id": "genclerle-yks-heyecanini-paylasiyoruz",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/genclerle-yks-heyecanini-paylasiyoruz/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-07-22",
+      "title": "Gençlerle YKS Heyecanını Paylaşıyoruz!",
+      "image": "https://akbati.com/wp-content/uploads/2026/03/2397_1___490x428.jpg"
+    },
+    {
+      "id": "bizden-size-sizden-sevdiklerinize-bayram-hediyesi-2",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/bizden-size-sizden-sevdiklerinize-bayram-hediyesi-2/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-03-17",
+      "title": "Bizden Size, Sizden Sevdiklerinize Bayram Hediyesi",
+      "image": "https://akbati.com/wp-content/uploads/2026/03/2396_1___490x428.jpg"
+    },
+    {
+      "id": "8-martta-surprizin-cebinde-akbati-hep-seninle",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/8-martta-surprizin-cebinde-akbati-hep-seninle/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-03-08",
+      "title": "8 Mart’ta Sürprizin Cebinde Akbatı Hep Seninle!",
+      "image": "https://akbati.com/wp-content/uploads/2026/03/2381_1___490x428.jpg"
+    },
+    {
+      "id": "sevgililer-gunu-kalpten-kalbe-kampanyasi",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/sevgililer-gunu-kalpten-kalbe-kampanyasi/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-03-17",
+      "title": "Sevgililer Günü Kalpten Kalbe Kampanyası",
+      "image": "https://akbati.com/wp-content/uploads/2025/12/2287_1___490x428.jpg"
+    },
+    {
+      "id": "akbatidan-annelere-kalpten-kalbe-hediye",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/akbatidan-annelere-kalpten-kalbe-hediye/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-01-03",
+      "title": "Akbatı’dan Annelere Kalpten Kalbe Hediye",
+      "image": "https://akbati.com/wp-content/uploads/2026/01/2082_1_bosch.jpeg"
+    },
+    {
+      "id": "akbati-mobil-uygulamasinda-size-ozel-bosch-indirimi",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/akbati-mobil-uygulamasinda-size-ozel-bosch-indirimi/",
+      "description": "\",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampanyalar Yeşil Takım Projesi İletişim Türkçe English Mağazalar Eğlence Sinema Yeme & İçme Etkinlikler Kampa",
+      "startsAt": "2026-01-02",
+      "title": "Akbatı Mobil Uygulaması’nda Size Özel Bosch İndirimi"
     },
     {
       "id": "garaj-gunleri-5-13-eylul",
