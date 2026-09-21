@@ -1,0 +1,101 @@
+{
+  "generatedAt": "2026-09-21T12:44:56+00:00",
+  "campaigns": [
+    {
+      "id": "dogal-uretici-pazari",
+      "mallId": "maltepe-piazza",
+      "title": "Alışveriş Festivali",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepepiazzaavm.com/storage/maltepepiazzaavm/event/September2026/dogal-uretici-pazari-maltepe-piazza-1280x720px.webp",
+      "description": "Taptaze, katkısız ve yerel lezzetler Maltepe Piazza'da!",
+      "url": "https://maltepepiazzaavm.com/tr/etkinlikler-kampanyalar/dogal-uretici-pazari"
+    },
+    {
+      "id": "maltepe-park-ta-gun-erken-doguyor",
+      "mallId": "maltepe-park",
+      "title": "Maltepe Park'ta Gün Erken Doğuyor",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/May2026/gun-erken-doguyor-1280x720px.jpg",
+      "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/maltepe-park-ta-gun-erken-doguyor"
+    },
+    {
+      "id": "hali-dunyasi-pop-up-gunleri",
+      "mallId": "maltepe-park",
+      "title": "Halı Dünyası Pop Up Günleri",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/September2026/hali-deposu-maltepe-parkta-1280x720px.webp",
+      "description": "Halı Dünyası Pop Up Günleri 11 Eylül - 11 Ekim tarihleri arasında Maltepe Park'ta!",
+      "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/hali-dunyasi-pop-up-gunleri"
+    },
+    {
+      "id": "kitap-senligi",
+      "mallId": "maltepe-park",
+      "title": "Kitap Şenliği",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/September2026/kitap-senligi-1280x720px.webp",
+      "description": "Kitap Şenliği Maltepe Park'ta! Binlerce kitap, uygun fiyatlarla Maltepe Park'ta sizleri bekliyor.",
+      "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/kitap-senligi"
+    },
+    {
+      "id": "okula-donus-atolyeleri",
+      "mallId": "kozzy",
+      "title": "Okula Dönüş Atölyeleri",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://kozzyavm.com/storage/kozzyavm/event/September2026/whatsapp-image-2026-09-08-at-180525.jpeg",
+      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/okula-donus-atolyeleri"
+    },
+    {
+      "id": "sonbahar-alisveris-festivali-2026",
+      "mallId": "kozzy",
+      "title": "Sonbahar Alışveriş Festivali",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://kozzyavm.com/storage/kozzyavm/event/August2026/whatsapp-image-2026-08-17-at-144003-1.jpeg",
+      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/sonbahar-alisveris-festivali-2026"
+    },
+    {
+      "id": "kitap-festivali",
+      "mallId": "kozzy",
+      "title": "Kitap Festivali",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://kozzyavm.com/storage/kozzyavm/event/August2026/kitap-senligi-1280x720px-5.webp",
+      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/kitap-festivali"
+    },
+    {
+      "id": "habitat-x-evgeny-grinko",
+      "mallId": "hilltown",
+      "title": "Habitat x Evgeny Grinko",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://hilltownkucukyali.com/storage/hilltownkucukyali/event/September2026/1280-720px.jpg",
+      "description": "Evgeny Grinko, hafızamızda bir yerlere çoktan yerleşmiş melodileriyle Habitat'ta. Biletler Biletinial, Bubilet, Biletix ve Passo'da.",
+      "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/habitat-x-evgeny-grinko"
+    },
+    {
+      "id": "hilltown-seyirlik-sahne-1",
+      "mallId": "hilltown",
+      "title": "Hilltown Seyirlik Sahne",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://hilltownkucukyali.com/storage/hilltownkucukyali/event/November2025/kirmizi-balik-ciftlik-macerasi.jpeg",
+      "description": "Çiftlik Macerası ve Kırmızı Balık Denizaltı Müzikali Hilltown Seyirlik Sahne’de! Seans gün ve saatleri için 0(535) 255 5855 no'lu telefondan iletişime geçebilirsiniz!",
+      "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne-1"
+    },
+    {
+      "id": "hilltown-seyirlik-sahne",
+      "mallId": "hilltown",
+      "title": "Hilltown Seyirlik Sahne",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://hilltownkucukyali.com/storage/hilltownkucukyali/event/November2025/ceviz-adam-neseli-yapilar-muzikali.jpeg",
+      "description": "Ceviz Adam Müzikali ve Neşeli Yapılar Müzikali Hilltown Seyirlik Sahne’de! Seans gün ve saatleri için 0(535) 255 5855 no'lu telefondan iletişime geçebilirsiniz!",
+      "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne"
+    }
+  ]
+}
