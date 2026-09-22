@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T15:59:56+00:00",
+  "generatedAt": "2026-09-22T09:22:07+00:00",
   "campaigns": [
     {
       "id": "dogal-uretici-pazari",
@@ -59,13 +59,14 @@
       "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/sonbahar-alisveris-festivali-2026"
     },
     {
-      "id": "kitap-festivali",
-      "mallId": "kozzy",
-      "title": "Kitap Festivali",
+      "id": "hilltown-satranc-kulubu-nde-bulusalim5",
+      "mallId": "hilltown",
+      "title": "Satranç Kulübü",
       "kind": "event",
       "isPaid": false,
-      "image": "https://kozzyavm.com/storage/kozzyavm/event/August2026/kitap-senligi-1280x720px-5.webp",
-      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/kitap-festivali"
+      "image": "https://hilltownkucukyali.com/storage/hilltownkucukyali/event/September2026/960x512px.jpg",
+      "description": "Satranç Akademisi iş birliğiyle Hilltown Satranç Kulübü'nde birbirinden eğlenceli etkinlikler seni bekliyor!",
+      "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-satranc-kulubu-nde-bulusalim5"
     },
     {
       "id": "habitat-x-evgeny-grinko",
@@ -213,7 +214,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.akmerkez.com.tr/etkinlikler/sehirde-dogayla-bulusmaya-hazir-misiniz",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "description": "Akmerkez Terasta Tarım’da hafta sonu ziyaretleri başlıyor! Her cumartesi 11:00–13:00 saatleri arasında sizleri doğayla iç içe keyifli bir deneyime davet ediyoruz. Detaylı bilgi ve rezervasyon için bizimle iletişime geçebilirsiniz: +90 543 4",
       "title": "🌿 Şehirde doğayla buluşmaya hazır mısınız?",
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/939fe257-f840-4bc6-bd76-e6953e93a719.jpeg?1777272648381?1777272648381"
     },
@@ -223,7 +224,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.akmerkez.com.tr/etkinlikler/ipek-hanim-ciftligi-akmerkez-de",
-      "description": "İpek Hanım Çiftliği üretici pazarı; her hafta Cuma günü Akmerkez etkinlik alanında ziyaretçileri bekliyor. Etkinlik alanının yoğun olduğu dönemlerde ise misafirler, koridor alanında çiftliğin birbirinden sağlıklı lezzetlerine ulaşma imkânı ",
+      "description": "Keyifli deneyimin adresi ve kentin en gözde buluşma noktası Akmerkez; doğayla kurulan bağın en yalın hali İpek Hanım Çiftliği’ni ziyaretçileri ile buluşturuyor. Çiftlikte yetiştirilen ve mevsiminde hasat edilen sebze- meyvelerle, el emeği i",
       "title": "İpek Hanım Çiftliği Akmerkez’de",
       "image": "https://s3-eu-central-1.amazonaws.com/akis-gyo/images/event_image/ryEv5xTWY-main.jpeg?1630501468896"
     },
@@ -348,12 +349,22 @@
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1D0JubgGg-main.jpeg?1779691471248"
     },
     {
+      "id": "hareket-icin-tasarlandi",
+      "mallId": "vadistanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/alisveris-firsatlari/hareket-icin-tasarlandi",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Fırsatlar",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/promotion_image/Sy7r-cUtMe-small.jpeg?1789464892227"
+    },
+    {
       "id": "korsanlar-watergarden-i-ele-geciriyor-mqwrhcmk7t7",
       "mallId": "watergarden",
       "kind": "event",
       "isPaid": false,
       "url": "https://www.watergarden.com.tr/etkinlikler/korsanlar-watergarden-i-ele-geciriyor-mqwrhcmk7t7",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "description": "Korsanlar Watergarden'ı Ele Geçiriyor!",
       "title": "Korsanlar Watergarden'ı Ele Geçiriyor!",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/f9cd31e4-dcbb-4af8-a220-17133e8e9e90.jpeg?1788964130823?1788964130823"
     },
@@ -363,7 +374,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.watergarden.com.tr/etkinlikler/watergarden-satranc-turnuvasi",
-      "description": "Watergarden satranç turnuvası başlıyor!",
+      "description": "Watergarden Satranç Turnuvası",
       "title": "Watergarden Satranç Turnuvası",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/0d23b0ee-9281-420b-b7dc-91d1fede2c07.jpeg?1787915531658?1787915531658"
     },
@@ -373,7 +384,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.watergarden.com.tr/etkinlikler/modumuz-okula-donus-watergarden-da-paten-keyfi",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "description": "Tatilin son günlerinde eğlencenin dozunu artırıyoruz!",
       "title": "Modumuz Okula Dönüş: Watergarden’da Paten Keyfi!",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/cc5f1a72-2b84-44ca-80c1-66c2b061deeb.jpeg?1787235091375?1787235091375"
     },
@@ -383,7 +394,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.watergarden.com.tr/etkinlikler/watergarden-karayip-korsanlari",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "description": "Watergarden Karayip Korsanları",
       "title": "Watergarden Karayip Korsanları",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/ac33bc8f-531f-43ff-a940-0fa8d4a7284a.jpeg?1786950871213?1786950871214"
     },
@@ -393,8 +404,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.watergarden.com.tr/etkinlikler/watergarden-da-yaza-merhaba-partisi",
-      "description": "Tarih: 27 Haziran Cumartesi",
-      "startsAt": "2026-06-27",
+      "description": "Watergarden'da YAZA MERHABA PARTİSİ",
       "title": "Watergarden'da YAZA MERHABA PARTİSİ",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/cd907eac-eaf1-402e-9a69-33126b7af0b2.jpeg?1782135761964?1782135761964"
     },
@@ -404,7 +414,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.watergarden.com.tr/etkinlikler/watergarden-da-babalar-gunu-ne-ozel-satranc-turnuvasi",
-      "description": "Saatler: 11.00 – 13.30 – 15.30",
+      "description": "Watergarden'da Babalar Günü'ne Özel Satranç Turnuvası",
       "title": "Watergarden'da Babalar Günü'ne Özel Satranç Turnuvası",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/b92b8e62-85b3-42da-838e-bea650ddd6b5.jpeg?1781771094289?1781771094289"
     },
@@ -414,7 +424,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.watergarden.com.tr/etkinlikler/watergarden-da-eglenceye-yelken-acin",
-      "description": "Katılım Şartları: * 7 yaş ve üzeri çocuklar içindir.",
+      "description": "Watergarden'da Eğlenceye Yelken Açın",
       "title": "Watergarden'da Eğlenceye Yelken Açın",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/5366bfd9-60e6-42a3-836b-712dd9dea697.jpeg?1779432231509?1779432231509"
     },
@@ -424,7 +434,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.watergarden.com.tr/etkinlikler/eglenceli-atolyeler-watergarden-da",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "description": "Eğlenceli Atölyeler Watergarden'da",
       "title": "Eğlenceli Atölyeler Watergarden'da",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/46be6ef7-8ddb-4f54-aa26-dbea49cebab8.jpeg?1779087912292?1779087912292"
     },
@@ -434,7 +444,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.watergarden.com.tr/etkinlikler/x-media-art-museum-wateragarden-da",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "description": "X Media Art Museum Wateragarden'da",
       "title": "X Media Art Museum Wateragarden'da",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/0824c734-d5fe-455d-a7f2-ac9946d60fbd.jpeg?1778584918317?1778584918317"
     },
@@ -444,7 +454,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.watergarden.com.tr/etkinlikler/watergarden-motofest-2026",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "description": "Watergarden MotoFest 2026",
       "title": "Watergarden MotoFest 2026",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/e361c092-93f8-4671-83a8-4a82c23475e2.jpeg?1778053095204?1778053095204"
     },
@@ -454,7 +464,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.watergarden.com.tr/etkinlikler/fenerbahce-beko-mac-oncesi-keyfi-watergarden-da",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "description": "Fenerbahçe Beko Maç Öncesi Keyfi Watergarden'da!",
       "title": "Fenerbahçe Beko Maç Öncesi Keyfi Watergarden'da!",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/b0d7bcbe-53dc-425e-ac7e-fc0ae8e35141.jpeg?1775032228069?1775032228069"
     },
@@ -464,7 +474,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.watergarden.com.tr/etkinlikler/drama-atolyesi",
-      "description": "Her seans 50 çocuk kontenjanla sınırlıdır.",
+      "description": "Etkinlikler cumartesi pazar tek seans olarak gerçekleştirilecektir:",
       "title": "Drama Atölyesi",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/63999b3e-9001-4d40-8aa6-2cd17970514b.jpeg?1775026181313?1775026181313"
     },
@@ -474,7 +484,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.metropolistanbul.com/etkinlikler/sizi-dinleyen-metropol-unuz-var",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "description": "Sizi Dinleyen Metropol'ünüz Var",
       "title": "Sizi Dinleyen Metropol'ünüz Var",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/3b124b29-2492-4489-8b4b-34b5f1ddb3aa.jpeg?1789996294379?1789996294379"
     },
@@ -484,7 +494,8 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.metropolistanbul.com/etkinlikler/butik-markalar-tasarim-urunler-ve-ilham-veren-kesifler-19-eylul-4-ekim-tarihleri-arasinda-metropol-pop-up-market-te",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "description": "Butik markalar, tasarım ürünler ve ilham veren keşifler 19 Eylül – 4 Ekim tarihleri arasında Metropol Pop Up Market’te.",
+      "startsAt": "2026-09-19",
       "title": "Butik markalar, tasarım ürünler ve ilham veren keşifler 19 Eylül – 4 Ekim tarihleri arasında Metropol Pop Up Market’te.",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/e65290be-ce17-4bf0-a9a6-10c4ae500115.jpeg?1789741033006?1789741033006"
     },
@@ -494,7 +505,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.metropolistanbul.com/etkinlikler/metropol-istanbul-mobil-uygulamasi-yayinda",
-      "description": "Metropol İstanbul AVM’nin ayrıcalıklarla dolu dünyası artık cebinizde! Ziyaretçilerimizin alışveriş ve yaşam deneyimini en üst seviyeye çıkarmak amacıyla hazırladığımız resmi mobil uygulamamız Google Play ve App Store’da yerini aldı.",
+      "description": "Metropol İstanbul Mobil Uygulaması Yayında!",
       "title": "Metropol İstanbul Mobil Uygulaması Yayında!",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/a6985faa-e0a5-4664-b75d-6d61540a469f.jpeg?1787555490982?1787555490982"
     },
@@ -504,8 +515,109 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
-      "title": "Lindt Maitre Chocolatier",
+      "title": "Pendorya Da Aninda Kazan",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289"
+    },
+    {
+      "id": "23-nisan-da-eglence-playland-de",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/23-nisan-da-eglence-playland-de",
+      "title": "23 Nisan Da Eglence Playland De",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BksyOrX6Ze-small.jpeg?1776666595901"
+    },
+    {
+      "id": "cocuk-atolyeleri",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/cocuk-atolyeleri",
+      "title": "Cocuk Atolyeleri",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/r1W-Y8y6bg-small.jpeg?1776408826672"
+    },
+    {
+      "id": "sevinin-cocuklar-izleyin-beraber",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/sevinin-cocuklar-izleyin-beraber",
+      "title": "Sevinin Cocuklar Izleyin Beraber",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SklKCBAnZe-small.jpeg?1776340600665"
+    },
+    {
+      "id": "rafadan-tayfa-hayrimator",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/rafadan-tayfa-hayrimator",
+      "title": "Rafadan Tayfa Hayrimator",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/HkFJF6sd6-small.jpeg?1704872162340"
+    },
+    {
+      "id": "pjmasks-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
+      "title": "Pjmasks Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227"
+    },
+    {
+      "id": "babalar-gunu-kutlu-olsun",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/babalar-gunu-kutlu-olsun",
+      "title": "Babalar Gunu Kutlu Olsun",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/r1P16tJJH-small.jpeg?1560509748209"
+    },
+    {
+      "id": "ugur-bocegi-ile-kara-kedi-rye5hjabq4",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi-rye5hjabq4",
+      "description": "Uğur Böceği ile Kara Kedi",
+      "title": "Ugur Bocegi Ile Kara Kedi",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/rJ9nyTW5N-small.jpeg?1555316658646"
+    },
+    {
+      "id": "yoresel-pazar",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/yoresel-pazar",
+      "title": "Yoresel Pazar",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SyfqxYPTH-small.jpeg?1575616650395"
+    },
+    {
+      "id": "pendorya-cocuk-kulubu",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-cocuk-kulubu",
+      "title": "Pendorya Cocuk Kulubu",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SJ_D7EbNL-small.jpeg?1582543712528"
+    },
+    {
+      "id": "bora-duran-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/bora-duran-pendorya-da",
+      "title": "Bora Duran Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/ByXvnyz5V-small.jpeg?1555328091617"
+    },
+    {
+      "id": "maysa-ve-bulut-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/maysa-ve-bulut-pendorya-da",
+      "description": "Maysa ve Bulut Pendorya'da",
+      "title": "Maysa Ve Bulut Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/S1Z6h2I7B-small.jpeg?1565080762086"
     },
     {
       "id": "bebekoloji-anadolu-da",
@@ -522,6 +634,7 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.pendorya.com/firsatlar/en-uzun-gunde-size-ozel-indirimlerle-magazamizda-bulusalim",
+      "description": "En Uzun Günde Size Özel İndirimlerle Mağazamızda Buluşalım",
       "title": "En Uzun Günde Size Özel İndirimlerle Mağazamızda Buluşalım",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/ryYWgVqyS-small.jpeg?1561112578118"
     },
@@ -531,6 +644,7 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.pendorya.com/firsatlar/tum-kampanyalarimiza-buradan-ulasabilirsiniz",
+      "description": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "title": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/HkAypIV5N-small.jpeg?1555487975038"
     },
@@ -540,6 +654,7 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "description": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
       "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753"
     },
@@ -633,7 +748,7 @@
       "url": "https://istanbulcevahir.com/etkinlikler/kucuk-adimlar-buyuk-fikirler-15/",
       "description": "Hafta içi ve hafta sonu 14:30/15:30/16:30/17.30 saatlerinde ‘’Yaratıcı Atölyeler’’ Yaratıcılık Kulübü Mart Programı",
       "title": "Küçük Adımlar, Büyük Fikirler!",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/02/sevgililer-gunu-kucuk.webp"
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/03/yaraticilik-kulubu-mart-kucuk-tr.jpg"
     },
     {
       "id": "istanbul-cevahirden-sevgililer-gunu-surprizi",
@@ -644,7 +759,7 @@
       "description": "İstanbul Cevahir olarak 14 Şubat Sevgililer Günü’nde, çiftlere özel alışılmışın dışında bir sürprize ev sahipliği yapıyoruz! Cevo Love Court konseptiyle, 14 Şubat Cumartesi günü food court alanını tek günlüğüne romantik bir restorana dönüşt",
       "startsAt": "2026-02-14",
       "title": "İSTANBUL CEVAHİR’DEN SEVGİLİLER GÜNÜ SÜRPRİZİ!",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/02/yaraticilik-kulubu-kucuk-tr.jpg"
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/02/sevgililer-gunu-kucuk.webp"
     },
     {
       "id": "istanbul-cevahirde-yeni-yil-coskusu",
@@ -655,7 +770,7 @@
       "description": "İstanbul Cevahir olarak yeni yılı birbirinden keyifli etkinliklerle karşılıyoruz. 12–30 Aralık tarihleri arasında gerçekleşecek etkinlikler kapsamında, sürpriz şovlar, capcanlı konserler, eğlenceli dans gösterileri, DJ performansları ve hey",
       "startsAt": "2026-12-30",
       "title": "İstanbul Cevahir’de Yeni Yıl Coşkusu!",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2025/12/aralik-program-kucuk-tr.jpg"
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2025/12/yilbasi-kucuk-tr.jpg"
     },
     {
       "id": "black-friday-kampanya-katilim-kosullari",
@@ -665,7 +780,7 @@
       "url": "https://istanbulcevahir.com/etkinlikler/black-friday-kampanya-katilim-kosullari/",
       "description": "Kampanya, 28.11.2025 tarihinde 10:00–22:00 saatleri arasında geçerli olacaktır. Kampanyaya, İstanbul Cevahir Alışveriş ve Eğlence Merkezi’nde 1. katta ve ana girişte yer alan stantlardan katılınabilir.",
       "title": "Black Friday Kampanya Katılım Koşulları",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2025/11/20-yil-konser-kucuk.webp"
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2025/11/kucuk-etkinlik.jpg"
     },
     {
       "id": "istanbul-cevahir-20-yasinda",
@@ -676,7 +791,7 @@
       "description": "İstanbul Cevahir olarak 20. yılımızı kutluyoruz! 12–16 Kasım tarihleri arasında gerçekleşecek etkinlikler kapsamında, farklı tarzlardan sevilen sanatçılar sahne alarak ziyaretçilerimize unutulmaz anlar yaşatacak.",
       "startsAt": "2026-11-16",
       "title": "İSTANBUL CEVAHİR 20 YAŞINDA!",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2025/11/kasim-program-kucuk-tr.jpg"
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2025/11/20-yil-konser-kucuk.webp"
     },
     {
       "id": "remote-control-cafe-ilk-kez-istanbul-cevahirde",
@@ -687,7 +802,7 @@
       "description": "İstanbul Cevahir olarak, çocuklara ve genç ruhlara unutulmaz bir deneyim sunmaya hazırlanıyoruz. Dünya çapında büyük ilgi gören “Remote Contol Cafe” etkinliği İstanbul Cevahir’de 29 Ağustos- 7 Eylül tarihleri arasında ziyaretçilerle buluşac",
       "startsAt": "2026-08-29",
       "title": "REMOTE CONTROL CAFE” İLK KEZ İSTANBUL CEVAHİR’DE",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2025/07/agustos-etkinlik-kucuk-tr.jpg"
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2025/08/bts-etkinlik-kucuk.webp"
     },
     {
       "id": "istanbul-cevahir-kasim-kampanyasi",
@@ -697,7 +812,7 @@
       "url": "https://istanbulcevahir.com/kampanyalar/istanbul-cevahir-kasim-kampanyasi/",
       "description": "Black Friday, markaların büyük indirimler ve kampanyalar sunmasını sağlarken, bu […]",
       "title": "İstanbul Cevahir Kasım Kampanyası",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya1_thumb.webp"
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2024/11/kedinin-ugramadigi-evi-kucuk.jpg"
     },
     {
       "id": "istanbul-cevahir-yilbasi-kampanyasi-ile-yeni-yilda-kazandiriyor",
@@ -707,7 +822,7 @@
       "url": "https://istanbulcevahir.com/kampanyalar/istanbul-cevahir-yilbasi-kampanyasi-ile-yeni-yilda-kazandiriyor/",
       "description": "İstanbul Cevahir Yılbaşı Kampanyası ile Yeni Yılda Kazandırıyor",
       "title": "İstanbul Cevahir Yılbaşı Kampanyası ile Yeni Yılda Kazandırıyor",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya2_thumb.jpeg"
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya1_thumb.webp"
     },
     {
       "id": "istanul-cevahirde-boylesi-daha-keyifli",
@@ -717,7 +832,7 @@
       "url": "https://istanbulcevahir.com/kampanyalar/istanul-cevahirde-boylesi-daha-keyifli/",
       "description": "İSTANBUL CEVAHİR’DE “BÖYLESİ DAHA KEYİFLİ”",
       "title": "İstanbul Cevahir’de “Böylesi Daha Keyifli”",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya3_thumb.jpeg"
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya2_thumb.jpeg"
     },
     {
       "id": "okula-donuse-ozel-hardacikca-cevir-kazan",
@@ -727,7 +842,7 @@
       "url": "https://istanbulcevahir.com/kampanyalar/okula-donuse-ozel-hardacikca-cevir-kazan/",
       "description": "Okula Dönüşe Özel Harcadıkça Çevir-Kazan",
       "title": "Okula Dönüşe Özel Hardacıkça Çevir-Kazan!",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya4_thumb.jpeg"
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya3_thumb.jpeg"
     },
     {
       "id": "15-yil-cekilisi",
@@ -737,7 +852,7 @@
       "url": "https://istanbulcevahir.com/kampanyalar/15-yil-cekilisi/",
       "description": "İstanbul Cevahir olarak “15 yıldır Cevahir’deyiz” sloganıyla çıkışını yaptığımız kampanyamızla 15. yılımızı kutladık. 15-31 Ekim tarihleri arasında İstanbul Cevahir içindeki mağaza ve restoranlardan 150 TL’lik alışveriş yapan ziyaretçilerim",
       "title": "15. Yıl Çekilişi",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya5_thumb.webp"
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya4_thumb.jpeg"
     },
     {
       "id": "2020ye-mutlu-son",
@@ -747,6 +862,17 @@
       "url": "https://istanbulcevahir.com/kampanyalar/2020ye-mutlu-son/",
       "description": "2020’ye Mutlu Son Yılbaşı Kampanyası",
       "title": "2020’ye Mutlu Son",
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya5_thumb.webp"
+    },
+    {
+      "id": "14subattaevdeyiz",
+      "mallId": "istanbul-cevahir",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://istanbulcevahir.com/kampanyalar/14subattaevdeyiz/",
+      "description": "14 Şubat’ta Evdeyiz Kampanyası",
+      "startsAt": "2026-02-14",
+      "title": "#14ŞubattaEvdeyiz",
       "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya6_thumb.jpeg"
     },
     {
@@ -767,8 +893,7 @@
       "url": "https://akbati.com/etkinlikler/ipek-hanim-ciftligi-her-cumartesi-akbatida/",
       "description": "İpek Hanım Çiftliği Her Cumartesi Akbatı’da! İpek Hanım Çiftliği’nin doğal, taze ve yöresel ürünleriyle, Akbatı’da sağlıklı yaşam çok güzel! İlk Kurulum 22 AĞUSTOS Kat: -1",
       "startsAt": "2026-08-22",
-      "title": "İpek Hanım Çiftliği Her Cumartesi Akbatı’da!",
-      "image": "https://akbati.com/wp-content/uploads/2026/08/akbati-sinema.jpg"
+      "title": "İpek Hanım Çiftliği Her Cumartesi Akbatı’da!"
     },
     {
       "id": "acik-hava-sinemasi-akbatida",
@@ -777,8 +902,7 @@
       "isPaid": false,
       "url": "https://akbati.com/etkinlikler/acik-hava-sinemasi-akbatida/",
       "description": "Açık Hava Sineması, Akbatı’da! Yıldızların altında, açık havada sinema keyfi… Bu yazın en güzel film geceleri Akbatı’da!",
-      "title": "Açık Hava Sineması, Akbatı’da!",
-      "image": "https://akbati.com/wp-content/uploads/2026/07/Tiyatro-Senligi-e1784707055713.webp"
+      "title": "Açık Hava Sineması, Akbatı’da!"
     },
     {
       "id": "cocuk-tiyatrosu-senligi-akbatida",
@@ -787,8 +911,7 @@
       "isPaid": false,
       "url": "https://akbati.com/etkinlikler/cocuk-tiyatrosu-senligi-akbatida/",
       "description": "Bu Yaz Hafta Sonları Tiyatroyla Renklensin",
-      "title": "Çocuk Tiyatrosu Şenliği Akbatı’da",
-      "image": "https://akbati.com/wp-content/uploads/2026/07/Loccitane-e1784706921977.png"
+      "title": "Çocuk Tiyatrosu Şenliği Akbatı’da"
     },
     {
       "id": "loccitane-akbati",
@@ -797,8 +920,7 @@
       "isPaid": false,
       "url": "https://akbati.com/etkinlikler/loccitane-akbati/",
       "description": "L’Occitane’in mis kokulu ikonik el kremleri ile deneyim ve size özel sürprizler için L’Occitane Akbatı alanında buluşalım!",
-      "title": "L’OCCITANE | Akbatı",
-      "image": "https://akbati.com/wp-content/uploads/2026/07/Yoga-e1784706734348.jpg"
+      "title": "L’OCCITANE | Akbatı"
     },
     {
       "id": "akbati-terasta-yoga",
@@ -807,8 +929,7 @@
       "isPaid": false,
       "url": "https://akbati.com/etkinlikler/akbati-terasta-yoga/",
       "description": "• Katılım ücretsizdir. • Etkinlik kontenjanla sınırlıdır. • Katılım için Akbatı Mobil Uygulaması üzerinden rezervasyon kodu alınması gerekmektedir.",
-      "title": "Akbatı Teras’ta Yoga",
-      "image": "https://akbati.com/wp-content/uploads/2026/07/Cycle-e1784705487120.webp"
+      "title": "Akbatı Teras’ta Yoga"
     },
     {
       "id": "babalar-gunune-ozel-cycle-deneyimi-akbatida",
@@ -817,8 +938,7 @@
       "isPaid": false,
       "url": "https://akbati.com/etkinlikler/babalar-gunune-ozel-cycle-deneyimi-akbatida/",
       "description": "Babalar Günü’ne Özel Cycle Deneyimi Akbatı’da",
-      "title": "Babalar Günü’ne Özel Cycle Deneyimi Akbatı’da",
-      "image": "https://akbati.com/wp-content/uploads/2026/07/Kupa-Boyama-e1784703986269.jpg"
+      "title": "Babalar Günü’ne Özel Cycle Deneyimi Akbatı’da"
     },
     {
       "id": "akbatida-anneler-gunune-ozel-kupa-boyama-atolyesi",
@@ -827,8 +947,7 @@
       "isPaid": false,
       "url": "https://akbati.com/etkinlikler/akbatida-anneler-gunune-ozel-kupa-boyama-atolyesi/",
       "description": "Akbatı’da Anneler Günü’ne Özel Kupa Boyama Atölyesi Anneler Günü’ne özel kupa boyama atölyesi sizi bekliyor. Çiçek formundaki kupanızı boyayın, annenize unutulmaz bir hediye hazırlayın.",
-      "title": "Akbatı’da Anneler Günü’ne Özel Kupa Boyama Atölyesi",
-      "image": "https://akbati.com/wp-content/uploads/2026/07/23-Nisan-Cark-e1784703631368.jpg"
+      "title": "Akbatı’da Anneler Günü’ne Özel Kupa Boyama Atölyesi"
     },
     {
       "id": "akbati-uygulamasindan-cocuklara-ozel-bayram-surprizleri",
@@ -837,8 +956,7 @@
       "isPaid": false,
       "url": "https://akbati.com/etkinlikler/akbati-uygulamasindan-cocuklara-ozel-bayram-surprizleri/",
       "description": "Akbatı Uygulaması’ndan Çocuklara Özel Bayram Sürprizleri! Akbatı Mobil Uygulaması’nı indirip kod alan ebeveynler, çocuklarıyla birlikte sürpriz çarkı çevirerek hediyeler kazanıyor.",
-      "title": "Akbatı Uygulaması’ndan Çocuklara Özel Bayram Sürprizleri!",
-      "image": "https://akbati.com/wp-content/uploads/2026/07/Mol-E-e1784702569890.jpg"
+      "title": "Akbatı Uygulaması’ndan Çocuklara Özel Bayram Sürprizleri!"
     },
     {
       "id": "elektronik-atik-kahramanlari-akbatida-bulusuyor",
@@ -848,8 +966,7 @@
       "url": "https://akbati.com/etkinlikler/elektronik-atik-kahramanlari-akbatida-bulusuyor/",
       "description": "Elektronik atıkları keşfet, geleceğini koru! Eğlenceli aktivitelerle öğren, “Şehir Madencisi” sertifikanı kazan. Sürpriz hediyeler seni bekliyor. 9 MAYIS Cumartesi Saat: 14.00-15.00 / Yer: 1. Kat",
       "startsAt": "2026-05-09",
-      "title": "Elektronik Atık Kahramanları Akbatı’da Buluşuyor",
-      "image": "https://akbati.com/wp-content/uploads/2026/04/2407_1_852754682-akbati-avm-490x428-1.jpg"
+      "title": "Elektronik Atık Kahramanları Akbatı’da Buluşuyor"
     },
     {
       "id": "red-bull-sound-clash-aktivasyon-alani-seni-bekliyor",
@@ -858,8 +975,7 @@
       "isPaid": false,
       "url": "https://akbati.com/etkinlikler/red-bull-sound-clash-aktivasyon-alani-seni-bekliyor/",
       "description": "Red Bull Sound Clash Aktivasyon Alanı Seni Bekliyor",
-      "title": "Red Bull Sound Clash Aktivasyon Alanı Seni Bekliyor",
-      "image": "https://akbati.com/wp-content/uploads/2026/04/2405_1_9_490-x-428-mobil-uygulama.jpg"
+      "title": "Red Bull Sound Clash Aktivasyon Alanı Seni Bekliyor"
     },
     {
       "id": "loccitane-ile-flora-orchestra-parfum-koleksiyonu-deneyimi",
@@ -877,8 +993,7 @@
       "isPaid": false,
       "url": "https://akbati.com/kampanyalar/akbati-15-yil-ozel-cekilis-kampanyasi/",
       "description": "AKBATI 15. YIL MOBİL UYGULAMA KAMPANYASI KATILIM KOŞULLARI",
-      "title": "Akbatı 15. Yıl Özel Çekiliş Kampanyası",
-      "image": "https://akbati.com/wp-content/uploads/2026/07/akbati.webp"
+      "title": "Akbatı 15. Yıl Özel Çekiliş Kampanyası"
     },
     {
       "id": "akbati-mobil-uygulamasi-kullanicilari-kazaniyor",
@@ -887,8 +1002,7 @@
       "isPaid": false,
       "url": "https://akbati.com/kampanyalar/akbati-mobil-uygulamasi-kullanicilari-kazaniyor/",
       "description": "Çalışma Saatleri: 10.00-22.00",
-      "title": "Akbatı Mobil Uygulaması Kullanıcıları Kazanıyor",
-      "image": "https://akbati.com/wp-content/uploads/2026/08/490x428.jpg"
+      "title": "Akbatı Mobil Uygulaması Kullanıcıları Kazanıyor"
     },
     {
       "id": "akbatinin-yeni-web-sitesine-gir-surpriz-hediyeni-yakala",
@@ -906,8 +1020,7 @@
       "isPaid": false,
       "url": "https://akbati.com/kampanyalar/babalar-gunune-ozel-surprizler-akbatida/",
       "description": "Babalar Günü’ne özel sürprizler Akbatı’da! Uygulamaya gir, tıkla ve hediyeni kazanma şansını yakala.",
-      "title": "Babalar Günü’ne özel sürprizler Akbatı’da!",
-      "image": "https://akbati.com/wp-content/uploads/2026/07/LGS-Heyecani-e1784707349846.jpg"
+      "title": "Babalar Günü’ne özel sürprizler Akbatı’da!"
     },
     {
       "id": "genclerle-lgs-heyecanini-paylasiyoruz",
@@ -917,8 +1030,7 @@
       "url": "https://akbati.com/kampanyalar/genclerle-lgs-heyecanini-paylasiyoruz/",
       "description": "Sınav giriş belgeni göster, sürpriz hediyeni al! 13-14 Haziran günleri danışma noktasında seni tatlı sürprizler bekliyor.",
       "startsAt": "2026-06-14",
-      "title": "Gençlerle LGS Heyecanını Paylaşıyoruz!",
-      "image": "https://akbati.com/wp-content/uploads/2026/07/YKS-Heyecani-e1784707245309.jpg"
+      "title": "Gençlerle LGS Heyecanını Paylaşıyoruz!"
     },
     {
       "id": "genclerle-yks-heyecanini-paylasiyoruz",
@@ -928,8 +1040,7 @@
       "url": "https://akbati.com/kampanyalar/genclerle-yks-heyecanini-paylasiyoruz/",
       "description": "Sınav giriş belgeni göster, sürpriz hediyeni al! 20-21 Haziran günleri danışma noktasında seni tatlı sürprizler bekliyor.",
       "startsAt": "2026-06-21",
-      "title": "Gençlerle YKS Heyecanını Paylaşıyoruz!",
-      "image": "https://akbati.com/wp-content/uploads/2026/03/2397_1___490x428.jpg"
+      "title": "Gençlerle YKS Heyecanını Paylaşıyoruz!"
     },
     {
       "id": "bizden-size-sizden-sevdiklerinize-bayram-hediyesi-2",
@@ -938,8 +1049,7 @@
       "isPaid": false,
       "url": "https://akbati.com/kampanyalar/bizden-size-sizden-sevdiklerinize-bayram-hediyesi-2/",
       "description": "Çalışma Saatleri: 10.00-22.00",
-      "title": "Bizden Size, Sizden Sevdiklerinize Bayram Hediyesi",
-      "image": "https://akbati.com/wp-content/uploads/2026/03/2396_1___490x428.jpg"
+      "title": "Bizden Size, Sizden Sevdiklerinize Bayram Hediyesi"
     },
     {
       "id": "8-martta-surprizin-cebinde-akbati-hep-seninle",
@@ -948,8 +1058,7 @@
       "isPaid": false,
       "url": "https://akbati.com/kampanyalar/8-martta-surprizin-cebinde-akbati-hep-seninle/",
       "description": "Çalışma Saatleri: 10.00-22.00",
-      "title": "8 Mart’ta Sürprizin Cebinde Akbatı Hep Seninle!",
-      "image": "https://akbati.com/wp-content/uploads/2026/03/2381_1___490x428.jpg"
+      "title": "8 Mart’ta Sürprizin Cebinde Akbatı Hep Seninle!"
     },
     {
       "id": "sevgililer-gunu-kalpten-kalbe-kampanyasi",
@@ -958,8 +1067,7 @@
       "isPaid": false,
       "url": "https://akbati.com/kampanyalar/sevgililer-gunu-kalpten-kalbe-kampanyasi/",
       "description": "Çalışma Saatleri: 10.00-22.00",
-      "title": "Sevgililer Günü Kalpten Kalbe Kampanyası",
-      "image": "https://akbati.com/wp-content/uploads/2025/12/2287_1___490x428.jpg"
+      "title": "Sevgililer Günü Kalpten Kalbe Kampanyası"
     },
     {
       "id": "akbatidan-annelere-kalpten-kalbe-hediye",
@@ -968,8 +1076,7 @@
       "isPaid": false,
       "url": "https://akbati.com/kampanyalar/akbatidan-annelere-kalpten-kalbe-hediye/",
       "description": "Çalışma Saatleri: 10.00-22.00",
-      "title": "Akbatı’dan Annelere Kalpten Kalbe Hediye",
-      "image": "https://akbati.com/wp-content/uploads/2026/01/2082_1_bosch.jpeg"
+      "title": "Akbatı’dan Annelere Kalpten Kalbe Hediye"
     },
     {
       "id": "akbati-mobil-uygulamasinda-size-ozel-bosch-indirimi",
@@ -981,212 +1088,13 @@
       "title": "Akbatı Mobil Uygulaması’nda Size Özel Bosch İndirimi"
     },
     {
-      "id": "garaj-gunleri-5-13-eylul",
-      "mallId": "starcity",
+      "id": "Galeri",
+      "mallId": "capitol",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/garaj-gunleri-5-13-eylul",
-      "description": "Alışveriş tutkunlarının heyecanla beklediği 32. Starcity Outlet Garaj Günleri, 5 - 13 Eylül 2026 tarihleri arasında kapılarını açıyor!",
-      "startsAt": "2026-09-13",
-      "title": "Garaj Günleri 5-13 Eylül",
-      "image": "https://www.starcity.com.tr/upload/article/178170027563632.jpg"
-    },
-    {
-      "id": "starcity-outlette-babalar-gunu-tavla-turnuvasi-basliyor",
-      "mallId": "starcity",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/starcity-outlette-babalar-gunu-tavla-turnuvasi-basliyor",
-      "description": "Starcity Outlette Babalar Günü Tavla Turnuvası Başlıyor! Tarih: 21 Haziran Pazar Saat: 11.30 | Yer: Starcity Outlet ÖDÜLLER: 1.ye 10.000 TL Beymen Business Hediye Kartı! 2. ve 3.ye 10.000 TL Salomon Hediye Karti!",
-      "startsAt": "2026-06-21",
-      "title": "Starcity Outlette Babalar Günü Tavla Turnuvası Başlıyor!",
-      "image": "https://www.starcity.com.tr/upload/article/177728484866349.jpg"
-    },
-    {
-      "id": "garaj-gunleri-2-10-mayis",
-      "mallId": "starcity",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/garaj-gunleri-2-10-mayis",
-      "description": "2-10 Mayıs Tarihleri arasında tekstilden ayakkabıya, ev dekorasyonundan aksesuara kadar her şey, inanılmaz indirimlerle Starcity Outlet Garaj Günleri'nde sizi bekliyor!",
-      "startsAt": "2026-05-10",
-      "title": "Garaj Günleri 2 - 10 Mayıs",
-      "image": "https://www.starcity.com.tr/upload/article/177305419883797.jpg"
-    },
-    {
-      "id": "bu-ramazan-tatlilar-starcity-outletten",
-      "mallId": "starcity",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/bu-ramazan-tatlilar-starcity-outletten",
-      "description": "Kampanya Katılım Koşulları :",
-      "title": "Bu Ramazan Tatlılar Starcity Outlet'ten!",
-      "image": "https://www.starcity.com.tr/upload/article/177158510613951.jpg"
-    },
-    {
-      "id": "ramazan-boyunca-eglence",
-      "mallId": "starcity",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/ramazan-boyunca-eglence",
-      "description": "Bu Ramazan ve Ara Tatil döneminde, çocuklarımız geleneksel kahramanlarımızla tanışırken, aileler de eski bayramların ruhunu yeniden yaşayacak. Hacivat ve Karagöz’ün atışmalarından, heyecan dolu cambaz ve sihirbaz gösterilerine kadar her haf",
-      "title": "Ramazan Boyunca Eğlence!",
-      "image": "https://www.starcity.com.tr/upload/article/17685641065516.jpg"
-    },
-    {
-      "id": "starcity-outlette-eglence-basliyor",
-      "mallId": "starcity",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/starcity-outlette-eglence-basliyor",
-      "description": "Starcity Outlet'te Eğlence Başlıyor! Masal Kahramanları Maskot Korteji 17-18 Ocak/24-25 Ocak / 31 Ocak-1 Şubat Seans Saatleri: 16.00-17.00-18.00",
-      "startsAt": "2026-01-18",
-      "title": "Starcity Outlet'te Eğlence Başlıyor!",
-      "image": "https://www.starcity.com.tr/upload/article/176458494259818.jpg"
-    },
-    {
-      "id": "garaj-gunleri-6-14-aralik-2025",
-      "mallId": "starcity",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/garaj-gunleri-6-14-aralik-2025",
-      "description": "6-14 Aralık 2025 tarihleri arasında tekstilden ayakkabıya, ev dekorasyonundan aksesuara kadar her şey inanılmaz indirimlerle Starcity Outlet Garaj Günleri'nde! Siz de dünyaca ünlü markalara, en outlet fiyatlarla sahip olmak istiyorsanız, St",
-      "startsAt": "2026-12-14",
-      "title": "Garaj Günleri 6-14 Aralık 2025",
-      "image": "https://www.starcity.com.tr/upload/article/176251357910511.jpg"
-    },
-    {
-      "id": "tatil-eglencesi-starcity-outlette-basliyor",
-      "mallId": "starcity",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/tatil-eglencesi-starcity-outlette-basliyor",
-      "description": "Yüz boyama, Bubble show ve Palyaço ile sosis balon dağıtımı",
-      "title": "Tatil Eğlencesi Starcity Outlet’te Başlıyor!",
-      "image": "https://www.starcity.com.tr/upload/article/176103692795046.jpg"
-    },
-    {
-      "id": "29-ekim-cumhuriyet-bayramimizi-starcity-outlette-hep-birlikte-kutlayalim",
-      "mallId": "starcity",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/29-ekim-cumhuriyet-bayramimizi-starcity-outlette-hep-birlikte-kutlayalim",
-      "description": "12.00 - 18.00 Saatleri arasında. Starcity Outlet 1. Kat",
-      "title": "29 Ekim Cumhuriyet Bayramımızı Starcity Outlet'te Hep Birlikte Kutlayalım!",
-      "image": "https://www.starcity.com.tr/upload/article/175696686212147.jpg"
-    },
-    {
-      "id": "okula-donus-eglencesi-starcity-outlette-basliyor",
-      "mallId": "starcity",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/okula-donus-eglencesi-starcity-outlette-basliyor",
-      "description": "5-6-7 Eylül 'de Starcity Outlet 1. Kat",
-      "startsAt": "2026-09-07",
-      "title": "Okula Dönüş Eğlencesi Starcity Outlet'te Başlıyor!",
-      "image": "https://www.starcity.com.tr/upload/article/175671434290409.jpg"
-    },
-    {
-      "id": "garaj-gunleri-6-14-eylul-2025",
-      "mallId": "starcity",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/garaj-gunleri-6-14-eylul-2025",
-      "description": "6-14 Eylül Tarihleri arasında tekstilden ayakkabıya, ev dekorasyonundan aksesuara kadar her şey, inanılmaz indirimlerle Starcity Outlet Garaj Günleri'nde sizi bekliyor!",
-      "startsAt": "2026-09-14",
-      "title": "Garaj Günleri 6-14 Eylül 2025",
-      "image": "https://www.starcity.com.tr/upload/article/175040243548516.jpg"
-    },
-    {
-      "id": "iyi-tatiller-sevgili-cocuklar",
-      "mallId": "starcity",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/iyi-tatiller-sevgili-cocuklar",
-      "description": "İçerik detaylı açıklaması",
-      "title": "İyi Tatiller Sevgili Çocuklar!"
-    },
-    {
-      "id": "starcity-outlette-alisverisler-yaz-hediyelerine-donusuyor",
-      "mallId": "starcity",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/starcity-outlette-alisverisler-yaz-hediyelerine-donusuyor",
-      "description": "Bu yaz Starcity Outlet’ten yapacağınız alışverişler hediyelerle buluşuyor! 1 – 31 Ağustos 2026 tarihleri arasında Starcity Outlet mağazalarından aynı gün içerisinde yapacağınız alışverişlerle harika yaz hediyeleri kazanma şansı sizi bekliyo",
-      "startsAt": "2026-08-31",
-      "title": "Starcity Outlet'te ALIŞVERIŞLER YAZ HEDİYELERİNE DÖNÜŞÜYOR",
-      "image": "https://www.starcity.com.tr/upload/article/177728484866349.jpg"
-    },
-    {
-      "id": "garaj-gunleri-4-12-mayis-2024",
-      "mallId": "starcity",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/garaj-gunleri-4-12-mayis-2024",
-      "description": "4-12 Mayıs 2024 tarihleri arasında tekstilden ayakkabıya, ev dekorasyonundan aksesuara kadar her şey inanılmaz indirimlerle Kırmızı Garaj’da sizi bekliyor. Siz de dünyaca ünlü markalara, en outlet fiyatlarla sahip olmak istiyorsanız, Starci",
-      "startsAt": "2026-05-12",
-      "title": "Garaj Günleri 4-12 Mayıs 2024",
-      "image": "https://www.starcity.com.tr/upload/article/169908203986268.jpg"
-    },
-    {
-      "id": "starcity-outlet-birbirinden-degerli-hediyeler-kazandiriyor",
-      "mallId": "starcity",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/starcity-outlet-birbirinden-degerli-hediyeler-kazandiriyor",
-      "description": "Starcity Outlet Birbirinden Değerli Hediyeler Kazandırıyor! 4 Kasım 2023 – 14 Şubat 2024 tarihleri arasında Starcity Outlet AVM içerisindeki mağazalardan aynı gün içerisinde toplamda 500 TL ve katları tutarında (her 500 TL’ye 1 çekiliş hakk",
-      "startsAt": "2026-11-04",
-      "title": "Starcity Outlet Birbirinden Değerli Hediyeler Kazandırıyor!",
-      "image": "https://www.starcity.com.tr/upload/article/166980793864128.jpg"
-    },
-    {
-      "id": "garaj-gunleri-3-11-aralik-2022",
-      "mallId": "starcity",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/garaj-gunleri-3-11-aralik-2022",
-      "description": "Starcity Outlet Garaj Günleri her yıl olduğu gibi bu yıl da giyim, oyuncak, ayakkabı ve ev tekstili markalarının inanılmaz indirimleriyle bekleyenlerin heyecanını boşa çıkarmayacak.",
-      "title": "Garaj Günleri 3-11 Aralık 2022",
-      "image": "https://www.starcity.com.tr/upload/article/157527385857026.jpg"
-    },
-    {
-      "id": "garaj-gunleri-30-kasim-15-aralik-2019",
-      "mallId": "starcity",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/garaj-gunleri-30-kasim-15-aralik-2019",
-      "description": "Starcity Outlet Garaj Günleri her yıl olduğu gibi bu yıl da giyim, oyuncak, ayakkabı ve ev tekstili markalarının %90’a varan indirimleriyle bekleyenlerin heyecanını boşa çıkarmayacak.",
-      "title": "Garaj Günleri 30 Kasım – 15 Aralık 2019",
-      "image": "https://www.starcity.com.tr/upload/article/156675310893805.png"
-    },
-    {
-      "id": "starcity-outlet-nissan-qashqai-kazandiriyor",
-      "mallId": "starcity",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/starcity-outlet-nissan-qashqai-kazandiriyor",
-      "description": "Starcity Outlet Nissan Qashqai Kazandırıyor !",
-      "title": "Starcity Outlet Nissan Qashqai Kazandırıyor !",
-      "image": "https://www.starcity.com.tr/upload/article/155531292663711.png"
-    },
-    {
-      "id": "garaj-gunleri-20-nisan-5-mayis",
-      "mallId": "starcity",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/garaj-gunleri-20-nisan-5-mayis",
-      "description": "STARCITY OUTLET GARAJ GÜNLERİ BAŞLIYOR !",
-      "title": "Garaj Günleri 20 Nisan - 5 Mayıs",
-      "image": "https://www.starcity.com.tr/upload/article/154986676172172.jpg"
-    },
-    {
-      "id": "sevgililer-gunu-sosyal-medya-yarismasi",
-      "mallId": "starcity",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/sevgililer-gunu-sosyal-medya-yarismasi",
-      "description": "Starcity Outlet’ten Sevgililer Günü’ne Özel 14 Şanslı Kişiye, 14 Jival Altın Kolye Hediye!",
-      "title": "Sevgililer Günü Sosyal Medya Yarışması"
+      "url": "https://www.capitol.com.tr/tr/etkinlikler/Galeri",
+      "title": "Galeri",
+      "image": "https://www.capitol.com.tr/media/3f2fir3b/coyote-acme-800x800.jpg"
     },
     {
       "id": "concierge-etkinlik.jpg",
