@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T09:22:07+00:00",
+  "generatedAt": "2026-09-23T09:23:00+00:00",
   "campaigns": [
     {
       "id": "dogal-uretici-pazari",
@@ -197,16 +197,6 @@
       "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
       "title": "Forest Gump",
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/7c8e63d2-2a15-4e00-8965-d07902e78eeb.jpeg?1788357392189?1788357392189"
-    },
-    {
-      "id": "bir-erkek-10-guende-nasil-kaybedilir",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/bir-erkek-10-guende-nasil-kaybedilir",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Bir Erkek 10 Günde Nasıl Kaybedilir",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/003d5cb0-be98-4ac6-8fca-e0a90caa00ef.jpeg?1788357624351?1788357624351"
     },
     {
       "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
@@ -510,13 +500,14 @@
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/a6985faa-e0a5-4664-b75d-6d61540a469f.jpeg?1787555490982?1787555490982"
     },
     {
-      "id": "pendorya-da-aninda-kazan",
+      "id": "ugur-bocegi-ile-kara-kedi",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
-      "title": "Pendorya Da Aninda Kazan",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289"
+      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi",
+      "description": "Uğur Böceği İle Kara Kedi",
+      "title": "Ugur Bocegi Ile Kara Kedi",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/HyDPNZL_N-small.jpeg?1555312906303"
     },
     {
       "id": "23-nisan-da-eglence-playland-de",
@@ -555,59 +546,13 @@
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/HkFJF6sd6-small.jpeg?1704872162340"
     },
     {
-      "id": "pjmasks-pendorya-da",
+      "id": "pendorya-da-aninda-kazan",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
-      "title": "Pjmasks Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227"
-    },
-    {
-      "id": "babalar-gunu-kutlu-olsun",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/babalar-gunu-kutlu-olsun",
-      "title": "Babalar Gunu Kutlu Olsun",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/r1P16tJJH-small.jpeg?1560509748209"
-    },
-    {
-      "id": "ugur-bocegi-ile-kara-kedi-rye5hjabq4",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi-rye5hjabq4",
-      "description": "Uğur Böceği ile Kara Kedi",
-      "title": "Ugur Bocegi Ile Kara Kedi",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/rJ9nyTW5N-small.jpeg?1555316658646"
-    },
-    {
-      "id": "yoresel-pazar",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/yoresel-pazar",
-      "title": "Yoresel Pazar",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SyfqxYPTH-small.jpeg?1575616650395"
-    },
-    {
-      "id": "pendorya-cocuk-kulubu",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pendorya-cocuk-kulubu",
-      "title": "Pendorya Cocuk Kulubu",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SJ_D7EbNL-small.jpeg?1582543712528"
-    },
-    {
-      "id": "bora-duran-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/bora-duran-pendorya-da",
-      "title": "Bora Duran Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/ByXvnyz5V-small.jpeg?1555328091617"
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
+      "title": "Pendorya Da Aninda Kazan",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289"
     },
     {
       "id": "maysa-ve-bulut-pendorya-da",
@@ -620,6 +565,55 @@
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/S1Z6h2I7B-small.jpeg?1565080762086"
     },
     {
+      "id": "babalar-gunu-kutlu-olsun",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/babalar-gunu-kutlu-olsun",
+      "title": "Babalar Gunu Kutlu Olsun",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/r1P16tJJH-small.jpeg?1560509748209"
+    },
+    {
+      "id": "pjmasks-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
+      "title": "Pjmasks Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227"
+    },
+    {
+      "id": "elif-in-dusleri-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/elif-in-dusleri-pendorya-da",
+      "description": "Elif'in Düşleri Pendorya'da",
+      "title": "Elif In Dusleri Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Hk-vBQse8-small.jpeg?1579001177807"
+    },
+    {
+      "id": "19-mayis-coskusu-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/19-mayis-coskusu-pendorya-da",
+      "description": "19 Mayıs Coşkusu Pendorya'da",
+      "startsAt": "2026-05-19",
+      "title": "19 Mayis Coskusu Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SyyVD43n4-small.jpeg?1558099752192"
+    },
+    {
+      "id": "kostebekgiller-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/kostebekgiller-pendorya-da",
+      "description": "Köstebekgiller Pendorya'da",
+      "title": "Kostebekgiller Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Bya1h23xB-small.jpeg?1562328037518"
+    },
+    {
       "id": "bebekoloji-anadolu-da",
       "mallId": "pendorya",
       "kind": "discount",
@@ -627,6 +621,16 @@
       "url": "https://www.pendorya.com/firsatlar/bebekoloji-anadolu-da",
       "title": "Bebekoloji Anadolu'da",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/Hk_1Kee3S-small.jpeg?1574074592158"
+    },
+    {
+      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "description": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
+      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753"
     },
     {
       "id": "en-uzun-gunde-size-ozel-indirimlerle-magazamizda-bulusalim",
@@ -647,16 +651,6 @@
       "description": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "title": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/HkAypIV5N-small.jpeg?1555487975038"
-    },
-    {
-      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "mallId": "pendorya",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "description": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
-      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753"
     },
     {
       "id": "melon-pearls-starbucks-refresha",
