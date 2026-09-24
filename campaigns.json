@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T09:23:00+00:00",
+  "generatedAt": "2026-09-24T09:22:30+00:00",
   "campaigns": [
     {
       "id": "dogal-uretici-pazari",
@@ -469,6 +469,16 @@
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/63999b3e-9001-4d40-8aa6-2cd17970514b.jpeg?1775026181313?1775026181313"
     },
     {
+      "id": "kadinca-fest",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.metropolistanbul.com/etkinlikler/kadinca-fest",
+      "description": "Program ve etkinlik detayları çok yakında! Takvimini şimdiden işaretle, Kadınca Fest’i kaçırma!",
+      "title": "Kadınca Fest",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/a80b8602-0246-4107-8d98-f6827f3da5b4.jpeg?1790175532357?1790175532357"
+    },
+    {
       "id": "sizi-dinleyen-metropol-unuz-var",
       "mallId": "metropol-istanbul",
       "kind": "event",
@@ -797,77 +807,6 @@
       "startsAt": "2026-08-29",
       "title": "REMOTE CONTROL CAFE” İLK KEZ İSTANBUL CEVAHİR’DE",
       "image": "https://istanbulcevahir.com/wp-content/uploads/2025/08/bts-etkinlik-kucuk.webp"
-    },
-    {
-      "id": "istanbul-cevahir-kasim-kampanyasi",
-      "mallId": "istanbul-cevahir",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://istanbulcevahir.com/kampanyalar/istanbul-cevahir-kasim-kampanyasi/",
-      "description": "Black Friday, markaların büyük indirimler ve kampanyalar sunmasını sağlarken, bu […]",
-      "title": "İstanbul Cevahir Kasım Kampanyası",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2024/11/kedinin-ugramadigi-evi-kucuk.jpg"
-    },
-    {
-      "id": "istanbul-cevahir-yilbasi-kampanyasi-ile-yeni-yilda-kazandiriyor",
-      "mallId": "istanbul-cevahir",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://istanbulcevahir.com/kampanyalar/istanbul-cevahir-yilbasi-kampanyasi-ile-yeni-yilda-kazandiriyor/",
-      "description": "İstanbul Cevahir Yılbaşı Kampanyası ile Yeni Yılda Kazandırıyor",
-      "title": "İstanbul Cevahir Yılbaşı Kampanyası ile Yeni Yılda Kazandırıyor",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya1_thumb.webp"
-    },
-    {
-      "id": "istanul-cevahirde-boylesi-daha-keyifli",
-      "mallId": "istanbul-cevahir",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://istanbulcevahir.com/kampanyalar/istanul-cevahirde-boylesi-daha-keyifli/",
-      "description": "İSTANBUL CEVAHİR’DE “BÖYLESİ DAHA KEYİFLİ”",
-      "title": "İstanbul Cevahir’de “Böylesi Daha Keyifli”",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya2_thumb.jpeg"
-    },
-    {
-      "id": "okula-donuse-ozel-hardacikca-cevir-kazan",
-      "mallId": "istanbul-cevahir",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://istanbulcevahir.com/kampanyalar/okula-donuse-ozel-hardacikca-cevir-kazan/",
-      "description": "Okula Dönüşe Özel Harcadıkça Çevir-Kazan",
-      "title": "Okula Dönüşe Özel Hardacıkça Çevir-Kazan!",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya3_thumb.jpeg"
-    },
-    {
-      "id": "15-yil-cekilisi",
-      "mallId": "istanbul-cevahir",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://istanbulcevahir.com/kampanyalar/15-yil-cekilisi/",
-      "description": "İstanbul Cevahir olarak “15 yıldır Cevahir’deyiz” sloganıyla çıkışını yaptığımız kampanyamızla 15. yılımızı kutladık. 15-31 Ekim tarihleri arasında İstanbul Cevahir içindeki mağaza ve restoranlardan 150 TL’lik alışveriş yapan ziyaretçilerim",
-      "title": "15. Yıl Çekilişi",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya4_thumb.jpeg"
-    },
-    {
-      "id": "2020ye-mutlu-son",
-      "mallId": "istanbul-cevahir",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://istanbulcevahir.com/kampanyalar/2020ye-mutlu-son/",
-      "description": "2020’ye Mutlu Son Yılbaşı Kampanyası",
-      "title": "2020’ye Mutlu Son",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya5_thumb.webp"
-    },
-    {
-      "id": "14subattaevdeyiz",
-      "mallId": "istanbul-cevahir",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://istanbulcevahir.com/kampanyalar/14subattaevdeyiz/",
-      "description": "14 Şubat’ta Evdeyiz Kampanyası",
-      "startsAt": "2026-02-14",
-      "title": "#14ŞubattaEvdeyiz",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2023/02/kampanya6_thumb.jpeg"
     },
     {
       "id": "flying-tiger-x-akbati-etkinlik",
