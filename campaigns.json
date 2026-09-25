@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T09:22:30+00:00",
+  "generatedAt": "2026-09-25T09:40:38+00:00",
   "campaigns": [
     {
       "id": "dogal-uretici-pazari",
@@ -57,6 +57,15 @@
       "isPaid": false,
       "image": "https://kozzyavm.com/storage/kozzyavm/event/August2026/whatsapp-image-2026-08-17-at-144003-1.jpeg",
       "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/sonbahar-alisveris-festivali-2026"
+    },
+    {
+      "id": "terasta-yoga-etkinligi-basliyor",
+      "mallId": "kozzy",
+      "title": "Terasta Yoga Etkinliği Başlıyor!",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://kozzyavm.com/storage/kozzyavm/event/May2026/kozzy-dijital-1280x720px.jpg",
+      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/terasta-yoga-etkinligi-basliyor"
     },
     {
       "id": "hilltown-satranc-kulubu-nde-bulusalim5",
@@ -219,6 +228,16 @@
       "image": "https://s3-eu-central-1.amazonaws.com/akis-gyo/images/event_image/ryEv5xTWY-main.jpeg?1630501468896"
     },
     {
+      "id": "paribu-acikhava-etkinlikleri-sjg-ydozczx",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/paribu-acikhava-etkinlikleri-sjg-ydozczx",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Paribu AçıkHava Etkinlikleri",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/HkZYwiM9ze-main.jpeg?1790257018102"
+    },
+    {
       "id": "vadistanbul-9-yasinda",
       "mallId": "vadistanbul",
       "kind": "event",
@@ -227,16 +246,6 @@
       "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Vadistanbul 9 Yaşında",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1WIKE-FMe-main.jpeg?1789114698189"
-    },
-    {
-      "id": "paribu-acikhava-etkinlikleri",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.vadistanbul.com/etkinlikler/paribu-acikhava-etkinlikleri",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Paribu AçıkHava Etkinlikleri",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/HyH5jo0wzg-main.jpeg?1787898766825"
     },
     {
       "id": "otoparkimizda-3-saat-uecretsiz",
