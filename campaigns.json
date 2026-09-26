@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-09-25T09:40:38+00:00",
+  "generatedAt": "2026-09-26T09:25:18+00:00",
   "campaigns": [
+    {
+      "id": "kitap-senligi",
+      "mallId": "maltepe-piazza",
+      "title": "Kitap Şenliği",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepepiazzaavm.com/storage/maltepepiazzaavm/event/September2026/kitap-senligi-maltepe-piazza-1280x720px.webp",
+      "description": "Binlerce kitap uygun fiyatlarla Maltepe Piazza'da!",
+      "url": "https://maltepepiazzaavm.com/tr/etkinlikler-kampanyalar/kitap-senligi"
+    },
     {
       "id": "dogal-uretici-pazari",
       "mallId": "maltepe-piazza",
@@ -196,16 +206,6 @@
       "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
       "title": "Ters Yüz 2",
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/cc875d03-6116-4638-84d7-00d9f14db1b7.jpeg?1788357211436?1788357211436"
-    },
-    {
-      "id": "forest-gump",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/forest-gump",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Forest Gump",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/7c8e63d2-2a15-4e00-8965-d07902e78eeb.jpeg?1788357392189?1788357392189"
     },
     {
       "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
