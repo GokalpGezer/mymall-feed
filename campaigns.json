@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T09:25:18+00:00",
+  "generatedAt": "2026-09-27T10:04:09+00:00",
   "campaigns": [
     {
       "id": "kitap-senligi",
@@ -51,15 +51,6 @@
       "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/kitap-senligi"
     },
     {
-      "id": "okula-donus-atolyeleri",
-      "mallId": "kozzy",
-      "title": "Okula Dönüş Atölyeleri",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://kozzyavm.com/storage/kozzyavm/event/September2026/whatsapp-image-2026-09-08-at-180525.jpeg",
-      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/okula-donus-atolyeleri"
-    },
-    {
       "id": "sonbahar-alisveris-festivali-2026",
       "mallId": "kozzy",
       "title": "Sonbahar Alışveriş Festivali",
@@ -76,16 +67,6 @@
       "isPaid": false,
       "image": "https://kozzyavm.com/storage/kozzyavm/event/May2026/kozzy-dijital-1280x720px.jpg",
       "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/terasta-yoga-etkinligi-basliyor"
-    },
-    {
-      "id": "hilltown-satranc-kulubu-nde-bulusalim5",
-      "mallId": "hilltown",
-      "title": "Satranç Kulübü",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://hilltownkucukyali.com/storage/hilltownkucukyali/event/September2026/960x512px.jpg",
-      "description": "Satranç Akademisi iş birliğiyle Hilltown Satranç Kulübü'nde birbirinden eğlenceli etkinlikler seni bekliyor!",
-      "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-satranc-kulubu-nde-bulusalim5"
     },
     {
       "id": "habitat-x-evgeny-grinko",
@@ -233,7 +214,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/paribu-acikhava-etkinlikleri-sjg-ydozczx",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Paribu AçıkHava Etkinlikleri",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/HkZYwiM9ze-main.jpeg?1790257018102"
     },
@@ -243,7 +224,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-9-yasinda",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Vadistanbul 9 Yaşında",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1WIKE-FMe-main.jpeg?1789114698189"
     },
@@ -253,7 +234,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/otoparkimizda-3-saat-uecretsiz",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Otoparkımızda 3 Saat Ücretsiz",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/HkQbPbRpWl-main.jpeg?1777370876186"
     },
@@ -263,7 +244,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-suerdueruelebilirlik-vizyonuyla-marcom-awards-ta-uec-kez-zirvede",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Vadistanbul Sürdürülebilirlik Vizyonuyla Marcom Awards'ta Üç Kez Zirvede",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/Sk2-idlxWl-main.jpeg?1762851589034"
     },
@@ -273,7 +254,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-da-evcil-hayvan-dostlarimizi-memnuniyetle-karsiliyoruz",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Vadistanbul’da Evcil Hayvan Dostlarımızı Memnuniyetle Karşılıyoruz",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1M8bdxcyx-main.jpeg?1785756755273"
     },
@@ -293,7 +274,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/senin-kahraman-hikayen-hangisi-bye-rikdugl",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Senin Kahraman Hikayen Hangisi?",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ByZrskPuGx-main.jpeg?1788439353353"
     },
@@ -303,7 +284,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/30-agustos-zafer-bayrami-kutlu-olsun-r1cmtytwme",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "30 Ağustos Zafer Bayramı Kutlu Olsun!",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/BJ67YtpwMg-main.jpeg?1787824422255"
     },
@@ -313,7 +294,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/summer-bazaar",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Summer Bazaar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SykCvhVBGe-main.jpeg?1785149383296"
     },
@@ -323,7 +304,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-summer-bazaar",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Vadistanbul Summer Bazaar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJdhFUWQMe-main.jpeg?1782831537097"
     },
@@ -333,7 +314,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/kurban-bayraminiz-kutlu-olsun-h1eelyobxfg",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Kurban Bayramınız Kutlu Olsun",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ryel1O-gzg-main.jpeg?1779691241027"
     },
@@ -343,7 +324,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/kurban-bayrami-calisma-saatlerimiz-bjepr1o-xzg",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Kurban Bayramı Çalışma Saatlerimiz",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1D0JubgGg-main.jpeg?1779691471248"
     },
@@ -353,8 +334,8 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/alisveris-firsatlari/hareket-icin-tasarlandi",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Fırsatlar",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "title": "Find out more",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/promotion_image/Sy7r-cUtMe-small.jpeg?1789464892227"
     },
     {
@@ -1037,114 +1018,6 @@
       "url": "https://www.capitol.com.tr/tr/etkinlikler/Galeri",
       "title": "Galeri",
       "image": "https://www.capitol.com.tr/media/3f2fir3b/coyote-acme-800x800.jpg"
-    },
-    {
-      "id": "concierge-etkinlik.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/concierge-etkinlik.jpg",
-      "title": "Concierge Hizmeti Buyaka&#39;da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/concierge-etkinlik.jpg"
-    },
-    {
-      "id": "ram-bayramkampanya2026.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/ram-bayramkampanya2026.jpg",
-      "title": "Bayram Hediyeleri Buyaka&#39;da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/ram-bayramkampanya2026.jpg"
-    },
-    {
-      "id": "icedream2026-etk-kam.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/icedream2026-etk-kam.jpg",
-      "title": "Yarıyıl Eğlencesi Ice Dream ile Buyaka&#39;da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/icedream2026-etk-kam.jpg"
-    },
-    {
-      "id": "bts-kampanya-2025.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/bts-kampanya-2025.jpg",
-      "title": "Okuldan Önce Hediyeler Buyaka&#39;da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/bts-kampanya-2025.jpg"
-    },
-    {
-      "id": "icedream2025.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/icedream2025.jpg",
-      "title": "Ice Dream Eğlencesi Buyaka&#39;da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/icedream2025.jpg"
-    },
-    {
-      "id": "yeniyilkampanya-2025.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/yeniyilkampanya-2025.jpg",
-      "title": "Yeni Yıl Hediyeleri Buyaka&#39;da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/yeniyilkampanya-2025.jpg"
-    },
-    {
-      "id": "backtoschool2024-kampanya.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/backtoschool2024-kampanya.jpg",
-      "title": "Okuldan önce hediyeler Buyaka’da!",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/backtoschool2024-kampanya.jpg"
-    },
-    {
-      "id": "23nisan24-bando.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/23nisan24-bando.jpg",
-      "title": "23 Nisan Bandosu Buyaka&#39;da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/23nisan24-bando.jpg"
-    },
-    {
-      "id": "kampanya-araba-2026.jpg",
-      "mallId": "buyaka",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/kampanya-araba-2026.jpg",
-      "title": "Alışverişini Yap, Şansı Yakala!",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/kampanya-araba-2026.jpg"
-    },
-    {
-      "id": "ramazanbayramkampanya2025.jpg",
-      "mallId": "buyaka",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/ramazanbayramkampanya2025.jpg",
-      "title": "Bayram Hediyeleri Buyaka&#39;dan",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/ramazanbayramkampanya2025.jpg"
-    },
-    {
-      "id": "kampanya2024-bayram.jpg",
-      "mallId": "buyaka",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/kampanya2024-bayram.jpg",
-      "title": "Bayram Alışverişinizde Sürpriz Hediyeler Buyaka",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/kampanya2024-bayram.jpg"
-    },
-    {
-      "id": "ogretmenlergunukamp-2023.jpg",
-      "mallId": "buyaka",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/ogretmenlergunukamp-2023.jpg",
-      "title": "Öğretmenler Günü Kahvaltısı Buyaka&#39;da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/ogretmenlergunukamp-2023.jpg"
     },
     {
       "id": "rapunzel-cocuk-tiyatrosu",
