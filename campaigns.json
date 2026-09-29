@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T10:59:54+00:00",
+  "generatedAt": "2026-09-29T10:46:00+00:00",
   "campaigns": [
     {
       "id": "kitap-senligi",
@@ -99,13 +99,13 @@
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne"
     },
     {
-      "id": "blue-ve-heritage",
+      "id": "zsa-zsa-zsu",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
       "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/blue-ve-heritage",
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/zsa-zsa-zsu",
       "description": "Her 2.500 TL Alışverişe 500 TL İndirim",
-      "title": "Blue & Heritage",
+      "title": "Zsa Zsa Zsu",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/a2f2df8a-5f41-4158-8229-3c04ce41ee09.jpeg?1790579537050?1790579537050"
     },
     {
@@ -530,14 +530,13 @@
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/a6985faa-e0a5-4664-b75d-6d61540a469f.jpeg?1787555490982?1787555490982"
     },
     {
-      "id": "ugur-bocegi-ile-kara-kedi",
+      "id": "pendorya-da-aninda-kazan",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi",
-      "description": "Uğur Böceği İle Kara Kedi",
-      "title": "Ugur Bocegi Ile Kara Kedi",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/HyDPNZL_N-small.jpeg?1555312906303"
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
+      "title": "Pendorya Da Aninda Kazan",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289"
     },
     {
       "id": "23-nisan-da-eglence-playland-de",
@@ -576,13 +575,59 @@
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/HkFJF6sd6-small.jpeg?1704872162340"
     },
     {
-      "id": "pendorya-da-aninda-kazan",
+      "id": "pjmasks-pendorya-da",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
-      "title": "Pendorya Da Aninda Kazan",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289"
+      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
+      "title": "Pjmasks Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227"
+    },
+    {
+      "id": "babalar-gunu-kutlu-olsun",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/babalar-gunu-kutlu-olsun",
+      "title": "Babalar Gunu Kutlu Olsun",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/r1P16tJJH-small.jpeg?1560509748209"
+    },
+    {
+      "id": "ugur-bocegi-ile-kara-kedi-rye5hjabq4",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi-rye5hjabq4",
+      "description": "Uğur Böceği ile Kara Kedi",
+      "title": "Ugur Bocegi Ile Kara Kedi",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/rJ9nyTW5N-small.jpeg?1555316658646"
+    },
+    {
+      "id": "yoresel-pazar",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/yoresel-pazar",
+      "title": "Yoresel Pazar",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SyfqxYPTH-small.jpeg?1575616650395"
+    },
+    {
+      "id": "pendorya-cocuk-kulubu",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-cocuk-kulubu",
+      "title": "Pendorya Cocuk Kulubu",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SJ_D7EbNL-small.jpeg?1582543712528"
+    },
+    {
+      "id": "bora-duran-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/bora-duran-pendorya-da",
+      "title": "Bora Duran Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/ByXvnyz5V-small.jpeg?1555328091617"
     },
     {
       "id": "maysa-ve-bulut-pendorya-da",
@@ -595,55 +640,6 @@
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/S1Z6h2I7B-small.jpeg?1565080762086"
     },
     {
-      "id": "babalar-gunu-kutlu-olsun",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/babalar-gunu-kutlu-olsun",
-      "title": "Babalar Gunu Kutlu Olsun",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/r1P16tJJH-small.jpeg?1560509748209"
-    },
-    {
-      "id": "pjmasks-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
-      "title": "Pjmasks Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227"
-    },
-    {
-      "id": "elif-in-dusleri-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/elif-in-dusleri-pendorya-da",
-      "description": "Elif'in Düşleri Pendorya'da",
-      "title": "Elif In Dusleri Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Hk-vBQse8-small.jpeg?1579001177807"
-    },
-    {
-      "id": "19-mayis-coskusu-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/19-mayis-coskusu-pendorya-da",
-      "description": "19 Mayıs Coşkusu Pendorya'da",
-      "startsAt": "2026-05-19",
-      "title": "19 Mayis Coskusu Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SyyVD43n4-small.jpeg?1558099752192"
-    },
-    {
-      "id": "kostebekgiller-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/kostebekgiller-pendorya-da",
-      "description": "Köstebekgiller Pendorya'da",
-      "title": "Kostebekgiller Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Bya1h23xB-small.jpeg?1562328037518"
-    },
-    {
       "id": "bebekoloji-anadolu-da",
       "mallId": "pendorya",
       "kind": "discount",
@@ -651,16 +647,6 @@
       "url": "https://www.pendorya.com/firsatlar/bebekoloji-anadolu-da",
       "title": "Bebekoloji Anadolu'da",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/Hk_1Kee3S-small.jpeg?1574074592158"
-    },
-    {
-      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "mallId": "pendorya",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "description": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
-      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753"
     },
     {
       "id": "en-uzun-gunde-size-ozel-indirimlerle-magazamizda-bulusalim",
@@ -681,6 +667,16 @@
       "description": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "title": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/HkAypIV5N-small.jpeg?1555487975038"
+    },
+    {
+      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "description": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
+      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753"
     },
     {
       "id": "melon-pearls-starbucks-refresha",
@@ -1055,7 +1051,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/concierge-etkinlik.jpg",
-      "title": "Concierge Hizmeti Buyaka&#39;da",
+      "title": "Concierge Hizmeti Buyaka'da",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/concierge-etkinlik.jpg"
     },
     {
@@ -1064,7 +1060,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/ram-bayramkampanya2026.jpg",
-      "title": "Bayram Hediyeleri Buyaka&#39;da",
+      "title": "Bayram Hediyeleri Buyaka'da",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/ram-bayramkampanya2026.jpg"
     },
     {
@@ -1073,7 +1069,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/icedream2026-etk-kam.jpg",
-      "title": "Yarıyıl Eğlencesi Ice Dream ile Buyaka&#39;da",
+      "title": "Yarıyıl Eğlencesi Ice Dream ile Buyaka'da",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/icedream2026-etk-kam.jpg"
     },
     {
@@ -1082,7 +1078,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/bts-kampanya-2025.jpg",
-      "title": "Okuldan Önce Hediyeler Buyaka&#39;da",
+      "title": "Okuldan Önce Hediyeler Buyaka'da",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/bts-kampanya-2025.jpg"
     },
     {
@@ -1091,7 +1087,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/icedream2025.jpg",
-      "title": "Ice Dream Eğlencesi Buyaka&#39;da",
+      "title": "Ice Dream Eğlencesi Buyaka'da",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/icedream2025.jpg"
     },
     {
@@ -1100,17 +1096,8 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/yeniyilkampanya-2025.jpg",
-      "title": "Yeni Yıl Hediyeleri Buyaka&#39;da",
+      "title": "Yeni Yıl Hediyeleri Buyaka'da",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/yeniyilkampanya-2025.jpg"
-    },
-    {
-      "id": "backtoschool2024-kampanya.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/backtoschool2024-kampanya.jpg",
-      "title": "Okuldan önce hediyeler Buyaka’da!",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/backtoschool2024-kampanya.jpg"
     },
     {
       "id": "23nisan24-bando.jpg",
@@ -1118,7 +1105,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/23nisan24-bando.jpg",
-      "title": "23 Nisan Bandosu Buyaka&#39;da",
+      "title": "23 Nisan Bandosu Buyaka'da",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/23nisan24-bando.jpg"
     },
     {
@@ -1136,7 +1123,7 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/ramazanbayramkampanya2025.jpg",
-      "title": "Bayram Hediyeleri Buyaka&#39;dan",
+      "title": "Bayram Hediyeleri Buyaka'dan",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/ramazanbayramkampanya2025.jpg"
     },
     {
@@ -1154,7 +1141,7 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/ogretmenlergunukamp-2023.jpg",
-      "title": "Öğretmenler Günü Kahvaltısı Buyaka&#39;da",
+      "title": "Öğretmenler Günü Kahvaltısı Buyaka'da",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/ogretmenlergunukamp-2023.jpg"
     },
     {
