@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:33:31+00:00",
+  "generatedAt": "2026-10-01T11:01:25+00:00",
   "campaigns": [
     {
       "id": "kitap-senligi",
@@ -99,16 +99,6 @@
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne"
     },
     {
-      "id": "zsa-zsa-zsu",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/zsa-zsa-zsu",
-      "description": "Her 2.500 TL Alışverişe 500 TL İndirim",
-      "title": "Zsa Zsa Zsu",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/a2f2df8a-5f41-4158-8229-3c04ce41ee09.jpeg?1790579537050?1790579537050"
-    },
-    {
       "id": "yargici-uldyhyysnr5",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
@@ -119,72 +109,12 @@
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/4bef35b0-8e44-4dcb-a102-c4fc95a738c8.jpeg?1790575824343?1790575824343"
     },
     {
-      "id": "bella-maison-x7xmw8pgnt",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/bella-maison-x7xmw8pgnt",
-      "description": "Her 2.500 TL Alışverişe 500 TL İndirim",
-      "title": "Bella Maison",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/edc396cf-3c27-4a3d-b1f3-9e03a6f04e17.jpeg?1789629954249?1789629954249"
-    },
-    {
-      "id": "nautica--tuzbzq8vi",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/nautica--tuzbzq8vi",
-      "description": "Her 2.500 TL Alışverişe 500 TL İndirim",
-      "title": "NAUTICA",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/d2e6046c-bbbd-4d81-a9e5-8b7d456277e6.jpeg?1789040395315?1789040395315"
-    },
-    {
-      "id": "magnolia-shop",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/magnolia-shop",
-      "description": "Her 2.500 TL Alışverişe 500 TL İndirim",
-      "title": "Magnolia Shop",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/56ff05c6-dfca-4f21-b82c-0635ffd263ee.jpeg?1788954545967?1788954545967"
-    },
-    {
-      "id": "tum-urunlerde-40-indirim-myddqkqgyv",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/tum-urunlerde-40-indirim-myddqkqgyv",
-      "description": "Her 2.500 TL Alışverişe 500 TL İndirim",
-      "title": "Tüm Ürünlerde %40 İndirim",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/abd7482a-4e6c-4e84-91e2-2cd73afc5ad5.jpeg?1788875376143?1788875376143"
-    },
-    {
-      "id": "xenon-smart-93zx2n5u-fq",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/xenon-smart-93zx2n5u-fq",
-      "description": "Her 2.500 TL Alışverişe 500 TL İndirim",
-      "title": "Xenon Smart",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/fc9e8104-f02c-4aab-8384-53ba56b87946.jpeg?1788444326857?1788444326857"
-    },
-    {
-      "id": "neslihan-canpolat",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/neslihan-canpolat",
-      "description": "Moi App Kullanıcılarına Yeni Sezona Özel \"Sezon10\" Koduyla %10 İndirim Fırsatı",
-      "title": "Neslihan Canpolat",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/042ff719-aca7-4198-b0e3-17ab4131be75.jpeg?1788341372447?1788341372447"
-    },
-    {
       "id": "afyon-lokum-atolyesi-dmy54bbld0",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/afyon-lokum-atolyesi-dmy54bbld0",
-      "description": "Her 2.500 TL Alışverişe 500 TL İndirim",
+      "description": "100 dakikaya ne kadar eğlence sığar? MOİPark’ta cevabı bolca kahkaha, heyecan ve macera! Favori ünitelerinizi seçin, eğlencenin tadını doyasıya çıkarı...",
       "title": "Afyon Lokum Atölyesi",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ffefece8-47e2-4886-abf1-fbc4f4ea77ac.jpeg?1787062587810?1787062587810"
     },
@@ -194,19 +124,9 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/faik-sonmez-fgrscyxkp9",
-      "description": "Her 2.500 TL Alışverişe 500 TL İndirim",
+      "description": "100 dakikaya ne kadar eğlence sığar? MOİPark’ta cevabı bolca kahkaha, heyecan ve macera! Favori ünitelerinizi seçin, eğlencenin tadını doyasıya çıkarı...",
       "title": "Faik Sönmez",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ad66a571-22fa-4032-bee6-8414d2f2c504.jpeg?1787064507215?1787064507215"
-    },
-    {
-      "id": "ters-yuez-2",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/ters-yuez-2",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Ters Yüz 2",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/cc875d03-6116-4638-84d7-00d9f14db1b7.jpeg?1788357211436?1788357211436"
     },
     {
       "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
@@ -237,16 +157,6 @@
       "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Paribu AçıkHava Etkinlikleri",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/HkZYwiM9ze-main.jpeg?1790257018102"
-    },
-    {
-      "id": "vadistanbul-9-yasinda",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-9-yasinda",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Vadistanbul 9 Yaşında",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1WIKE-FMe-main.jpeg?1789114698189"
     },
     {
       "id": "otoparkimizda-3-saat-uecretsiz",
@@ -287,6 +197,16 @@
       "description": "Ayırdığımız Her Atıkla Gelecek Nesillere Güzel Yarınlar Bırakıyoruz!",
       "title": "Ayırdığımız Her Atıkla Gelecek Nesillere Güzel Yarınlar Bırakıyoruz!",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/rkJzytubU-main.jpeg?1739803602777"
+    },
+    {
+      "id": "vadistanbul-9-yasinda",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-9-yasinda",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Vadistanbul 9 Yaşında",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1WIKE-FMe-main.jpeg?1789114698189"
     },
     {
       "id": "senin-kahraman-hikayen-hangisi-bye-rikdugl",
@@ -710,6 +630,16 @@
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/S1GDglaaZg-small.jpeg?1777299546559"
     },
     {
+      "id": "ekimde-her-yaprak-bir-hikaye",
+      "mallId": "istanbul-cevahir",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://istanbulcevahir.com/etkinlikler/ekimde-her-yaprak-bir-hikaye/",
+      "description": "Hafta içi ve Hafta sonu 14:30/15:30/16:30/17:30 saatlerinde ‘’Yaratıcı Atölyeler’’",
+      "title": "Ekimde Her Yaprak Bir Hikaye",
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/10/ekim-programi-tr-kucuk-1.webp"
+    },
+    {
       "id": "sonbaharin-renkleriyle-ogrenmeye-merhaba",
       "mallId": "istanbul-cevahir",
       "kind": "event",
@@ -816,17 +746,6 @@
       "startsAt": "2026-11-16",
       "title": "İSTANBUL CEVAHİR 20 YAŞINDA!",
       "image": "https://istanbulcevahir.com/wp-content/uploads/2025/11/20-yil-konser-kucuk.webp"
-    },
-    {
-      "id": "remote-control-cafe-ilk-kez-istanbul-cevahirde",
-      "mallId": "istanbul-cevahir",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://istanbulcevahir.com/etkinlikler/remote-control-cafe-ilk-kez-istanbul-cevahirde/",
-      "description": "İstanbul Cevahir olarak, çocuklara ve genç ruhlara unutulmaz bir deneyim sunmaya hazırlanıyoruz. Dünya çapında büyük ilgi gören “Remote Contol Cafe” etkinliği İstanbul Cevahir’de 29 Ağustos- 7 Eylül tarihleri arasında ziyaretçilerle buluşac",
-      "startsAt": "2026-08-29",
-      "title": "REMOTE CONTROL CAFE” İLK KEZ İSTANBUL CEVAHİR’DE",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2025/08/bts-etkinlik-kucuk.webp"
     },
     {
       "id": "flying-tiger-x-akbati-etkinlik",
