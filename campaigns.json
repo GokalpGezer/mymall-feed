@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T11:01:25+00:00",
+  "generatedAt": "2026-10-02T10:34:57+00:00",
   "campaigns": [
     {
       "id": "kitap-senligi",
@@ -58,15 +58,6 @@
       "isPaid": false,
       "image": "https://kozzyavm.com/storage/kozzyavm/event/August2026/whatsapp-image-2026-08-17-at-144003-1.jpeg",
       "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/sonbahar-alisveris-festivali-2026"
-    },
-    {
-      "id": "terasta-yoga-etkinligi-basliyor",
-      "mallId": "kozzy",
-      "title": "Terasta Yoga Etkinliği Başlıyor!",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://kozzyavm.com/storage/kozzyavm/event/May2026/kozzy-dijital-1280x720px.jpg",
-      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/terasta-yoga-etkinligi-basliyor"
     },
     {
       "id": "habitat-x-evgeny-grinko",
@@ -147,6 +138,46 @@
       "description": "Keyifli deneyimin adresi ve kentin en gözde buluşma noktası Akmerkez; doğayla kurulan bağın en yalın hali İpek Hanım Çiftliği’ni ziyaretçileri ile buluşturuyor. Çiftlikte yetiştirilen ve mevsiminde hasat edilen sebze- meyvelerle, el emeği i",
       "title": "İpek Hanım Çiftliği Akmerkez’de",
       "image": "https://s3-eu-central-1.amazonaws.com/akis-gyo/images/event_image/ryEv5xTWY-main.jpeg?1630501468896"
+    },
+    {
+      "id": "akmerkez-app-ile-beymen-club-da-20-indirim",
+      "mallId": "akmerkez",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/firsatlar/akmerkez-app-ile-beymen-club-da-20-indirim",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "title": "Akmerkez App İle Beymen Club'da %20 İndirim",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/68fa2498-9d57-47b1-b243-a89f79e4ac1e.jpeg?1790921198463?1790921198463"
+    },
+    {
+      "id": "akmerkez-app-ile-divarese-de-2-ve-uezeri-ueruene-30-indirim",
+      "mallId": "akmerkez",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/firsatlar/akmerkez-app-ile-divarese-de-2-ve-uezeri-ueruene-30-indirim",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "title": "Akmerkez App İle Divarese'de 2 Ve Üzeri Ürüne %30 İndirim",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/60e7a0b3-1327-444f-ba29-a9cffd5163d1.jpeg?1790921258619?1790921258619"
+    },
+    {
+      "id": "akmerkez-app-ile-network-de-2-ve-uezeri-ueruene-25-indirim",
+      "mallId": "akmerkez",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/firsatlar/akmerkez-app-ile-network-de-2-ve-uezeri-ueruene-25-indirim",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "title": "Akmerkez App İle Network'de 2 Ve Üzeri Ürüne %25 İndirim",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/369f6cb8-daea-405d-917d-9754854794b1.jpeg?1790921315287?1790921315287"
+    },
+    {
+      "id": "pop-up-market-hkgxpyroqml",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/pop-up-market-hkgxpyroqml",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Pop Up Market",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ByXw10i5Gx-main.jpeg?1790857051372"
     },
     {
       "id": "paribu-acikhava-etkinlikleri-sjg-ydozczx",
@@ -257,16 +288,6 @@
       "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Kurban Bayramınız Kutlu Olsun",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ryel1O-gzg-main.jpeg?1779691241027"
-    },
-    {
-      "id": "kurban-bayrami-calisma-saatlerimiz-bjepr1o-xzg",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.vadistanbul.com/etkinlikler/kurban-bayrami-calisma-saatlerimiz-bjepr1o-xzg",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Kurban Bayramı Çalışma Saatlerimiz",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1D0JubgGg-main.jpeg?1779691471248"
     },
     {
       "id": "hareket-icin-tasarlandi",
@@ -958,6 +979,26 @@
       "url": "https://akbati.com/kampanyalar/akbati-mobil-uygulamasinda-size-ozel-bosch-indirimi/",
       "description": "Akbatı Bosch mağazasına ankastre ürünlerde ve küçük ev aletlerinde %5 indirim • Kampanya tarihleri: 5 Eylül – 5 Ekim 2023 • Kampanyadan yararlanmak için Akbatı Mobil Uygulaması’nı telefonunuza indirmeniz ve geçerli indirim kodunu almanız ge",
       "title": "Akbatı Mobil Uygulaması’nda Size Özel Bosch İndirimi"
+    },
+    {
+      "id": "forum-istanbul-a-ozel-kampanya",
+      "mallId": "forum-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://forumistanbul.com.tr/firsat/forum-istanbul-a-ozel-kampanya",
+      "description": "Forum İstanbul'da anlar, etkinlikler ve mekanın enerjisinden kareler.",
+      "title": "Forum İstanbul'a Özel Kampanya",
+      "image": "https://forum-one.knscdn.com/images/promotion/promotion_image_tr/main/0b8b39a3-2710-46db-95c4-7f2c72235daa.jpeg?1790852548730?1790852548730"
+    },
+    {
+      "id": "love-my-body",
+      "mallId": "forum-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://forumistanbul.com.tr/firsat/love-my-body",
+      "description": "Forum İstanbul'da anlar, etkinlikler ve mekanın enerjisinden kareler.",
+      "title": "Love My Body",
+      "image": "https://forum-one.knscdn.com/images/promotion/promotion_image_tr/main/23499b0d-b924-4323-9d93-11ee401661e4.jpeg?1790932324396?1790932324396"
     },
     {
       "id": "Galeri",
