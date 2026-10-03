@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:34:57+00:00",
+  "generatedAt": "2026-10-03T09:56:32+00:00",
   "campaigns": [
     {
       "id": "kitap-senligi",
@@ -90,6 +90,37 @@
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne"
     },
     {
+      "id": "loris-parfum",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/loris-parfum",
+      "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
+      "title": "Loris Parfüm",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ec044f62-1e24-44d6-9b1e-30f1c6dff638.jpeg?1790949729997?1790949729997"
+    },
+    {
+      "id": "marks-ve-spencer-tseut0y8xm",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/marks-ve-spencer-tseut0y8xm",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "title": "Marks & Spencer",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/0da23481-7e69-4f8e-a9f1-2c5e47eade0c.jpeg?1790945859007?1790945859007"
+    },
+    {
+      "id": "xenon-smart-tdcaeodbba",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/xenon-smart-tdcaeodbba",
+      "description": "4 Ekim Dünya Hayvanları Koruma Günü'ne Özel Pet Ürünlerinde %10 İndirim",
+      "startsAt": "2026-10-04",
+      "title": "Xenon Smart",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/2aa421be-024c-498b-a9dc-10a1851597e5.jpeg?1790940499981?1790940499981"
+    },
+    {
       "id": "yargici-uldyhyysnr5",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
@@ -105,7 +136,7 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/afyon-lokum-atolyesi-dmy54bbld0",
-      "description": "100 dakikaya ne kadar eğlence sığar? MOİPark’ta cevabı bolca kahkaha, heyecan ve macera! Favori ünitelerinizi seçin, eğlencenin tadını doyasıya çıkarı...",
+      "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
       "title": "Afyon Lokum Atölyesi",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ffefece8-47e2-4886-abf1-fbc4f4ea77ac.jpeg?1787062587810?1787062587810"
     },
@@ -115,7 +146,7 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/faik-sonmez-fgrscyxkp9",
-      "description": "100 dakikaya ne kadar eğlence sığar? MOİPark’ta cevabı bolca kahkaha, heyecan ve macera! Favori ünitelerinizi seçin, eğlencenin tadını doyasıya çıkarı...",
+      "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
       "title": "Faik Sönmez",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ad66a571-22fa-4032-bee6-8414d2f2c504.jpeg?1787064507215?1787064507215"
     },
