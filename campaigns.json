@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T09:56:32+00:00",
+  "generatedAt": "2026-10-04T10:39:16+00:00",
   "campaigns": [
     {
       "id": "kitap-senligi",
@@ -58,16 +58,6 @@
       "isPaid": false,
       "image": "https://kozzyavm.com/storage/kozzyavm/event/August2026/whatsapp-image-2026-08-17-at-144003-1.jpeg",
       "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/sonbahar-alisveris-festivali-2026"
-    },
-    {
-      "id": "habitat-x-evgeny-grinko",
-      "mallId": "hilltown",
-      "title": "Habitat x Evgeny Grinko",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://hilltownkucukyali.com/storage/hilltownkucukyali/event/September2026/1280-720px.jpg",
-      "description": "Evgeny Grinko, hafızamızda bir yerlere çoktan yerleşmiş melodileriyle Habitat'ta. Biletler Biletinial, Bubilet, Biletix ve Passo'da.",
-      "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/habitat-x-evgeny-grinko"
     },
     {
       "id": "hilltown-seyirlik-sahne-1",
