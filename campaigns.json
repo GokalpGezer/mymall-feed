@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T11:20:27+00:00",
+  "generatedAt": "2026-10-06T18:13:06+00:00",
   "campaigns": [
     {
       "id": "kitap-senligi",
@@ -163,6 +163,36 @@
       "startsAt": "2026-10-13",
       "title": "Ecz. Adile Özdağ ile Sağlıklı Yaşamın Kodları",
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/ef1f3774-8892-4b6b-bcc4-23e331fff890.jpeg?1791285074932?1791285074932"
+    },
+    {
+      "id": "live-well",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/live-well",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "title": "Live Well",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/3ea7d366-09eb-472f-aca0-8b35c0c75ec4.jpeg?1791285677189?1791285677189"
+    },
+    {
+      "id": "move-well",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/move-well",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "title": "Move Well",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/3b1c96e8-d8d8-4305-ba01-31d0813815d5.jpeg?1791285713386?1791285713386"
+    },
+    {
+      "id": "think-well",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/think-well",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "title": "Think Well",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/3e674b1b-1f76-4f06-b1c6-a94fd0aa17d6.jpeg?1791285741101?1791285741101"
     },
     {
       "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
@@ -480,7 +510,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.metropolistanbul.com/etkinlikler/kadinca-fest",
-      "description": "Program ve etkinlik detayları çok yakında! Takvimini şimdiden işaretle, Kadınca Fest’i kaçırma!",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
       "title": "Kadınca Fest",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/a80b8602-0246-4107-8d98-f6827f3da5b4.jpeg?1790175532357?1790175532357"
     },

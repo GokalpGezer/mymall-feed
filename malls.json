@@ -229,7 +229,7 @@
       "id": "biz-cevahir-halic",
       "name": "Biz Cevahir Haliç",
       "city": "Eyüpsultan",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 41.07577,
         "lng": 28.94523
@@ -240,7 +240,7 @@
       "id": "isfanbul",
       "name": "İsfanbul (Vialand)",
       "city": "Eyüpsultan",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 41.07411,
         "lng": 28.92317
@@ -306,7 +306,7 @@
       "id": "kale-outlet",
       "name": "Kale Outlet Center",
       "city": "Güngören",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 41.01564,
         "lng": 28.87813
@@ -317,7 +317,7 @@
       "id": "metroport",
       "name": "Metroport",
       "city": "Bahçelievler",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 40.99555,
         "lng": 28.86261
@@ -630,7 +630,7 @@
       "id": "maxi-avm",
       "name": "Maxi AVM",
       "city": "Silivri",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 41.08232,
         "lng": 28.20389
@@ -772,7 +772,7 @@
       "id": "meydan-istanbul",
       "name": "Meydan İstanbul",
       "city": "Ümraniye",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 41.02367,
         "lng": 29.12599
@@ -888,6 +888,17 @@
         "lng": 28.7862
       },
       "logo": "assets/mall_logos/koru-florya.png"
+    },
+    {
+      "id": "vega-istanbul",
+      "name": "Vega İstanbul",
+      "city": "Eyüpsultan",
+      "location": {
+        "lat": 41.09235,
+        "lng": 28.90383
+      },
+      "active": true,
+      "logo": "assets/mall_logos/vega-istanbul.png"
     }
   ]
 }
