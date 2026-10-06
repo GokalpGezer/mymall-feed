@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T10:39:16+00:00",
+  "generatedAt": "2026-10-06T11:20:27+00:00",
   "campaigns": [
     {
       "id": "kitap-senligi",
@@ -12,16 +12,6 @@
       "url": "https://maltepepiazzaavm.com/tr/etkinlikler-kampanyalar/kitap-senligi"
     },
     {
-      "id": "dogal-uretici-pazari",
-      "mallId": "maltepe-piazza",
-      "title": "Alışveriş Festivali",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://maltepepiazzaavm.com/storage/maltepepiazzaavm/event/September2026/dogal-uretici-pazari-maltepe-piazza-1280x720px.webp",
-      "description": "Taptaze, katkısız ve yerel lezzetler Maltepe Piazza'da!",
-      "url": "https://maltepepiazzaavm.com/tr/etkinlikler-kampanyalar/dogal-uretici-pazari"
-    },
-    {
       "id": "maltepe-park-ta-gun-erken-doguyor",
       "mallId": "maltepe-park",
       "title": "Maltepe Park'ta Gün Erken Doğuyor",
@@ -29,6 +19,16 @@
       "isPaid": false,
       "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/May2026/gun-erken-doguyor-1280x720px.jpg",
       "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/maltepe-park-ta-gun-erken-doguyor"
+    },
+    {
+      "id": "4x4-off-road-festivali",
+      "mallId": "maltepe-park",
+      "title": "4x4 Off-Road Festivali",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/October2026/off-road-patlangacsiz-1280x720px.webp",
+      "description": "4x4 Off-Road Festivali Maltepe Park'ta!",
+      "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/4x4-off-road-festivali"
     },
     {
       "id": "hali-dunyasi-pop-up-gunleri",
@@ -39,25 +39,6 @@
       "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/September2026/hali-deposu-maltepe-parkta-1280x720px.webp",
       "description": "Halı Dünyası Pop Up Günleri 11 Eylül - 11 Ekim tarihleri arasında Maltepe Park'ta!",
       "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/hali-dunyasi-pop-up-gunleri"
-    },
-    {
-      "id": "kitap-senligi",
-      "mallId": "maltepe-park",
-      "title": "Kitap Şenliği",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/September2026/kitap-senligi-1280x720px.webp",
-      "description": "Kitap Şenliği Maltepe Park'ta! Binlerce kitap, uygun fiyatlarla Maltepe Park'ta sizleri bekliyor.",
-      "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/kitap-senligi"
-    },
-    {
-      "id": "sonbahar-alisveris-festivali-2026",
-      "mallId": "kozzy",
-      "title": "Sonbahar Alışveriş Festivali",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://kozzyavm.com/storage/kozzyavm/event/August2026/whatsapp-image-2026-08-17-at-144003-1.jpeg",
-      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/sonbahar-alisveris-festivali-2026"
     },
     {
       "id": "hilltown-seyirlik-sahne-1",
@@ -80,6 +61,16 @@
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne"
     },
     {
+      "id": "supplementler-com",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/supplementler-com",
+      "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
+      "title": "Supplementler.com",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/507b5c58-b628-4f2c-af01-621e72281ce2.jpeg?1791186140688?1791186140688"
+    },
+    {
       "id": "loris-parfum",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
@@ -95,20 +86,9 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/marks-ve-spencer-tseut0y8xm",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
       "title": "Marks & Spencer",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/0da23481-7e69-4f8e-a9f1-2c5e47eade0c.jpeg?1790945859007?1790945859007"
-    },
-    {
-      "id": "xenon-smart-tdcaeodbba",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/xenon-smart-tdcaeodbba",
-      "description": "4 Ekim Dünya Hayvanları Koruma Günü'ne Özel Pet Ürünlerinde %10 İndirim",
-      "startsAt": "2026-10-04",
-      "title": "Xenon Smart",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/2aa421be-024c-498b-a9dc-10a1851597e5.jpeg?1790940499981?1790940499981"
     },
     {
       "id": "yargici-uldyhyysnr5",
@@ -139,6 +119,50 @@
       "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
       "title": "Faik Sönmez",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ad66a571-22fa-4032-bee6-8414d2f2c504.jpeg?1787064507215?1787064507215"
+    },
+    {
+      "id": "dr-ayseguel-coruhlu-ile-longevity-sohbetleri",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/dr-ayseguel-coruhlu-ile-longevity-sohbetleri",
+      "description": "Dr. Ayşegül Çoruhlu ile Longevity Sohbetleri’nde iyi yaşamın değişen anlamını keşfedin. Sağlıklı beslenme, yaşam kalitesi ve uzun ömür üzerine değerli paylaşımların yer alacağı bu özel söyleşiye katılın. 10 Ekim 2026 14.00 - 14.45 Akmerkez ",
+      "startsAt": "2026-10-10",
+      "title": "Dr. Ayşegül Çoruhlu ile Longevity Sohbetleri",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/567166cd-103b-41c4-a64f-65be1eed183b.jpeg?1791284535154?1791284535154"
+    },
+    {
+      "id": "dr-esra-cavusoglu-ile-kadin-sagligi-ve-biohacking",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/dr-esra-cavusoglu-ile-kadin-sagligi-ve-biohacking",
+      "description": "Kadın sağlığına dair güncel bakış açılarını ve biohacking dünyasının öne çıkan yaklaşımlarını keşfetmek için Dr. Esra Çavuşoğlu ile bir araya gelin. İyi yaşamı destekleyen stratejiler, bilinçli alışkanlıklar ve yaşam kalitesini artırmaya yö",
+      "startsAt": "2026-10-10",
+      "title": "Dr. Esra Çavuşoğlu ile Kadın Sağlığı ve Biohacking",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/8f7711ea-1d36-4f3c-9fe6-f6fb69d8c8a3.jpeg?1791284685614?1791284685614"
+    },
+    {
+      "id": "dilara-kocak-ile-2030-da-ne-yiyecegiz",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/dilara-kocak-ile-2030-da-ne-yiyecegiz",
+      "description": "Dilara Koçak ile geleceğin sofralarına bugünden bakın. “2030'da Ne Yiyeceğiz?” söyleşisinde, gıda ve teknolojinin kesişiminde şekillenen yeni nesil beslenme anlayışı; sürdürülebilirlik, yapay zekâ ve değişen tüketim alışkanlıkları ekseninde",
+      "startsAt": "2026-10-11",
+      "title": "Dilara Koçak ile 2030'da ne yiyeceğiz?",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/ad7deb0d-9d62-4e0c-bcdd-9f44e8051e06.jpeg?1791284861159?1791284861160"
+    },
+    {
+      "id": "ecz-adile-oezdag-ile-saglikli-yasamin-kodlari",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/ecz-adile-oezdag-ile-saglikli-yasamin-kodlari",
+      "description": "“Sağlıklı Yaşamın Kodları” söyleşisinde, Ecz. Adile Özdağ ve Prof. Dr. Murat Aksoy ile iyi yaşamın yapı taşlarını keşfedin. Sağlıklı yaşam, metabolik denge ve yaşam kalitesini destekleyen güncel yaklaşımların ele alınacağı bu özel buluşmaya",
+      "startsAt": "2026-10-13",
+      "title": "Ecz. Adile Özdağ ile Sağlıklı Yaşamın Kodları",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/ef1f3774-8892-4b6b-bcc4-23e331fff890.jpeg?1791285074932?1791285074932"
     },
     {
       "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
@@ -321,6 +345,16 @@
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/promotion_image/Sy7r-cUtMe-small.jpeg?1789464892227"
     },
     {
+      "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.watergarden.com.tr/etkinlikler/sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi",
+      "description": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
+      "title": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/fecbc1e5-faf6-48e5-a048-d19759997dcb.jpeg?1791189692878?1791189692878"
+    },
+    {
       "id": "korsanlar-watergarden-i-ele-geciriyor-mqwrhcmk7t7",
       "mallId": "watergarden",
       "kind": "event",
@@ -431,24 +465,14 @@
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/b0d7bcbe-53dc-425e-ac7e-fc0ae8e35141.jpeg?1775032228069?1775032228069"
     },
     {
-      "id": "drama-atolyesi",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.watergarden.com.tr/etkinlikler/drama-atolyesi",
-      "description": "Etkinlikler cumartesi pazar tek seans olarak gerçekleştirilecektir:",
-      "title": "Drama Atölyesi",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/63999b3e-9001-4d40-8aa6-2cd17970514b.jpeg?1775026181313?1775026181313"
-    },
-    {
-      "id": "dostluk-bazen-boyle-gorunur",
+      "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-cbx9m4ljtq0",
       "mallId": "metropol-istanbul",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.metropolistanbul.com/etkinlikler/dostluk-bazen-boyle-gorunur",
-      "description": "Dostluk Bazen Böyle Görünür",
-      "title": "Dostluk Bazen Böyle Görünür",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/d8a2f121-f2b3-4fc3-9119-cea9e8839149.jpeg?1790575989685?1790575989685"
+      "url": "https://www.metropolistanbul.com/etkinlikler/sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-cbx9m4ljtq0",
+      "description": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
+      "title": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/fa0f0a49-eecd-436a-9c35-d0be6f329377.jpeg?1791190755910?1791190755910"
     },
     {
       "id": "kadinca-fest",
@@ -469,17 +493,6 @@
       "description": "Sizi Dinleyen Metropol'ünüz Var",
       "title": "Sizi Dinleyen Metropol'ünüz Var",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/3b124b29-2492-4489-8b4b-34b5f1ddb3aa.jpeg?1789996294379?1789996294379"
-    },
-    {
-      "id": "butik-markalar-tasarim-urunler-ve-ilham-veren-kesifler-19-eylul-4-ekim-tarihleri-arasinda-metropol-pop-up-market-te",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.metropolistanbul.com/etkinlikler/butik-markalar-tasarim-urunler-ve-ilham-veren-kesifler-19-eylul-4-ekim-tarihleri-arasinda-metropol-pop-up-market-te",
-      "description": "Butik markalar, tasarım ürünler ve ilham veren keşifler 19 Eylül – 4 Ekim tarihleri arasında Metropol Pop Up Market’te.",
-      "startsAt": "2026-09-19",
-      "title": "Butik markalar, tasarım ürünler ve ilham veren keşifler 19 Eylül – 4 Ekim tarihleri arasında Metropol Pop Up Market’te.",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/e65290be-ce17-4bf0-a9a6-10c4ae500115.jpeg?1789741033006?1789741033006"
     },
     {
       "id": "metropol-istanbul-mobil-uygulamasi-yayinda",
@@ -790,6 +803,15 @@
       "image": "https://istanbulcevahir.com/wp-content/uploads/2025/11/20-yil-konser-kucuk.webp"
     },
     {
+      "id": "teknosa-ile-eglence-kesif-ve-surprizler-akbatida",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/teknosa-ile-eglence-kesif-ve-surprizler-akbatida/",
+      "description": "Teknosa ile eğlence, keşif ve sürprizler Akbatı’da !",
+      "title": "Teknosa İle Eğlence, Keşif ve Sürprizler Akbatı’da!"
+    },
+    {
       "id": "flying-tiger-x-akbati-etkinlik",
       "mallId": "akbati",
       "kind": "event",
@@ -890,15 +912,6 @@
       "url": "https://akbati.com/etkinlikler/red-bull-sound-clash-aktivasyon-alani-seni-bekliyor/",
       "description": "Red Bull Sound Clash Aktivasyon Alanı Seni Bekliyor",
       "title": "Red Bull Sound Clash Aktivasyon Alanı Seni Bekliyor"
-    },
-    {
-      "id": "loccitane-ile-flora-orchestra-parfum-koleksiyonu-deneyimi",
-      "mallId": "akbati",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://akbati.com/etkinlikler/loccitane-ile-flora-orchestra-parfum-koleksiyonu-deneyimi/",
-      "description": "L’Occitane ile Flora Orchestra Parfüm Koleksiyonu Deneyimi",
-      "title": "L’Occitane ile Flora Orchestra Parfüm Koleksiyonu Deneyimi"
     },
     {
       "id": "akbati-15-yil-ozel-cekilis-kampanyasi",

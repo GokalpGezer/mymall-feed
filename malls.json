@@ -1,0 +1,893 @@
+{
+  "malls": [
+    {
+      "id": "maltepe-piazza",
+      "name": "Maltepe Piazza",
+      "city": "Maltepe",
+      "operator": "RGY",
+      "active": true,
+      "location": {
+        "lat": 40.91978,
+        "lng": 29.16655
+      },
+      "logo": "assets/mall_logos/maltepe-piazza.png"
+    },
+    {
+      "id": "istanbul-optimum",
+      "name": "İstanbul Optimum",
+      "city": "Ataşehir",
+      "operator": "RGY",
+      "active": true,
+      "location": {
+        "lat": 40.98876,
+        "lng": 29.08579
+      },
+      "logo": "assets/mall_logos/istanbul-optimum.png"
+    },
+    {
+      "id": "maltepe-park",
+      "name": "Maltepe Park",
+      "city": "Maltepe",
+      "operator": "RGY",
+      "active": true,
+      "location": {
+        "lat": 40.9191,
+        "lng": 29.16393
+      },
+      "logo": "assets/mall_logos/maltepe-park.png"
+    },
+    {
+      "id": "kozzy",
+      "name": "Kozzy",
+      "city": "Kadıköy",
+      "operator": "RGY",
+      "active": true,
+      "location": {
+        "lat": 40.9693,
+        "lng": 29.09197
+      },
+      "logo": "assets/mall_logos/kozzy.png"
+    },
+    {
+      "id": "hilltown",
+      "name": "Hilltown",
+      "city": "Maltepe",
+      "operator": "RGY",
+      "active": true,
+      "location": {
+        "lat": 40.95275,
+        "lng": 29.1219
+      },
+      "logo": "assets/mall_logos/hilltown.png"
+    },
+    {
+      "id": "mall-of-istanbul",
+      "name": "Mall of İstanbul",
+      "city": "Başakşehir",
+      "active": true,
+      "location": {
+        "lat": 41.06326,
+        "lng": 28.80696
+      },
+      "logo": "assets/mall_logos/mall-of-istanbul.png"
+    },
+    {
+      "id": "istinye-park",
+      "name": "İstinye Park",
+      "city": "Sarıyer",
+      "active": true,
+      "location": {
+        "lat": 41.11032,
+        "lng": 29.03263
+      },
+      "logo": "assets/mall_logos/istinye-park.png"
+    },
+    {
+      "id": "zorlu-center",
+      "name": "Zorlu Center",
+      "city": "Beşiktaş",
+      "active": true,
+      "location": {
+        "lat": 41.06646,
+        "lng": 29.01688
+      },
+      "logo": "assets/mall_logos/zorlu-center.png"
+    },
+    {
+      "id": "kanyon",
+      "name": "Kanyon",
+      "city": "Şişli",
+      "active": true,
+      "location": {
+        "lat": 41.07813,
+        "lng": 29.01121
+      },
+      "logo": "assets/mall_logos/kanyon.png"
+    },
+    {
+      "id": "akmerkez",
+      "name": "Akmerkez",
+      "city": "Beşiktaş",
+      "active": true,
+      "location": {
+        "lat": 41.07664,
+        "lng": 29.02674
+      },
+      "logo": "assets/mall_logos/akmerkez.png"
+    },
+    {
+      "id": "istanbul-cevahir",
+      "name": "İstanbul Cevahir",
+      "city": "Şişli",
+      "active": true,
+      "location": {
+        "lat": 41.06258,
+        "lng": 28.99286
+      },
+      "logo": "assets/mall_logos/istanbul-cevahir.png"
+    },
+    {
+      "id": "citys-nisantasi",
+      "name": "City's Nişantaşı",
+      "city": "Şişli",
+      "active": true,
+      "location": {
+        "lat": 41.05105,
+        "lng": 28.99279
+      },
+      "logo": "assets/mall_logos/citys-nisantasi.png"
+    },
+    {
+      "id": "trump-avm",
+      "name": "Trump AVM",
+      "city": "Şişli",
+      "active": true,
+      "location": {
+        "lat": 41.06849,
+        "lng": 28.9923
+      },
+      "logo": "assets/mall_logos/trump-avm.png"
+    },
+    {
+      "id": "astoria",
+      "name": "Astoria",
+      "city": "Şişli",
+      "active": false,
+      "location": {
+        "lat": 41.06859,
+        "lng": 29.00587
+      },
+      "logo": "assets/mall_logos/astoria.png"
+    },
+    {
+      "id": "ozdilekpark",
+      "name": "ÖzdilekPark İstanbul",
+      "city": "Şişli",
+      "active": true,
+      "location": {
+        "lat": 41.07731,
+        "lng": 29.01093
+      },
+      "logo": "assets/mall_logos/ozdilekpark.png"
+    },
+    {
+      "id": "sapphire-carsi",
+      "name": "Sapphire Çarşı",
+      "city": "Kağıthane",
+      "active": false,
+      "location": {
+        "lat": 41.08496,
+        "lng": 29.00605
+      },
+      "logo": "assets/mall_logos/sapphire-carsi.png"
+    },
+    {
+      "id": "42-maslak",
+      "name": "42 Maslak",
+      "city": "Sarıyer",
+      "active": false,
+      "location": {
+        "lat": 41.11267,
+        "lng": 29.02008
+      },
+      "logo": "assets/mall_logos/42-maslak.png"
+    },
+    {
+      "id": "vadistanbul",
+      "name": "Vadistanbul",
+      "city": "Sarıyer",
+      "active": true,
+      "location": {
+        "lat": 41.10741,
+        "lng": 28.98741
+      },
+      "logo": "assets/mall_logos/vadistanbul.png"
+    },
+    {
+      "id": "axis-kagithane",
+      "name": "Axis Kağıthane",
+      "city": "Kağıthane",
+      "active": true,
+      "location": {
+        "lat": 41.08641,
+        "lng": 28.98206
+      },
+      "logo": "assets/mall_logos/axis-kagithane.png"
+    },
+    {
+      "id": "axis-istanbul",
+      "name": "Axis İstanbul",
+      "city": "Eyüpsultan",
+      "active": false,
+      "location": {
+        "lat": 41.03537,
+        "lng": 28.92089
+      },
+      "logo": "assets/mall_logos/axis-istanbul.png"
+    },
+    {
+      "id": "biz-cevahir-halic",
+      "name": "Biz Cevahir Haliç",
+      "city": "Eyüpsultan",
+      "active": false,
+      "location": {
+        "lat": 41.07577,
+        "lng": 28.94523
+      },
+      "logo": "assets/mall_logos/biz-cevahir-halic.png"
+    },
+    {
+      "id": "isfanbul",
+      "name": "İsfanbul (Vialand)",
+      "city": "Eyüpsultan",
+      "active": false,
+      "location": {
+        "lat": 41.07411,
+        "lng": 28.92317
+      },
+      "logo": "assets/mall_logos/isfanbul.png"
+    },
+    {
+      "id": "historia",
+      "name": "Historia",
+      "city": "Fatih",
+      "active": false,
+      "location": {
+        "lat": 41.0144,
+        "lng": 28.94527
+      },
+      "logo": "assets/mall_logos/historia.png"
+    },
+    {
+      "id": "forum-istanbul",
+      "name": "Forum İstanbul",
+      "city": "Bayrampaşa",
+      "active": true,
+      "location": {
+        "lat": 41.04686,
+        "lng": 28.89765
+      },
+      "logo": "assets/mall_logos/forum-istanbul.png"
+    },
+    {
+      "id": "venezia-mega-outlet",
+      "name": "Venezia Mega Outlet",
+      "city": "Gaziosmanpaşa",
+      "active": true,
+      "location": {
+        "lat": 41.08012,
+        "lng": 28.87784
+      },
+      "logo": "assets/mall_logos/venezia-mega-outlet.png"
+    },
+    {
+      "id": "marmara-forum",
+      "name": "Marmara Forum",
+      "city": "Bakırköy",
+      "active": true,
+      "location": {
+        "lat": 40.99693,
+        "lng": 28.88601
+      },
+      "logo": "assets/mall_logos/marmara-forum.png"
+    },
+    {
+      "id": "olivium",
+      "name": "Olivium Outlet Center",
+      "city": "Zeytinburnu",
+      "active": true,
+      "location": {
+        "lat": 40.99537,
+        "lng": 28.90976
+      },
+      "logo": "assets/mall_logos/olivium.png"
+    },
+    {
+      "id": "kale-outlet",
+      "name": "Kale Outlet Center",
+      "city": "Güngören",
+      "active": false,
+      "location": {
+        "lat": 41.01564,
+        "lng": 28.87813
+      },
+      "logo": "assets/mall_logos/kale-outlet.png"
+    },
+    {
+      "id": "metroport",
+      "name": "Metroport",
+      "city": "Bahçelievler",
+      "active": false,
+      "location": {
+        "lat": 40.99555,
+        "lng": 28.86261
+      },
+      "logo": "assets/mall_logos/metroport.png"
+    },
+    {
+      "id": "capacity",
+      "name": "Capacity",
+      "city": "Bakırköy",
+      "active": true,
+      "location": {
+        "lat": 40.9775,
+        "lng": 28.87106
+      },
+      "logo": "assets/mall_logos/capacity.png"
+    },
+    {
+      "id": "carousel",
+      "name": "Carousel",
+      "city": "Bakırköy",
+      "active": true,
+      "location": {
+        "lat": 40.97773,
+        "lng": 28.87342
+      },
+      "logo": "assets/mall_logos/carousel.png"
+    },
+    {
+      "id": "galleria-atakoy",
+      "name": "Galleria Ataköy",
+      "city": "Bakırköy",
+      "active": false,
+      "location": {
+        "lat": 40.9744,
+        "lng": 28.86942
+      },
+      "logo": "assets/mall_logos/galleria-atakoy.png"
+    },
+    {
+      "id": "atakoy-plus",
+      "name": "Ataköy Plus",
+      "city": "Bakırköy",
+      "active": true,
+      "location": {
+        "lat": 40.97847,
+        "lng": 28.85044
+      },
+      "logo": "assets/mall_logos/atakoy-plus.png"
+    },
+    {
+      "id": "atrium-atakoy",
+      "name": "Atrium",
+      "city": "Bakırköy",
+      "active": false,
+      "location": {
+        "lat": 40.98876,
+        "lng": 28.84585
+      }
+    },
+    {
+      "id": "aqua-florya",
+      "name": "Aqua Florya",
+      "city": "Bakırköy",
+      "active": true,
+      "location": {
+        "lat": 40.96543,
+        "lng": 28.79774
+      },
+      "logo": "assets/mall_logos/aqua-florya.png"
+    },
+    {
+      "id": "flyinn",
+      "name": "Flyinn",
+      "city": "Bakırköy",
+      "active": true,
+      "location": {
+        "lat": 40.97298,
+        "lng": 28.80427
+      },
+      "logo": "assets/mall_logos/flyinn.png"
+    },
+    {
+      "id": "airport-avm",
+      "name": "Airport AVM",
+      "city": "Bakırköy",
+      "active": true,
+      "location": {
+        "lat": 40.99142,
+        "lng": 28.8307
+      },
+      "logo": "assets/mall_logos/airport-avm.png"
+    },
+    {
+      "id": "212-outlet",
+      "name": "212 İstanbul Power Outlet",
+      "city": "Bağcılar",
+      "active": true,
+      "location": {
+        "lat": 41.04785,
+        "lng": 28.81028
+      },
+      "logo": "assets/mall_logos/212-outlet.png"
+    },
+    {
+      "id": "arenapark",
+      "name": "ArenaPark",
+      "city": "Küçükçekmece",
+      "active": true,
+      "location": {
+        "lat": 41.05388,
+        "lng": 28.79109
+      },
+      "logo": "assets/mall_logos/arenapark.png"
+    },
+    {
+      "id": "armonipark",
+      "name": "ArmoniPark Outlet",
+      "city": "Küçükçekmece",
+      "active": true,
+      "location": {
+        "lat": 41.0069,
+        "lng": 28.7973
+      },
+      "logo": "assets/mall_logos/armonipark.png"
+    },
+    {
+      "id": "starcity",
+      "name": "Starcity Outlet",
+      "city": "Bahçelievler",
+      "active": true,
+      "location": {
+        "lat": 41.01135,
+        "lng": 28.81613
+      },
+      "logo": "assets/mall_logos/starcity.png"
+    },
+    {
+      "id": "gunesli-park",
+      "name": "Güneşli Park",
+      "city": "Bağcılar",
+      "active": false,
+      "location": {
+        "lat": 41.03224,
+        "lng": 28.82442
+      }
+    },
+    {
+      "id": "deposite",
+      "name": "Deposite Outlet",
+      "city": "Başakşehir",
+      "active": false,
+      "location": {
+        "lat": 41.07104,
+        "lng": 28.80897
+      },
+      "logo": "assets/mall_logos/deposite.png"
+    },
+    {
+      "id": "merkez-kayasehir",
+      "name": "Merkez Kayaşehir",
+      "city": "Başakşehir",
+      "active": false,
+      "location": {
+        "lat": 41.10794,
+        "lng": 28.75755
+      }
+    },
+    {
+      "id": "olimpa",
+      "name": "Olimpa",
+      "city": "Başakşehir",
+      "active": true,
+      "location": {
+        "lat": 41.10948,
+        "lng": 28.78871
+      },
+      "logo": "assets/mall_logos/olimpa.png"
+    },
+    {
+      "id": "pelican-mall",
+      "name": "Pelican Mall",
+      "city": "Avcılar",
+      "active": true,
+      "location": {
+        "lat": 40.99111,
+        "lng": 28.71501
+      },
+      "logo": "assets/mall_logos/pelican-mall.png"
+    },
+    {
+      "id": "torium",
+      "name": "Torium",
+      "city": "Esenyurt",
+      "active": true,
+      "location": {
+        "lat": 41.00402,
+        "lng": 28.68855
+      },
+      "logo": "assets/mall_logos/torium.png"
+    },
+    {
+      "id": "prestige-mall",
+      "name": "Prestige Mall",
+      "city": "Başakşehir",
+      "active": false,
+      "location": {
+        "lat": 41.06772,
+        "lng": 28.69099
+      },
+      "logo": "assets/mall_logos/prestige-mall.png"
+    },
+    {
+      "id": "akbati",
+      "name": "Akbatı",
+      "city": "Esenyurt",
+      "active": true,
+      "location": {
+        "lat": 41.05644,
+        "lng": 28.66768
+      },
+      "logo": "assets/mall_logos/akbati.png"
+    },
+    {
+      "id": "marmara-park",
+      "name": "Marmara Park",
+      "city": "Esenyurt",
+      "active": true,
+      "location": {
+        "lat": 41.00971,
+        "lng": 28.65959
+      },
+      "logo": "assets/mall_logos/marmara-park.png"
+    },
+    {
+      "id": "beylikduzu-migros",
+      "name": "Beylikdüzü Migros AVM",
+      "city": "Beylikdüzü",
+      "active": true,
+      "location": {
+        "lat": 41.00691,
+        "lng": 28.6578
+      },
+      "logo": "assets/mall_logos/beylikduzu-migros.png"
+    },
+    {
+      "id": "perlavista",
+      "name": "Perlavista",
+      "city": "Büyükçekmece",
+      "active": true,
+      "location": {
+        "lat": 41.01599,
+        "lng": 28.62747
+      },
+      "logo": "assets/mall_logos/perlavista.png"
+    },
+    {
+      "id": "paradise-avm",
+      "name": "Paradise",
+      "city": "Beylikdüzü",
+      "active": false,
+      "location": {
+        "lat": 41.00403,
+        "lng": 28.62532
+      }
+    },
+    {
+      "id": "beylicium",
+      "name": "Beylicium",
+      "city": "Beylikdüzü",
+      "active": false,
+      "location": {
+        "lat": 41.01158,
+        "lng": 28.64917
+      },
+      "logo": "assets/mall_logos/beylicium.png"
+    },
+    {
+      "id": "istanbul-outlet-park",
+      "name": "İstanbul Outlet Park",
+      "city": "Büyükçekmece",
+      "active": false,
+      "location": {
+        "lat": 41.01826,
+        "lng": 28.63189
+      },
+      "logo": "assets/mall_logos/istanbul-outlet-park.png"
+    },
+    {
+      "id": "atirus",
+      "name": "Atirus",
+      "city": "Büyükçekmece",
+      "active": false,
+      "location": {
+        "lat": 41.0212,
+        "lng": 28.58376
+      }
+    },
+    {
+      "id": "aymerkez",
+      "name": "Aymerkez",
+      "city": "Büyükçekmece",
+      "active": false,
+      "location": {
+        "lat": 41.01401,
+        "lng": 28.54367
+      }
+    },
+    {
+      "id": "maxi-avm",
+      "name": "Maxi AVM",
+      "city": "Silivri",
+      "active": false,
+      "location": {
+        "lat": 41.08232,
+        "lng": 28.20389
+      },
+      "logo": "assets/mall_logos/maxi-avm.png"
+    },
+    {
+      "id": "vega-avm",
+      "name": "Vega AVM",
+      "city": "Silivri",
+      "active": false,
+      "location": {
+        "lat": 41.07728,
+        "lng": 28.25172
+      },
+      "logo": "assets/mall_logos/vega-avm.png"
+    },
+    {
+      "id": "capitol",
+      "name": "Capitol",
+      "city": "Üsküdar",
+      "active": true,
+      "location": {
+        "lat": 41.02094,
+        "lng": 29.0395
+      },
+      "logo": "assets/mall_logos/capitol.png"
+    },
+    {
+      "id": "akasya",
+      "name": "Akasya",
+      "city": "Üsküdar",
+      "active": true,
+      "location": {
+        "lat": 41.00157,
+        "lng": 29.05481
+      },
+      "logo": "assets/mall_logos/akasya.png"
+    },
+    {
+      "id": "tepe-nautilus",
+      "name": "Tepe Nautilus",
+      "city": "Kadıköy",
+      "active": true,
+      "location": {
+        "lat": 40.99961,
+        "lng": 29.0315
+      },
+      "logo": "assets/mall_logos/tepe-nautilus.png"
+    },
+    {
+      "id": "emaar-square",
+      "name": "Emaar Square",
+      "city": "Üsküdar",
+      "active": false,
+      "location": {
+        "lat": 41.0031,
+        "lng": 29.07086
+      },
+      "logo": "assets/mall_logos/emaar-square.png"
+    },
+    {
+      "id": "palladium-atasehir",
+      "name": "Palladium",
+      "city": "Ataşehir",
+      "active": true,
+      "location": {
+        "lat": 40.98616,
+        "lng": 29.10037
+      },
+      "logo": "assets/mall_logos/palladium-atasehir.png"
+    },
+    {
+      "id": "watergarden",
+      "name": "Watergarden",
+      "city": "Ataşehir",
+      "active": true,
+      "location": {
+        "lat": 40.99764,
+        "lng": 29.09941
+      },
+      "logo": "assets/mall_logos/watergarden.png"
+    },
+    {
+      "id": "metropol-istanbul",
+      "name": "Metropol İstanbul",
+      "city": "Ataşehir",
+      "active": true,
+      "location": {
+        "lat": 40.99417,
+        "lng": 29.12185
+      },
+      "logo": "assets/mall_logos/metropol-istanbul.png"
+    },
+    {
+      "id": "bulvar-216",
+      "name": "Bulvar 216",
+      "city": "Ataşehir",
+      "active": true,
+      "location": {
+        "lat": 40.99436,
+        "lng": 29.11057
+      },
+      "logo": "assets/mall_logos/bulvar-216.png"
+    },
+    {
+      "id": "brandium",
+      "name": "Brandium",
+      "city": "Ataşehir",
+      "active": false,
+      "location": {
+        "lat": 40.98255,
+        "lng": 29.13225
+      }
+    },
+    {
+      "id": "buyaka",
+      "name": "Buyaka",
+      "city": "Ümraniye",
+      "active": true,
+      "location": {
+        "lat": 41.02648,
+        "lng": 29.12732
+      },
+      "logo": "assets/mall_logos/buyaka.png"
+    },
+    {
+      "id": "canpark",
+      "name": "Canpark",
+      "city": "Ümraniye",
+      "active": true,
+      "location": {
+        "lat": 41.02473,
+        "lng": 29.1064
+      },
+      "logo": "assets/mall_logos/canpark.png"
+    },
+    {
+      "id": "meydan-istanbul",
+      "name": "Meydan İstanbul",
+      "city": "Ümraniye",
+      "active": false,
+      "location": {
+        "lat": 41.02367,
+        "lng": 29.12599
+      },
+      "logo": "assets/mall_logos/meydan-istanbul.png"
+    },
+    {
+      "id": "metrogarden",
+      "name": "MetroGarden",
+      "city": "Ümraniye",
+      "active": true,
+      "location": {
+        "lat": 41.0154,
+        "lng": 29.17874
+      },
+      "logo": "assets/mall_logos/metrogarden.png"
+    },
+    {
+      "id": "rings-avm",
+      "name": "Rings",
+      "city": "Sancaktepe",
+      "active": true,
+      "location": {
+        "lat": 40.9736,
+        "lng": 29.24058
+      },
+      "logo": "assets/mall_logos/rings-avm.png"
+    },
+    {
+      "id": "anatolium-marmara",
+      "name": "Anatolium Marmara",
+      "city": "Kartal",
+      "active": true,
+      "location": {
+        "lat": 40.91845,
+        "lng": 29.17578
+      },
+      "logo": "assets/mall_logos/anatolium-marmara.png"
+    },
+    {
+      "id": "istmarina",
+      "name": "İstMarina",
+      "city": "Kartal",
+      "active": true,
+      "location": {
+        "lat": 40.88462,
+        "lng": 29.20577
+      },
+      "logo": "assets/mall_logos/istmarina.png"
+    },
+    {
+      "id": "neomarin",
+      "name": "Neomarin",
+      "city": "Pendik",
+      "active": false,
+      "location": {
+        "lat": 40.86379,
+        "lng": 29.27358
+      },
+      "logo": "assets/mall_logos/neomarin.png"
+    },
+    {
+      "id": "pendorya",
+      "name": "Pendorya",
+      "city": "Pendik",
+      "active": true,
+      "location": {
+        "lat": 40.86614,
+        "lng": 29.27513
+      },
+      "logo": "assets/mall_logos/pendorya.png"
+    },
+    {
+      "id": "viaport-asia",
+      "name": "Viaport Asia Outlet",
+      "city": "Pendik",
+      "active": true,
+      "location": {
+        "lat": 40.93764,
+        "lng": 29.32471
+      },
+      "logo": "assets/mall_logos/viaport-asia.png"
+    },
+    {
+      "id": "world-atlantis",
+      "name": "World Atlantis",
+      "city": "Pendik",
+      "active": true,
+      "location": {
+        "lat": 40.92827,
+        "lng": 29.31055
+      },
+      "logo": "assets/mall_logos/world-atlantis.png"
+    },
+    {
+      "id": "viaport-marina",
+      "name": "Viaport Marina",
+      "city": "Tuzla",
+      "active": false,
+      "location": {
+        "lat": 40.81724,
+        "lng": 29.31606
+      },
+      "logo": "assets/mall_logos/viaport-marina.png"
+    },
+    {
+      "id": "koru-florya",
+      "name": "Koru Florya",
+      "city": "Bakırköy",
+      "active": true,
+      "location": {
+        "lat": 40.9762,
+        "lng": 28.7862
+      },
+      "logo": "assets/mall_logos/koru-florya.png"
+    }
+  ]
+}
