@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-06T18:13:06+00:00",
+  "generatedAt": "2026-10-07T11:09:15+00:00",
   "campaigns": [
+    {
+      "id": "alisveris-festivali",
+      "mallId": "maltepe-piazza",
+      "title": "Alışveriş Festivali",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepepiazzaavm.com/storage/maltepepiazzaavm/event/October2026/maltepepiazza-sonbahar-alisveris-1280x720px.webp",
+      "description": "Sonbahar Alışveriş Festivaline Davetlisiniz!",
+      "url": "https://maltepepiazzaavm.com/tr/etkinlikler-kampanyalar/alisveris-festivali"
+    },
     {
       "id": "kitap-senligi",
       "mallId": "maltepe-piazza",
@@ -365,14 +375,14 @@
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ryel1O-gzg-main.jpeg?1779691241027"
     },
     {
-      "id": "hareket-icin-tasarlandi",
+      "id": "indirim-syxikhd7izx",
       "mallId": "vadistanbul",
       "kind": "discount",
       "isPaid": false,
-      "url": "https://www.vadistanbul.com/alisveris-firsatlari/hareket-icin-tasarlandi",
+      "url": "https://www.vadistanbul.com/alisveris-firsatlari/indirim-syxikhd7izx",
       "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Fırsatlar",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/promotion_image/Sy7r-cUtMe-small.jpeg?1789464892227"
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/promotion_image/ryU1rDmjfe-small.jpeg?1791354078971"
     },
     {
       "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi",
