@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T11:09:15+00:00",
+  "generatedAt": "2026-10-08T11:26:36+00:00",
   "campaigns": [
     {
       "id": "alisveris-festivali",
@@ -205,6 +205,46 @@
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/3e674b1b-1f76-4f06-b1c6-a94fd0aa17d6.jpeg?1791285741101?1791285741101"
     },
     {
+      "id": "live-well-akmerkez",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/live-well-akmerkez",
+      "description": "İyi yaşamın farklı yollarını keşfetmeye davetlisin. Think Well, Move Well ve Eat Well başlıkları altında şekillenen Live Well @Akmerkez; ilham veren sohbetleri, hareket ve farkındalık deneyimlerini, atölyeleri ve iyi yaşam odaklı lezzetleri",
+      "title": "Live Well @ Akmerkez",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/22aeec52-77d2-4bbc-b9fd-1fad76fcb801.jpeg?1791379337219?1791379337219"
+    },
+    {
+      "id": "ses-terapisi",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/ses-terapisi",
+      "description": "✨ Auramind ile Ses Terapisi deneyiminde, sesin dönüştürücü etkisini keşfetmeye davetlisiniz. Farklı frekanslar ve titreşimler eşliğinde gerçekleşecek bu özel buluşma, şehir yaşamının temposuna kısa bir ara vererek zihinsel ve bedensel farkı",
+      "title": "Ses Terapisi",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/f97c3be4-545b-475e-b6c4-225ffe8ad2ab.jpeg?1791457341215?1791457341215"
+    },
+    {
+      "id": "handpan-dinletisi",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/handpan-dinletisi",
+      "description": "✨ Auramind ile gerçekleşecek Handpan Dinletisi’nde, handpan enstrümanının özgün tınıları eşliğinde zihninizi dinlendirecek ve anda kalmanıza yardımcı olacak meditatif bir deneyim yaşayın. Şehir hayatının temposuna kısa bir ara vererek sesin",
+      "title": "Handpan Dinletisi",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/6312845f-25bc-424c-8240-c378f29f0879.jpeg?1791457497128?1791457497128"
+    },
+    {
+      "id": "duygusal-detox",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/duygusal-detox",
+      "description": "✨ Masterpiece ile gerçekleşecek Duygusal Detox oturumunda, zihinsel ve duygusal dengeyi destekleyen farkındalık pratiklerini keşfedin. Günlük hayatın yoğunluğuna kısa bir ara vererek kendinize odaklanabileceğiniz bu deneyim, içsel sakinlik ",
+      "title": "Duygusal Detox",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/5808d3b1-9fad-48c8-8b3e-4cda0ce63c5e.jpeg?1791457640689?1791457640689"
+    },
+    {
       "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
       "mallId": "akmerkez",
       "kind": "event",
@@ -213,16 +253,6 @@
       "description": "Akmerkez Terasta Tarım’da hafta sonu ziyaretleri başlıyor! Her cumartesi 11:00–13:00 saatleri arasında sizleri doğayla iç içe keyifli bir deneyime davet ediyoruz. Detaylı bilgi ve rezervasyon için bizimle iletişime geçebilirsiniz: +90 543 4",
       "title": "🌿 Şehirde doğayla buluşmaya hazır mısınız?",
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/939fe257-f840-4bc6-bd76-e6953e93a719.jpeg?1777272648381?1777272648381"
-    },
-    {
-      "id": "ipek-hanim-ciftligi-akmerkez-de",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/ipek-hanim-ciftligi-akmerkez-de",
-      "description": "Keyifli deneyimin adresi ve kentin en gözde buluşma noktası Akmerkez; doğayla kurulan bağın en yalın hali İpek Hanım Çiftliği’ni ziyaretçileri ile buluşturuyor. Çiftlikte yetiştirilen ve mevsiminde hasat edilen sebze- meyvelerle, el emeği i",
-      "title": "İpek Hanım Çiftliği Akmerkez’de",
-      "image": "https://s3-eu-central-1.amazonaws.com/akis-gyo/images/event_image/ryEv5xTWY-main.jpeg?1630501468896"
     },
     {
       "id": "akmerkez-app-ile-beymen-club-da-20-indirim",
@@ -545,14 +575,13 @@
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/a6985faa-e0a5-4664-b75d-6d61540a469f.jpeg?1787555490982?1787555490982"
     },
     {
-      "id": "ugur-bocegi-ile-kara-kedi",
+      "id": "pendorya-da-aninda-kazan",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi",
-      "description": "Uğur Böceği İle Kara Kedi",
-      "title": "Ugur Bocegi Ile Kara Kedi",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/HyDPNZL_N-small.jpeg?1555312906303"
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
+      "title": "Pendorya Da Aninda Kazan",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289"
     },
     {
       "id": "23-nisan-da-eglence-playland-de",
@@ -591,13 +620,59 @@
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/HkFJF6sd6-small.jpeg?1704872162340"
     },
     {
-      "id": "pendorya-da-aninda-kazan",
+      "id": "pjmasks-pendorya-da",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
-      "title": "Pendorya Da Aninda Kazan",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289"
+      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
+      "title": "Pjmasks Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227"
+    },
+    {
+      "id": "babalar-gunu-kutlu-olsun",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/babalar-gunu-kutlu-olsun",
+      "title": "Babalar Gunu Kutlu Olsun",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/r1P16tJJH-small.jpeg?1560509748209"
+    },
+    {
+      "id": "ugur-bocegi-ile-kara-kedi-rye5hjabq4",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi-rye5hjabq4",
+      "description": "Uğur Böceği ile Kara Kedi",
+      "title": "Ugur Bocegi Ile Kara Kedi",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/rJ9nyTW5N-small.jpeg?1555316658646"
+    },
+    {
+      "id": "yoresel-pazar",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/yoresel-pazar",
+      "title": "Yoresel Pazar",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SyfqxYPTH-small.jpeg?1575616650395"
+    },
+    {
+      "id": "pendorya-cocuk-kulubu",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-cocuk-kulubu",
+      "title": "Pendorya Cocuk Kulubu",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SJ_D7EbNL-small.jpeg?1582543712528"
+    },
+    {
+      "id": "bora-duran-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/bora-duran-pendorya-da",
+      "title": "Bora Duran Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/ByXvnyz5V-small.jpeg?1555328091617"
     },
     {
       "id": "maysa-ve-bulut-pendorya-da",
@@ -610,55 +685,6 @@
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/S1Z6h2I7B-small.jpeg?1565080762086"
     },
     {
-      "id": "babalar-gunu-kutlu-olsun",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/babalar-gunu-kutlu-olsun",
-      "title": "Babalar Gunu Kutlu Olsun",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/r1P16tJJH-small.jpeg?1560509748209"
-    },
-    {
-      "id": "pjmasks-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
-      "title": "Pjmasks Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227"
-    },
-    {
-      "id": "elif-in-dusleri-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/elif-in-dusleri-pendorya-da",
-      "description": "Elif'in Düşleri Pendorya'da",
-      "title": "Elif In Dusleri Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Hk-vBQse8-small.jpeg?1579001177807"
-    },
-    {
-      "id": "19-mayis-coskusu-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/19-mayis-coskusu-pendorya-da",
-      "description": "19 Mayıs Coşkusu Pendorya'da",
-      "startsAt": "2026-05-19",
-      "title": "19 Mayis Coskusu Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SyyVD43n4-small.jpeg?1558099752192"
-    },
-    {
-      "id": "kostebekgiller-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/kostebekgiller-pendorya-da",
-      "description": "Köstebekgiller Pendorya'da",
-      "title": "Kostebekgiller Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Bya1h23xB-small.jpeg?1562328037518"
-    },
-    {
       "id": "bebekoloji-anadolu-da",
       "mallId": "pendorya",
       "kind": "discount",
@@ -666,16 +692,6 @@
       "url": "https://www.pendorya.com/firsatlar/bebekoloji-anadolu-da",
       "title": "Bebekoloji Anadolu'da",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/Hk_1Kee3S-small.jpeg?1574074592158"
-    },
-    {
-      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "mallId": "pendorya",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "description": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
-      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753"
     },
     {
       "id": "en-uzun-gunde-size-ozel-indirimlerle-magazamizda-bulusalim",
@@ -696,6 +712,16 @@
       "description": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "title": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/HkAypIV5N-small.jpeg?1555487975038"
+    },
+    {
+      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "description": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
+      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753"
     },
     {
       "id": "melon-pearls-starbucks-refresha",
