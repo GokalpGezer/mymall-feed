@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T11:26:36+00:00",
+  "generatedAt": "2026-10-09T11:24:13+00:00",
   "campaigns": [
     {
       "id": "alisveris-festivali",
@@ -51,6 +51,24 @@
       "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/hali-dunyasi-pop-up-gunleri"
     },
     {
+      "id": "i-yilige-sende-bir-i-lmek-at",
+      "mallId": "kozzy",
+      "title": "İyiliğe Sende Bir İlmek At!",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://kozzyavm.com/storage/kozzyavm/event/October2026/losev-dijital-1280x720px.webp",
+      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/i-yilige-sende-bir-i-lmek-at"
+    },
+    {
+      "id": "8-18-ekim-dogal-uretici-pazari",
+      "mallId": "kozzy",
+      "title": "Doğal Üretici Pazarı Kozzy'de!",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://kozzyavm.com/storage/kozzyavm/event/October2026/kozzy-dogal-uretici-dijital-1280x720px-2.webp",
+      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/8-18-ekim-dogal-uretici-pazari"
+    },
+    {
       "id": "hilltown-seyirlik-sahne-1",
       "mallId": "hilltown",
       "title": "Hilltown Seyirlik Sahne",
@@ -69,6 +87,16 @@
       "image": "https://hilltownkucukyali.com/storage/hilltownkucukyali/event/November2025/ceviz-adam-neseli-yapilar-muzikali.jpeg",
       "description": "Ceviz Adam Müzikali ve Neşeli Yapılar Müzikali Hilltown Seyirlik Sahne’de! Seans gün ve saatleri için 0(535) 255 5855 no'lu telefondan iletişime geçebilirsiniz!",
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne"
+    },
+    {
+      "id": "mc-donald-s",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/mc-donald-s",
+      "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
+      "title": "Mc Donald’s",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/09d2d72c-890d-403b-a77b-17b61c6dfab2.jpeg?1791461039046?1791461039046"
     },
     {
       "id": "supplementler-com",
@@ -131,37 +159,94 @@
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ad66a571-22fa-4032-bee6-8414d2f2c504.jpeg?1787064507215?1787064507215"
     },
     {
-      "id": "dr-ayseguel-coruhlu-ile-longevity-sohbetleri",
+      "id": "think-well",
       "mallId": "akmerkez",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/dr-ayseguel-coruhlu-ile-longevity-sohbetleri",
-      "description": "Dr. Ayşegül Çoruhlu ile Longevity Sohbetleri’nde iyi yaşamın değişen anlamını keşfedin. Sağlıklı beslenme, yaşam kalitesi ve uzun ömür üzerine değerli paylaşımların yer alacağı bu özel söyleşiye katılın. 10 Ekim 2026 14.00 - 14.45 Akmerkez ",
-      "startsAt": "2026-10-10",
-      "title": "Dr. Ayşegül Çoruhlu ile Longevity Sohbetleri",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/567166cd-103b-41c4-a64f-65be1eed183b.jpeg?1791284535154?1791284535154"
+      "url": "https://www.akmerkez.com.tr/etkinlikler/think-well",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "title": "Think Well",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/3e674b1b-1f76-4f06-b1c6-a94fd0aa17d6.jpeg?1791285741101?1791285741101"
     },
     {
-      "id": "dr-esra-cavusoglu-ile-kadin-sagligi-ve-biohacking",
+      "id": "dr-ayfer-aydin-ile-cildimiz-icimizi-yansitir",
       "mallId": "akmerkez",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/dr-esra-cavusoglu-ile-kadin-sagligi-ve-biohacking",
-      "description": "Kadın sağlığına dair güncel bakış açılarını ve biohacking dünyasının öne çıkan yaklaşımlarını keşfetmek için Dr. Esra Çavuşoğlu ile bir araya gelin. İyi yaşamı destekleyen stratejiler, bilinçli alışkanlıklar ve yaşam kalitesini artırmaya yö",
-      "startsAt": "2026-10-10",
-      "title": "Dr. Esra Çavuşoğlu ile Kadın Sağlığı ve Biohacking",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/8f7711ea-1d36-4f3c-9fe6-f6fb69d8c8a3.jpeg?1791284685614?1791284685614"
+      "url": "https://www.akmerkez.com.tr/etkinlikler/dr-ayfer-aydin-ile-cildimiz-icimizi-yansitir",
+      "description": "✨ “Cildimiz İçimizi Yansıtır” söyleşisinde Dr. Ayfer Aydın ile cilt sağlığını bütünsel bir perspektiften ele alın. İyi yaşam alışkanlıklarından beslenmeye uzanan pek çok faktörün cilt üzerindeki etkilerini keşfedeceğiniz bu ilham verici bul",
+      "title": "Dr. Ayfer Aydın ile Cildimiz İçimizi Yansıtır",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/49cdd399-f07d-471e-a231-42a7d9491dee.jpeg?1791460724006?1791460724006"
     },
     {
-      "id": "dilara-kocak-ile-2030-da-ne-yiyecegiz",
+      "id": "matcha-workshop",
       "mallId": "akmerkez",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/dilara-kocak-ile-2030-da-ne-yiyecegiz",
-      "description": "Dilara Koçak ile geleceğin sofralarına bugünden bakın. “2030'da Ne Yiyeceğiz?” söyleşisinde, gıda ve teknolojinin kesişiminde şekillenen yeni nesil beslenme anlayışı; sürdürülebilirlik, yapay zekâ ve değişen tüketim alışkanlıkları ekseninde",
-      "startsAt": "2026-10-11",
-      "title": "Dilara Koçak ile 2030'da ne yiyeceğiz?",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/ad7deb0d-9d62-4e0c-bcdd-9f44e8051e06.jpeg?1791284861159?1791284861160"
+      "url": "https://www.akmerkez.com.tr/etkinlikler/matcha-workshop",
+      "description": "✨ Kinocha ile gerçekleşecek Matcha Workshop’ta, Japon çay kültürünün en özel ritüellerinden biriyle tanışın. Matchanın hazırlanışından tadım deneyimine uzanan bu özel buluşmada, iyi yaşamı destekleyen lezzetleri ve bilinçli tüketim alışkanl",
+      "title": "Matcha Workshop",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/24a2b57f-916a-484f-be5d-df62be31e19b.jpeg?1791460617239?1791460617239"
+    },
+    {
+      "id": "duygusal-detox",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/duygusal-detox",
+      "description": "✨ Masterpiece ile gerçekleşecek Duygusal Detox oturumunda, zihinsel ve duygusal dengeyi destekleyen farkındalık pratiklerini keşfedin. Günlük hayatın yoğunluğuna kısa bir ara vererek kendinize odaklanabileceğiniz bu deneyim, içsel sakinlik ",
+      "title": "Duygusal Detox",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/5808d3b1-9fad-48c8-8b3e-4cda0ce63c5e.jpeg?1791457640689?1791457640689"
+    },
+    {
+      "id": "handpan-dinletisi",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/handpan-dinletisi",
+      "description": "✨ Auramind ile gerçekleşecek Handpan Dinletisi’nde, handpan enstrümanının özgün tınıları eşliğinde zihninizi dinlendirecek ve anda kalmanıza yardımcı olacak meditatif bir deneyim yaşayın. Şehir hayatının temposuna kısa bir ara vererek sesin",
+      "title": "Handpan Dinletisi",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/6312845f-25bc-424c-8240-c378f29f0879.jpeg?1791457497128?1791457497128"
+    },
+    {
+      "id": "ses-terapisi",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/ses-terapisi",
+      "description": "✨ Auramind ile Ses Terapisi deneyiminde, sesin dönüştürücü etkisini keşfetmeye davetlisiniz. Farklı frekanslar ve titreşimler eşliğinde gerçekleşecek bu özel buluşma, şehir yaşamının temposuna kısa bir ara vererek zihinsel ve bedensel farkı",
+      "title": "Ses Terapisi",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/f97c3be4-545b-475e-b6c4-225ffe8ad2ab.jpeg?1791457341215?1791457341215"
+    },
+    {
+      "id": "live-well-akmerkez",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/live-well-akmerkez",
+      "description": "İyi yaşamın farklı yollarını keşfetmeye davetlisin. Think Well, Move Well ve Eat Well başlıkları altında şekillenen Live Well @Akmerkez; ilham veren sohbetleri, hareket ve farkındalık deneyimlerini, atölyeleri ve iyi yaşam odaklı lezzetleri",
+      "title": "Live Well @ Akmerkez",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/22aeec52-77d2-4bbc-b9fd-1fad76fcb801.jpeg?1791379337219?1791379337219"
+    },
+    {
+      "id": "move-well",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/move-well",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "title": "Move Well",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/3b1c96e8-d8d8-4305-ba01-31d0813815d5.jpeg?1791285713386?1791285713386"
+    },
+    {
+      "id": "live-well",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/live-well",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "title": "Live Well",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/3ea7d366-09eb-472f-aca0-8b35c0c75ec4.jpeg?1791285677189?1791285677189"
     },
     {
       "id": "ecz-adile-oezdag-ile-saglikli-yasamin-kodlari",
@@ -175,84 +260,26 @@
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/ef1f3774-8892-4b6b-bcc4-23e331fff890.jpeg?1791285074932?1791285074932"
     },
     {
-      "id": "live-well",
+      "id": "dilara-kocak-ile-2030-da-ne-yiyecegiz",
       "mallId": "akmerkez",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/live-well",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Live Well",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/3ea7d366-09eb-472f-aca0-8b35c0c75ec4.jpeg?1791285677189?1791285677189"
+      "url": "https://www.akmerkez.com.tr/etkinlikler/dilara-kocak-ile-2030-da-ne-yiyecegiz",
+      "description": "Dilara Koçak ile geleceğin sofralarına bugünden bakın. “2030'da Ne Yiyeceğiz?” söyleşisinde, gıda ve teknolojinin kesişiminde şekillenen yeni nesil beslenme anlayışı; sürdürülebilirlik, yapay zekâ ve değişen tüketim alışkanlıkları ekseninde",
+      "startsAt": "2026-10-11",
+      "title": "Dilara Koçak ile 2030'da ne yiyeceğiz?",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/ad7deb0d-9d62-4e0c-bcdd-9f44e8051e06.jpeg?1791284861159?1791284861160"
     },
     {
-      "id": "move-well",
+      "id": "dr-esra-cavusoglu-ile-kadin-sagligi-ve-biohacking",
       "mallId": "akmerkez",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/move-well",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Move Well",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/3b1c96e8-d8d8-4305-ba01-31d0813815d5.jpeg?1791285713386?1791285713386"
-    },
-    {
-      "id": "think-well",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/think-well",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Think Well",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/3e674b1b-1f76-4f06-b1c6-a94fd0aa17d6.jpeg?1791285741101?1791285741101"
-    },
-    {
-      "id": "live-well-akmerkez",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/live-well-akmerkez",
-      "description": "İyi yaşamın farklı yollarını keşfetmeye davetlisin. Think Well, Move Well ve Eat Well başlıkları altında şekillenen Live Well @Akmerkez; ilham veren sohbetleri, hareket ve farkındalık deneyimlerini, atölyeleri ve iyi yaşam odaklı lezzetleri",
-      "title": "Live Well @ Akmerkez",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/22aeec52-77d2-4bbc-b9fd-1fad76fcb801.jpeg?1791379337219?1791379337219"
-    },
-    {
-      "id": "ses-terapisi",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/ses-terapisi",
-      "description": "✨ Auramind ile Ses Terapisi deneyiminde, sesin dönüştürücü etkisini keşfetmeye davetlisiniz. Farklı frekanslar ve titreşimler eşliğinde gerçekleşecek bu özel buluşma, şehir yaşamının temposuna kısa bir ara vererek zihinsel ve bedensel farkı",
-      "title": "Ses Terapisi",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/f97c3be4-545b-475e-b6c4-225ffe8ad2ab.jpeg?1791457341215?1791457341215"
-    },
-    {
-      "id": "handpan-dinletisi",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/handpan-dinletisi",
-      "description": "✨ Auramind ile gerçekleşecek Handpan Dinletisi’nde, handpan enstrümanının özgün tınıları eşliğinde zihninizi dinlendirecek ve anda kalmanıza yardımcı olacak meditatif bir deneyim yaşayın. Şehir hayatının temposuna kısa bir ara vererek sesin",
-      "title": "Handpan Dinletisi",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/6312845f-25bc-424c-8240-c378f29f0879.jpeg?1791457497128?1791457497128"
-    },
-    {
-      "id": "duygusal-detox",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/duygusal-detox",
-      "description": "✨ Masterpiece ile gerçekleşecek Duygusal Detox oturumunda, zihinsel ve duygusal dengeyi destekleyen farkındalık pratiklerini keşfedin. Günlük hayatın yoğunluğuna kısa bir ara vererek kendinize odaklanabileceğiniz bu deneyim, içsel sakinlik ",
-      "title": "Duygusal Detox",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/5808d3b1-9fad-48c8-8b3e-4cda0ce63c5e.jpeg?1791457640689?1791457640689"
-    },
-    {
-      "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/sehirde-dogayla-bulusmaya-hazir-misiniz",
-      "description": "Akmerkez Terasta Tarım’da hafta sonu ziyaretleri başlıyor! Her cumartesi 11:00–13:00 saatleri arasında sizleri doğayla iç içe keyifli bir deneyime davet ediyoruz. Detaylı bilgi ve rezervasyon için bizimle iletişime geçebilirsiniz: +90 543 4",
-      "title": "🌿 Şehirde doğayla buluşmaya hazır mısınız?",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/939fe257-f840-4bc6-bd76-e6953e93a719.jpeg?1777272648381?1777272648381"
+      "url": "https://www.akmerkez.com.tr/etkinlikler/dr-esra-cavusoglu-ile-kadin-sagligi-ve-biohacking",
+      "description": "Kadın sağlığına dair güncel bakış açılarını ve biohacking dünyasının öne çıkan yaklaşımlarını keşfetmek için Dr. Esra Çavuşoğlu ile bir araya gelin. İyi yaşamı destekleyen stratejiler, bilinçli alışkanlıklar ve yaşam kalitesini artırmaya yö",
+      "startsAt": "2026-10-10",
+      "title": "Dr. Esra Çavuşoğlu ile Kadın Sağlığı ve Biohacking",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/8f7711ea-1d36-4f3c-9fe6-f6fb69d8c8a3.jpeg?1791284685614?1791284685614"
     },
     {
       "id": "akmerkez-app-ile-beymen-club-da-20-indirim",
