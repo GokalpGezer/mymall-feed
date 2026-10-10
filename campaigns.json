@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-09T11:24:13+00:00",
+  "generatedAt": "2026-10-10T10:41:41+00:00",
   "campaigns": [
+    {
+      "id": "lego",
+      "mallId": "maltepe-piazza",
+      "title": "LEGO Friends Heartlake Cafe",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepepiazzaavm.com/storage/maltepepiazzaavm/event/October2026/lego-heartlake-musical-daveti-dijital-piazza-ekran-rev-lego-heartlake-musical-daveti-dijital-piazza-ekran-1280x720px.jpg",
+      "description": "LEGO Friends Heartlake Cafe Maltepe Piazza'da!",
+      "url": "https://maltepepiazzaavm.com/tr/etkinlikler-kampanyalar/lego"
+    },
     {
       "id": "alisveris-festivali",
       "mallId": "maltepe-piazza",
@@ -51,6 +61,15 @@
       "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/hali-dunyasi-pop-up-gunleri"
     },
     {
+      "id": "ekim-de-perde-aciliyor",
+      "mallId": "kozzy",
+      "title": "Ekim'de Perde Açılıyor!",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://kozzyavm.com/storage/kozzyavm/event/October2026/whatsapp-image-2026-10-09-at-165431.jpeg",
+      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/ekim-de-perde-aciliyor"
+    },
+    {
       "id": "i-yilige-sende-bir-i-lmek-at",
       "mallId": "kozzy",
       "title": "İyiliğe Sende Bir İlmek At!",
@@ -89,12 +108,22 @@
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne"
     },
     {
+      "id": "candyzoo-iprmtkaecr",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/candyzoo-iprmtkaecr",
+      "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
+      "title": "CandyZoo",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/644ed80a-a58e-4fbe-acb4-7681b8725a09.jpeg?1791551989363?1791551989363"
+    },
+    {
       "id": "mc-donald-s",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/mc-donald-s",
-      "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
       "title": "Mc Donald’s",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/09d2d72c-890d-403b-a77b-17b61c6dfab2.jpeg?1791461039046?1791461039046"
     },
@@ -104,7 +133,7 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/supplementler-com",
-      "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
       "title": "Supplementler.com",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/507b5c58-b628-4f2c-af01-621e72281ce2.jpeg?1791186140688?1791186140688"
     },
@@ -124,7 +153,7 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/marks-ve-spencer-tseut0y8xm",
-      "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
       "title": "Marks & Spencer",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/0da23481-7e69-4f8e-a9f1-2c5e47eade0c.jpeg?1790945859007?1790945859007"
     },
@@ -560,6 +589,16 @@
       "description": "Fenerbahçe Beko Maç Öncesi Keyfi Watergarden'da!",
       "title": "Fenerbahçe Beko Maç Öncesi Keyfi Watergarden'da!",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/b0d7bcbe-53dc-425e-ac7e-fc0ae8e35141.jpeg?1775032228069?1775032228069"
+    },
+    {
+      "id": "carki-cevir-surpriz-hediyeleri-kap",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.metropolistanbul.com/etkinlikler/carki-cevir-surpriz-hediyeleri-kap",
+      "description": "🎡 Çarkı Çevir, Sürpriz Hediyeleri Kap!",
+      "title": "🎡 Çarkı Çevir, Sürpriz Hediyeleri Kap!",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/224b95d2-2073-4398-8607-587f6cb015f4.jpeg?1791549943441?1791549943441"
     },
     {
       "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-cbx9m4ljtq0",
