@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T10:54:26+00:00",
+  "generatedAt": "2026-10-12T12:04:48+00:00",
   "campaigns": [
     {
       "id": "lego",
@@ -51,16 +51,6 @@
       "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/4x4-off-road-festivali"
     },
     {
-      "id": "hali-dunyasi-pop-up-gunleri",
-      "mallId": "maltepe-park",
-      "title": "Halı Dünyası Pop Up Günleri",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/September2026/hali-deposu-maltepe-parkta-1280x720px.webp",
-      "description": "Halı Dünyası Pop Up Günleri 11 Eylül - 11 Ekim tarihleri arasında Maltepe Park'ta!",
-      "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/hali-dunyasi-pop-up-gunleri"
-    },
-    {
       "id": "ekim-de-perde-aciliyor",
       "mallId": "kozzy",
       "title": "Ekim'de Perde Açılıyor!",
@@ -108,14 +98,14 @@
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne"
     },
     {
-      "id": "candyzoo-iprmtkaecr",
+      "id": "spor-alisverisinizde-kazanc-zamani",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
       "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/candyzoo-iprmtkaecr",
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/spor-alisverisinizde-kazanc-zamani",
       "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
-      "title": "CandyZoo",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/644ed80a-a58e-4fbe-acb4-7681b8725a09.jpeg?1791551989363?1791551989363"
+      "title": "Spor Alışverişinizde Kazanç Zamanı",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/988fe06f-733f-42ee-b4a9-e6ff6ed89bbf.jpeg?1791792885527?1791792885527"
     },
     {
       "id": "mc-donald-s",
@@ -123,19 +113,9 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/mc-donald-s",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
       "title": "Mc Donald’s",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/09d2d72c-890d-403b-a77b-17b61c6dfab2.jpeg?1791461039046?1791461039046"
-    },
-    {
-      "id": "supplementler-com",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/supplementler-com",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Supplementler.com",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/507b5c58-b628-4f2c-af01-621e72281ce2.jpeg?1791186140688?1791186140688"
     },
     {
       "id": "loris-parfum",
@@ -146,16 +126,6 @@
       "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
       "title": "Loris Parfüm",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ec044f62-1e24-44d6-9b1e-30f1c6dff638.jpeg?1790949729997?1790949729997"
-    },
-    {
-      "id": "marks-ve-spencer-tseut0y8xm",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/marks-ve-spencer-tseut0y8xm",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Marks & Spencer",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/0da23481-7e69-4f8e-a9f1-2c5e47eade0c.jpeg?1790945859007?1790945859007"
     },
     {
       "id": "yargici-uldyhyysnr5",
@@ -186,17 +156,6 @@
       "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
       "title": "Faik Sönmez",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ad66a571-22fa-4032-bee6-8414d2f2c504.jpeg?1787064507215?1787064507215"
-    },
-    {
-      "id": "dilara-kocak-ile-2030-da-ne-yiyecegiz",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/dilara-kocak-ile-2030-da-ne-yiyecegiz",
-      "description": "Dilara Koçak ile geleceğin sofralarına bugünden bakın. “2030'da Ne Yiyeceğiz?” söyleşisinde, gıda ve teknolojinin kesişiminde şekillenen yeni nesil beslenme anlayışı; sürdürülebilirlik, yapay zekâ ve değişen tüketim alışkanlıkları ekseninde",
-      "startsAt": "2026-10-11",
-      "title": "Dilara Koçak ile 2030'da ne yiyeceğiz?",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/ad7deb0d-9d62-4e0c-bcdd-9f44e8051e06.jpeg?1791284861159?1791284861160"
     },
     {
       "id": "ecz-adile-oezdag-ile-saglikli-yasamin-kodlari",
@@ -250,46 +209,6 @@
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/22aeec52-77d2-4bbc-b9fd-1fad76fcb801.jpeg?1791379337219?1791379337219"
     },
     {
-      "id": "ses-terapisi",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/ses-terapisi",
-      "description": "✨ Auramind ile Ses Terapisi deneyiminde, sesin dönüştürücü etkisini keşfetmeye davetlisiniz. Farklı frekanslar ve titreşimler eşliğinde gerçekleşecek bu özel buluşma, şehir yaşamının temposuna kısa bir ara vererek zihinsel ve bedensel farkı",
-      "title": "Ses Terapisi",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/f97c3be4-545b-475e-b6c4-225ffe8ad2ab.jpeg?1791457341215?1791457341215"
-    },
-    {
-      "id": "handpan-dinletisi",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/handpan-dinletisi",
-      "description": "✨ Auramind ile gerçekleşecek Handpan Dinletisi’nde, handpan enstrümanının özgün tınıları eşliğinde zihninizi dinlendirecek ve anda kalmanıza yardımcı olacak meditatif bir deneyim yaşayın. Şehir hayatının temposuna kısa bir ara vererek sesin",
-      "title": "Handpan Dinletisi",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/6312845f-25bc-424c-8240-c378f29f0879.jpeg?1791457497128?1791457497128"
-    },
-    {
-      "id": "matcha-workshop",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/matcha-workshop",
-      "description": "✨ Kinocha ile gerçekleşecek Matcha Workshop’ta, Japon çay kültürünün en özel ritüellerinden biriyle tanışın. Matchanın hazırlanışından tadım deneyimine uzanan bu özel buluşmada, iyi yaşamı destekleyen lezzetleri ve bilinçli tüketim alışkanl",
-      "title": "Matcha Workshop",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/24a2b57f-916a-484f-be5d-df62be31e19b.jpeg?1791460617239?1791460617239"
-    },
-    {
-      "id": "dr-ayfer-aydin-ile-cildimiz-icimizi-yansitir",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/dr-ayfer-aydin-ile-cildimiz-icimizi-yansitir",
-      "description": "✨ “Cildimiz İçimizi Yansıtır” söyleşisinde Dr. Ayfer Aydın ile cilt sağlığını bütünsel bir perspektiften ele alın. İyi yaşam alışkanlıklarından beslenmeye uzanan pek çok faktörün cilt üzerindeki etkilerini keşfedeceğiniz bu ilham verici bul",
-      "title": "Dr. Ayfer Aydın ile Cildimiz İçimizi Yansıtır",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/49cdd399-f07d-471e-a231-42a7d9491dee.jpeg?1791460724006?1791460724006"
-    },
-    {
       "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
       "mallId": "akmerkez",
       "kind": "event",
@@ -340,14 +259,14 @@
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/369f6cb8-daea-405d-917d-9754854794b1.jpeg?1790921315287?1790921315287"
     },
     {
-      "id": "pop-up-market-hkgxpyroqml",
+      "id": "giorgos-kakosaios",
       "mallId": "vadistanbul",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.vadistanbul.com/etkinlikler/pop-up-market-hkgxpyroqml",
+      "url": "https://www.vadistanbul.com/etkinlikler/giorgos-kakosaios",
       "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Pop Up Market",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ByXw10i5Gx-main.jpeg?1790857051372"
+      "title": "Giorgos Kakosaios",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJTFEGqiGe-main.jpeg?1791792262767"
     },
     {
       "id": "paribu-acikhava-etkinlikleri-sjg-ydozczx",
@@ -400,6 +319,16 @@
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/rkJzytubU-main.jpeg?1739803602777"
     },
     {
+      "id": "pop-up-market-hkgxpyroqml",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/pop-up-market-hkgxpyroqml",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Pop Up Market",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ByXw10i5Gx-main.jpeg?1790857051372"
+    },
+    {
       "id": "vadistanbul-9-yasinda",
       "mallId": "vadistanbul",
       "kind": "event",
@@ -448,16 +377,6 @@
       "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Vadistanbul Summer Bazaar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJdhFUWQMe-main.jpeg?1782831537097"
-    },
-    {
-      "id": "kurban-bayraminiz-kutlu-olsun-h1eelyobxfg",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.vadistanbul.com/etkinlikler/kurban-bayraminiz-kutlu-olsun-h1eelyobxfg",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Kurban Bayramınız Kutlu Olsun",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ryel1O-gzg-main.jpeg?1779691241027"
     },
     {
       "id": "indirim-syxikhd7izx",
@@ -608,16 +527,6 @@
       "description": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
       "title": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/fa0f0a49-eecd-436a-9c35-d0be6f329377.jpeg?1791190755910?1791190755910"
-    },
-    {
-      "id": "kadinca-fest",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.metropolistanbul.com/etkinlikler/kadinca-fest",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Kadınca Fest",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/a80b8602-0246-4107-8d98-f6827f3da5b4.jpeg?1790175532357?1790175532357"
     },
     {
       "id": "sizi-dinleyen-metropol-unuz-var",
@@ -1166,6 +1075,16 @@
       "image": "https://forum-one.knscdn.com/images/promotion/promotion_image_tr/main/23499b0d-b924-4323-9d93-11ee401661e4.jpeg?1790932324396?1790932324396"
     },
     {
+      "id": "yeni-sezon-giyimde-indirim",
+      "mallId": "forum-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://forumistanbul.com.tr/firsat/yeni-sezon-giyimde-indirim",
+      "description": "Forum İstanbul'da anlar, etkinlikler ve mekanın enerjisinden kareler.",
+      "title": "Yeni Sezon Giyimde İndirim",
+      "image": "https://forum-one.knscdn.com/images/promotion/promotion_image_tr/main/a4690fb8-9b3d-4f6f-8e44-bad4a55bae1d.jpeg?1791786156651?1791786156651"
+    },
+    {
       "id": "Galeri",
       "mallId": "capitol",
       "kind": "event",
@@ -1274,13 +1193,43 @@
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/ogretmenlergunukamp-2023.jpg"
     },
     {
+      "id": "kupa-boyama-atolyesi",
+      "mallId": "ozdilekpark",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/kupa-boyama-atolyesi",
+      "description": "Etkinliklerimize katılan tüm minik misafirlerimize teşekkür ederiz.",
+      "title": "Kupa Boyama Atölyesi",
+      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/336/kucuk.jpg"
+    },
+    {
+      "id": "cicek-kiz-cocuk-tiyatrosu",
+      "mallId": "ozdilekpark",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/cicek-kiz-cocuk-tiyatrosu",
+      "description": "Etkinliğimize katılan tüm minik misafirlerimize teşekkür ederiz.",
+      "title": "Çiçek Kız Çocuk Tiyatrosu",
+      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/338/kucuk.jpg"
+    },
+    {
+      "id": "seramik-boyama-atolyesi",
+      "mallId": "ozdilekpark",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/seramik-boyama-atolyesi",
+      "description": "Etkinliklerimize katılan tüm minik misafirlerimize teşekkür ederiz.",
+      "title": "Seramik Boyama Atölyesi",
+      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/335/kucuk.jpg"
+    },
+    {
       "id": "rapunzel-cocuk-tiyatrosu",
       "mallId": "ozdilekpark",
       "kind": "event",
       "isPaid": false,
       "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/rapunzel-cocuk-tiyatrosu",
       "title": "Rapunzel Çocuk Tiyatrosu",
-      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/334/afis.jpg"
+      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/334/kucuk.jpg"
     },
     {
       "id": "teraryum-yapimi-atolyesi",
@@ -1361,36 +1310,6 @@
       "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/robot-ugur-bocegi-tasarimi-atolyesi",
       "title": "Robot Uğur Böceği Tasarımı Atölyesi",
       "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/319/kucuk.jpg"
-    },
-    {
-      "id": "mini-bahce-tasarimi-atolyesi",
-      "mallId": "ozdilekpark",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/mini-bahce-tasarimi-atolyesi",
-      "description": "Mini Bahçe Tasarımı Atölyesi etkinliğimize katılan tüm minik misafirlerimize teşekkür ederiz.",
-      "title": "Mini Bahçe Tasarımı Atölyesi",
-      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/325/kucuk.jpg"
-    },
-    {
-      "id": "pofuduk-slime-yapimi-atolyesi",
-      "mallId": "ozdilekpark",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/pofuduk-slime-yapimi-atolyesi",
-      "description": "Pofuduk Slime Yapımı Atölyesi etkinliğimize katılan tüm misafirlerimize teşekkür ederiz.",
-      "title": "Pofuduk Slime Yapımı Atölyesi",
-      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/323/kucuk.jpg"
-    },
-    {
-      "id": "babalar-gunune-ozel-sapka-tasarimi-atolyesi-ozdilekpark-istanbulda",
-      "mallId": "ozdilekpark",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/babalar-gunune-ozel-sapka-tasarimi-atolyesi-ozdilekpark-istanbulda",
-      "description": "Etkinliğimize atılım sağlayan tüm minik misafirlerimize teşekkür ederiz.",
-      "title": "Babalar Günü’ne Özel Şapka Tasarımı Atölyesi ÖzdilekPark İstanbul’da!",
-      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/318/kucuk.jpg"
     },
     {
       "id": "18-mart-canakkale-zaferi-temali-resim-sergisi",
