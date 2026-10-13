@@ -372,7 +372,7 @@
       "id": "atrium-atakoy",
       "name": "Atrium",
       "city": "Bakırköy",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 40.98876,
         "lng": 28.84585
@@ -469,7 +469,7 @@
       "id": "deposite",
       "name": "Deposite Outlet",
       "city": "Başakşehir",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 41.07104,
         "lng": 28.80897
@@ -518,17 +518,6 @@
         "lng": 28.68855
       },
       "logo": "assets/mall_logos/torium.png"
-    },
-    {
-      "id": "prestige-mall",
-      "name": "Prestige Mall",
-      "city": "Başakşehir",
-      "active": false,
-      "location": {
-        "lat": 41.06772,
-        "lng": 28.69099
-      },
-      "logo": "assets/mall_logos/prestige-mall.png"
     },
     {
       "id": "akbati",
@@ -740,11 +729,12 @@
       "id": "brandium",
       "name": "Brandium",
       "city": "Ataşehir",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 40.98255,
         "lng": 29.13225
-      }
+      },
+      "logo": "assets/mall_logos/brandium.png"
     },
     {
       "id": "buyaka",
@@ -899,6 +889,17 @@
       },
       "active": true,
       "logo": "assets/mall_logos/vega-istanbul.png"
+    },
+    {
+      "id": "first-avenue",
+      "name": "First Avenue",
+      "city": "Büyükçekmece",
+      "active": true,
+      "location": {
+        "lat": 41.02019,
+        "lng": 28.62667
+      },
+      "logo": "assets/mall_logos/first-avenue.png"
     }
   ]
 }
