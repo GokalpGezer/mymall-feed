@@ -617,7 +617,7 @@
     },
     {
       "id": "maxi-avm",
-      "name": "Maxi AVM",
+      "name": "Vega Maxi AVM",
       "city": "Silivri",
       "active": true,
       "location": {
@@ -874,14 +874,14 @@
       "city": "Bakırköy",
       "active": true,
       "location": {
-        "lat": 40.9762,
-        "lng": 28.7862
+        "lat": 40.9842646,
+        "lng": 28.7822861
       },
       "logo": "assets/mall_logos/koru-florya.png"
     },
     {
       "id": "vega-istanbul",
-      "name": "Vega İstanbul",
+      "name": "Vega AVM İstanbul",
       "city": "Eyüpsultan",
       "location": {
         "lat": 41.09235,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T11:52:55+00:00",
+  "generatedAt": "2026-10-14T09:35:56+00:00",
   "campaigns": [
     {
       "id": "lego",
@@ -42,17 +42,6 @@
       "isPaid": false,
       "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/May2026/gun-erken-doguyor-1280x720px.jpg",
       "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/maltepe-park-ta-gun-erken-doguyor",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "4x4-off-road-festivali",
-      "mallId": "maltepe-park",
-      "title": "4x4 Off-Road Festivali",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/October2026/off-road-patlangacsiz-1280x720px.webp",
-      "description": "4x4 Off-Road Festivali Maltepe Park'ta!",
-      "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/4x4-off-road-festivali",
       "firstSeen": "2026-10-12"
     },
     {
@@ -185,18 +174,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "ecz-adile-oezdag-ile-saglikli-yasamin-kodlari",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/ecz-adile-oezdag-ile-saglikli-yasamin-kodlari",
-      "description": "“Sağlıklı Yaşamın Kodları” söyleşisinde, Ecz. Adile Özdağ ve Prof. Dr. Murat Aksoy ile iyi yaşamın yapı taşlarını keşfedin. Sağlıklı yaşam, metabolik denge ve yaşam kalitesini destekleyen güncel yaklaşımların ele alınacağı bu özel buluşmaya",
-      "startsAt": "2026-10-13",
-      "title": "Ecz. Adile Özdağ ile Sağlıklı Yaşamın Kodları",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/ef1f3774-8892-4b6b-bcc4-23e331fff890.jpeg?1791285074932?1791285074932",
-      "firstSeen": "2026-10-12"
-    },
-    {
       "id": "live-well",
       "mallId": "akmerkez",
       "kind": "event",
@@ -323,7 +300,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/otoparkimizda-3-saat-uecretsiz",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Otoparkımızda 3 Saat Ücretsiz",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/HkQbPbRpWl-main.jpeg?1777370876186",
       "firstSeen": "2026-10-12"
@@ -334,7 +311,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-suerdueruelebilirlik-vizyonuyla-marcom-awards-ta-uec-kez-zirvede",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Vadistanbul Sürdürülebilirlik Vizyonuyla Marcom Awards'ta Üç Kez Zirvede",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/Sk2-idlxWl-main.jpeg?1762851589034",
       "firstSeen": "2026-10-12"
@@ -345,7 +322,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-da-evcil-hayvan-dostlarimizi-memnuniyetle-karsiliyoruz",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Vadistanbul’da Evcil Hayvan Dostlarımızı Memnuniyetle Karşılıyoruz",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1M8bdxcyx-main.jpeg?1785756755273",
       "firstSeen": "2026-10-12"
@@ -367,7 +344,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/pop-up-market-hkgxpyroqml",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Pop Up Market",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ByXw10i5Gx-main.jpeg?1790857051372",
       "firstSeen": "2026-10-12"
@@ -378,7 +355,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-9-yasinda",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Vadistanbul 9 Yaşında",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1WIKE-FMe-main.jpeg?1789114698189",
       "firstSeen": "2026-10-12"
@@ -389,7 +366,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/senin-kahraman-hikayen-hangisi-bye-rikdugl",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Senin Kahraman Hikayen Hangisi?",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ByZrskPuGx-main.jpeg?1788439353353",
       "firstSeen": "2026-10-12"
@@ -400,7 +377,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/30-agustos-zafer-bayrami-kutlu-olsun-r1cmtytwme",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "30 Ağustos Zafer Bayramı Kutlu Olsun!",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/BJ67YtpwMg-main.jpeg?1787824422255",
       "firstSeen": "2026-10-12"
@@ -411,7 +388,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/summer-bazaar",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Summer Bazaar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SykCvhVBGe-main.jpeg?1785149383296",
       "firstSeen": "2026-10-12"
@@ -422,7 +399,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-summer-bazaar",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Vadistanbul Summer Bazaar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJdhFUWQMe-main.jpeg?1782831537097",
       "firstSeen": "2026-10-12"
@@ -433,10 +410,21 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/alisveris-firsatlari/indirim-syxikhd7izx",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
-      "title": "Find out more",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Fırsatlar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/promotion_image/ryU1rDmjfe-small.jpeg?1791354078971",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "havuz-sov-saatleri",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.watergarden.com.tr/etkinlikler/havuz-sov-saatleri",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "title": "Havuz Şov Saatleri",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/abb011dd-80dd-4f3f-a113-59c8f7dfeba8.jpeg?1791903048573?1791903048573",
+      "firstSeen": "2026-10-14"
     },
     {
       "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi",
@@ -546,17 +534,6 @@
       "description": "Watergarden MotoFest 2026",
       "title": "Watergarden MotoFest 2026",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/e361c092-93f8-4671-83a8-4a82c23475e2.jpeg?1778053095204?1778053095204",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "fenerbahce-beko-mac-oncesi-keyfi-watergarden-da",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.watergarden.com.tr/etkinlikler/fenerbahce-beko-mac-oncesi-keyfi-watergarden-da",
-      "description": "Fenerbahçe Beko Maç Öncesi Keyfi Watergarden'da!",
-      "title": "Fenerbahçe Beko Maç Öncesi Keyfi Watergarden'da!",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/b0d7bcbe-53dc-425e-ac7e-fc0ae8e35141.jpeg?1775032228069?1775032228069",
       "firstSeen": "2026-10-12"
     },
     {
