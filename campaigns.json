@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T09:35:56+00:00",
+  "generatedAt": "2026-10-15T09:12:54+00:00",
   "campaigns": [
     {
       "id": "lego",
@@ -43,6 +43,17 @@
       "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/May2026/gun-erken-doguyor-1280x720px.jpg",
       "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/maltepe-park-ta-gun-erken-doguyor",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "garaj-gunleri",
+      "mallId": "maltepe-park",
+      "title": "Garaj Günleri",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/October2026/maltepepark-garaj-1280x720px.webp",
+      "description": "Ünlü markalar muhteşem indirimlerle Maltepe Park Garaj Günleri’nde!",
+      "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/garaj-gunleri",
+      "firstSeen": "2026-10-14"
     },
     {
       "id": "ekim-de-perde-aciliyor",
@@ -97,13 +108,32 @@
       "firstSeen": "2026-10-12"
     },
     {
+      "id": "united-colors-of-benetton-grjegci4cws",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/united-colors-of-benetton-grjegci4cws",
+      "title": "United Colors Of Benetton",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f5ea7263-a3f1-4cfa-9ea1-43b7c054c54d.jpeg?1792051842390?1792051842390",
+      "firstSeen": "2026-10-15"
+    },
+    {
+      "id": "mr-dumpling",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/mr-dumpling",
+      "title": "Mr Dumpling",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/dac1f1b4-14be-4647-b8d2-64ed7bf222f8.jpeg?1792048135807?1792048135807",
+      "firstSeen": "2026-10-15"
+    },
+    {
       "id": "ghisa-qawnhsbtwlt",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/ghisa-qawnhsbtwlt",
-      "description": "Yeni Sezon Ürünlerinde %10 İndirim",
-      "title": "Ghisa",
+      "title": "Ghisa Qawnhsbtwlt",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ac8b2c6e-4d7c-46b2-a6e0-921de91d34d7.jpeg?1791808737100?1791808737100",
       "firstSeen": "2026-10-13"
     },
@@ -946,6 +976,16 @@
       "firstSeen": "2026-10-12"
     },
     {
+      "id": "akbatinin-web-sitesine-gir-surpriz-hediyeni-yakala",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/akbatinin-web-sitesine-gir-surpriz-hediyeni-yakala/",
+      "description": "Akbatı’nın Web Sitesine Gir, Sürpriz Hediyeni Yakala!",
+      "title": "Akbatı’nın Web Sitesine Gir, Sürpriz Hediyeni Yakala!",
+      "firstSeen": "2026-10-14"
+    },
+    {
       "id": "akbati-15-yil-ozel-cekilis-kampanyasi",
       "mallId": "akbati",
       "kind": "discount",
@@ -993,16 +1033,6 @@
       "url": "https://akbati.com/kampanyalar/akbatidan-annelere-kalpten-kalbe-hediye/",
       "description": "Çalışma Saatleri: 10.00-22.00",
       "title": "Akbatı’dan Annelere Kalpten Kalbe Hediye",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "akbati-mobil-uygulamasinda-size-ozel-bosch-indirimi",
-      "mallId": "akbati",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://akbati.com/kampanyalar/akbati-mobil-uygulamasinda-size-ozel-bosch-indirimi/",
-      "description": "Akbatı Bosch mağazasına ankastre ürünlerde ve küçük ev aletlerinde %5 indirim • Kampanya tarihleri: 5 Eylül – 5 Ekim 2023 • Kampanyadan yararlanmak için Akbatı Mobil Uygulaması’nı telefonunuza indirmeniz ve geçerli indirim kodunu almanız ge",
-      "title": "Akbatı Mobil Uygulaması’nda Size Özel Bosch İndirimi",
       "firstSeen": "2026-10-12"
     },
     {
@@ -1236,18 +1266,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "yeni-yasimizi-birlikte-kutlayalim",
-      "mallId": "ozdilekpark",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/yeni-yasimizi-birlikte-kutlayalim",
-      "description": "11. yılımıza özel 13 - 14 Eylül tarihlerinde gerçekleşecek olan etkinliklerimize, tüm misafirlerimiz davetlidir.",
-      "startsAt": "2026-09-14",
-      "title": "Yeni Yaşımızı Birlikte Kutlayalım",
-      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/320/kucuk.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
       "id": "okula-donus-heyecani-basliyor",
       "mallId": "ozdilekpark",
       "kind": "event",
@@ -1256,18 +1274,6 @@
       "description": "Etkinliğimize katılan tüm minik misafirlerimize teşekkür ederiz.",
       "title": "Okula Dönüş Heyecanı Başlıyor!",
       "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/324/kucuk.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "ozdilekpark-istanbulda-bayram-coskusu",
-      "mallId": "ozdilekpark",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/ozdilekpark-istanbulda-bayram-coskusu",
-      "description": "30 Ağustos Zafer Bayramımıza özel düzenlediğimiz bando gösterimize ilginiz için teşekkür ederiz.",
-      "startsAt": "2026-08-30",
-      "title": "ÖzdilekPark İstanbul’da Bayram Coşkusu!",
-      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/321/kucuk.jpg",
       "firstSeen": "2026-10-12"
     },
     {
@@ -1302,18 +1308,6 @@
       "startsAt": "2026-10-29",
       "title": "29 Ekim Cumhuriyet Bandosu",
       "image": "https://s3-eu-west-1.amazonaws.com/canpark/images/event_image/B1go_gTxkg-main.jpeg?1730115737218",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "30-agustos-zafer-bayrami-coskusu-canpark-avm-de",
-      "mallId": "canpark",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.canparkavm.com.tr/tr/etkinlikler/30-agustos-zafer-bayrami-coskusu-canpark-avm-de",
-      "description": "30 Ağustos Cuma günü saat 14:00-17:00 saatleri arasında Zafer Bayramı Bando Gösterisi yapılacaktır. Tüm ziyaretçilerimiz gösteriye davetlidir.",
-      "startsAt": "2026-08-30",
-      "title": "30 Ağustos Zafer Bayramı Coşkusu Canpark AVM'de!",
-      "image": "https://s3-eu-west-1.amazonaws.com/canpark/images/event_image/HyaKVhno0-main.jpeg?1724855430105",
       "firstSeen": "2026-10-12"
     }
   ]
