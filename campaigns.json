@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T09:12:54+00:00",
+  "generatedAt": "2026-10-16T09:06:23+00:00",
   "campaigns": [
     {
       "id": "lego",
@@ -113,6 +113,7 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/united-colors-of-benetton-grjegci4cws",
+      "description": "Spor Alışverişinizde Kazanç Zamanı",
       "title": "United Colors Of Benetton",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f5ea7263-a3f1-4cfa-9ea1-43b7c054c54d.jpeg?1792051842390?1792051842390",
       "firstSeen": "2026-10-15"
@@ -123,7 +124,8 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/mr-dumpling",
-      "title": "Mr Dumpling",
+      "description": "Spor Alışverişinizde Kazanç Zamanı",
+      "title": "MR. Dumpling",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/dac1f1b4-14be-4647-b8d2-64ed7bf222f8.jpeg?1792048135807?1792048135807",
       "firstSeen": "2026-10-15"
     },
@@ -133,7 +135,8 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/ghisa-qawnhsbtwlt",
-      "title": "Ghisa Qawnhsbtwlt",
+      "description": "Yeni Sezon Ürünlerinde %10 İndirim",
+      "title": "Ghisa",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ac8b2c6e-4d7c-46b2-a6e0-921de91d34d7.jpeg?1791808737100?1791808737100",
       "firstSeen": "2026-10-13"
     },
@@ -446,6 +449,17 @@
       "firstSeen": "2026-10-12"
     },
     {
+      "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-wgdargwx-_q",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.watergarden.com.tr/etkinlikler/sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-wgdargwx-_q",
+      "description": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
+      "title": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/614e48a4-5bf0-4118-8c02-eb8d6e540a97.jpeg?1792132003975?1792132003975",
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "havuz-sov-saatleri",
       "mallId": "watergarden",
       "kind": "event",
@@ -455,17 +469,6 @@
       "title": "Havuz Şov Saatleri",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/abb011dd-80dd-4f3f-a113-59c8f7dfeba8.jpeg?1791903048573?1791903048573",
       "firstSeen": "2026-10-14"
-    },
-    {
-      "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.watergarden.com.tr/etkinlikler/sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi",
-      "description": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
-      "title": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/fecbc1e5-faf6-48e5-a048-d19759997dcb.jpeg?1791189692878?1791189692878",
-      "firstSeen": "2026-10-12"
     },
     {
       "id": "korsanlar-watergarden-i-ele-geciriyor-mqwrhcmk7t7",
@@ -567,15 +570,26 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-cbx9m4ljtq0",
+      "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi",
       "mallId": "metropol-istanbul",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.metropolistanbul.com/etkinlikler/sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-cbx9m4ljtq0",
+      "url": "https://www.metropolistanbul.com/etkinlikler/sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi",
       "description": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
       "title": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/fa0f0a49-eecd-436a-9c35-d0be6f329377.jpeg?1791190755910?1791190755910",
-      "firstSeen": "2026-10-12"
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/145dc92d-d59f-4d25-acfa-b855da94aaa2.jpeg?1792131891035?1792131891035",
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "carki-cevir-surpriz-hediyeleri-yakala",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.metropolistanbul.com/etkinlikler/carki-cevir-surpriz-hediyeleri-yakala",
+      "description": "Çarkı Çevir, Sürpriz Hediyeleri Yakala!",
+      "title": "Çarkı Çevir, Sürpriz Hediyeleri Yakala!",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/8b984ac6-f31f-43a1-946d-e9799df9df91.jpeg?1792132249199?1792132249199",
+      "firstSeen": "2026-10-16"
     },
     {
       "id": "sizi-dinleyen-metropol-unuz-var",
@@ -795,6 +809,7 @@
       "url": "https://istanbulcevahir.com/etkinlikler/sonbaharin-renkleriyle-ogrenmeye-merhaba/",
       "description": "Hafta içi ve Hafta sonu 14:30/15:30/16:30/17:30 saatlerinde",
       "title": "Sonbaharın Renkleriyle, Öğrenmeye Merhaba",
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/08/yaraticilik-kulubu-eylul-kucuk-tr.webp",
       "firstSeen": "2026-10-12"
     },
     {
@@ -805,6 +820,7 @@
       "url": "https://istanbulcevahir.com/etkinlikler/agustos-sanat-kasifleri/",
       "description": "Hafta içi ve Hafta sonu 14:30/15:30/16:30/17:30 saatlerinde ‘’Yaratıcı Atölyeler’’",
       "title": "Ağustos Sanat Kaşifleri",
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/07/yaraticilik-kulubu-agustos-kucuk-tr.jpg",
       "firstSeen": "2026-10-12"
     },
     {
@@ -815,6 +831,7 @@
       "url": "https://istanbulcevahir.com/etkinlikler/temmuz-gunesi-cocuk-nesesi/",
       "description": "Hafta içi ve Hafta sonu 14:30/15:30/16:30/17:30 saatlerinde",
       "title": "Temmuz Güneşi, Çocuk Neşesi!",
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/07/yaraticilik-kulubu-temmuz-kucuk-tr-1.webp",
       "firstSeen": "2026-10-12"
     },
     {
@@ -825,6 +842,7 @@
       "url": "https://istanbulcevahir.com/etkinlikler/gunes-acti-etkinlik-basladi/",
       "description": "Hafta içi ve Hafta sonu 14:30/15:30/16:30/17:30 saatlerinde “Yaratıcı Atölyeler”",
       "title": "Güneş Açtı Etkinlik Başladı",
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/06/kucuk-adimlar-buyuk-fikirler-haziran-kucuk-tr.webp",
       "firstSeen": "2026-10-12"
     },
     {
@@ -835,6 +853,7 @@
       "url": "https://istanbulcevahir.com/etkinlikler/mayisin-renkli-dunyasina-yolculuk/",
       "description": "Hafta içi ve hafta sonu 14:30/15:30/16:30/17.30 saatlerinde ‘’Yaratıcı Atölyeler’’",
       "title": "Mayıs’ın Renkli Dünyasına Yolculuk",
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/04/yaraticilik-kulubu-mayis-kucuk-tr.webp",
       "firstSeen": "2026-10-12"
     },
     {
@@ -845,7 +864,7 @@
       "url": "https://istanbulcevahir.com/etkinlikler/baharin-renkleri-seninle/",
       "description": "Hafta içi ve hafta sonu 14:30/15:30/16:30/17.30 saatlerinde ‘’Yaratıcı Atölyeler’’ Yaratıcılık Kulübü Nisan Programı",
       "title": "Baharın Renkleri Seninle!",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/03/yaraticilik-kulubu-mart-kucuk-tr.jpg",
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/03/nisan-program-mobil-kucuk-tr.webp",
       "firstSeen": "2026-10-12"
     },
     {
