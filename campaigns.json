@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:06:23+00:00",
+  "generatedAt": "2026-10-17T08:38:37+00:00",
   "campaigns": [
     {
       "id": "lego",
@@ -108,6 +108,28 @@
       "firstSeen": "2026-10-12"
     },
     {
+      "id": "misirli",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/misirli",
+      "description": "10.000 TL'ye 2000 TL İndirim",
+      "title": "Mısırlı",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/68d24857-fcb0-41d5-9628-76b1c7d9e2fa.jpeg?1792156717516?1792156717516",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "candyzoo-5er9fvuxd-9",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/candyzoo-5er9fvuxd-9",
+      "description": "Frozzle Dondurma Alana 2. Frozzle %50 İndirimli",
+      "title": "CandyZoo",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f06f4dbb-a960-49bd-9d39-9d8563698dcb.jpeg?1792149336680?1792149336680",
+      "firstSeen": "2026-10-17"
+    },
+    {
       "id": "united-colors-of-benetton-grjegci4cws",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
@@ -116,17 +138,6 @@
       "description": "Spor Alışverişinizde Kazanç Zamanı",
       "title": "United Colors Of Benetton",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f5ea7263-a3f1-4cfa-9ea1-43b7c054c54d.jpeg?1792051842390?1792051842390",
-      "firstSeen": "2026-10-15"
-    },
-    {
-      "id": "mr-dumpling",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/mr-dumpling",
-      "description": "Spor Alışverişinizde Kazanç Zamanı",
-      "title": "MR. Dumpling",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/dac1f1b4-14be-4647-b8d2-64ed7bf222f8.jpeg?1792048135807?1792048135807",
       "firstSeen": "2026-10-15"
     },
     {
@@ -306,17 +317,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "giorgos-kakosaios",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.vadistanbul.com/etkinlikler/giorgos-kakosaios",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Giorgos Kakosaios",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJTFEGqiGe-main.jpeg?1791792262767",
-      "firstSeen": "2026-10-12"
-    },
-    {
       "id": "paribu-acikhava-etkinlikleri-sjg-ydozczx",
       "mallId": "vadistanbul",
       "kind": "event",
@@ -436,6 +436,17 @@
       "title": "Vadistanbul Summer Bazaar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJdhFUWQMe-main.jpeg?1782831537097",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "kurban-bayraminiz-kutlu-olsun-h1eelyobxfg",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/kurban-bayraminiz-kutlu-olsun-h1eelyobxfg",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Kurban Bayramınız Kutlu Olsun",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ryel1O-gzg-main.jpeg?1779691241027",
+      "firstSeen": "2026-10-17"
     },
     {
       "id": "indirim-syxikhd7izx",
