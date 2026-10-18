@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T08:38:37+00:00",
+  "generatedAt": "2026-10-18T08:55:16+00:00",
   "campaigns": [
     {
       "id": "lego",
@@ -410,7 +410,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/30-agustos-zafer-bayrami-kutlu-olsun-r1cmtytwme",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "30 Ağustos Zafer Bayramı Kutlu Olsun!",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/BJ67YtpwMg-main.jpeg?1787824422255",
       "firstSeen": "2026-10-12"
@@ -421,7 +421,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/summer-bazaar",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Summer Bazaar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SykCvhVBGe-main.jpeg?1785149383296",
       "firstSeen": "2026-10-12"
@@ -432,7 +432,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-summer-bazaar",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Vadistanbul Summer Bazaar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJdhFUWQMe-main.jpeg?1782831537097",
       "firstSeen": "2026-10-12"
@@ -443,7 +443,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/kurban-bayraminiz-kutlu-olsun-h1eelyobxfg",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Kurban Bayramınız Kutlu Olsun",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ryel1O-gzg-main.jpeg?1779691241027",
       "firstSeen": "2026-10-17"
@@ -455,7 +455,7 @@
       "isPaid": false,
       "url": "https://www.vadistanbul.com/alisveris-firsatlari/indirim-syxikhd7izx",
       "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Fırsatlar",
+      "title": "Find out more",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/promotion_image/ryU1rDmjfe-small.jpeg?1791354078971",
       "firstSeen": "2026-10-12"
     },
