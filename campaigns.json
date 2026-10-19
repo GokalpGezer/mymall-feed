@@ -1,17 +1,6 @@
 {
-  "generatedAt": "2026-10-18T08:55:16+00:00",
+  "generatedAt": "2026-10-19T09:59:30+00:00",
   "campaigns": [
-    {
-      "id": "lego",
-      "mallId": "maltepe-piazza",
-      "title": "LEGO Friends Heartlake Cafe",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://maltepepiazzaavm.com/storage/maltepepiazzaavm/event/October2026/lego-heartlake-musical-daveti-dijital-piazza-ekran-rev-lego-heartlake-musical-daveti-dijital-piazza-ekran-1280x720px.jpg",
-      "description": "LEGO Friends Heartlake Cafe Maltepe Piazza'da!",
-      "url": "https://maltepepiazzaavm.com/tr/etkinlikler-kampanyalar/lego",
-      "firstSeen": "2026-10-12"
-    },
     {
       "id": "alisveris-festivali",
       "mallId": "maltepe-piazza",
@@ -76,16 +65,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "8-18-ekim-dogal-uretici-pazari",
-      "mallId": "kozzy",
-      "title": "Doğal Üretici Pazarı Kozzy'de!",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://kozzyavm.com/storage/kozzyavm/event/October2026/kozzy-dogal-uretici-dijital-1280x720px-2.webp",
-      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/8-18-ekim-dogal-uretici-pazari",
-      "firstSeen": "2026-10-12"
-    },
-    {
       "id": "hilltown-seyirlik-sahne-1",
       "mallId": "hilltown",
       "title": "Hilltown Seyirlik Sahne",
@@ -116,17 +95,6 @@
       "description": "10.000 TL'ye 2000 TL İndirim",
       "title": "Mısırlı",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/68d24857-fcb0-41d5-9628-76b1c7d9e2fa.jpeg?1792156717516?1792156717516",
-      "firstSeen": "2026-10-17"
-    },
-    {
-      "id": "candyzoo-5er9fvuxd-9",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/candyzoo-5er9fvuxd-9",
-      "description": "Frozzle Dondurma Alana 2. Frozzle %50 İndirimli",
-      "title": "CandyZoo",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f06f4dbb-a960-49bd-9d39-9d8563698dcb.jpeg?1792149336680?1792149336680",
       "firstSeen": "2026-10-17"
     },
     {
@@ -410,7 +378,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/30-agustos-zafer-bayrami-kutlu-olsun-r1cmtytwme",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "30 Ağustos Zafer Bayramı Kutlu Olsun!",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/BJ67YtpwMg-main.jpeg?1787824422255",
       "firstSeen": "2026-10-12"
@@ -421,7 +389,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/summer-bazaar",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Summer Bazaar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SykCvhVBGe-main.jpeg?1785149383296",
       "firstSeen": "2026-10-12"
@@ -432,7 +400,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-summer-bazaar",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Vadistanbul Summer Bazaar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJdhFUWQMe-main.jpeg?1782831537097",
       "firstSeen": "2026-10-12"
@@ -443,7 +411,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/kurban-bayraminiz-kutlu-olsun-h1eelyobxfg",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Kurban Bayramınız Kutlu Olsun",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ryel1O-gzg-main.jpeg?1779691241027",
       "firstSeen": "2026-10-17"
@@ -455,7 +423,7 @@
       "isPaid": false,
       "url": "https://www.vadistanbul.com/alisveris-firsatlari/indirim-syxikhd7izx",
       "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Find out more",
+      "title": "Fırsatlar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/promotion_image/ryU1rDmjfe-small.jpeg?1791354078971",
       "firstSeen": "2026-10-12"
     },
