@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T09:59:30+00:00",
+  "generatedAt": "2026-10-20T09:30:42+00:00",
   "campaigns": [
     {
       "id": "alisveris-festivali",
@@ -45,6 +45,27 @@
       "firstSeen": "2026-10-14"
     },
     {
+      "id": "22-ekim-1-kasim-kozzy-aisveris-festivali",
+      "mallId": "kozzy",
+      "title": "22 Ekim-1 Kasım Kozzy Aışveriş Festivali",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://kozzyavm.com/storage/kozzyavm/event/October2026/1280x720px-13-3.jpg",
+      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/22-ekim-1-kasim-kozzy-aisveris-festivali",
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "29-ekim-cumhuriyet-bandosu",
+      "mallId": "kozzy",
+      "title": "29 Ekim Cumhuriyet Bandosu",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://kozzyavm.com/storage/kozzyavm/event/October2026/1280x720px-12.jpg",
+      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/29-ekim-cumhuriyet-bandosu",
+      "startsAt": "2026-10-29",
+      "firstSeen": "2026-10-20"
+    },
+    {
       "id": "ekim-de-perde-aciliyor",
       "mallId": "kozzy",
       "title": "Ekim'de Perde Açılıyor!",
@@ -85,6 +106,17 @@
       "description": "Ceviz Adam Müzikali ve Neşeli Yapılar Müzikali Hilltown Seyirlik Sahne’de! Seans gün ve saatleri için 0(535) 255 5855 no'lu telefondan iletişime geçebilirsiniz!",
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "marks-ve-spencer-mun8t0lon4o",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/marks-ve-spencer-mun8t0lon4o",
+      "description": "Spor Alışverişinizde Kazanç Zamanı",
+      "title": "Marks & Spencer",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f4a0a821-56d8-45e6-af7c-e9b29bd07c71.jpeg?1792418340984?1792418340984",
+      "firstSeen": "2026-10-20"
     },
     {
       "id": "misirli",
@@ -557,17 +589,6 @@
       "description": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
       "title": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/145dc92d-d59f-4d25-acfa-b855da94aaa2.jpeg?1792131891035?1792131891035",
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "carki-cevir-surpriz-hediyeleri-yakala",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.metropolistanbul.com/etkinlikler/carki-cevir-surpriz-hediyeleri-yakala",
-      "description": "Çarkı Çevir, Sürpriz Hediyeleri Yakala!",
-      "title": "Çarkı Çevir, Sürpriz Hediyeleri Yakala!",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/8b984ac6-f31f-43a1-946d-e9799df9df91.jpeg?1792132249199?1792132249199",
       "firstSeen": "2026-10-16"
     },
     {
@@ -1076,6 +1097,17 @@
       "title": "Büyük Yaz İndirimi",
       "image": "https://forum-one.knscdn.com/images/promotion/promotion_image_tr/main/25b4434e-65cc-4464-93a8-024b67f11de9.jpeg?1791871386446?1791871386446",
       "firstSeen": "2026-10-13"
+    },
+    {
+      "id": "tum-urunlerde-net-40-indirim",
+      "mallId": "forum-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://forumistanbul.com.tr/firsat/tum-urunlerde-net-40-indirim",
+      "description": "Forum İstanbul'da anlar, etkinlikler ve mekanın enerjisinden kareler.",
+      "title": "Tüm Ürünlerde Net %40 İndirim",
+      "image": "https://forum-one.knscdn.com/images/promotion/promotion_image_tr/main/f0102eb2-f5ff-4f13-a014-7578e0204d35.jpeg?1792486048512?1792486048512",
+      "firstSeen": "2026-10-20"
     },
     {
       "id": "Galeri",
