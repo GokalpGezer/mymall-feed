@@ -171,17 +171,6 @@
       "logo": "assets/mall_logos/ozdilekpark.png"
     },
     {
-      "id": "sapphire-carsi",
-      "name": "Sapphire Çarşı",
-      "city": "Kağıthane",
-      "active": false,
-      "location": {
-        "lat": 41.08496,
-        "lng": 29.00605
-      },
-      "logo": "assets/mall_logos/sapphire-carsi.png"
-    },
-    {
       "id": "42-maslak",
       "name": "42 Maslak",
       "city": "Sarıyer",
@@ -900,6 +889,16 @@
         "lng": 28.62667
       },
       "logo": "assets/mall_logos/first-avenue.png"
+    },
+    {
+      "id": "metropark-sefakoy",
+      "name": "Metropark Sefaköy",
+      "city": "Küçükçekmece",
+      "active": true,
+      "location": {
+        "lat": 40.9995295,
+        "lng": 28.7994611
+      }
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T09:30:42+00:00",
+  "generatedAt": "2026-10-21T09:26:46+00:00",
   "campaigns": [
     {
       "id": "alisveris-festivali",
@@ -108,12 +108,24 @@
       "firstSeen": "2026-10-12"
     },
     {
+      "id": "neslihan-canpolat-zw-e9nituwx",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/neslihan-canpolat-zw-e9nituwx",
+      "publishedAt": "2026-10-21",
+      "title": "Neslihan Canpolat",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/11b7e0dc-e807-4183-a24c-750361c0a77b.jpeg?1792507700756?1792507700756",
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "marks-ve-spencer-mun8t0lon4o",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/marks-ve-spencer-mun8t0lon4o",
-      "description": "Spor Alışverişinizde Kazanç Zamanı",
+      "description": "Sütyenler 799,95 TL",
+      "publishedAt": "2026-10-19",
       "title": "Marks & Spencer",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f4a0a821-56d8-45e6-af7c-e9b29bd07c71.jpeg?1792418340984?1792418340984",
       "firstSeen": "2026-10-20"
@@ -125,6 +137,7 @@
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/misirli",
       "description": "10.000 TL'ye 2000 TL İndirim",
+      "publishedAt": "2026-10-16",
       "title": "Mısırlı",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/68d24857-fcb0-41d5-9628-76b1c7d9e2fa.jpeg?1792156717516?1792156717516",
       "firstSeen": "2026-10-17"
@@ -135,7 +148,7 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/united-colors-of-benetton-grjegci4cws",
-      "description": "Spor Alışverişinizde Kazanç Zamanı",
+      "publishedAt": "2026-10-15",
       "title": "United Colors Of Benetton",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f5ea7263-a3f1-4cfa-9ea1-43b7c054c54d.jpeg?1792051842390?1792051842390",
       "firstSeen": "2026-10-15"
@@ -147,6 +160,7 @@
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/ghisa-qawnhsbtwlt",
       "description": "Yeni Sezon Ürünlerinde %10 İndirim",
+      "publishedAt": "2026-10-12",
       "title": "Ghisa",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ac8b2c6e-4d7c-46b2-a6e0-921de91d34d7.jpeg?1791808737100?1791808737100",
       "firstSeen": "2026-10-13"
@@ -158,6 +172,7 @@
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/adidas-kids",
       "description": "Spor Alışverişinizde Kazanç Zamanı",
+      "publishedAt": "2026-10-12",
       "title": "Adidas Kids",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/988fe06f-733f-42ee-b4a9-e6ff6ed89bbf.jpeg?1791792885527?1791792885527",
       "firstSeen": "2026-10-13"
@@ -168,7 +183,7 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/mc-donald-s",
-      "description": "Spor Alışverişinizde Kazanç Zamanı",
+      "publishedAt": "2026-10-08",
       "title": "Mc Donald’s",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/09d2d72c-890d-403b-a77b-17b61c6dfab2.jpeg?1791461039046?1791461039046",
       "firstSeen": "2026-10-12"
@@ -180,6 +195,7 @@
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/loris-parfum",
       "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
+      "publishedAt": "2026-10-02",
       "title": "Loris Parfüm",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ec044f62-1e24-44d6-9b1e-30f1c6dff638.jpeg?1790949729997?1790949729997",
       "firstSeen": "2026-10-12"
@@ -191,30 +207,9 @@
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/yargici-uldyhyysnr5",
       "description": "10.000 TL Üzerine 1.500 TL İndirim",
+      "publishedAt": "2026-09-28",
       "title": "Yargıcı",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/4bef35b0-8e44-4dcb-a102-c4fc95a738c8.jpeg?1790575824343?1790575824343",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "afyon-lokum-atolyesi-dmy54bbld0",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/afyon-lokum-atolyesi-dmy54bbld0",
-      "description": "Spor Alışverişinizde Kazanç Zamanı",
-      "title": "Afyon Lokum Atölyesi",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ffefece8-47e2-4886-abf1-fbc4f4ea77ac.jpeg?1787062587810?1787062587810",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "faik-sonmez-fgrscyxkp9",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/faik-sonmez-fgrscyxkp9",
-      "description": "Spor Alışverişinizde Kazanç Zamanı",
-      "title": "Faik Sönmez",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ad66a571-22fa-4032-bee6-8414d2f2c504.jpeg?1787064507215?1787064507215",
       "firstSeen": "2026-10-12"
     },
     {
@@ -289,7 +284,6 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.akmerkez.com.tr/firsatlar/akmerkez-app-ile-beymen-club-da-20-indirim",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
       "title": "Akmerkez App İle Beymen Club'da %20 İndirim",
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/68fa2498-9d57-47b1-b243-a89f79e4ac1e.jpeg?1790921198463?1790921198463",
       "firstSeen": "2026-10-12"
@@ -300,7 +294,6 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.akmerkez.com.tr/firsatlar/akmerkez-app-ile-divarese-de-2-ve-uezeri-ueruene-30-indirim",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
       "title": "Akmerkez App İle Divarese'de 2 Ve Üzeri Ürüne %30 İndirim",
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/60e7a0b3-1327-444f-ba29-a9cffd5163d1.jpeg?1790921258619?1790921258619",
       "firstSeen": "2026-10-12"
@@ -311,7 +304,6 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.akmerkez.com.tr/firsatlar/akmerkez-app-ile-network-de-2-ve-uezeri-ueruene-25-indirim",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
       "title": "Akmerkez App İle Network'de 2 Ve Üzeri Ürüne %25 İndirim",
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/369f6cb8-daea-405d-917d-9754854794b1.jpeg?1790921315287?1790921315287",
       "firstSeen": "2026-10-12"
@@ -377,7 +369,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/pop-up-market-hkgxpyroqml",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Pop Up Market",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ByXw10i5Gx-main.jpeg?1790857051372",
       "firstSeen": "2026-10-12"
@@ -447,17 +439,6 @@
       "title": "Kurban Bayramınız Kutlu Olsun",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ryel1O-gzg-main.jpeg?1779691241027",
       "firstSeen": "2026-10-17"
-    },
-    {
-      "id": "indirim-syxikhd7izx",
-      "mallId": "vadistanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.vadistanbul.com/alisveris-firsatlari/indirim-syxikhd7izx",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Fırsatlar",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/promotion_image/ryU1rDmjfe-small.jpeg?1791354078971",
-      "firstSeen": "2026-10-12"
     },
     {
       "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-wgdargwx-_q",
@@ -614,14 +595,15 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "pendorya-da-aninda-kazan",
+      "id": "ugur-bocegi-ile-kara-kedi",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
-      "title": "Pendorya Da Aninda Kazan",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289",
-      "firstSeen": "2026-10-12"
+      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi",
+      "description": "Uğur Böceği İle Kara Kedi",
+      "title": "Ugur Bocegi Ile Kara Kedi",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/HyDPNZL_N-small.jpeg?1555312906303",
+      "firstSeen": "2026-10-21"
     },
     {
       "id": "cocuk-atolyeleri",
@@ -654,54 +636,13 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "pjmasks-pendorya-da",
+      "id": "pendorya-da-aninda-kazan",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
-      "title": "Pjmasks Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "ugur-bocegi-ile-kara-kedi-rye5hjabq4",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi-rye5hjabq4",
-      "description": "Uğur Böceği ile Kara Kedi",
-      "title": "Ugur Bocegi Ile Kara Kedi",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/rJ9nyTW5N-small.jpeg?1555316658646",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "yoresel-pazar",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/yoresel-pazar",
-      "title": "Yoresel Pazar",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SyfqxYPTH-small.jpeg?1575616650395",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "pendorya-cocuk-kulubu",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pendorya-cocuk-kulubu",
-      "title": "Pendorya Cocuk Kulubu",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SJ_D7EbNL-small.jpeg?1582543712528",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "bora-duran-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/bora-duran-pendorya-da",
-      "title": "Bora Duran Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/ByXvnyz5V-small.jpeg?1555328091617",
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
+      "title": "Pendorya Da Aninda Kazan",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289",
       "firstSeen": "2026-10-12"
     },
     {
@@ -716,6 +657,38 @@
       "firstSeen": "2026-10-12"
     },
     {
+      "id": "pjmasks-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
+      "title": "Pjmasks Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "elif-in-dusleri-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/elif-in-dusleri-pendorya-da",
+      "description": "Elif'in Düşleri Pendorya'da",
+      "title": "Elif In Dusleri Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Hk-vBQse8-small.jpeg?1579001177807",
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "kostebekgiller-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/kostebekgiller-pendorya-da",
+      "description": "Köstebekgiller Pendorya'da",
+      "title": "Kostebekgiller Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Bya1h23xB-small.jpeg?1562328037518",
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "bebekoloji-anadolu-da",
       "mallId": "pendorya",
       "kind": "discount",
@@ -726,12 +699,21 @@
       "firstSeen": "2026-10-12"
     },
     {
+      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753",
+      "firstSeen": "2026-10-12"
+    },
+    {
       "id": "en-uzun-gunde-size-ozel-indirimlerle-magazamizda-bulusalim",
       "mallId": "pendorya",
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.pendorya.com/firsatlar/en-uzun-gunde-size-ozel-indirimlerle-magazamizda-bulusalim",
-      "description": "En Uzun Günde Size Özel İndirimlerle Mağazamızda Buluşalım",
       "title": "En Uzun Günde Size Özel İndirimlerle Mağazamızda Buluşalım",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/ryYWgVqyS-small.jpeg?1561112578118",
       "firstSeen": "2026-10-12"
@@ -742,20 +724,8 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.pendorya.com/firsatlar/tum-kampanyalarimiza-buradan-ulasabilirsiniz",
-      "description": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "title": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/HkAypIV5N-small.jpeg?1555487975038",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "mallId": "pendorya",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "description": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
-      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753",
       "firstSeen": "2026-10-12"
     },
     {
@@ -921,17 +891,6 @@
       "url": "https://akbati.com/etkinlikler/teknosa-ile-eglence-kesif-ve-surprizler-akbatida/",
       "description": "Teknosa ile eğlence, keşif ve sürprizler Akbatı’da !",
       "title": "Teknosa İle Eğlence, Keşif ve Sürprizler Akbatı’da!",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "flying-tiger-x-akbati-etkinlik",
-      "mallId": "akbati",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://akbati.com/etkinlikler/flying-tiger-x-akbati-etkinlik/",
-      "description": "18-20 Eylül’de Flying Tiger Copenhagen ile eğlence, keşif ve sürprizler Akbatı’da!",
-      "startsAt": "2026-09-20",
-      "title": "Flying Tiger X Akbatı Etkinlik",
       "firstSeen": "2026-10-12"
     },
     {

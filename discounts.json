@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-10-21T09:26:46+00:00",
+  "discounts": [
+    {
+      "id": "hm-welcome",
+      "brand": "H&M",
+      "title": "H&M — %10 indirim",
+      "source": "H&M",
+      "url": "https://www2.hm.com/tr_tr/member/info.html",
+      "channel": "both",
+      "condition": "Yeni H&M Member üyeliği (18+); kupon hesaba 24 saat içinde yüklenir; kasada üyelik kuponu",
+      "startsAt": "2026-10-20",
+      "endsAt": null,
+      "verifiedAt": "2026-10-20"
+    },
+    {
+      "id": "watsons-targeted",
+      "brand": "Watsons",
+      "title": "Watsons — %20 indirim",
+      "source": "Watsons",
+      "url": "https://www.watsons.com.tr/kampanyalar",
+      "channel": "both",
+      "condition": "Bildirim alan WClub üyelerine; 750 TL ve üzeri; en çok 200 TL; bildirimden itibaren 7 gün; tek kullanım",
+      "startsAt": "2026-10-20",
+      "endsAt": null,
+      "verifiedAt": "2026-10-20"
+    },
+    {
+      "id": "teknosa-welcome",
+      "brand": "Teknosa",
+      "title": "Teknosa — 100 TL hediye çeki",
+      "source": "Teknosa",
+      "url": "https://www.teknosa.com/kampanyalar/TeknoClub-Uye-Kampanyasi/TeknoClub-Uye-Kampanyasi",
+      "channel": "both",
+      "condition": "1 ocak 2026 sonrası TeknoClub üyeliği; 500 TL ve üzeri; ilk alışverişte tek kullanım; başka kampanyayla birleştirilemez; hariç: Apple, Monster, Dyson, Bosch markalı ürünlerde, Sony PS5 ve Microsoft Xbox Series X&Series S konsollarda, robot süpürgelerde, fritözlerde, TeknoGaranti hizmetlerinde, HDD, SSD ve Dijital kartlarda",
+      "startsAt": "2026-10-20",
+      "endsAt": "2026-12-31",
+      "verifiedAt": "2026-10-20"
+    },
+    {
+      "id": "teknosa-birthday",
+      "brand": "Teknosa",
+      "title": "Teknosa — 250 TL hediye çeki",
+      "source": "Teknosa",
+      "url": "https://www.teknosa.com/kampanyalar/TeknoClub-Dogumgunu/TeknoClub-Dogumgunu",
+      "channel": "both",
+      "condition": "TeknoClub üyesinin doğum günü ayında; doğum tarihi önceki aydan kayıtlı; 1.000 TL ve üzeri; yılda bir; kasada SMS alan telefon numarası; başka kampanyayla birleştirilemez; hariç: Dyson, Monster markalı ürünler, Sony marka ve Xbox konsollar, Apple iPhone 18 ve iPhone Duo modelleri, Samsung S25 modelleri, Apple Watch 12, Apple Watch Ultra 4 Akıllı Saat modelleri, HDD, Dijital kartlar ve ek garanti",
+      "startsAt": "2026-10-20",
+      "endsAt": null,
+      "verifiedAt": "2026-10-20"
+    },
+    {
+      "id": "teknosa-energy-appliance",
+      "brand": "Teknosa",
+      "title": "Teknosa — 750 TL indirim",
+      "source": "Teknosa",
+      "url": "https://www.teknosa.com/kampanyalar/TeknoClub-Surdurebilirlik/TeknoClub-Surdurebilirlik",
+      "channel": "both",
+      "condition": "TeknoClub üyelerine; A enerji sınıfı beyaz eşyalarda; başka kampanyayla birleştirilemez",
+      "startsAt": "2026-10-20",
+      "endsAt": "2026-12-31",
+      "verifiedAt": "2026-10-20"
+    },
+    {
+      "id": "teknosa-energy-screen",
+      "brand": "Teknosa",
+      "title": "Teknosa — %15 indirim",
+      "source": "Teknosa",
+      "url": "https://www.teknosa.com/kampanyalar/TeknoClub-Surdurebilirlik/TeknoClub-Surdurebilirlik",
+      "channel": "both",
+      "condition": "TeknoClub üyelerine; ömür boyu ekran koruma hizmetinde; başka kampanyayla birleştirilemez",
+      "startsAt": "2026-10-20",
+      "endsAt": "2026-12-31",
+      "verifiedAt": "2026-10-20"
+    }
+  ]
+}

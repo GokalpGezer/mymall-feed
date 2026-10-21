@@ -35,7 +35,22 @@ Kullanılan adres:
 https://raw.githubusercontent.com/<kullanici>/mymall-feed/main/campaigns.json
 ```
 
-## İçerik
+## discounts.json
+
+Markanın kendi sayfasında mağaza geçerliliği doğrulanan ayrı indirim katmanı.
+Her kayıtta `source`, `url`, olgulardan yazılan `title`, katılım koşulları,
+`channel` ve `verifiedAt` bulunur. Görsel kopyalanmaz.
+
+Günlük iş tarayıcı açmaz: son doğrulamadan itibaren 30 günü dolduran veya
+`feed_policy.py` ile kapatılan kayıtları çıkarır, kalan JSON'u yayımlar.
+Tekrar doğrulama, ana depoda açıkça
+`python scraper/scrape_brand_discounts.py --headless --write-asset`
+ile yapılır (Playwright ve kurulu Chrome gerekir). Günlük yayına taşınmak
+için değişen `assets/discounts.json` ile `scraper/out/feed/discounts.json`
+birlikte depoya alınmalıdır. Uygulamanın `DISCOUNTS_URL` adresi bu dosyaya
+işaret eder; tanımlanmamışsa uygulama asset'i kullanır.
+
+## Kampanya içeriği
 
 Veriler AVM'lerin herkese açık web sayfalarından derlenir; görseller indirilmez,
 kaynak adresleriyle gösterilir. Kapsam şu an Rönesans Gayrimenkul portföyündeki
