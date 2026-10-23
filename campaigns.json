@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:28:27+00:00",
+  "generatedAt": "2026-10-23T09:28:44+00:00",
   "campaigns": [
     {
       "id": "alisveris-festivali",
@@ -757,6 +757,18 @@
       "title": "En İyisi Çarşambaları Paribu Cineverse'te Film İzlemek",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/S1GDglaaZg-small.jpeg?1777299546559",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "kanyon-game-on-ile-oyun-baslasin",
+      "mallId": "kanyon",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.kanyon.com.tr/etkinlikler/kanyon-game-on-ile-oyun-baslasin",
+      "description": "Kanyon Game On ile Oyun Başlasın! 23 - 24 Ekim 2026 Kanyon Game On ile Oyun Başlasın! Kanyon Game On ile Oyun Başlasın!",
+      "startsAt": "2026-10-24",
+      "title": "Kanyon Game On ile Oyun Başlasın!",
+      "image": "https://kanyon.fra1.digitaloceanspaces.com/images/event/event_kanyon_list_image_tr/main/98e7251e-6cb8-4577-89f7-80b48c6d72c1.webp?1792676046110?1792676046110",
+      "firstSeen": "2026-10-23"
     },
     {
       "id": "geleneksel-cumhuriyet-milongasi-kanyon-da",
