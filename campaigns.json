@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T09:28:44+00:00",
+  "generatedAt": "2026-10-24T08:57:46+00:00",
   "campaigns": [
     {
       "id": "alisveris-festivali",
@@ -106,6 +106,18 @@
       "description": "Ceviz Adam Müzikali ve Neşeli Yapılar Müzikali Hilltown Seyirlik Sahne’de! Seans gün ve saatleri için 0(535) 255 5855 no'lu telefondan iletişime geçebilirsiniz!",
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "candyzoo-dcnhuzwarxa",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/candyzoo-dcnhuzwarxa",
+      "description": "Hafta sonuna özel bu tatlı indirimi kaçırma!",
+      "publishedAt": "2026-10-23",
+      "title": "CandyZoo",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/9b0d4c9d-45a4-4547-9e22-1a4e37bd5d9b.jpeg?1792765679484?1792765679484",
+      "firstSeen": "2026-10-24"
     },
     {
       "id": "ramsey-_mopm6n3kov",
@@ -220,50 +232,6 @@
       "publishedAt": "2026-10-02",
       "title": "Loris Parfüm",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ec044f62-1e24-44d6-9b1e-30f1c6dff638.jpeg?1790949729997?1790949729997",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "live-well",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/live-well",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Live Well",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/3ea7d366-09eb-472f-aca0-8b35c0c75ec4.jpeg?1791285677189?1791285677189",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "move-well",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/move-well",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Move Well",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/3b1c96e8-d8d8-4305-ba01-31d0813815d5.jpeg?1791285713386?1791285713386",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "think-well",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/think-well",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Think Well",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/3e674b1b-1f76-4f06-b1c6-a94fd0aa17d6.jpeg?1791285741101?1791285741101",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "live-well-akmerkez",
-      "mallId": "akmerkez",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/live-well-akmerkez",
-      "description": "İyi yaşamın farklı yollarını keşfetmeye davetlisin. Think Well, Move Well ve Eat Well başlıkları altında şekillenen Live Well @Akmerkez; ilham veren sohbetleri, hareket ve farkındalık deneyimlerini, atölyeleri ve iyi yaşam odaklı lezzetleri",
-      "title": "Live Well @ Akmerkez",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/22aeec52-77d2-4bbc-b9fd-1fad76fcb801.jpeg?1791379337219?1791379337219",
       "firstSeen": "2026-10-12"
     },
     {
@@ -605,15 +573,14 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "ugur-bocegi-ile-kara-kedi",
+      "id": "pendorya-da-aninda-kazan",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi",
-      "description": "Uğur Böceği İle Kara Kedi",
-      "title": "Ugur Bocegi Ile Kara Kedi",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/HyDPNZL_N-small.jpeg?1555312906303",
-      "firstSeen": "2026-10-21"
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
+      "title": "Pendorya Da Aninda Kazan",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289",
+      "firstSeen": "2026-10-12"
     },
     {
       "id": "cocuk-atolyeleri",
@@ -646,14 +613,55 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "pendorya-da-aninda-kazan",
+      "id": "pjmasks-pendorya-da",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
-      "title": "Pendorya Da Aninda Kazan",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289",
+      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
+      "title": "Pjmasks Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "ugur-bocegi-ile-kara-kedi-rye5hjabq4",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi-rye5hjabq4",
+      "description": "Uğur Böceği ile Kara Kedi",
+      "title": "Ugur Bocegi Ile Kara Kedi",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/rJ9nyTW5N-small.jpeg?1555316658646",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "yoresel-pazar",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/yoresel-pazar",
+      "title": "Yoresel Pazar",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SyfqxYPTH-small.jpeg?1575616650395",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "pendorya-cocuk-kulubu",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-cocuk-kulubu",
+      "title": "Pendorya Cocuk Kulubu",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SJ_D7EbNL-small.jpeg?1582543712528",
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "bora-duran-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/bora-duran-pendorya-da",
+      "title": "Bora Duran Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/ByXvnyz5V-small.jpeg?1555328091617",
+      "firstSeen": "2026-10-24"
     },
     {
       "id": "maysa-ve-bulut-pendorya-da",
@@ -667,38 +675,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "pjmasks-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
-      "title": "Pjmasks Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "elif-in-dusleri-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/elif-in-dusleri-pendorya-da",
-      "description": "Elif'in Düşleri Pendorya'da",
-      "title": "Elif In Dusleri Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Hk-vBQse8-small.jpeg?1579001177807",
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "kostebekgiller-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/kostebekgiller-pendorya-da",
-      "description": "Köstebekgiller Pendorya'da",
-      "title": "Kostebekgiller Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Bya1h23xB-small.jpeg?1562328037518",
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "bebekoloji-anadolu-da",
       "mallId": "pendorya",
       "kind": "discount",
@@ -706,16 +682,6 @@
       "url": "https://www.pendorya.com/firsatlar/bebekoloji-anadolu-da",
       "title": "Bebekoloji Anadolu'da",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/Hk_1Kee3S-small.jpeg?1574074592158",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "mallId": "pendorya",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753",
       "firstSeen": "2026-10-12"
     },
     {
@@ -736,6 +702,16 @@
       "url": "https://www.pendorya.com/firsatlar/tum-kampanyalarimiza-buradan-ulasabilirsiniz",
       "title": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/HkAypIV5N-small.jpeg?1555487975038",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753",
       "firstSeen": "2026-10-12"
     },
     {
