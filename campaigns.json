@@ -1,17 +1,6 @@
 {
-  "generatedAt": "2026-10-25T09:15:44+00:00",
+  "generatedAt": "2026-10-26T10:14:16+00:00",
   "campaigns": [
-    {
-      "id": "alisveris-festivali",
-      "mallId": "maltepe-piazza",
-      "title": "Alışveriş Festivali",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://maltepepiazzaavm.com/storage/maltepepiazzaavm/event/October2026/maltepepiazza-sonbahar-alisveris-1280x720px.webp",
-      "description": "Sonbahar Alışveriş Festivaline Davetlisiniz!",
-      "url": "https://maltepepiazzaavm.com/tr/etkinlikler-kampanyalar/alisveris-festivali",
-      "firstSeen": "2026-10-12"
-    },
     {
       "id": "kitap-senligi",
       "mallId": "maltepe-piazza",
@@ -106,18 +95,6 @@
       "description": "Ceviz Adam Müzikali ve Neşeli Yapılar Müzikali Hilltown Seyirlik Sahne’de! Seans gün ve saatleri için 0(535) 255 5855 no'lu telefondan iletişime geçebilirsiniz!",
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne",
       "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "candyzoo-dcnhuzwarxa",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/candyzoo-dcnhuzwarxa",
-      "description": "Hafta sonuna özel bu tatlı indirimi kaçırma!",
-      "publishedAt": "2026-10-23",
-      "title": "CandyZoo",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/9b0d4c9d-45a4-4547-9e22-1a4e37bd5d9b.jpeg?1792765679484?1792765679484",
-      "firstSeen": "2026-10-24"
     },
     {
       "id": "ramsey-_mopm6n3kov",
@@ -538,17 +515,6 @@
       "title": "Watergarden MotoFest 2026",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/e361c092-93f8-4671-83a8-4a82c23475e2.jpeg?1778053095204?1778053095204",
       "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.metropolistanbul.com/etkinlikler/sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi",
-      "description": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
-      "title": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/145dc92d-d59f-4d25-acfa-b855da94aaa2.jpeg?1792131891035?1792131891035",
-      "firstSeen": "2026-10-16"
     },
     {
       "id": "sizi-dinleyen-metropol-unuz-var",
