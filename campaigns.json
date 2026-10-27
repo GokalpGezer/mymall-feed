@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T10:14:16+00:00",
+  "generatedAt": "2026-10-27T09:53:57+00:00",
   "campaigns": [
     {
       "id": "kitap-senligi",
@@ -130,18 +130,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "marks-ve-spencer-mun8t0lon4o",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/marks-ve-spencer-mun8t0lon4o",
-      "description": "Sütyenler 799,95 TL",
-      "publishedAt": "2026-10-19",
-      "title": "Marks & Spencer",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f4a0a821-56d8-45e6-af7c-e9b29bd07c71.jpeg?1792418340984?1792418340984",
-      "firstSeen": "2026-10-20"
-    },
-    {
       "id": "misirli",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
@@ -264,6 +252,17 @@
       "firstSeen": "2026-10-12"
     },
     {
+      "id": "29-ekim-cumhuriyet-bayrami-kutlama-programi",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/29-ekim-cumhuriyet-bayrami-kutlama-programi",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "29 Ekim Cumhuriyet Bayramı Kutlama Programı",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SyZEG232Gx-main.jpeg?1793012266349",
+      "firstSeen": "2026-10-27"
+    },
+    {
       "id": "otoparkimizda-3-saat-uecretsiz",
       "mallId": "vadistanbul",
       "kind": "event",
@@ -383,17 +382,6 @@
       "title": "Vadistanbul Summer Bazaar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJdhFUWQMe-main.jpeg?1782831537097",
       "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "kurban-bayraminiz-kutlu-olsun-h1eelyobxfg",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.vadistanbul.com/etkinlikler/kurban-bayraminiz-kutlu-olsun-h1eelyobxfg",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Kurban Bayramınız Kutlu Olsun",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ryel1O-gzg-main.jpeg?1779691241027",
-      "firstSeen": "2026-10-17"
     },
     {
       "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-wgdargwx-_q",
@@ -964,6 +952,18 @@
       "description": "Çalışma Saatleri: 10.00-22.00",
       "title": "Akbatı’dan Annelere Kalpten Kalbe Hediye",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "cumhuriyet-coskusu-starcity-outlette",
+      "mallId": "starcity",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.starcity.com.tr/detay/cumhuriyet-coskusu-starcity-outlette",
+      "description": "29 Ekim Perşembe günü Cumhuriyetimizin 103. yılını yüz boyama, 360° video çekimi, bando gösterisi ve bez çanta atölyesiyle birlikte kutluyoruz. Tüm etkinlikler ücretsiz!",
+      "startsAt": "2026-10-29",
+      "title": "Cumhuriyet Coşkusu Starcity Outlet’te!",
+      "image": "https://www.starcity.com.tr/upload/article/17930206034426.jpg",
+      "firstSeen": "2026-10-27"
     },
     {
       "id": "forum-istanbul-a-ozel-kampanya",
