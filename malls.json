@@ -149,17 +149,6 @@
       "logo": "assets/mall_logos/trump-avm.png"
     },
     {
-      "id": "astoria",
-      "name": "Astoria",
-      "city": "Şişli",
-      "active": false,
-      "location": {
-        "lat": 41.06859,
-        "lng": 29.00587
-      },
-      "logo": "assets/mall_logos/astoria.png"
-    },
-    {
       "id": "ozdilekpark",
       "name": "ÖzdilekPark İstanbul",
       "city": "Şişli",
@@ -169,17 +158,6 @@
         "lng": 29.01093
       },
       "logo": "assets/mall_logos/ozdilekpark.png"
-    },
-    {
-      "id": "42-maslak",
-      "name": "42 Maslak",
-      "city": "Sarıyer",
-      "active": false,
-      "location": {
-        "lat": 41.11267,
-        "lng": 29.02008
-      },
-      "logo": "assets/mall_logos/42-maslak.png"
     },
     {
       "id": "vadistanbul",
@@ -339,7 +317,7 @@
       "id": "galleria-atakoy",
       "name": "Galleria Ataköy",
       "city": "Bakırköy",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 40.9744,
         "lng": 28.86942
@@ -356,16 +334,6 @@
         "lng": 28.85044
       },
       "logo": "assets/mall_logos/atakoy-plus.png"
-    },
-    {
-      "id": "atrium-atakoy",
-      "name": "Atrium",
-      "city": "Bakırköy",
-      "active": true,
-      "location": {
-        "lat": 40.98876,
-        "lng": 28.84585
-      }
     },
     {
       "id": "aqua-florya",
@@ -563,28 +531,6 @@
       }
     },
     {
-      "id": "beylicium",
-      "name": "Beylicium",
-      "city": "Beylikdüzü",
-      "active": false,
-      "location": {
-        "lat": 41.01158,
-        "lng": 28.64917
-      },
-      "logo": "assets/mall_logos/beylicium.png"
-    },
-    {
-      "id": "istanbul-outlet-park",
-      "name": "İstanbul Outlet Park",
-      "city": "Büyükçekmece",
-      "active": false,
-      "location": {
-        "lat": 41.01826,
-        "lng": 28.63189
-      },
-      "logo": "assets/mall_logos/istanbul-outlet-park.png"
-    },
-    {
       "id": "atirus",
       "name": "Atirus",
       "city": "Büyükçekmece",
@@ -663,7 +609,7 @@
       "id": "emaar-square",
       "name": "Emaar Square",
       "city": "Üsküdar",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 41.0031,
         "lng": 29.07086

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T09:53:57+00:00",
+  "generatedAt": "2026-10-28T10:39:00+00:00",
   "campaigns": [
     {
       "id": "kitap-senligi",
@@ -95,6 +95,41 @@
       "description": "Ceviz Adam Müzikali ve Neşeli Yapılar Müzikali Hilltown Seyirlik Sahne’de! Seans gün ve saatleri için 0(535) 255 5855 no'lu telefondan iletişime geçebilirsiniz!",
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "cumhuriyetin-cocuklari-candyzoo-da-bulusuyor",
+      "mallId": "mall-of-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/etkinlikler/cumhuriyetin-cocuklari-candyzoo-da-bulusuyor",
+      "description": "29 Ekim Cumhuriyet Bayramı’nı CandyZoo’da renklerle ve gülümsemelerle kutluyoruz! Bayram coşkusuna ortak olmak için tüm çocukları ücretsiz yüz boyama etkinliğimize davet ediyoruz.",
+      "startsAt": "2026-10-29",
+      "title": "Cumhuriyetin Çocukları CandyZoo’da Buluşuyor!",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/event/event_listing_image_tr/main/196930a9-1c68-4088-b135-6f87610d4158.jpeg?1793105679426?1793105679426",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "cumhuriyet-bayrami-coskusu-mall-of-istanbul-da",
+      "mallId": "mall-of-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/etkinlikler/cumhuriyet-bayrami-coskusu-mall-of-istanbul-da",
+      "description": "29 Ekim Cumhuriyet Bayramımız kutlu olsun!",
+      "startsAt": "2026-10-29",
+      "title": "Cumhuriyet Bayramı Coşkusu Mall of İstanbul’da!",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/event/event_listing_image_tr/main/cbfa0b8a-acda-42e7-9c88-bfc54a284dca.jpeg?1793102852457?1793102852457",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "candyzoo-5sjajosvag",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/candyzoo-5sjajosvag",
+      "publishedAt": "2026-10-28",
+      "title": "CandyZoo",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/065c1ae5-4bb4-4e91-ad89-5da48d95d773.jpeg?1793176738369?1793176738369",
+      "firstSeen": "2026-10-28"
     },
     {
       "id": "ramsey-_mopm6n3kov",
