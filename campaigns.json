@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:39:00+00:00",
+  "generatedAt": "2026-10-29T10:58:24+00:00",
   "campaigns": [
     {
       "id": "kitap-senligi",
@@ -1066,56 +1066,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "concierge-etkinlik.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/concierge-etkinlik.jpg",
-      "title": "Concierge Hizmeti Buyaka'da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/concierge-etkinlik.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "ram-bayramkampanya2026.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/ram-bayramkampanya2026.jpg",
-      "title": "Bayram Hediyeleri Buyaka'da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/ram-bayramkampanya2026.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "icedream2026-etk-kam.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/icedream2026-etk-kam.jpg",
-      "title": "Yarıyıl Eğlencesi Ice Dream ile Buyaka'da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/icedream2026-etk-kam.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "bts-kampanya-2025.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/bts-kampanya-2025.jpg",
-      "title": "Okuldan Önce Hediyeler Buyaka'da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/bts-kampanya-2025.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "icedream2025.jpg",
-      "mallId": "buyaka",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/etkinlik/icedream2025.jpg",
-      "title": "Ice Dream Eğlencesi Buyaka'da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/icedream2025.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
       "id": "kampanya-araba-2026.jpg",
       "mallId": "buyaka",
       "kind": "discount",
@@ -1123,6 +1073,36 @@
       "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/kampanya-araba-2026.jpg",
       "title": "Alışverişini Yap, Şansı Yakala!",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/kampanya-araba-2026.jpg",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "concierge-etkinlik.jpg",
+      "mallId": "buyaka",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/concierge-etkinlik.jpg",
+      "title": "Concierge Hizmeti Buyaka'da",
+      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/concierge-etkinlik.jpg",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "ram-bayramkampanya2026.jpg",
+      "mallId": "buyaka",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/ram-bayramkampanya2026.jpg",
+      "title": "Bayram Hediyeleri Buyaka'da",
+      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/ram-bayramkampanya2026.jpg",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "bts-kampanya-2025.jpg",
+      "mallId": "buyaka",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/bts-kampanya-2025.jpg",
+      "title": "Okuldan Önce Hediyeler Buyaka'da",
+      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/bts-kampanya-2025.jpg",
       "firstSeen": "2026-10-12"
     },
     {
@@ -1134,6 +1114,16 @@
       "title": "Bayram Hediyeleri Buyaka'dan",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/ramazanbayramkampanya2025.jpg",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "yeniyilkampanya-2025.jpg",
+      "mallId": "buyaka",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/yeniyilkampanya-2025.jpg",
+      "title": "Yeni Yıl Hediyeleri Buyaka'da",
+      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/yeniyilkampanya-2025.jpg",
+      "firstSeen": "2026-10-29"
     },
     {
       "id": "kampanya2024-bayram.jpg",
