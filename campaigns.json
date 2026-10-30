@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:58:24+00:00",
+  "generatedAt": "2026-10-30T10:55:59+00:00",
   "campaigns": [
     {
       "id": "kitap-senligi",
@@ -41,17 +41,6 @@
       "isPaid": false,
       "image": "https://kozzyavm.com/storage/kozzyavm/event/October2026/1280x720px-13-3.jpg",
       "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/22-ekim-1-kasim-kozzy-aisveris-festivali",
-      "firstSeen": "2026-10-20"
-    },
-    {
-      "id": "29-ekim-cumhuriyet-bandosu",
-      "mallId": "kozzy",
-      "title": "29 Ekim Cumhuriyet Bandosu",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://kozzyavm.com/storage/kozzyavm/event/October2026/1280x720px-12.jpg",
-      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/29-ekim-cumhuriyet-bandosu",
-      "startsAt": "2026-10-29",
       "firstSeen": "2026-10-20"
     },
     {
@@ -97,28 +86,15 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "cumhuriyetin-cocuklari-candyzoo-da-bulusuyor",
+      "id": "wagamama-5zbgodbihav",
       "mallId": "mall-of-istanbul",
-      "kind": "event",
+      "kind": "discount",
       "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/etkinlikler/cumhuriyetin-cocuklari-candyzoo-da-bulusuyor",
-      "description": "29 Ekim Cumhuriyet Bayramı’nı CandyZoo’da renklerle ve gülümsemelerle kutluyoruz! Bayram coşkusuna ortak olmak için tüm çocukları ücretsiz yüz boyama etkinliğimize davet ediyoruz.",
-      "startsAt": "2026-10-29",
-      "title": "Cumhuriyetin Çocukları CandyZoo’da Buluşuyor!",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/event/event_listing_image_tr/main/196930a9-1c68-4088-b135-6f87610d4158.jpeg?1793105679426?1793105679426",
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "cumhuriyet-bayrami-coskusu-mall-of-istanbul-da",
-      "mallId": "mall-of-istanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/etkinlikler/cumhuriyet-bayrami-coskusu-mall-of-istanbul-da",
-      "description": "29 Ekim Cumhuriyet Bayramımız kutlu olsun!",
-      "startsAt": "2026-10-29",
-      "title": "Cumhuriyet Bayramı Coşkusu Mall of İstanbul’da!",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/event/event_listing_image_tr/main/cbfa0b8a-acda-42e7-9c88-bfc54a284dca.jpeg?1793102852457?1793102852457",
-      "firstSeen": "2026-10-28"
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/wagamama-5zbgodbihav",
+      "publishedAt": "2026-10-30",
+      "title": "Wagamama",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/40121d09-b49c-44dd-9313-4bd702a4115b.jpeg?1793351765615?1793351765615",
+      "firstSeen": "2026-10-30"
     },
     {
       "id": "candyzoo-5sjajosvag",
@@ -287,17 +263,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "29-ekim-cumhuriyet-bayrami-kutlama-programi",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.vadistanbul.com/etkinlikler/29-ekim-cumhuriyet-bayrami-kutlama-programi",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "29 Ekim Cumhuriyet Bayramı Kutlama Programı",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SyZEG232Gx-main.jpeg?1793012266349",
-      "firstSeen": "2026-10-27"
-    },
-    {
       "id": "otoparkimizda-3-saat-uecretsiz",
       "mallId": "vadistanbul",
       "kind": "event",
@@ -340,6 +305,17 @@
       "title": "Ayırdığımız Her Atıkla Gelecek Nesillere Güzel Yarınlar Bırakıyoruz!",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/rkJzytubU-main.jpeg?1739803602777",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "29-ekim-cumhuriyet-bayrami-kutlama-programi",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/29-ekim-cumhuriyet-bayrami-kutlama-programi",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "29 Ekim Cumhuriyet Bayramı Kutlama Programı",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SyZEG232Gx-main.jpeg?1793012266349",
+      "firstSeen": "2026-10-27"
     },
     {
       "id": "pop-up-market-hkgxpyroqml",
@@ -724,18 +700,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "geleneksel-cumhuriyet-milongasi-kanyon-da",
-      "mallId": "kanyon",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.kanyon.com.tr/etkinlikler/geleneksel-cumhuriyet-milongasi-kanyon-da",
-      "description": "Geleneksel Cumhuriyet Milongası Kanyon’da! 29 Ekim 2026 Geleneksel Cumhuriyet Milongası Kanyon’da! Cumhuriyet Bayramı’nın coşkusunu tango ritimleriyle Kanyon’da kutluyoruz!",
-      "startsAt": "2026-10-29",
-      "title": "Geleneksel Cumhuriyet Milongası Kanyon’da!",
-      "image": "https://kanyon.fra1.digitaloceanspaces.com/images/event/event_kanyon_list_image_tr/main/9e7e9711-dc92-4d25-8c1b-0842311f7929.webp?1791811845286?1791811845286",
-      "firstSeen": "2026-10-13"
-    },
-    {
       "id": "ekimde-her-yaprak-bir-hikaye",
       "mallId": "istanbul-cevahir",
       "kind": "event",
@@ -989,18 +953,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "cumhuriyet-coskusu-starcity-outlette",
-      "mallId": "starcity",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.starcity.com.tr/detay/cumhuriyet-coskusu-starcity-outlette",
-      "description": "29 Ekim Perşembe günü Cumhuriyetimizin 103. yılını yüz boyama, 360° video çekimi, bando gösterisi ve bez çanta atölyesiyle birlikte kutluyoruz. Tüm etkinlikler ücretsiz!",
-      "startsAt": "2026-10-29",
-      "title": "Cumhuriyet Coşkusu Starcity Outlet’te!",
-      "image": "https://www.starcity.com.tr/upload/article/17930206034426.jpg",
-      "firstSeen": "2026-10-27"
-    },
-    {
       "id": "forum-istanbul-a-ozel-kampanya",
       "mallId": "forum-istanbul",
       "kind": "event",
@@ -1063,86 +1015,6 @@
       "url": "https://www.capitol.com.tr/tr/etkinlikler/Galeri",
       "title": "Galeri",
       "image": "https://www.capitol.com.tr/media/3f2fir3b/coyote-acme-800x800.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "kampanya-araba-2026.jpg",
-      "mallId": "buyaka",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/kampanya-araba-2026.jpg",
-      "title": "Alışverişini Yap, Şansı Yakala!",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/kampanya-araba-2026.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "concierge-etkinlik.jpg",
-      "mallId": "buyaka",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/concierge-etkinlik.jpg",
-      "title": "Concierge Hizmeti Buyaka'da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/concierge-etkinlik.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "ram-bayramkampanya2026.jpg",
-      "mallId": "buyaka",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/ram-bayramkampanya2026.jpg",
-      "title": "Bayram Hediyeleri Buyaka'da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/ram-bayramkampanya2026.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "bts-kampanya-2025.jpg",
-      "mallId": "buyaka",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/bts-kampanya-2025.jpg",
-      "title": "Okuldan Önce Hediyeler Buyaka'da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/bts-kampanya-2025.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "ramazanbayramkampanya2025.jpg",
-      "mallId": "buyaka",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/ramazanbayramkampanya2025.jpg",
-      "title": "Bayram Hediyeleri Buyaka'dan",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/ramazanbayramkampanya2025.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "yeniyilkampanya-2025.jpg",
-      "mallId": "buyaka",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/yeniyilkampanya-2025.jpg",
-      "title": "Yeni Yıl Hediyeleri Buyaka'da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/yeniyilkampanya-2025.jpg",
-      "firstSeen": "2026-10-29"
-    },
-    {
-      "id": "kampanya2024-bayram.jpg",
-      "mallId": "buyaka",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/kampanya2024-bayram.jpg",
-      "title": "Bayram Alışverişinizde Sürpriz Hediyeler Buyaka",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/kampanya2024-bayram.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "ogretmenlergunukamp-2023.jpg",
-      "mallId": "buyaka",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.buyaka.com.tr/uploads/imgs/kampanya/ogretmenlergunukamp-2023.jpg",
-      "title": "Öğretmenler Günü Kahvaltısı Buyaka'da",
-      "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/ogretmenlergunukamp-2023.jpg",
       "firstSeen": "2026-10-12"
     },
     {
