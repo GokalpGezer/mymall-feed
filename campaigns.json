@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T10:28:50+00:00",
+  "generatedAt": "2026-11-01T11:22:34+00:00",
   "campaigns": [
     {
       "id": "kitap-senligi",
@@ -44,16 +44,6 @@
       "firstSeen": "2026-10-20"
     },
     {
-      "id": "ekim-de-perde-aciliyor",
-      "mallId": "kozzy",
-      "title": "Ekim'de Perde Açılıyor!",
-      "kind": "event",
-      "isPaid": false,
-      "image": "https://kozzyavm.com/storage/kozzyavm/event/October2026/whatsapp-image-2026-10-09-at-165431.jpeg",
-      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/ekim-de-perde-aciliyor",
-      "firstSeen": "2026-10-12"
-    },
-    {
       "id": "i-yilige-sende-bir-i-lmek-at",
       "mallId": "kozzy",
       "title": "İyiliğe Sende Bir İlmek At!",
@@ -84,6 +74,18 @@
       "description": "Ceviz Adam Müzikali ve Neşeli Yapılar Müzikali Hilltown Seyirlik Sahne’de! Seans gün ve saatleri için 0(535) 255 5855 no'lu telefondan iletişime geçebilirsiniz!",
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "cumhuriyet-bayrami-coskusu-mall-of-istanbul-da",
+      "mallId": "mall-of-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/etkinlikler/cumhuriyet-bayrami-coskusu-mall-of-istanbul-da",
+      "description": "29 Ekim Cumhuriyet Bayramımız kutlu olsun!",
+      "startsAt": "2026-10-29",
+      "title": "Expired",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/event/event_listing_image_tr/main/cbfa0b8a-acda-42e7-9c88-bfc54a284dca.jpeg?1793102852457?1793102852457",
+      "firstSeen": "2026-11-01"
     },
     {
       "id": "shake-shack",
@@ -164,64 +166,6 @@
       "firstSeen": "2026-10-17"
     },
     {
-      "id": "united-colors-of-benetton-grjegci4cws",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/united-colors-of-benetton-grjegci4cws",
-      "publishedAt": "2026-10-15",
-      "title": "United Colors Of Benetton",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f5ea7263-a3f1-4cfa-9ea1-43b7c054c54d.jpeg?1792051842390?1792051842390",
-      "firstSeen": "2026-10-15"
-    },
-    {
-      "id": "ghisa-qawnhsbtwlt",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/ghisa-qawnhsbtwlt",
-      "description": "Yeni Sezon Ürünlerinde %10 İndirim",
-      "publishedAt": "2026-10-12",
-      "title": "Ghisa",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ac8b2c6e-4d7c-46b2-a6e0-921de91d34d7.jpeg?1791808737100?1791808737100",
-      "firstSeen": "2026-10-13"
-    },
-    {
-      "id": "adidas-kids",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/adidas-kids",
-      "description": "Spor Alışverişinizde Kazanç Zamanı",
-      "publishedAt": "2026-10-12",
-      "title": "Adidas Kids",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/988fe06f-733f-42ee-b4a9-e6ff6ed89bbf.jpeg?1791792885527?1791792885527",
-      "firstSeen": "2026-10-13"
-    },
-    {
-      "id": "mc-donald-s",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/mc-donald-s",
-      "publishedAt": "2026-10-08",
-      "title": "Mc Donald’s",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/09d2d72c-890d-403b-a77b-17b61c6dfab2.jpeg?1791461039046?1791461039046",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "loris-parfum",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/loris-parfum",
-      "description": "Açılışa Özel Tüm Ürünlerde 2. Ürüne %50 İndirim",
-      "publishedAt": "2026-10-02",
-      "title": "Loris Parfüm",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ec044f62-1e24-44d6-9b1e-30f1c6dff638.jpeg?1790949729997?1790949729997",
-      "firstSeen": "2026-10-12"
-    },
-    {
       "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
       "mallId": "akmerkez",
       "kind": "event",
@@ -241,16 +185,6 @@
       "description": "Keyifli deneyimin adresi ve kentin en gözde buluşma noktası Akmerkez; doğayla kurulan bağın en yalın hali İpek Hanım Çiftliği’ni ziyaretçileri ile buluşturuyor. Çiftlikte yetiştirilen ve mevsiminde hasat edilen sebze- meyvelerle, el emeği i",
       "title": "İpek Hanım Çiftliği Akmerkez’de",
       "image": "https://s3-eu-central-1.amazonaws.com/akis-gyo/images/event_image/ryEv5xTWY-main.jpeg?1630501468896",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "akmerkez-app-ile-beymen-club-da-20-indirim",
-      "mallId": "akmerkez",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/firsatlar/akmerkez-app-ile-beymen-club-da-20-indirim",
-      "title": "Akmerkez App İle Beymen Club'da %20 İndirim",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/68fa2498-9d57-47b1-b243-a89f79e4ac1e.jpeg?1790921198463?1790921198463",
       "firstSeen": "2026-10-12"
     },
     {
@@ -345,7 +279,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/paribu-acikhava-etkinlikleri-sjg-ydozczx",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Paribu AçıkHava Etkinlikleri",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/HkZYwiM9ze-main.jpeg?1790257018102",
       "firstSeen": "2026-10-12"
@@ -356,7 +290,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-9-yasinda",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Vadistanbul 9 Yaşında",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1WIKE-FMe-main.jpeg?1789114698189",
       "firstSeen": "2026-10-12"
@@ -367,7 +301,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/senin-kahraman-hikayen-hangisi-bye-rikdugl",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Senin Kahraman Hikayen Hangisi?",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ByZrskPuGx-main.jpeg?1788439353353",
       "firstSeen": "2026-10-12"
@@ -400,10 +334,20 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-summer-bazaar",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
       "title": "Vadistanbul Summer Bazaar",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJdhFUWQMe-main.jpeg?1782831537097",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "1-alana-1-hediye-rkeoanmmazx",
+      "mallId": "vadistanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/alisveris-firsatlari/1-alana-1-hediye-rkeoanmmazx",
+      "title": "Find out more",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/promotion_image/S1uR27zafx-small.jpeg?1793371345026",
+      "firstSeen": "2026-11-01"
     },
     {
       "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-wgdargwx-_q",
@@ -710,7 +654,7 @@
       "url": "https://istanbulcevahir.com/etkinlikler/ekimde-her-yaprak-bir-hikaye/",
       "description": "Hafta içi ve Hafta sonu 14:30/15:30/16:30/17:30 saatlerinde ‘’Yaratıcı Atölyeler’’",
       "title": "Ekimde Her Yaprak Bir Hikaye",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/10/ekim-programi-tr-kucuk-1.webp",
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/08/yaraticilik-kulubu-eylul-kucuk-tr.webp",
       "firstSeen": "2026-10-12"
     },
     {
@@ -956,17 +900,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "forum-istanbul-a-ozel-kampanya",
-      "mallId": "forum-istanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://forumistanbul.com.tr/firsat/forum-istanbul-a-ozel-kampanya",
-      "description": "Forum İstanbul'da anlar, etkinlikler ve mekanın enerjisinden kareler.",
-      "title": "Forum İstanbul'a Özel Kampanya",
-      "image": "https://forum-one.knscdn.com/images/promotion/promotion_image_tr/main/0b8b39a3-2710-46db-95c4-7f2c72235daa.jpeg?1790852548730?1790852548730",
-      "firstSeen": "2026-10-12"
-    },
-    {
       "id": "love-my-body",
       "mallId": "forum-istanbul",
       "kind": "event",
@@ -987,17 +920,6 @@
       "title": "Yeni Sezon Giyimde İndirim",
       "image": "https://forum-one.knscdn.com/images/promotion/promotion_image_tr/main/a4690fb8-9b3d-4f6f-8e44-bad4a55bae1d.jpeg?1791786156651?1791786156651",
       "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "buyuk-yaz-indirimi",
-      "mallId": "forum-istanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://forumistanbul.com.tr/firsat/buyuk-yaz-indirimi",
-      "description": "Forum İstanbul'da anlar, etkinlikler ve mekanın enerjisinden kareler.",
-      "title": "Büyük Yaz İndirimi",
-      "image": "https://forum-one.knscdn.com/images/promotion/promotion_image_tr/main/25b4434e-65cc-4464-93a8-024b67f11de9.jpeg?1791871386446?1791871386446",
-      "firstSeen": "2026-10-13"
     },
     {
       "id": "tum-urunlerde-net-40-indirim",
