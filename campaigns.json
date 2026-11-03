@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T12:35:13+00:00",
+  "generatedAt": "2026-11-03T12:07:42+00:00",
   "campaigns": [
     {
       "id": "maltepe-park-ta-gun-erken-doguyor",
@@ -22,6 +22,17 @@
       "firstSeen": "2026-10-12"
     },
     {
+      "id": "art-in-kids",
+      "mallId": "hilltown",
+      "title": "Art in Kids",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://hilltownkucukyali.com/storage/hilltownkucukyali/event/November2026/art-in-kids-hilltown-kucukyali-1280x720px.webp",
+      "description": "7 Kasım Cumartesi saat 14.00'te Hilltown Küçükyalı Art in Town'da gerçekleşecek Picasso temalı atölye, 7-12 yaş çocuklar için ücretsizdir. Katılım ön kayıt ile sağlanmaktadır.",
+      "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/art-in-kids",
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "hilltown-seyirlik-sahne-1",
       "mallId": "hilltown",
       "title": "Hilltown Seyirlik Sahne",
@@ -42,6 +53,17 @@
       "description": "Ceviz Adam Müzikali ve Neşeli Yapılar Müzikali Hilltown Seyirlik Sahne’de! Seans gün ve saatleri için 0(535) 255 5855 no'lu telefondan iletişime geçebilirsiniz!",
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "deichmann-g6qf95cvewy",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/deichmann-g6qf95cvewy",
+      "publishedAt": "2026-11-03",
+      "title": "Deichmann",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/10bb54c8-a244-47d1-96a6-9e3753ef10ea.jpeg?1793705381279?1793705381279",
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "roman-_jjiilo8wt0",
@@ -145,24 +167,31 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "akmerkez-app-ile-divarese-de-2-ve-uezeri-ueruene-30-indirim",
+      "id": "35-indirim",
       "mallId": "akmerkez",
       "kind": "discount",
       "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/firsatlar/akmerkez-app-ile-divarese-de-2-ve-uezeri-ueruene-30-indirim",
-      "title": "Akmerkez App İle Divarese'de 2 Ve Üzeri Ürüne %30 İndirim",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/60e7a0b3-1327-444f-ba29-a9cffd5163d1.jpeg?1790921258619?1790921258619",
-      "firstSeen": "2026-10-12"
+      "url": "https://www.akmerkez.com.tr/firsatlar/35-indirim",
+      "title": "%35 İndirim",
+      "firstSeen": "2026-11-03"
     },
     {
-      "id": "akmerkez-app-ile-network-de-2-ve-uezeri-ueruene-25-indirim",
+      "id": "30-indirim",
       "mallId": "akmerkez",
       "kind": "discount",
       "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/firsatlar/akmerkez-app-ile-network-de-2-ve-uezeri-ueruene-25-indirim",
-      "title": "Akmerkez App İle Network'de 2 Ve Üzeri Ürüne %25 İndirim",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/369f6cb8-daea-405d-917d-9754854794b1.jpeg?1790921315287?1790921315287",
-      "firstSeen": "2026-10-12"
+      "url": "https://www.akmerkez.com.tr/firsatlar/30-indirim",
+      "title": "%30 İndirim",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "40-indirim",
+      "mallId": "akmerkez",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/firsatlar/40-indirim",
+      "title": "%40 İndirim",
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "otoparkimizda-3-saat-uecretsiz",
@@ -214,7 +243,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/29-ekim-cumhuriyet-bayrami-kutlama-programi",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "29 Ekim Cumhuriyet Bayramı Kutlama Programı",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SyZEG232Gx-main.jpeg?1793012266349",
       "firstSeen": "2026-10-27"
@@ -615,32 +644,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "dasdas-kayip-el",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/kayip-el",
-      "title": "Kayıp El",
-      "startsAt": "2026-11-02",
-      "endsAt": "2026-11-02",
-      "description": "DasDas Ataşehir / Sahne · 20:30",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1791294997730-kayip-el-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1791294998369-kay-p-el-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=fef6b0b7-4fec-4d87-80f9-a9e27734288a",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "dasdas-teslimiyet",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/teslimiyet",
-      "title": "Teslimiyet",
-      "startsAt": "2026-11-02",
-      "endsAt": "2026-11-02",
-      "description": "DasDas Ataşehir / Açık Sahne · 21:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Foriginals%2Fmedia-1788518451014-teslimiyet-2%2F1788518451041-teslimiyet-2.jpg?alt=media&token=caa7d708-a439-4cae-a18c-51ec583c2a4a",
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "dasdas-52-hertz",
       "mallId": "metropol-istanbul",
       "kind": "event",
@@ -662,7 +665,7 @@
       "title": "Bu Benim Çantam Bu Benim",
       "startsAt": "2026-11-04",
       "endsAt": "2026-11-04",
-      "description": "DasDas Ataşehir / Açık Sahne · 21:00",
+      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1789577898384-bu-benim-cantam-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1789577899063-bu-benim-cantam-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=fc3b1f1f-d9b2-48c6-8453-beaddd916512",
       "firstSeen": "2026-11-02"
     },
@@ -716,6 +719,31 @@
       "endsAt": "2026-11-27",
       "description": "DasDas Ataşehir / Alternatif Sahne · 20:00",
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "dasdas-tac-in-nobetcileri",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/tac-in-nobetcileri",
+      "title": "Tac'ın Nöbetçileri",
+      "startsAt": "2026-11-08",
+      "endsAt": "2026-11-08",
+      "description": "DasDas Ataşehir / Açık Sahne · 18:00",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "dasdas-oyun-mahalli",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/oyun-mahalli",
+      "title": "Oyun Mahalli",
+      "startsAt": "2026-11-08",
+      "endsAt": "2026-12-04",
+      "description": "DasDas Ataşehir / Alternatif Sahne · 19:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Foriginals%2Fmedia-1787480212106-pp-2%2F1787480212135-pp-2.png?alt=media&token=39ed6d55-c290-47e4-9d83-896b0dd9cf34",
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "ugur-bocegi-ile-kara-kedi",
@@ -947,6 +975,18 @@
       "title": "Slot Car",
       "image": "https://tepe-emlak.fra1.digitaloceanspaces.com/images/event/event_image/main/abe59fef-2b7c-4cc6-9b2f-cc504aeadfde.jpeg?1768981571616?1768981571616",
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "sehrin-kanyon-stili-ne-ozel-firsatlar",
+      "mallId": "kanyon",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.kanyon.com.tr/etkinlikler/sehrin-kanyon-stili-ne-ozel-firsatlar",
+      "description": "Şehrin Kanyon Stili’ne Özel Fırsatlar! 05 - 08 Kasım 2026 Şehrin Kanyon Stili’ne Özel Fırsatlar! Şehrin stil dolu buluşmasında fırsatlar seni bekliyor!",
+      "startsAt": "2026-11-08",
+      "title": "Şehrin Kanyon Stili’ne Özel Fırsatlar!",
+      "image": "https://kanyon.fra1.digitaloceanspaces.com/images/event/event_kanyon_list_image_tr/main/c41bb2c5-8c8c-402d-b854-8f6c4c3548a1.webp?1793687242603?1793687242603",
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "sehrin-kanyon-stili-5-8-kasim-da-kanyon-da",
@@ -1484,6 +1524,17 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "suwen-1111-indirimleri-basladi",
+      "mallId": "first-avenue",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.firstavenue.com.tr/kampanyalar/suwen-1111-indirimleri-basladi",
+      "description": "11 Kasım 2026",
+      "title": "Suwen 11.11 İndirimleri Başladı!",
+      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/suwen-1111-indirimleri-basladi_ff6yirvsrb.jpg",
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "dr-kitap-fuarina-ozel-indirim",
       "mallId": "first-avenue",
       "kind": "discount",
@@ -1710,6 +1761,19 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "dasdas-karlar-ulkesi-mechule-dogru",
+      "mallId": "istinye-park",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/karlar-ulkesi-mechule-dogru",
+      "title": "Karlar Ülkesi Meçhule Doğru",
+      "startsAt": "2026-11-20",
+      "endsAt": "2026-11-20",
+      "description": "DasDas İstinyePark / İstinye Açık Sahne · 13:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1793360656783-karlar-ulkesi-mechule-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1793360657348-karlar-ulkesi-mechule-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=106f48c0-63a4-4857-88f4-2f07ab4a4c9b",
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "dasdas-onum-arkam-duygularim-sobe",
       "mallId": "istinye-park",
       "kind": "event",
@@ -1881,83 +1945,24 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "garanti-bbva-genc-konserleri-caribou",
+      "id": "skechers-kids-cocuk-festivali-2",
       "mallId": "zorlu-center",
       "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/garanti-bbva-genc-konserleri-caribou",
-      "description": "Caribou Garanti BBVA Genç Konserleri kapsamında 24 Kasım 2026’da Turkcell Sahnesi’nde!",
-      "startsAt": "2026-11-24",
-      "title": "GARANTİ BBVA GENÇ KONSERLERİ: CARIBOU",
-      "firstSeen": "2026-11-02"
+      "isPaid": false,
+      "url": "https://www.zorlucenter.com.tr/avm/etkinlikler/skechers-kids-cocuk-festivali-2/",
+      "description": "E-bültenimize kaydolarak son haberlerden, içeriklerden, güncellemelerden veya size özel tekliflerimizden haberdar olabilirsiniz.",
+      "title": "Skechers Kids Çocuk Festivali",
+      "image": "https://www.zorlucenter.com.tr/media/qvpd31gh/etkinlik-center-banner.jpg",
+      "firstSeen": "2026-11-03"
     },
     {
-      "id": "new-balance-presents-unseen-kids-tour",
+      "id": "harika-seyler-listesi",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/new-balance-presents-unseen-kids-tour",
-      "description": "New Balance Presents: Unseen Kids Tour Zorlu PSM’de!",
-      "startsAt": "2026-11-07",
-      "title": "NEW BALANCE PRESENTS: UNSEEN KIDS TOUR",
-      "image": "https://www.zorlupsm.com/medium/Activity/Image/2a16f4ee-51d2-46fb-aae7-03d03f4aeb3e",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "clap-your-hands-say-yeah",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/clap-your-hands-say-yeah",
-      "description": "Bağımsız müziğin kendine özgü seslerinden Clap Your Hands Say Yeah, 6 Şubat 2027’de %100 Studio sahnesinde!",
-      "startsAt": "2027-02-06",
-      "title": "CLAP YOUR HANDS SAY YEAH",
-      "image": "https://www.zorlupsm.com/medium/Activity/Image/0e841205-001e-45d8-9be5-77be90f1e083",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "new-balance-presents-unseen-extreme-tour",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/new-balance-presents-unseen-extreme-tour",
-      "description": "New Balance Presents: Unseen Extreme Tour ile Sınırları Zorla!",
-      "startsAt": "2026-11-07",
-      "title": "NEW BALANCE PRESENTS: UNSEEN EXTREME TOUR",
-      "image": "https://www.zorlupsm.com/medium/Activity/Image/1f78e99b-304b-49f7-ab1c-cae1c2bccb5b",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "gunesin-oglu",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/gunesin-oglu",
-      "description": "Onur Ünlü’den ‘’Güneşin Oğlu’’ sahneye uyarlanıyor!",
-      "startsAt": "2026-11-17",
-      "title": "GÜNEŞİN OĞLU",
-      "image": "https://www.zorlupsm.com/medium/Activity/Image/72b94e75-e8e8-42aa-a070-217f40d4e14e",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "ibrahim-selim-ile-bu-gece-100-studio",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/ibrahim-selim-ile-bu-gece-100-studio?p=a7020527-446d-44ea-a238-7990ca2865b1",
-      "description": "Hanımlar Beyler yaz bitti! Ama hiç korkmayın bizler mevsim geçişlerinizi hafifletmek, dönemsel depresyonunuza yara bandı olmak için işimizin başındayız!",
-      "title": "İBRAHİM SELİM İLE BU GECE",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "saticinin-olumu",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/saticinin-olumu?p=b14463ba-3332-4bdb-bdb3-597640d8b9b0",
-      "description": "Arthur Miller’ın Pulitzer ve Tony ödüllü başyapıtı Satıcının Ölümü, hayaller, başarı arzusu ve aile bağları üzerine kurulu zamansız hikâyesiyle Rönesans’ın katkılarıyla Zorlu PSM prodüksiyonu olarak sahneye taşınıyor. Amerikan Rüyası’nın ar",
-      "title": "SATICININ ÖLÜMÜ",
+      "url": "https://www.zorlupsm.com/etkinlikler/harika-seyler-listesi?p=b60ea94a-5c9d-4cbd-aace-6f1950f2108f",
+      "description": "Her şey altı yaşında bir çocuğun yazdığı bir listeyle başlar.",
+      "title": "HARİKA ŞEYLER LİSTESİ",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
       "firstSeen": "2026-11-02"
     },
@@ -1973,13 +1978,13 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "harika-seyler-listesi",
+      "id": "saticinin-olumu",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/harika-seyler-listesi?p=b60ea94a-5c9d-4cbd-aace-6f1950f2108f",
-      "description": "Her şey altı yaşında bir çocuğun yazdığı bir listeyle başlar.",
-      "title": "HARİKA ŞEYLER LİSTESİ",
+      "url": "https://www.zorlupsm.com/etkinlikler/saticinin-olumu?p=b14463ba-3332-4bdb-bdb3-597640d8b9b0",
+      "description": "Arthur Miller’ın Pulitzer ve Tony ödüllü başyapıtı Satıcının Ölümü, hayaller, başarı arzusu ve aile bağları üzerine kurulu zamansız hikâyesiyle Rönesans’ın katkılarıyla Zorlu PSM prodüksiyonu olarak sahneye taşınıyor. Amerikan Rüyası’nın ar",
+      "title": "SATICININ ÖLÜMÜ",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
       "firstSeen": "2026-11-02"
     },
@@ -2004,6 +2009,84 @@
       "title": "MELİS İŞİTEN İLE ZATEN ŞOV",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "suphe",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/suphe?p=b07ef70d-4027-4001-a95c-35e08f71ce8b",
+      "description": "OSCAR VE TONY ÖDÜLLÜ BİR BAŞYAPIT, TÜRKİYE’NİN ÖDÜLLÜ SAHNESİNDE! Dünya çapında Tony Ödülü’ne, sinema uyarlamasıyla Oscar adaylıklarına uzanan Şüphe; şimdi Afife’den Üstün Akmen’e, Sadri Alışık’tan Ekin Yazın Dostları ve Yeni Tiyatro’ya uza",
+      "title": "ŞÜPHE",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "sampiyonlar-ligi-mac-gosterimi-fenerbahce-liverpool",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/sampiyonlar-ligi-mac-gosterimi-fenerbahce-liverpool?p=31670adf-eb3d-4c51-a459-64b5253076cd",
+      "description": "Şampiyonlar Ligi maç gösterimi: Fenerbahçe – Liverpool Vestel Amfi'de!",
+      "title": "ŞAMPİYONLAR LİGİ MAÇ GÖSTERİMİ: FENERBAHÇE – LIVERPOOL",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "ferit-odman-quintet",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/ferit-odman-quintet?p=ba9c1dc4-400d-4bc5-8d3b-5386728674b0",
+      "description": "Türkiye'de caz davulunun öncülerinden Ferit Odman; Downbeat dergisinden dört yıldızla taçlandırılmış olan Autumn In New York ve Nommo albümlerindeki quintet aranjmanlarına yer verecek. Odman'ın quinteti ile hard-bop dünyasının derinlerinde ",
+      "title": "FERİT ODMAN QUINTET",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "sergen-deveci-stand-up",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/sergen-deveci-stand-up?p=a1264a18-16ea-40b8-9716-6f8738747660",
+      "description": "Münzevi zorunlulukların toplum içerisinde takdir görmesi çabasına ilişkin, küçüklükten aşina olduğumuz ilişki ve sürdürülebilir bir yaşam için ilişkileri konu alan gösterisi ile Sergen Deveci seyirciyle buluşuyor!",
+      "title": "SERGEN DEVECİ STAND-UP",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "cenk-erdem-muebbet-muhabbet",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/cenk-erdem-muebbet-muhabbet?p=22ff3b4b-138d-4e3a-b74f-16b32d410bcd",
+      "description": "Absürt mizahın öncüleri Cenk ve Erdem, Müebbet Muhabbet’leri ile yeniden Zorlu PSM’de!",
+      "title": "CENK & ERDEM - MÜEBBET MUHABBET",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "uefa-avrupa-ligi-celtic-besiktas",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/uefa-avrupa-ligi-celtic-besiktas?p=cfbf5639-5d75-4b0e-aebc-8cb2316176f6",
+      "description": "UEFA Avrupa Ligi maç gösterimleri Vestel Amfi'de!",
+      "title": "UEFA AVRUPA LİGİ: CELTIC – BEŞİKTAŞ",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "mix-festival-2026",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/mix-festival-2026?p=fb35998f-4a34-48af-a1c8-fb4957a24480",
+      "description": "Müziğin ritmini hissetmeye hazır olun! Çok sesli müzik festivali MIX Festival, 6 Kasım 2026 'da yepyeni edisyonuyla geri dönüyor. Farklı sesleri ve yeni keşifleri bir araya getiren festival, 2026 edisyonunda sürprizlerle dolu bir deneyim su",
+      "startsAt": "2026-11-06",
+      "title": "MIX FESTIVAL BY MODUNDAYIZ",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "ataturku-anma-satranc-turnuvasi",

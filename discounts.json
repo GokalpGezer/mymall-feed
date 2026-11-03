@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-02T12:35:13+00:00",
+  "generatedAt": "2026-11-03T12:06:26+00:00",
   "discounts": [
+    {
+      "id": "gratis-stores-40-20261101",
+      "brand": "Gratis",
+      "title": "Gratis — %40 indirim",
+      "source": "Gratis",
+      "url": "https://www.gratis.com/kampanyalar",
+      "channel": "both",
+      "condition": "Gratis mağazalarında 1–3 Kasım; kapsam: Tüm Makyaj, Yüz Bakım, Şampuan, Saç Kremi, Saç Boyası, Parfüm, Deodorant ve Vücut Spreylerinde",
+      "startsAt": "2026-11-03",
+      "endsAt": "2026-11-03",
+      "verifiedAt": "2026-11-03"
+    },
     {
       "id": "hm-welcome",
       "brand": "H&M",

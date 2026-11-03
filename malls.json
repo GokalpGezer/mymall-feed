@@ -185,7 +185,7 @@
       "id": "axis-istanbul",
       "name": "Axis İstanbul",
       "city": "Eyüpsultan",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 41.03537,
         "lng": 28.92089
@@ -218,7 +218,7 @@
       "id": "historia",
       "name": "Historia",
       "city": "Fatih",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 41.0144,
         "lng": 28.94527
