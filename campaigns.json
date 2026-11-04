@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:07:42+00:00",
+  "generatedAt": "2026-11-04T12:20:18+00:00",
   "campaigns": [
     {
       "id": "maltepe-park-ta-gun-erken-doguyor",
@@ -55,15 +55,39 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "deichmann-g6qf95cvewy",
+      "id": "mac-cosmetics",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
       "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/deichmann-g6qf95cvewy",
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/mac-cosmetics",
+      "description": "Seçili Ürünler Tek Fiyat",
+      "publishedAt": "2026-11-04",
+      "title": "MAC Cosmetics",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/91c4b3b3-eb87-4244-868d-f357b48ea341.jpeg?1793780829746?1793780829746",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "yargici-rsoatce672",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/yargici-rsoatce672",
+      "description": "%40'a Varan İndirim",
+      "publishedAt": "2026-11-04",
+      "title": "Yargıcı",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/0e730026-4216-45e2-9d03-272df7375648.jpeg?1793774009680?1793774009680",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "deichmann-3wmi4qu2vlr",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/deichmann-3wmi4qu2vlr",
       "publishedAt": "2026-11-03",
       "title": "Deichmann",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/10bb54c8-a244-47d1-96a6-9e3753ef10ea.jpeg?1793705381279?1793705381279",
-      "firstSeen": "2026-11-03"
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/801cf475-28b2-4259-804c-8a60cc69208d.jpeg?1793705344671?1793705344671",
+      "firstSeen": "2026-11-04"
     },
     {
       "id": "roman-_jjiilo8wt0",
@@ -108,17 +132,6 @@
       "publishedAt": "2026-10-22",
       "title": "Ramsey",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/9c50bfc1-ffee-4db9-81d5-3b114b60f694.jpeg?1792660611507?1792660611507",
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "yargici-5ob8dcvikk3",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/yargici-5ob8dcvikk3",
-      "publishedAt": "2026-10-21",
-      "title": "Yargıcı",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/22a6273a-9dba-4c06-a6f8-3d182eda5b1b.jpeg?1792590401571?1792590401571",
       "firstSeen": "2026-10-22"
     },
     {
@@ -644,19 +657,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "dasdas-52-hertz",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/52-hertz",
-      "title": "52 Hertz",
-      "startsAt": "2026-11-03",
-      "endsAt": "2026-11-03",
-      "description": "DasDas Ataşehir / Açık Sahne · 21:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1791198600619-52-hertzetkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1791198600997-52-hertzetkinlik-hero-gorseli-600x600_320w.jpg?alt=media&token=8196650e-4cca-443e-ada4-5c4d8b025ce7",
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "dasdas-bu-benim-cantam-bu-benim",
       "mallId": "metropol-istanbul",
       "kind": "event",
@@ -678,7 +678,7 @@
       "title": "Nafiye Nasıl Şarkıcı Olamadı?",
       "startsAt": "2026-11-05",
       "endsAt": "2026-12-08",
-      "description": "DasDas Ataşehir / Açık Sahne · 21:00",
+      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1789746954917-nafiye-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1789746955404-nafiye-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=70e2d666-3bbd-43b2-bd45-460ca369155b",
       "firstSeen": "2026-11-02"
     },
@@ -744,6 +744,19 @@
       "description": "DasDas Ataşehir / Alternatif Sahne · 19:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Foriginals%2Fmedia-1787480212106-pp-2%2F1787480212135-pp-2.png?alt=media&token=39ed6d55-c290-47e4-9d83-896b0dd9cf34",
       "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "dasdas-iki-kisilik-oyun",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/iki-kisilik-oyun",
+      "title": "İki Kişilik Oyun",
+      "startsAt": "2026-11-09",
+      "endsAt": "2026-12-02",
+      "description": "DasDas Ataşehir / Sahne · 18:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Foriginals%2Fmedia-1785931876898-iki-kisilik-oyun-siyah-beyaz-png%2F1785931876912-dsc02986-siyah-beyaz-png.png?alt=media&token=b9b9f81b-9b0f-47dd-b219-230df34af58d",
+      "firstSeen": "2026-11-04"
     },
     {
       "id": "ugur-bocegi-ile-kara-kedi",
@@ -1001,6 +1014,30 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "c-kusagi-eglenceye-ara-vermiyor",
+      "mallId": "istanbul-cevahir",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://istanbulcevahir.com/etkinlikler/c-kusagi-eglenceye-ara-vermiyor/",
+      "publishedAt": "2026-11-03",
+      "description": "Ara Tatilde Herkes İstanbul Cevahir’de Buluşuyor!",
+      "title": "C Kuşağı Eğlenceye Ara Vermiyor!",
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/11/ara-tatil-kucuk.webp",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "yapraklar-dokulur-hayaller-renklenir",
+      "mallId": "istanbul-cevahir",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://istanbulcevahir.com/etkinlikler/yapraklar-dokulur-hayaller-renklenir/",
+      "publishedAt": "2026-11-03",
+      "description": "Hafta içi ve Hafta sonu 14:30/15:30/16:30/17:30 saatlerinde",
+      "title": "Yapraklar Dökülür, Hayaller Renklenir",
+      "image": "https://istanbulcevahir.com/wp-content/uploads/2026/11/kasim-etkinlikkucuk-tr-1.webp",
+      "firstSeen": "2026-11-04"
+    },
+    {
       "id": "istanbul-cevahirde-yeni-yil-coskusu",
       "mallId": "istanbul-cevahir",
       "kind": "event",
@@ -1011,19 +1048,6 @@
       "startsAt": "2026-12-30",
       "title": "İstanbul Cevahir’de Yeni Yıl Coşkusu!",
       "image": "https://istanbulcevahir.com/wp-content/uploads/2025/12/yilbasi-kucuk-tr.jpg",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "istanbul-cevahir-20-yasinda",
-      "mallId": "istanbul-cevahir",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://istanbulcevahir.com/etkinlikler/istanbul-cevahir-20-yasinda/",
-      "publishedAt": "2025-11-05",
-      "description": "İstanbul Cevahir olarak 20. yılımızı kutluyoruz! 12–16 Kasım tarihleri arasında gerçekleşecek etkinlikler kapsamında, farklı tarzlardan sevilen sanatçılar sahne alarak ziyaretçilerimize unutulmaz anlar yaşatacak.",
-      "startsAt": "2026-11-16",
-      "title": "İSTANBUL CEVAHİR 20 YAŞINDA!",
-      "image": "https://istanbulcevahir.com/wp-content/uploads/2025/11/20-yil-konser-kucuk.webp",
       "firstSeen": "2026-10-12"
     },
     {
@@ -1956,57 +1980,13 @@
       "firstSeen": "2026-11-03"
     },
     {
-      "id": "harika-seyler-listesi",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/harika-seyler-listesi?p=b60ea94a-5c9d-4cbd-aace-6f1950f2108f",
-      "description": "Her şey altı yaşında bir çocuğun yazdığı bir listeyle başlar.",
-      "title": "HARİKA ŞEYLER LİSTESİ",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "degisim-donusum",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/degisim-donusum?p=1cec1692-3085-4917-af65-03ff653329c3",
+      "url": "https://www.zorlupsm.com/etkinlikler/degisim-donusum?p=a0dff156-7ae9-42fc-8ad9-b310ff9ca1b9",
       "description": "Başarılı bir siyasetçi, geçmişindeki bağımlılıkla mücadele eden eski bir avukat ve tek bir gün içinde açığa çıkan sırlar… Dışarıdan kusursuz görünen Mine ve Tarık’ın evliliği, sakladıkları gerçeklerin ortaya çıkmasıyla sarsıcı bir hesaplaşm",
       "title": "DEĞİŞİM / DÖNÜŞÜM",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "saticinin-olumu",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/saticinin-olumu?p=b14463ba-3332-4bdb-bdb3-597640d8b9b0",
-      "description": "Arthur Miller’ın Pulitzer ve Tony ödüllü başyapıtı Satıcının Ölümü, hayaller, başarı arzusu ve aile bağları üzerine kurulu zamansız hikâyesiyle Rönesans’ın katkılarıyla Zorlu PSM prodüksiyonu olarak sahneye taşınıyor. Amerikan Rüyası’nın ar",
-      "title": "SATICININ ÖLÜMÜ",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "sampiyonlar-ligi-mac-gosterimi-galatasaray-stuttgart",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/sampiyonlar-ligi-mac-gosterimi-galatasaray-stuttgart?p=6b5b03b5-d2b1-4dd4-91d8-dcadf1cbfa8d",
-      "description": "Şampiyonlar Ligi maç gösterimi: Galatasaray – Stuttgart Vestel Amfi'de!",
-      "title": "ŞAMPİYONLAR LİGİ MAÇ GÖSTERİMİ: GALATASARAY – STUTTGART",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "melis-isiten-ile-zaten-sov-3-kasim",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/melis-isiten-ile-zaten-sov-3-kasim?p=796f4832-29dd-43d6-84c1-d92f918ee6ab",
-      "description": "Kahkahalar, samimi sohbetler ve çok özel konuklar... Melis İşiten ile Zaten Şov sahnede! Zorlu PSM touché by N Kolay sahnesinde enerjiyi ve eğlenceyi hep birlikte hissedeceğiz.",
-      "title": "MELİS İŞİTEN İLE ZATEN ŞOV",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
       "firstSeen": "2026-11-02"
     },
@@ -2087,6 +2067,50 @@
       "title": "MIX FESTIVAL BY MODUNDAYIZ",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
       "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "new-balance-presents-unseen-kids-tour",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/new-balance-presents-unseen-kids-tour?p=dfb1ab3c-9890-4c99-a366-78acc32b23f4",
+      "description": "New Balance Presents: Unseen Kids Tour Zorlu PSM’de!",
+      "title": "NEW BALANCE PRESENTS: UNSEEN KIDS TOUR",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "new-balance-presents-unseen-extreme-tour",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/new-balance-presents-unseen-extreme-tour?p=c4024c81-e4ea-4e8c-92a7-149445c67483",
+      "description": "New Balance Presents: Unseen Extreme Tour ile Sınırları Zorla!",
+      "title": "NEW BALANCE PRESENTS: UNSEEN EXTREME TOUR",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "besiktas-cocuk-korosu-ile-sen-de-soyle",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/besiktas-cocuk-korosu-ile-sen-de-soyle?p=1d318c31-8c0d-4103-a224-26a6fc11e5ef",
+      "description": "Beşiktaş Çocuk Korosu, Koro Şefi ve Müzik Öğretmeni Güneş KAYA'nın uzun yıllar üzerinde çalıştığı, Sn. Zeynep Civelek ÇAYNAK ile projelendirdiği ve nihayet 2016 yılında hayata geçirdiği bir projedir.",
+      "title": "BEŞİKTAŞ ÇOCUK KOROSU İLE SEN DE SÖYLE",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "meseden-neseye-gomercin-kuslari",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/meseden-neseye-gomercin-kuslari?p=739971d8-20e8-4a6e-aa65-63ab4673a50f",
+      "description": "Meşeden Neşeye: Gömercin Kuşları, Kaan Sekban ve Ayşe Balıbey ile touché by N Kolay’da karşımıza çıkıyorlar.",
+      "title": "MEŞEDEN NEŞEYE: GÖMERCİN KUŞLARI",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-04"
     },
     {
       "id": "ataturku-anma-satranc-turnuvasi",

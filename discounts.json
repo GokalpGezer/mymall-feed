@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-03T12:06:26+00:00",
+  "generatedAt": "2026-11-04T12:18:42+00:00",
   "discounts": [
     {
-      "id": "gratis-stores-40-20261101",
+      "id": "gratis-stores-50-20261104",
       "brand": "Gratis",
-      "title": "Gratis — %40 indirim",
+      "title": "Gratis — %50 indirim",
       "source": "Gratis",
       "url": "https://www.gratis.com/kampanyalar",
       "channel": "both",
-      "condition": "Gratis mağazalarında 1–3 Kasım; kapsam: Tüm Makyaj, Yüz Bakım, Şampuan, Saç Kremi, Saç Boyası, Parfüm, Deodorant ve Vücut Spreylerinde",
-      "startsAt": "2026-11-03",
-      "endsAt": "2026-11-03",
-      "verifiedAt": "2026-11-03"
+      "condition": "Gratis mağazalarında 4–30 Kasım; kapsam: Venüs 3 ve Üzeri Yedek Traş Bıçaklarında 2. Ürüne",
+      "startsAt": "2026-11-04",
+      "endsAt": "2026-11-30",
+      "verifiedAt": "2026-11-04"
     },
     {
       "id": "hm-welcome",
