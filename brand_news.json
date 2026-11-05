@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T12:20:18+00:00",
+  "generatedAt": "2026-11-05T12:32:36+00:00",
   "news": [
     {
       "id": "news-89799592e418",
@@ -8,7 +8,7 @@
       "description": "Tommy Hilfiger Sepette %30'a Varan İndirim; Calvin Klein Sepette %30'a Varan İndirim; adL Seçili Ürünlerde %70'e Varan + Sepette %30'a Varan İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
@@ -18,7 +18,7 @@
       "description": "Guess %50'ye Varan İndirim; Gizia %50'ye Varan İndirimler",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-a899f3018aa0",
@@ -27,17 +27,16 @@
       "description": "Levis %25'e Varan İndirim; National Geographic %25'e Varan İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
-      "id": "news-995c1e8450ac",
+      "id": "news-37b00ab11d4c",
       "brand": "Boyner",
       "title": "Boyner — %60'a varan indirim",
-      "description": "U.S. Polo Assn. Sepette %60'a Varan İndirime Ek Seçili Ürünlerde 250 TL Kupon",
+      "description": "U.S. Polo Assn. %60'a Varan İndirimlere Ek 400 TL Kupon Fırsatı; Pierre Cardin %60'a Varan İndirim; İlvi %60'a Varan İndirim; Fabrika %60'a Varan İndirim; …",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
-      "channel": "online"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-e4873d0c4185",
@@ -46,7 +45,7 @@
       "description": "Yargıcı Sepette 2 ve Üzeri %30 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
@@ -56,7 +55,7 @@
       "description": "Defacto Sepette %70'e Varan İndirime Ek 2500 TL'ye 500 TL Kupon",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
@@ -66,7 +65,7 @@
       "description": "Camper Sepette %40'a Varan İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
@@ -76,34 +75,25 @@
       "description": "Sebago %20'ye Varan İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
-      "id": "news-68c0bfc01f55",
+      "id": "news-9cb83923fefd",
       "brand": "Boyner",
-      "title": "Boyner — %40 indirim",
-      "description": "Ted Baker Tek Ürüne %30, 2 ve Üzerine %40 İndirim",
+      "title": "Boyner — 2. ürüne %70 indirim",
+      "description": "Jack & Jones 2. Ürüne %70 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
-      "id": "news-e15df7455033",
+      "id": "news-b3b5b1becf28",
       "brand": "Boyner",
-      "title": "Boyner — 2. ürüne %60 indirim",
-      "description": "Jack & Jones 2. Ürüne %60 İndirim",
+      "title": "Boyner — %15 indirim",
+      "description": "Lufian Sepette %15 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
-    },
-    {
-      "id": "news-09cd550da85d",
-      "brand": "Boyner",
-      "title": "Boyner — %10 indirim",
-      "description": "Lufian Sepette %10 İndirim",
-      "source": "Boyner",
-      "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
@@ -113,7 +103,7 @@
       "description": "Jimmy Key Sepette 7000 TL'ye 1000 TL İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
@@ -123,7 +113,7 @@
       "description": "Boss %45 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-f44a6a9312f0",
@@ -132,7 +122,7 @@
       "description": "Liu Jo Sepette 2 ve Üzerine %20 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
@@ -142,7 +132,7 @@
       "description": "Desa 3.Ürüne %30 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-2d05b884be57",
@@ -151,17 +141,8 @@
       "description": "Jeep %60'a Varan İndirime Ek Sepette %20 İndirim; Mustang %60'a Varan İndirime Ek Sepette %20 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
-    },
-    {
-      "id": "news-d414b6b19e6a",
-      "brand": "Boyner",
-      "title": "Boyner — %15 indirim",
-      "description": "Hopililere Özel 3000 TL Ve Üzeri %15 İndirim",
-      "source": "Boyner",
-      "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
     },
     {
       "id": "news-4143bf72c783",
@@ -170,7 +151,7 @@
       "description": "2. Ürüne %50 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-4a89119a775a",
@@ -179,7 +160,7 @@
       "description": "%50'ye Varan İndirime Ek Sepette %20 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
@@ -189,7 +170,7 @@
       "description": "2 Ürüne %20, 3 Adet ve Üzerine %25 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-8b6f4c587b8e",
@@ -198,7 +179,7 @@
       "description": "Seçili Makyaj Kalemlerinde 1 Alana 1 Bedava; Seçili Ojelerde 1 Alana 1 Bedava; Seçili Mini Islak Mendil Çeşitlerinde 1 Alana 1 Bedava; Selpak Sofia Maylo Marka Kağıt Ürünlerinde 1 Alana 1 Bedava; …",
       "source": "Rossmann",
       "url": "https://www.rossmann.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-3c905ca1fe34",
@@ -207,7 +188,7 @@
       "description": "Yüz Makyaj Ürünlerinde %60 a varan indirim",
       "source": "Rossmann",
       "url": "https://www.rossmann.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-b4b009ece33d",
@@ -216,7 +197,7 @@
       "description": "Seçili Loreal Paris ve Garnier Maskelerde 3 Al 1 Öde",
       "source": "Rossmann",
       "url": "https://www.rossmann.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-5edcc7f0788a",
@@ -225,7 +206,7 @@
       "description": "Gilette Venüs Bıçaklarda 2. Ürüne %50 İndirim; Seçili Gillette Ürünlerinde 2. Ürüne %50 İndirim; Seçili Bepanthol Ürünlerinde 2. Ürüne %50 İndirim; F&S 2.Ürüne %50 İndirim; …",
       "source": "Rossmann",
       "url": "https://www.rossmann.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-6d2fc331a4e4",
@@ -234,7 +215,7 @@
       "description": "Makyaj Aksesuarlarında 3 al 2 Öde Fırsatı; Tüm Kağıt Maskelerde 3 Al 2 Öde; Seçili Gillette Venüs Ürünlerinde 3 al 2 öde; Tüm Kişisel Islak Mendillerde 3 Al 2 Öde Fırsatı; …",
       "source": "Rossmann",
       "url": "https://www.rossmann.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-00808b6d3c34",
@@ -243,8 +224,26 @@
       "description": "Nivea Hero Ürünlerde 600 TL ve üzeri Sepette 100 TL İndirim; Nivea 2 Adet ve Üzeri Alışverişe Sepette 100 TL İndirim",
       "source": "Rossmann",
       "url": "https://www.rossmann.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
+    },
+    {
+      "id": "news-6bffe9990691",
+      "brand": "Karaca",
+      "title": "Karaca — %50 indirim",
+      "description": "Net %50 İndirim",
+      "source": "Karaca",
+      "url": "https://www.karaca.com/kampanyalar",
+      "verifiedAt": "2026-11-05"
+    },
+    {
+      "id": "news-05e7860eb40f",
+      "brand": "Karaca",
+      "title": "Karaca — %25 indirim",
+      "description": "Tek Tencere Tavalarda Net %25 İndirim",
+      "source": "Karaca",
+      "url": "https://www.karaca.com/kampanyalar",
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-277e6b95232b",
@@ -253,16 +252,7 @@
       "description": "Karaca Home %50'ye Varan İndirim; Jumbo %50'ye Varan İndirim; Homend %50'ye Varan İndirim",
       "source": "Karaca",
       "url": "https://www.karaca.com/kampanyalar",
-      "verifiedAt": "2026-11-04"
-    },
-    {
-      "id": "news-94310eda429b",
-      "brand": "Karaca",
-      "title": "Karaca — 1 alana 1 bedava",
-      "description": "Emsan 1 Alana 1 Bedava; Homend Şarjlı Diş Fırçası 1 Alana 1 Bedava",
-      "source": "Karaca",
-      "url": "https://www.karaca.com/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-63afc2f4a111",
@@ -271,7 +261,7 @@
       "description": "Mobil Uygulamaya Özel %15 İndirim Kodu APP15",
       "source": "Linens",
       "url": "https://www.linens.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
@@ -281,7 +271,7 @@
       "description": "Seçili Lisanslı Marka Ürünlerinde 2. Ürüne %50 İndirim",
       "source": "Linens",
       "url": "https://www.linens.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "startsAt": "2026-10-05",
       "endsAt": "2026-11-11"
     },
@@ -292,31 +282,16 @@
       "description": "Taç Hazır Perdelerde 3 Al 2 Öde",
       "source": "Linens",
       "url": "https://www.linens.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
-      "id": "news-dca68738bce9",
+      "id": "news-509ce50e09eb",
       "brand": "Süvari",
       "title": "Süvari — 1 alana 1 bedava",
       "description": "Tişört, Gömlek ve Pantolonlarda 1 Alana 1 Bedava",
       "source": "Süvari",
       "url": "https://www.suvari.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
-      "channel": "online",
-      "startsAt": "2026-10-08",
-      "endsAt": "2026-11-04"
-    },
-    {
-      "id": "news-88603668482c",
-      "brand": "Süvari",
-      "title": "Süvari — 1. ürüne %20 indirim · 2. ürüne %50 indirim",
-      "description": "Seçili Ürünlerde 1. Ürün %20  2. Ürün %50 İndirimli",
-      "source": "Süvari",
-      "url": "https://www.suvari.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
-      "channel": "online",
-      "startsAt": "2026-10-08",
-      "endsAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-8bee53eead47",
@@ -325,7 +300,7 @@
       "description": "AKSESUAR  2 AL 1 ÖDE",
       "source": "D'S Damat",
       "url": "https://www.dsdamat.com/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
@@ -335,7 +310,7 @@
       "description": "Outlet %40 İndirim",
       "source": "D'S Damat",
       "url": "https://www.dsdamat.com/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
@@ -345,7 +320,7 @@
       "description": "App'e Özel Seçili Ürünlerde %15 İndirim; üye girişi yap ve APP15 kodunu kullanarak seçili ürünlerde sepette %15 indirim fırsatını kaçırma",
       "source": "Sportive",
       "url": "https://www.sportive.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
@@ -355,20 +330,20 @@
       "description": "Sportive markalı ürünlerde, 3 Al 2 Öde fırsatı sepette seni bekliyor",
       "source": "Sportive",
       "url": "https://www.sportive.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
-      "id": "news-65893845a7b7",
+      "id": "news-1b4fae2ad83b",
       "brand": "English Home",
       "title": "English Home — %30 indirim",
       "description": "Sepette 2 Ürüne %20, 3 ve Üzeri Ürüne %30 İndirim",
       "source": "English Home",
       "url": "https://www.englishhome.com/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online",
-      "startsAt": "2026-11-03",
-      "endsAt": "2026-11-10"
+      "startsAt": "2026-11-05",
+      "endsAt": "2026-11-16"
     },
     {
       "id": "news-eb330157d66c",
@@ -377,7 +352,7 @@
       "description": "Yuva Kuran Gençlerimize Ek %20 İndirim",
       "source": "English Home",
       "url": "https://www.englishhome.com/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "both"
     },
     {
@@ -387,17 +362,8 @@
       "description": "Tüm Ürünlerde Sepette %22 İndirim",
       "source": "Suwen",
       "url": "https://www.suwen.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
-    },
-    {
-      "id": "news-d6447ae63e6c",
-      "brand": "Penti",
-      "title": "Penti — 2 al 1 öde",
-      "description": "Ev Giyimde 2 al 1 öde",
-      "source": "Penti",
-      "url": "https://www.penti.com/kampanyalar",
-      "verifiedAt": "2026-11-04"
     },
     {
       "id": "news-72d2bfba6160",
@@ -406,7 +372,7 @@
       "description": "Seçili 2026 İlkbahar/Yaz sezonu ürünlerinde %70' e varan indirim",
       "source": "İpekyol",
       "url": "https://www.ipekyol.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "news-2ae31dde358a",
@@ -415,7 +381,7 @@
       "description": "2 ve Üzeri Sepette %21 İndirim",
       "source": "İpekyol",
       "url": "https://www.ipekyol.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "channel": "online"
     },
     {
@@ -425,7 +391,7 @@
       "description": "Mega Kasım'a Özel Net %50 İndirim",
       "source": "Hotiç",
       "url": "https://www.hotic.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "endsAt": "2026-11-15"
     },
     {

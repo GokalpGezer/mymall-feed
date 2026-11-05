@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T12:18:42+00:00",
+  "generatedAt": "2026-11-05T12:30:38+00:00",
   "discounts": [
     {
       "id": "gratis-stores-50-20261104",
@@ -9,9 +9,9 @@
       "url": "https://www.gratis.com/kampanyalar",
       "channel": "both",
       "condition": "Gratis mağazalarında 4–30 Kasım; kapsam: Venüs 3 ve Üzeri Yedek Traş Bıçaklarında 2. Ürüne",
-      "startsAt": "2026-11-04",
+      "startsAt": "2026-11-05",
       "endsAt": "2026-11-30",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "hm-welcome",

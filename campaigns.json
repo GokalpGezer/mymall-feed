@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-04T12:20:18+00:00",
+  "generatedAt": "2026-11-05T12:32:36+00:00",
   "campaigns": [
+    {
+      "id": "satranc-turnuvasi",
+      "mallId": "maltepe-piazza",
+      "title": "Çocuk Etkinlikleri",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepepiazzaavm.com/storage/maltepepiazzaavm/event/November2026/satranc-maltepe-piazza-1280x720px.webp",
+      "description": "Satranç Turnuvasına davetlisiniz!",
+      "url": "https://maltepepiazzaavm.com/tr/etkinlikler-kampanyalar/satranc-turnuvasi",
+      "firstSeen": "2026-11-05"
+    },
     {
       "id": "maltepe-park-ta-gun-erken-doguyor",
       "mallId": "maltepe-park",
@@ -10,6 +21,17 @@
       "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/May2026/gun-erken-doguyor-1280x720px.jpg",
       "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/maltepe-park-ta-gun-erken-doguyor",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "tasarim-pazari",
+      "mallId": "maltepe-park",
+      "title": "Tasarım Pazarı",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/November2026/1280x720px.png",
+      "description": "Takıdan aksesuara, hediyelik eşyalardan birbirinden özel tasarımlara kadar keşfedecek çok şey Maltepe Park'ta seni bekliyor!",
+      "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/tasarim-pazari",
+      "firstSeen": "2026-11-05"
     },
     {
       "id": "i-yilige-sende-bir-i-lmek-at",
@@ -53,6 +75,18 @@
       "description": "Ceviz Adam Müzikali ve Neşeli Yapılar Müzikali Hilltown Seyirlik Sahne’de! Seans gün ve saatleri için 0(535) 255 5855 no'lu telefondan iletişime geçebilirsiniz!",
       "url": "https://hilltownkucukyali.com/tr/etkinlikler-kampanyalar/hilltown-seyirlik-sahne",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "28-uluslararasi-istanbul-kukla-festivali-mall-of-istanbul-da",
+      "mallId": "mall-of-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/etkinlikler/28-uluslararasi-istanbul-kukla-festivali-mall-of-istanbul-da",
+      "description": "Kuklaların renkli dünyası Mall of İstanbul’da hayat buluyor! 28. Uluslararası İstanbul Kukla Festivali kapsamında Bulgaristan, Macaristan ve Almanya’dan sanatçılar, 6–7–8 Kasım tarihlerinde Amfi Tiyatro’da ziyaretçilerimizle buluşuyor.",
+      "startsAt": "2026-11-08",
+      "title": "28. Uluslararası İstanbul Kukla Festivali Mall of İstanbul’da!",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/event/event_listing_image_tr/main/b0097add-1333-4434-a87d-9ec701c7f808.jpeg?1793796754321?1793796754321",
+      "firstSeen": "2026-11-05"
     },
     {
       "id": "mac-cosmetics",
@@ -657,19 +691,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "dasdas-bu-benim-cantam-bu-benim",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/bu-benim-cantam-bu-benim",
-      "title": "Bu Benim Çantam Bu Benim",
-      "startsAt": "2026-11-04",
-      "endsAt": "2026-11-04",
-      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1789577898384-bu-benim-cantam-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1789577899063-bu-benim-cantam-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=fc3b1f1f-d9b2-48c6-8453-beaddd916512",
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "dasdas-nafiye-nasil-sarkici-olamadi",
       "mallId": "metropol-istanbul",
       "kind": "event",
@@ -759,15 +780,27 @@
       "firstSeen": "2026-11-04"
     },
     {
-      "id": "ugur-bocegi-ile-kara-kedi",
+      "id": "dasdas-annemin-cenazesi-tiyatro-oyunu",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/annemin-cenazesi-tiyatro-oyunu",
+      "title": "Annemin Cenazesi: Tiyatro Oyunu",
+      "startsAt": "2026-11-09",
+      "endsAt": "2026-12-22",
+      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1790070655534-annemin-cenaze-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1790070657024-annemin-cenaze-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=ac323440-187f-4d2f-b17a-99874cbc2564",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "pendorya-da-aninda-kazan",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi",
-      "description": "Uğur Böceği İle Kara Kedi",
-      "title": "Ugur Bocegi Ile Kara Kedi",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/HyDPNZL_N-small.jpeg?1555312906303",
-      "firstSeen": "2026-10-31"
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
+      "title": "Pendorya Da Aninda Kazan",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289",
+      "firstSeen": "2026-10-12"
     },
     {
       "id": "cocuk-atolyeleri",
@@ -800,14 +833,55 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "pendorya-da-aninda-kazan",
+      "id": "pjmasks-pendorya-da",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
-      "title": "Pendorya Da Aninda Kazan",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289",
+      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
+      "title": "Pjmasks Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227",
       "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "ugur-bocegi-ile-kara-kedi-rye5hjabq4",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi-rye5hjabq4",
+      "description": "Uğur Böceği ile Kara Kedi",
+      "title": "Ugur Bocegi Ile Kara Kedi",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/rJ9nyTW5N-small.jpeg?1555316658646",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "yoresel-pazar",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/yoresel-pazar",
+      "title": "Yoresel Pazar",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SyfqxYPTH-small.jpeg?1575616650395",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "pendorya-cocuk-kulubu",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-cocuk-kulubu",
+      "title": "Pendorya Cocuk Kulubu",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SJ_D7EbNL-small.jpeg?1582543712528",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "bora-duran-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/bora-duran-pendorya-da",
+      "title": "Bora Duran Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/ByXvnyz5V-small.jpeg?1555328091617",
+      "firstSeen": "2026-11-05"
     },
     {
       "id": "maysa-ve-bulut-pendorya-da",
@@ -821,38 +895,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "pjmasks-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
-      "title": "Pjmasks Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "elif-in-dusleri-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/elif-in-dusleri-pendorya-da",
-      "description": "Elif'in Düşleri Pendorya'da",
-      "title": "Elif In Dusleri Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Hk-vBQse8-small.jpeg?1579001177807",
-      "firstSeen": "2026-10-31"
-    },
-    {
-      "id": "kostebekgiller-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/kostebekgiller-pendorya-da",
-      "description": "Köstebekgiller Pendorya'da",
-      "title": "Kostebekgiller Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Bya1h23xB-small.jpeg?1562328037518",
-      "firstSeen": "2026-10-31"
-    },
-    {
       "id": "bebekoloji-anadolu-da",
       "mallId": "pendorya",
       "kind": "discount",
@@ -860,16 +902,6 @@
       "url": "https://www.pendorya.com/firsatlar/bebekoloji-anadolu-da",
       "title": "Bebekoloji Anadolu'da",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/Hk_1Kee3S-small.jpeg?1574074592158",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "mallId": "pendorya",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753",
       "firstSeen": "2026-10-12"
     },
     {
@@ -890,6 +922,16 @@
       "url": "https://www.pendorya.com/firsatlar/tum-kampanyalarimiza-buradan-ulasabilirsiniz",
       "title": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/HkAypIV5N-small.jpeg?1555487975038",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753",
       "firstSeen": "2026-10-12"
     },
     {
@@ -1980,46 +2022,13 @@
       "firstSeen": "2026-11-03"
     },
     {
-      "id": "degisim-donusum",
+      "id": "cenk-erdem-muebbet-muhabbet",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/degisim-donusum?p=a0dff156-7ae9-42fc-8ad9-b310ff9ca1b9",
-      "description": "Başarılı bir siyasetçi, geçmişindeki bağımlılıkla mücadele eden eski bir avukat ve tek bir gün içinde açığa çıkan sırlar… Dışarıdan kusursuz görünen Mine ve Tarık’ın evliliği, sakladıkları gerçeklerin ortaya çıkmasıyla sarsıcı bir hesaplaşm",
-      "title": "DEĞİŞİM / DÖNÜŞÜM",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "suphe",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/suphe?p=b07ef70d-4027-4001-a95c-35e08f71ce8b",
-      "description": "OSCAR VE TONY ÖDÜLLÜ BİR BAŞYAPIT, TÜRKİYE’NİN ÖDÜLLÜ SAHNESİNDE! Dünya çapında Tony Ödülü’ne, sinema uyarlamasıyla Oscar adaylıklarına uzanan Şüphe; şimdi Afife’den Üstün Akmen’e, Sadri Alışık’tan Ekin Yazın Dostları ve Yeni Tiyatro’ya uza",
-      "title": "ŞÜPHE",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "sampiyonlar-ligi-mac-gosterimi-fenerbahce-liverpool",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/sampiyonlar-ligi-mac-gosterimi-fenerbahce-liverpool?p=31670adf-eb3d-4c51-a459-64b5253076cd",
-      "description": "Şampiyonlar Ligi maç gösterimi: Fenerbahçe – Liverpool Vestel Amfi'de!",
-      "title": "ŞAMPİYONLAR LİGİ MAÇ GÖSTERİMİ: FENERBAHÇE – LIVERPOOL",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "ferit-odman-quintet",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/ferit-odman-quintet?p=ba9c1dc4-400d-4bc5-8d3b-5386728674b0",
-      "description": "Türkiye'de caz davulunun öncülerinden Ferit Odman; Downbeat dergisinden dört yıldızla taçlandırılmış olan Autumn In New York ve Nommo albümlerindeki quintet aranjmanlarına yer verecek. Odman'ın quinteti ile hard-bop dünyasının derinlerinde ",
-      "title": "FERİT ODMAN QUINTET",
+      "url": "https://www.zorlupsm.com/etkinlikler/cenk-erdem-muebbet-muhabbet?p=22ff3b4b-138d-4e3a-b74f-16b32d410bcd",
+      "description": "Absürt mizahın öncüleri Cenk ve Erdem, Müebbet Muhabbet’leri ile yeniden Zorlu PSM’de!",
+      "title": "CENK & ERDEM - MÜEBBET MUHABBET",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
       "firstSeen": "2026-11-03"
     },
@@ -2031,17 +2040,6 @@
       "url": "https://www.zorlupsm.com/etkinlikler/sergen-deveci-stand-up?p=a1264a18-16ea-40b8-9716-6f8738747660",
       "description": "Münzevi zorunlulukların toplum içerisinde takdir görmesi çabasına ilişkin, küçüklükten aşina olduğumuz ilişki ve sürdürülebilir bir yaşam için ilişkileri konu alan gösterisi ile Sergen Deveci seyirciyle buluşuyor!",
       "title": "SERGEN DEVECİ STAND-UP",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "cenk-erdem-muebbet-muhabbet",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/cenk-erdem-muebbet-muhabbet?p=22ff3b4b-138d-4e3a-b74f-16b32d410bcd",
-      "description": "Absürt mizahın öncüleri Cenk ve Erdem, Müebbet Muhabbet’leri ile yeniden Zorlu PSM’de!",
-      "title": "CENK & ERDEM - MÜEBBET MUHABBET",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
       "firstSeen": "2026-11-03"
     },
@@ -2111,6 +2109,51 @@
       "title": "MEŞEDEN NEŞEYE: GÖMERCİN KUŞLARI",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
       "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "opia-ilk-goruste-ask",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/opia-ilk-goruste-ask?p=c791951c-1081-43a9-ae48-561803190c54",
+      "description": "Ferhat Göçer, Opia ‘İlk Görüşte Aşk’ ile 7 Kasım'da Turkcell Platinum Sahnesi’nde!",
+      "startsAt": "2026-11-07",
+      "title": "FERHAT GÖÇER - OPIA 'İLK GÖRÜŞTE AŞK'",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "edding-ile-yetkin-gulmen-yurutuculugunde-create-your-alter-ego-atolyesi",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/edding-ile-yetkin-gulmen-yurutuculugunde-create-your-alter-ego-atolyesi?p=442f907f-601d-49db-bd68-174230af31e8",
+      "description": "Kendinin başka bir versiyonunu çizsen nasıl görünürdü?",
+      "title": "EDDING İLE YETKİN GÜLMEN YÜRÜTÜCÜLÜĞÜNDE CREATE YOUR ALTER EGO ATÖLYESİ",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "gomercin-kuslari",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/gomercin-kuslari?p=fb3e714b-3635-456f-ae66-bdfc4a7be5fe",
+      "description": "Taklacı gömercinler koltuklarını ve küreklerini alıp bu kez sahnenin tam ortasına oturuyorlar, önlerine geleni gömüp geçiyorlar; üstelik bu sefer seyirciler arasındaki gömercinlerin de katkısıyla! Bu toplu gömü seansını sakın kaçırmayın.",
+      "title": "GÖMERCİN KUŞLARI",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "f1-gosterimi-brezilya-gp",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/f1-gosterimi-brezilya-gp?p=aac67283-3e5b-47c7-87cd-3d21d5a9647c",
+      "description": "F1 yarışları gösterimi Vestel Amfi'de!",
+      "title": "F1 GÖSTERİMİ: BREZİLYA GP",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-05"
     },
     {
       "id": "ataturku-anma-satranc-turnuvasi",
