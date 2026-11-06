@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-05T12:32:36+00:00",
+  "generatedAt": "2026-11-06T12:19:31+00:00",
   "campaigns": [
+    {
+      "id": "alisveris-festicali",
+      "mallId": "maltepe-piazza",
+      "title": "Alışveriş Festivali",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepepiazzaavm.com/storage/maltepepiazzaavm/event/November2026/maltepe-piazza-festival-1280x720px.webp",
+      "description": "Birbirinden ışıltılı ürünlerin yer aldığı alışveriş festivali Maltepe Piazza'da!",
+      "url": "https://maltepepiazzaavm.com/tr/etkinlikler-kampanyalar/alisveris-festicali",
+      "firstSeen": "2026-11-06"
+    },
     {
       "id": "satranc-turnuvasi",
       "mallId": "maltepe-piazza",
@@ -87,6 +98,29 @@
       "title": "28. Uluslararası İstanbul Kukla Festivali Mall of İstanbul’da!",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/event/event_listing_image_tr/main/b0097add-1333-4434-a87d-9ec701c7f808.jpeg?1793796754321?1793796754321",
       "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "carl-s-jr-nv2vuggsw2i",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/carl-s-jr-nv2vuggsw2i",
+      "description": "Menü 300 TL",
+      "publishedAt": "2026-11-06",
+      "title": "Carl's Jr.",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/4d00df62-f1c8-43aa-9472-2041c0ed6034.jpeg?1793963284261?1793963284261",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "1-alana-1-hediye-wo-jx-bncjm",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/1-alana-1-hediye-wo-jx-bncjm",
+      "publishedAt": "2026-11-06",
+      "title": "1 Alana 1 Hediye",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/eabea5b3-7b7e-497b-833c-14da715e763e.jpeg?1793954119903?1793954119903",
+      "firstSeen": "2026-11-06"
     },
     {
       "id": "mac-cosmetics",
@@ -241,6 +275,37 @@
       "firstSeen": "2026-11-03"
     },
     {
+      "id": "10-indirim-9nqn8xjwkku",
+      "mallId": "akmerkez",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/firsatlar/10-indirim-9nqn8xjwkku",
+      "title": "%10 İndirim",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/2eb0df64-fa0b-467e-8d7b-8cb9773bcdcc.jpeg?1793966222406?1793966222409",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "10-indirim-socuxogf8cp",
+      "mallId": "akmerkez",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/firsatlar/10-indirim-socuxogf8cp",
+      "title": "06-11-2026 / 30-11-2026",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/a68996a2-0a23-4e85-bc38-1dfceb21b8f4.jpeg?1793966821627?1793966821627",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "pop-up-market-bkmd2xc6gx",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/pop-up-market-bkmd2xc6gx",
+      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "title": "Pop Up Market",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJbv3gcpGl-main.jpeg?1793883226329",
+      "firstSeen": "2026-11-06"
+    },
+    {
       "id": "otoparkimizda-3-saat-uecretsiz",
       "mallId": "vadistanbul",
       "kind": "event",
@@ -294,17 +359,6 @@
       "title": "29 Ekim Cumhuriyet Bayramı Kutlama Programı",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SyZEG232Gx-main.jpeg?1793012266349",
       "firstSeen": "2026-10-27"
-    },
-    {
-      "id": "pop-up-market-hkgxpyroqml",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.vadistanbul.com/etkinlikler/pop-up-market-hkgxpyroqml",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Pop Up Market",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ByXw10i5Gx-main.jpeg?1790857051372",
-      "firstSeen": "2026-10-12"
     },
     {
       "id": "paribu-acikhava-etkinlikleri-sjg-ydozczx",
@@ -691,19 +745,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "dasdas-nafiye-nasil-sarkici-olamadi",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/nafiye-nasil-sarkici-olamadi",
-      "title": "Nafiye Nasıl Şarkıcı Olamadı?",
-      "startsAt": "2026-11-05",
-      "endsAt": "2026-12-08",
-      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1789746954917-nafiye-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1789746955404-nafiye-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=70e2d666-3bbd-43b2-bd45-460ca369155b",
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "dasdas-sersem-kocanin-kurnaz-karisi",
       "mallId": "metropol-istanbul",
       "kind": "event",
@@ -793,14 +834,28 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "pendorya-da-aninda-kazan",
+      "id": "dasdas-keske",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/keske",
+      "title": "Keşke",
+      "startsAt": "2026-11-10",
+      "endsAt": "2026-12-21",
+      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1791192075415-keske-600x600%2Fv1%2Fsharp-v1.2%2Fhero-desktop%2F1791192076041-keske-600x600_600w.jpg?alt=media&token=0236d723-2297-476a-9555-6e932ac27327",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "ugur-bocegi-ile-kara-kedi",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
-      "title": "Pendorya Da Aninda Kazan",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289",
-      "firstSeen": "2026-10-12"
+      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi",
+      "description": "Uğur Böceği İle Kara Kedi",
+      "title": "Ugur Bocegi Ile Kara Kedi",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/HyDPNZL_N-small.jpeg?1555312906303",
+      "firstSeen": "2026-11-06"
     },
     {
       "id": "cocuk-atolyeleri",
@@ -833,55 +888,14 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "pjmasks-pendorya-da",
+      "id": "pendorya-da-aninda-kazan",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
-      "title": "Pjmasks Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227",
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
+      "title": "Pendorya Da Aninda Kazan",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289",
       "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "ugur-bocegi-ile-kara-kedi-rye5hjabq4",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi-rye5hjabq4",
-      "description": "Uğur Böceği ile Kara Kedi",
-      "title": "Ugur Bocegi Ile Kara Kedi",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/rJ9nyTW5N-small.jpeg?1555316658646",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "yoresel-pazar",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/yoresel-pazar",
-      "title": "Yoresel Pazar",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SyfqxYPTH-small.jpeg?1575616650395",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "pendorya-cocuk-kulubu",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pendorya-cocuk-kulubu",
-      "title": "Pendorya Cocuk Kulubu",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SJ_D7EbNL-small.jpeg?1582543712528",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "bora-duran-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/bora-duran-pendorya-da",
-      "title": "Bora Duran Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/ByXvnyz5V-small.jpeg?1555328091617",
-      "firstSeen": "2026-11-05"
     },
     {
       "id": "maysa-ve-bulut-pendorya-da",
@@ -895,6 +909,38 @@
       "firstSeen": "2026-10-12"
     },
     {
+      "id": "pjmasks-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
+      "title": "Pjmasks Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "elif-in-dusleri-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/elif-in-dusleri-pendorya-da",
+      "description": "Elif'in Düşleri Pendorya'da",
+      "title": "Elif In Dusleri Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Hk-vBQse8-small.jpeg?1579001177807",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "kostebekgiller-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/kostebekgiller-pendorya-da",
+      "description": "Köstebekgiller Pendorya'da",
+      "title": "Kostebekgiller Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Bya1h23xB-small.jpeg?1562328037518",
+      "firstSeen": "2026-11-06"
+    },
+    {
       "id": "bebekoloji-anadolu-da",
       "mallId": "pendorya",
       "kind": "discount",
@@ -902,6 +948,16 @@
       "url": "https://www.pendorya.com/firsatlar/bebekoloji-anadolu-da",
       "title": "Bebekoloji Anadolu'da",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/Hk_1Kee3S-small.jpeg?1574074592158",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753",
       "firstSeen": "2026-10-12"
     },
     {
@@ -922,16 +978,6 @@
       "url": "https://www.pendorya.com/firsatlar/tum-kampanyalarimiza-buradan-ulasabilirsiniz",
       "title": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/HkAypIV5N-small.jpeg?1555487975038",
-      "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "mallId": "pendorya",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753",
       "firstSeen": "2026-10-12"
     },
     {
@@ -1486,45 +1532,13 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "marka-festivali-2026",
-      "mallId": "first-avenue",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.firstavenue.com.tr/etkinlikler/marka-festivali-2026",
-      "description": "First Avenue AVM 24 Ekim - 1 Kasım Garaj Günleri",
-      "startsAt": "2026-10-24",
-      "title": "Marka Festivali",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/2-marka-festivali-2026_nmz9ohfr04.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "29-ekim-cumhuriyet-bayrami-2026",
-      "mallId": "first-avenue",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.firstavenue.com.tr/etkinlikler/29-ekim-cumhuriyet-bayrami-2026",
-      "title": "29 Ekim Cumhuriyet Bayramı",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/29-ekim-cumhuriyet-bayrami-2026_a0bwav82kh.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "sonbahar-festivali-2026",
-      "mallId": "first-avenue",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.firstavenue.com.tr/etkinlikler/sonbahar-festivali-2026",
-      "title": "Sonbahar Festivali",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/2-sonbahar-festivali-2026_f892v6wzj0.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "baby-shark-muzik-festivali",
       "mallId": "first-avenue",
       "kind": "event",
       "isPaid": false,
       "url": "https://www.firstavenue.com.tr/etkinlikler/baby-shark-muzik-festivali",
       "title": "Baby Shark Müzik Festivali",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/baby-shark_j9cpb1jahu.jpg",
+      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/169471e718fa4e34872305f64904806f.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02"
     },
     {
@@ -1534,7 +1548,7 @@
       "isPaid": false,
       "url": "https://www.firstavenue.com.tr/etkinlikler/uzayi-kesfetmeye-hazir-misin",
       "title": "Uzayı Keşfetmeye Hazır Mısın?",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/5-eylul-etkinlik-planetaryum_wov9rlwncf.jpg",
+      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/f2a6af3ec4164a30894545b84d531bfd.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02"
     },
     {
@@ -1544,7 +1558,7 @@
       "isPaid": false,
       "url": "https://www.firstavenue.com.tr/etkinlikler/hot-wheels-tematik-alan-etkinligi",
       "title": "Hot Wheels Tematik Alan Etkinliği",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/2-hot-wheels-tematik-alan-etkinligi_dcntzha3td.jpg",
+      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/ff1ea2ef60e942179d59389ce46704b9.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02"
     },
     {
@@ -1554,7 +1568,7 @@
       "isPaid": false,
       "url": "https://www.firstavenue.com.tr/etkinlikler/masa-ile-koca-ayi-gosterisi",
       "title": "Maşa ile Koca Ayı Gösterisi",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/masa-ile-koca-ayi-gosterisi_ydy6b4wxuy.jpg",
+      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/e88e01eba9694eb29f6e3566d56f7b50.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02"
     },
     {
@@ -1564,7 +1578,7 @@
       "isPaid": false,
       "url": "https://www.firstavenue.com.tr/etkinlikler/hakan-hatipoglu-ile-sampiyon-babalar-arenasi",
       "title": "Hakan Hatipoğlu ile Şampiyon Babalar Arenası",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/hakan-hatipoglu-ile-sampiyon-babalar-arenasi_9ec3yaib9d.jpg",
+      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/7f27b6c955aa46ff8b6838f57be38628.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02"
     },
     {
@@ -1575,8 +1589,19 @@
       "url": "https://www.firstavenue.com.tr/etkinlikler/kupa-yolunda-firstavenue",
       "description": "Kupaya giden yol First Avenue’dan geçiyor. Ana girişte yer alan özel fotoğraf alanımızda bu heyecanın bir parçası ol; fotoğrafını çek, paylaş ve coşkuyu birlikte büyütelim.",
       "title": "Kupa Yolunda First Avenue",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/kupa-yolunda-firstavenue_khv4yfcldj.jpg",
+      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/c907cc68b9f34ba98889c6aede3ddead.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "anneler-yarisiyor",
+      "mallId": "first-avenue",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.firstavenue.com.tr/etkinlikler/anneler-yarisiyor",
+      "description": "Etkinlik; Meydan Katı |sahne/etkinlik alanında gerçekleşecektir.",
+      "title": "Anneler Yarışıyor",
+      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/9525d917b3ea49328be362c5da8df045.jpg?f=auto&v=3",
+      "firstSeen": "2026-11-06"
     },
     {
       "id": "panco-sonbahar-koleksiyonu",
@@ -1586,19 +1611,8 @@
       "url": "https://www.firstavenue.com.tr/kampanyalar/panco-sonbahar-koleksiyonu",
       "description": "30 Kasım 2026",
       "title": "Panço Sonbahar Koleksiyonu",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/2-panco-sonbahar-koleksiyonu_yu1l1eyxz9.jpg",
+      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/bd7d58d1af9145ce8d34e966a0c97722.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "suwen-1111-indirimleri-basladi",
-      "mallId": "first-avenue",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.firstavenue.com.tr/kampanyalar/suwen-1111-indirimleri-basladi",
-      "description": "11 Kasım 2026",
-      "title": "Suwen 11.11 İndirimleri Başladı!",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/suwen-1111-indirimleri-basladi_ff6yirvsrb.jpg",
-      "firstSeen": "2026-11-03"
     },
     {
       "id": "dr-kitap-fuarina-ozel-indirim",
@@ -1608,7 +1622,7 @@
       "url": "https://www.firstavenue.com.tr/kampanyalar/dr-kitap-fuarina-ozel-indirim",
       "description": "08 Kasım 2026",
       "title": "D&R Kitap Fuarına Özel İndirim",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/dr-kitap-fuarina-ozel-indirim_7rd3k3fpej.jpg",
+      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/21f891d67e034831b23016ab5071b580.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02"
     },
     {
@@ -1619,7 +1633,7 @@
       "url": "https://www.firstavenue.com.tr/kampanyalar/barbie-tasiniyor-armagan-oyuncak",
       "description": "01 Kasım 2026",
       "title": "Barbie Taşınıyor! - Armağan Oyuncak",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/2-barbie-tasiniyor-armagan-oyuncak_znxef7tnss.jpg",
+      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/13768e91677c469189d023c97115595c.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02"
     },
     {
@@ -1630,7 +1644,7 @@
       "url": "https://www.firstavenue.com.tr/kampanyalar/mad-parfum-cok-al-az-ode-kampanyasi",
       "description": "31 Ekim 2026",
       "title": "MAD Parfüm Çok Al Az Öde Kampanyası",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/mad-parfum-cok-al-az-ode-kampanyasi_13s2rwyf48.jpg",
+      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/9e93fc0116d44edbbc4e4e124064a6c1.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02"
     },
     {
@@ -1641,7 +1655,7 @@
       "url": "https://www.firstavenue.com.tr/kampanyalar/panco-sonbahar-kampanyasi-2026",
       "description": "22 Ekim 2026",
       "title": "Panço Sonbahar Kampanyası",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/2-panco-sonbahar-kampanyasi-2026_ggenlsd01t.jpg",
+      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/434388c0fbf749179a3ac48dae641dfd.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02"
     },
     {
@@ -1652,8 +1666,19 @@
       "url": "https://www.firstavenue.com.tr/kampanyalar/polo-sezon-finali",
       "description": "15 Ekim 2026",
       "title": "Polo Sezon Finali",
-      "image": "https://www.firstavenue.com.tr/cdn/Delivery/Public/Image/Download/1-polo-sezon-finali_xzwktkpavx.jpg",
+      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/a855b64f765b46bea2a17964d8095f11.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "anilarda-ataturk-sergisi-4",
+      "mallId": "capacity",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.capacity.com.tr/etkinlikler/anilarda-ataturk-sergisi-4",
+      "description": "Kullanmış olduğunuz browser(web tarayıcı) kullanım süresini tamamladı! Lütfen browserınızı güncelleyiniz.",
+      "title": "Anılarda Atatürk Sergisi",
+      "image": "https://www.capacity.com.tr/uploads/events/thumb/b12842481c31.jpg",
+      "firstSeen": "2026-11-06"
     },
     {
       "id": "29-ekim-oratoryosu",
@@ -2022,39 +2047,6 @@
       "firstSeen": "2026-11-03"
     },
     {
-      "id": "cenk-erdem-muebbet-muhabbet",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/cenk-erdem-muebbet-muhabbet?p=22ff3b4b-138d-4e3a-b74f-16b32d410bcd",
-      "description": "Absürt mizahın öncüleri Cenk ve Erdem, Müebbet Muhabbet’leri ile yeniden Zorlu PSM’de!",
-      "title": "CENK & ERDEM - MÜEBBET MUHABBET",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "sergen-deveci-stand-up",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/sergen-deveci-stand-up?p=a1264a18-16ea-40b8-9716-6f8738747660",
-      "description": "Münzevi zorunlulukların toplum içerisinde takdir görmesi çabasına ilişkin, küçüklükten aşina olduğumuz ilişki ve sürdürülebilir bir yaşam için ilişkileri konu alan gösterisi ile Sergen Deveci seyirciyle buluşuyor!",
-      "title": "SERGEN DEVECİ STAND-UP",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "uefa-avrupa-ligi-celtic-besiktas",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/uefa-avrupa-ligi-celtic-besiktas?p=cfbf5639-5d75-4b0e-aebc-8cb2316176f6",
-      "description": "UEFA Avrupa Ligi maç gösterimleri Vestel Amfi'de!",
-      "title": "UEFA AVRUPA LİGİ: CELTIC – BEŞİKTAŞ",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-03"
-    },
-    {
       "id": "mix-festival-2026",
       "mallId": "zorlu-center",
       "kind": "event",
@@ -2154,6 +2146,28 @@
       "title": "F1 GÖSTERİMİ: BREZİLYA GP",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
       "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "iii-yavuz",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/iii-yavuz?p=88964a92-dc08-4b6e-92d9-f67cf637e708",
+      "description": "Yavuz Günal, III. Yavuz adlı yeni gösterisiyle touché by N Kolay’da!",
+      "title": "YAVUZ GÜNAL",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "giorgos-kakosaios",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/giorgos-kakosaios?p=57586e8c-6be5-4024-9506-f5117a65aac1",
+      "description": "“Yunanistan’ın sevilen yıldızı İstanbul’da!”",
+      "title": "GIORGOS KAKOSAIOS",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-06"
     },
     {
       "id": "ataturku-anma-satranc-turnuvasi",
