@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:16:56+00:00",
+  "generatedAt": "2026-11-07T11:13:21+00:00",
   "discounts": [
     {
       "id": "gratis-stores-50-20261106",
@@ -9,9 +9,9 @@
       "url": "https://www.gratis.com/kampanyalar",
       "channel": "both",
       "condition": "Gratis mağazalarında 6–8 Kasım; kapsam: Tüm Ürünlerde Herkese",
-      "startsAt": "2026-11-06",
+      "startsAt": "2026-11-07",
       "endsAt": "2026-11-08",
-      "verifiedAt": "2026-11-06"
+      "verifiedAt": "2026-11-07"
     },
     {
       "id": "gratis-stores-60-20261106",
@@ -21,9 +21,9 @@
       "url": "https://www.gratis.com/kampanyalar",
       "channel": "both",
       "condition": "Gratis mağazalarında 6–8 Kasım; kapsam: Bourjois, Wet n Wild ve LYKD Markalarında",
-      "startsAt": "2026-11-06",
+      "startsAt": "2026-11-07",
       "endsAt": "2026-11-08",
-      "verifiedAt": "2026-11-06"
+      "verifiedAt": "2026-11-07"
     },
     {
       "id": "hm-welcome",

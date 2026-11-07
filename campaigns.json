@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:19:31+00:00",
+  "generatedAt": "2026-11-07T11:15:04+00:00",
   "campaigns": [
     {
       "id": "alisveris-festicali",
@@ -300,7 +300,7 @@
       "kind": "event",
       "isPaid": false,
       "url": "https://www.vadistanbul.com/etkinlikler/pop-up-market-bkmd2xc6gx",
-      "description": "Register with the e-newsletter to be informed of Vadistanbul events and newness.",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
       "title": "Pop Up Market",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJbv3gcpGl-main.jpeg?1793883226329",
       "firstSeen": "2026-11-06"
@@ -394,19 +394,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "jj-EC00D",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://vadistanbul.jollyjoker.com.tr/etkinlik/EC00D/melek-mosso/2026-11-06",
-      "title": "Melek Mosso",
-      "description": "Jolly Joker Vadistanbul · 21:00",
-      "startsAt": "2026-11-06",
-      "endsAt": "2026-11-06",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/bce7c8cb-22f5-483c-86cc-00c439e90df2.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "jj-PV25C",
       "mallId": "vadistanbul",
       "kind": "event",
@@ -496,6 +483,19 @@
       "endsAt": "2026-11-21",
       "image": "https://jjticketingstorage.blob.core.windows.net/content/45182fdb-c225-44c1-8f65-02e88880964a.png",
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "jj-HR46S",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://vadistanbul.jollyjoker.com.tr/etkinlik/HR46S/maderzat/2026-11-25",
+      "title": "Maderzat",
+      "description": "Jolly Joker Vadistanbul · 21:00",
+      "startsAt": "2026-11-25",
+      "endsAt": "2026-11-25",
+      "image": "https://jjticketingstorage.blob.core.windows.net/content/5cc3fb70-d42b-4106-9ee8-74d6ae7b754e.jpg",
+      "firstSeen": "2026-11-07"
     },
     {
       "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-wgdargwx-_q",
@@ -619,19 +619,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "jj-II48F",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://arena.jollyjoker.com.tr/etkinlik/II48F/gokhan-turkmen/2026-11-06",
-      "title": "Gökhan Türkmen",
-      "description": "JJ Arena Ataşehir · 21:00",
-      "startsAt": "2026-11-06",
-      "endsAt": "2026-11-06",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/903f97cc-e2fa-43a4-aace-e97de96e6b82.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "jj-JB20Y",
       "mallId": "watergarden",
       "kind": "event",
@@ -723,6 +710,19 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "jj-HN25K",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://arena.jollyjoker.com.tr/etkinlik/HN25K/duman/2026-11-28",
+      "title": "Duman",
+      "description": "JJ Arena Ataşehir · 21:00",
+      "startsAt": "2026-11-28",
+      "endsAt": "2026-11-28",
+      "image": "https://jjticketingstorage.blob.core.windows.net/content/ef831ceb-ce1e-41cc-9a93-3c41010cfe2f.jpg",
+      "firstSeen": "2026-11-07"
+    },
+    {
       "id": "sizi-dinleyen-metropol-unuz-var",
       "mallId": "metropol-istanbul",
       "kind": "event",
@@ -743,19 +743,6 @@
       "title": "Metropol İstanbul Mobil Uygulaması Yayında!",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/a6985faa-e0a5-4664-b75d-6d61540a469f.jpeg?1787555490982?1787555490982",
       "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "dasdas-sersem-kocanin-kurnaz-karisi",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/sersem-kocanin-kurnaz-karisi",
-      "title": "Sersem Kocanın Kurnaz Karısı",
-      "startsAt": "2026-11-06",
-      "endsAt": "2026-11-06",
-      "description": "DasDas Ataşehir / Sahne · 20:30",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1792686190729-sersem-kocanin-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1792686191430-sersem-kocan-n-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=340ed2df-5bee-4061-9d36-de9879f0b709",
-      "firstSeen": "2026-11-02"
     },
     {
       "id": "dasdas-intihar-dukkani",
@@ -845,6 +832,19 @@
       "description": "DasDas Ataşehir / Açık Sahne · 20:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1791192075415-keske-600x600%2Fv1%2Fsharp-v1.2%2Fhero-desktop%2F1791192076041-keske-600x600_600w.jpg?alt=media&token=0236d723-2297-476a-9555-6e932ac27327",
       "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "dasdas-anadolu-efes-mavi-sahne-takimyildizlari",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/anadolu-efes-mavi-sahne-takimyildizlari",
+      "title": "Anadolu Efes Mavi Sahne: Takımyıldızları",
+      "startsAt": "2026-11-11",
+      "endsAt": "2026-11-11",
+      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1791216670489-takimyildizlari-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1791216671075-tak-my-ld-zlar-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=20a1ebf3-1122-4490-90eb-88b15da55622",
+      "firstSeen": "2026-11-07"
     },
     {
       "id": "ugur-bocegi-ile-kara-kedi",
@@ -1932,19 +1932,6 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "jj-GI17L",
-      "mallId": "istmarina",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://kartal.jollyjoker.com.tr/etkinlik/GI17L/levent-yuksel/2026-11-06",
-      "title": "Levent Yüksel",
-      "description": "Jolly Joker Kartal istMarina · 21:00",
-      "startsAt": "2026-11-06",
-      "endsAt": "2026-11-06",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/952014c0-b9d9-4e02-9b7f-33147f3a3adc.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "jj-XR49N",
       "mallId": "istmarina",
       "kind": "event",
@@ -2036,6 +2023,19 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "jj-NG55V",
+      "mallId": "istmarina",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://kartal.jollyjoker.com.tr/etkinlik/NG55V/bulent-ersoy/2026-11-28",
+      "title": "Bülent Ersoy",
+      "description": "Jolly Joker Kartal istMarina · 21:00",
+      "startsAt": "2026-11-28",
+      "endsAt": "2026-11-28",
+      "image": "https://jjticketingstorage.blob.core.windows.net/content/48b408ff-12d4-4d89-9199-b9633449b7dc.png",
+      "firstSeen": "2026-11-07"
+    },
+    {
       "id": "skechers-kids-cocuk-festivali-2",
       "mallId": "zorlu-center",
       "kind": "event",
@@ -2044,18 +2044,6 @@
       "description": "E-bültenimize kaydolarak son haberlerden, içeriklerden, güncellemelerden veya size özel tekliflerimizden haberdar olabilirsiniz.",
       "title": "Skechers Kids Çocuk Festivali",
       "image": "https://www.zorlucenter.com.tr/media/qvpd31gh/etkinlik-center-banner.jpg",
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "mix-festival-2026",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/mix-festival-2026?p=fb35998f-4a34-48af-a1c8-fb4957a24480",
-      "description": "Müziğin ritmini hissetmeye hazır olun! Çok sesli müzik festivali MIX Festival, 6 Kasım 2026 'da yepyeni edisyonuyla geri dönüyor. Farklı sesleri ve yeni keşifleri bir araya getiren festival, 2026 edisyonunda sürprizlerle dolu bir deneyim su",
-      "startsAt": "2026-11-06",
-      "title": "MIX FESTIVAL BY MODUNDAYIZ",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
       "firstSeen": "2026-11-03"
     },
     {
@@ -2168,6 +2156,17 @@
       "title": "GIORGOS KAKOSAIOS",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
       "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "ibrahim-selim-ile-bu-gece-100-studio",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/ibrahim-selim-ile-bu-gece-100-studio?p=7e2da527-70ad-45aa-8f03-8aabecb74e98",
+      "description": "Hanımlar Beyler yaz bitti! Ama hiç korkmayın bizler mevsim geçişlerinizi hafifletmek, dönemsel depresyonunuza yara bandı olmak için işimizin başındayız!",
+      "title": "İBRAHİM SELİM İLE BU GECE",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-07"
     },
     {
       "id": "ataturku-anma-satranc-turnuvasi",
