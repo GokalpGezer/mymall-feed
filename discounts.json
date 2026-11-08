@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:13:21+00:00",
+  "generatedAt": "2026-11-08T11:32:09+00:00",
   "discounts": [
     {
       "id": "gratis-stores-50-20261106",
@@ -9,9 +9,9 @@
       "url": "https://www.gratis.com/kampanyalar",
       "channel": "both",
       "condition": "Gratis mağazalarında 6–8 Kasım; kapsam: Tüm Ürünlerde Herkese",
-      "startsAt": "2026-11-07",
+      "startsAt": "2026-11-08",
       "endsAt": "2026-11-08",
-      "verifiedAt": "2026-11-07"
+      "verifiedAt": "2026-11-08"
     },
     {
       "id": "gratis-stores-60-20261106",
@@ -21,9 +21,9 @@
       "url": "https://www.gratis.com/kampanyalar",
       "channel": "both",
       "condition": "Gratis mağazalarında 6–8 Kasım; kapsam: Bourjois, Wet n Wild ve LYKD Markalarında",
-      "startsAt": "2026-11-07",
+      "startsAt": "2026-11-08",
       "endsAt": "2026-11-08",
-      "verifiedAt": "2026-11-07"
+      "verifiedAt": "2026-11-08"
     },
     {
       "id": "hm-welcome",
@@ -96,6 +96,191 @@
       "startsAt": "2026-10-20",
       "endsAt": "2026-12-31",
       "verifiedAt": "2026-10-20"
+    },
+    {
+      "id": "news-abd5539e8160",
+      "brand": "D'S Damat",
+      "title": "D'S Damat — %40 indirim",
+      "description": "Outlet %40 İndirim",
+      "source": "D'S Damat",
+      "url": "https://www.dsdamat.com/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both"
+    },
+    {
+      "id": "news-ec54057a9c09",
+      "brand": "Sarar",
+      "title": "Sarar — %20 indirim",
+      "description": "SEÇİLİ SAREV PİKE ÜRÜNLERİNDE %20 İNDİRİM",
+      "source": "Sarar",
+      "url": "https://www.sarar.com/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both",
+      "startsAt": "2026-08-01",
+      "endsAt": "2026-11-30"
+    },
+    {
+      "id": "news-7f8b98bdbcdd",
+      "brand": "Sarar",
+      "title": "Sarar — %30 indirim",
+      "description": "Seçili Robin Yayla Ürünlerinde 2 Adet %20, 3 ve Üzeri Alımlarda %30 İndirim",
+      "source": "Sarar",
+      "url": "https://www.sarar.com/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both",
+      "startsAt": "2026-06-19",
+      "endsAt": "2026-11-10"
+    },
+    {
+      "id": "news-7797c5507d2e",
+      "brand": "Sarar",
+      "title": "Sarar — %30 indirim",
+      "description": "Begüm Salihoğlu Seçili Ürünlerde %20, 2 ve Üzeri Alımlarda %30 İndirim",
+      "source": "Sarar",
+      "url": "https://www.sarar.com/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both",
+      "startsAt": "2026-08-15",
+      "endsAt": "2026-12-31"
+    },
+    {
+      "id": "news-22193e80db1c",
+      "brand": "Sarar",
+      "title": "Sarar — %30 indirim",
+      "description": "2026 Seçili Erkek Ürünlerinde %30 İndirim",
+      "source": "Sarar",
+      "url": "https://www.sarar.com/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both",
+      "startsAt": "2026-08-01",
+      "endsAt": "2026-11-10"
+    },
+    {
+      "id": "news-00721a67b9a8",
+      "brand": "Sarar",
+      "title": "Sarar — %30 indirim",
+      "description": "SEÇİLİ CEKET AYAKKABI ÜRÜNLERİNDE %30 İNDİRİM",
+      "source": "Sarar",
+      "url": "https://www.sarar.com/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both",
+      "startsAt": "2026-07-01",
+      "endsAt": "2026-11-30"
+    },
+    {
+      "id": "news-339992165c7f",
+      "brand": "Sarar",
+      "title": "Sarar — %50 indirim",
+      "description": "SEÇİLİ KADIN ÜRÜNLERİNDE %50 İNDİRİM",
+      "source": "Sarar",
+      "url": "https://www.sarar.com/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both",
+      "startsAt": "2026-10-16",
+      "endsAt": "2026-12-31"
+    },
+    {
+      "id": "news-c844eef0c9f2",
+      "brand": "Sarar",
+      "title": "Sarar — 2. ürüne %50 indirim",
+      "description": "Robin Yayla Koleksiyonunda Seçili Ürünlerde Sepette 2. Üründe %50 İndirim",
+      "source": "Sarar",
+      "url": "https://www.sarar.com/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both",
+      "startsAt": "2025-12-08",
+      "endsAt": "2026-11-10"
+    },
+    {
+      "id": "news-f4a2f3987535",
+      "brand": "Sarar",
+      "title": "Sarar — %50 indirim",
+      "description": "Robin Yayla Koleksiyonunda %50 İndirim",
+      "source": "Sarar",
+      "url": "https://www.sarar.com/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both",
+      "startsAt": "2025-02-06",
+      "endsAt": "2026-11-10"
+    },
+    {
+      "id": "news-88f186ee6e6f",
+      "brand": "Samsonite",
+      "title": "Samsonite — %30'a varan indirim",
+      "description": "Sepette %30'a Varan İndirim",
+      "source": "Samsonite",
+      "url": "https://www.samsonite.com.tr/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both",
+      "startsAt": "2026-11-01",
+      "endsAt": "2026-11-30"
+    },
+    {
+      "id": "news-b17e53f521ea",
+      "brand": "Samsonite",
+      "title": "Samsonite — %20 indirim",
+      "description": "Sepette Sürpriz %20 İndirim",
+      "source": "Samsonite",
+      "url": "https://www.samsonite.com.tr/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both",
+      "startsAt": "2026-11-01",
+      "endsAt": "2026-11-30"
+    },
+    {
+      "id": "news-0a5f0df25e05",
+      "brand": "Samsonite",
+      "title": "Samsonite — %30 indirim",
+      "description": "2. Üründe Sepette %30 İndirim",
+      "source": "Samsonite",
+      "url": "https://www.samsonite.com.tr/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both",
+      "startsAt": "2026-11-01",
+      "endsAt": "2026-11-30"
+    },
+    {
+      "id": "news-8393889ab9a6",
+      "brand": "Armine",
+      "title": "Armine — 3 al 2 öde",
+      "description": "Anne Penye Ürünlerinde 3 Al 2 Öde Kampanyası",
+      "source": "Armine",
+      "url": "https://www.armine.com/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both"
+    },
+    {
+      "id": "news-3e34a21a788d",
+      "brand": "INTERSPORT",
+      "title": "INTERSPORT — 500 TL indirim",
+      "description": "Harcama Alt Limiti 5.000 TL ve üzeri alışverişlerde 500 TL indirim sağlar",
+      "source": "INTERSPORT",
+      "url": "https://www.intersport.com.tr/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both"
+    },
+    {
+      "id": "news-459630a5004a",
+      "brand": "L'Occitane",
+      "title": "L'Occitane — %30'a varan indirim",
+      "description": "30 Ekim - 11 Kasım 2026 tarihleri arasında L'Occitane ürünlerinde %30'a varan indirim",
+      "source": "L'Occitane",
+      "url": "https://www.loccitane.com.tr/pages/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both",
+      "startsAt": "2026-10-30",
+      "endsAt": "2026-11-11"
+    },
+    {
+      "id": "news-5e36b113ddcb",
+      "brand": "Chakra",
+      "title": "Chakra — 2. ürüne %50 indirim",
+      "description": "2. Ürüne %50 İndirim",
+      "source": "Chakra",
+      "url": "https://www.chakra.com.tr/kampanyalar",
+      "verifiedAt": "2026-11-08",
+      "channel": "both",
+      "endsAt": "2026-11-09"
     }
   ]
 }
