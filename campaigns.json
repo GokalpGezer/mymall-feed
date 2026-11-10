@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T13:09:07+00:00",
+  "generatedAt": "2026-11-10T12:54:10+00:00",
   "campaigns": [
     {
       "id": "alisveris-festicali",
@@ -23,6 +23,37 @@
       "firstSeen": "2026-10-12"
     },
     {
+      "id": "kitap-senligi",
+      "mallId": "maltepe-park",
+      "title": "Kitap Şenliği",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/November2026/maltepe-park-kitap-senligi-1280x720px.webp",
+      "description": "Kitap Şenliği Maltepe Park'ta! Binlerce kitap, uygun fiyatlarla Maltepe Park'ta sizleri bekliyor.",
+      "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/kitap-senligi",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "kozyatagi-kultur-merkezi-kasim-ayi-tiyatro-programi",
+      "mallId": "kozzy",
+      "title": "Kozyatagi Kultur Merkezi Kasim Ayi Tiyatro Programi",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://kozzyavm.com/storage/kozzyavm/event/November2026/kkm-kozzy-1280x720.webp",
+      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/kozyatagi-kultur-merkezi-kasim-ayi-tiyatro-programi",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "kozzy-kasim-alisveris-festivali",
+      "mallId": "kozzy",
+      "title": "Kozzy Kasım Alışveriş Festivali",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://kozzyavm.com/storage/kozzyavm/event/November2026/alisveris-fesitivali-kozzy-1280x720px.webp",
+      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/kozzy-kasim-alisveris-festivali",
+      "firstSeen": "2026-11-10"
+    },
+    {
       "id": "i-yilige-sende-bir-i-lmek-at",
       "mallId": "kozzy",
       "title": "İyiliğe Sende Bir İlmek At!",
@@ -33,15 +64,40 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "kasim-kampanyasi",
+      "id": "idilbaby-ve-mamino-bztk1tztbp",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
       "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/kasim-kampanyasi",
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/idilbaby-ve-mamino-bztk1tztbp",
+      "description": "Singles' Day",
+      "publishedAt": "2026-11-10",
+      "title": "İdilbaby & Mamino",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/7a9f6842-4b82-4844-8ea3-675c0a16b729.jpeg?1794298481160?1794298481160",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "penelope-9y3uynoggl",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/penelope-9y3uynoggl",
+      "description": "Singles' Day",
       "publishedAt": "2026-11-09",
-      "title": "Kasım Kampanyası",
+      "title": "Penelope",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/bbb4f5cc-8da3-470d-8ca8-8b90760282bf.jpeg?1794231486965?1794231486965",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "takma-takma",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/takma-takma",
+      "description": "Kasım Kampanyası",
+      "publishedAt": "2026-11-09",
+      "title": "Takma Takma",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/1d9fd0e0-89b3-4b07-aa06-84138030c1ab.jpeg?1794212325234?1794212325234",
-      "firstSeen": "2026-11-09"
+      "firstSeen": "2026-11-10"
     },
     {
       "id": "carl-s-jr-nv2vuggsw2i",
@@ -147,29 +203,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "neslihan-canpolat-zw-e9nituwx",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/neslihan-canpolat-zw-e9nituwx",
-      "publishedAt": "2026-10-21",
-      "title": "Neslihan Canpolat",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/11b7e0dc-e807-4183-a24c-750361c0a77b.jpeg?1792507700756?1792507700756",
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "misirli",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/misirli",
-      "description": "10.000 TL'ye 2000 TL İndirim",
-      "publishedAt": "2026-10-16",
-      "title": "Mısırlı",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/68d24857-fcb0-41d5-9628-76b1c7d9e2fa.jpeg?1792156717516?1792156717516",
-      "firstSeen": "2026-10-17"
-    },
-    {
       "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
       "mallId": "akmerkez",
       "kind": "event",
@@ -237,6 +270,17 @@
       "title": "06-11-2026 / 30-11-2026",
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/a68996a2-0a23-4e85-bc38-1dfceb21b8f4.jpeg?1793966821627?1793966821627",
       "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "10-kasim-atatuerk-ue-anma",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/10-kasim-atatuerk-ue-anma",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "10 Kasım Atatürk'ü Anma",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/rJdRWvoTMe-main.jpeg?1793974737023",
+      "firstSeen": "2026-11-10"
     },
     {
       "id": "pop-up-market-bkmd2xc6gx",
@@ -336,110 +380,6 @@
       "title": "Senin Kahraman Hikayen Hangisi?",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ByZrskPuGx-main.jpeg?1788439353353",
       "firstSeen": "2026-10-12"
-    },
-    {
-      "id": "jj-XP19E",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://vadistanbul.jollyjoker.com.tr/etkinlik/XP19E/derya-bedavaci/2026-11-11",
-      "title": "Derya Bedavacı",
-      "description": "Jolly Joker Vadistanbul · 21:00",
-      "startsAt": "2026-11-11",
-      "endsAt": "2026-11-11",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/63b60866-3e0d-48af-bda5-6a4bfe0f3c51.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-LT05A",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://vadistanbul.jollyjoker.com.tr/etkinlik/LT05A/askin-nur-yengi/2026-11-13",
-      "title": "Aşkın Nur Yengi",
-      "description": "Jolly Joker Vadistanbul · 21:00",
-      "startsAt": "2026-11-13",
-      "endsAt": "2026-11-13",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/680e1485-7b7a-48d8-9e7a-ce8fa0582c96.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-IL54N",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://vadistanbul.jollyjoker.com.tr/etkinlik/IL54N/murat-dalkilic/2026-11-14",
-      "title": "Murat Dalkılıç",
-      "description": "Jolly Joker Vadistanbul · 21:00",
-      "startsAt": "2026-11-14",
-      "endsAt": "2026-11-14",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/3b0d6739-3d58-438c-9110-63a9d5497eef.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-HE31S",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://vadistanbul.jollyjoker.com.tr/etkinlik/HE31S/bengu/2026-11-18",
-      "title": "Bengü",
-      "description": "Jolly Joker Vadistanbul · 21:00",
-      "startsAt": "2026-11-18",
-      "endsAt": "2026-11-18",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/9a29a3f5-6f64-419d-b50e-0f0c57a18444.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-MU18B",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://vadistanbul.jollyjoker.com.tr/etkinlik/MU18B/levent-yuksel/2026-11-20",
-      "title": "Levent Yüksel",
-      "description": "Jolly Joker Vadistanbul · 21:00",
-      "startsAt": "2026-11-20",
-      "endsAt": "2026-11-20",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/c0630518-40c1-4007-924d-e0212f1a06e9.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-EN18R",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://vadistanbul.jollyjoker.com.tr/etkinlik/EN18R/demet-akalin/2026-11-21",
-      "title": "Demet Akalın",
-      "description": "Jolly Joker Vadistanbul · 21:00",
-      "startsAt": "2026-11-21",
-      "endsAt": "2026-11-21",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/45182fdb-c225-44c1-8f65-02e88880964a.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-HR46S",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://vadistanbul.jollyjoker.com.tr/etkinlik/HR46S/maderzat/2026-11-25",
-      "title": "Maderzat",
-      "description": "Jolly Joker Vadistanbul · 21:00",
-      "startsAt": "2026-11-25",
-      "endsAt": "2026-11-25",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/5cc3fb70-d42b-4106-9ee8-74d6ae7b754e.jpg",
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "jj-IM02H",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://vadistanbul.jollyjoker.com.tr/etkinlik/IM02H/ayda1-detoks/2026-11-26",
-      "title": "Ayda1 Detoks",
-      "description": "Jolly Joker Vadistanbul · 20:00",
-      "startsAt": "2026-11-26",
-      "endsAt": "2026-11-26",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/979eda1e-2ccf-486f-9af0-da1038836278.jpg",
-      "firstSeen": "2026-11-08"
     },
     {
       "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-wgdargwx-_q",
@@ -563,110 +503,6 @@
       "firstSeen": "2026-10-12"
     },
     {
-      "id": "jj-FP92T",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://arena.jollyjoker.com.tr/etkinlik/FP92T/throwback-festival-2026/2026-11-13",
-      "title": "Throwback Festival 2026",
-      "description": "JJ Arena Ataşehir · 21:00",
-      "startsAt": "2026-11-13",
-      "endsAt": "2026-11-13",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/f2e0881f-42a7-46ad-a571-6a2e6366c9bb.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-HP66P",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://arena.jollyjoker.com.tr/etkinlik/HP66P/pinhani/2026-11-14",
-      "title": "Pinhani",
-      "description": "JJ Arena Ataşehir · 21:00",
-      "startsAt": "2026-11-14",
-      "endsAt": "2026-11-14",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/01b0c034-c0c5-4fa6-8c62-2846096d8100.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-UG20T",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://arena.jollyjoker.com.tr/etkinlik/UG20T/kreator-overkill/2026-11-15",
-      "title": "Kreator & Overkill",
-      "description": "JJ Arena Ataşehir · 18:30",
-      "startsAt": "2026-11-15",
-      "endsAt": "2026-11-15",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/c17b2c87-004e-45cb-918a-a728515c41f3.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-JY33I",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://arena.jollyjoker.com.tr/etkinlik/JY33I/yasar/2026-11-20",
-      "title": "Yaşar",
-      "description": "JJ Arena Ataşehir · 21:00",
-      "startsAt": "2026-11-20",
-      "endsAt": "2026-11-20",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/301254e7-6154-434d-9fe0-4c1c0bea0338.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-ST61A",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://arena.jollyjoker.com.tr/etkinlik/ST61A/hande-yener/2026-11-21",
-      "title": "Hande Yener",
-      "description": "JJ Arena Ataşehir · 21:00",
-      "startsAt": "2026-11-21",
-      "endsAt": "2026-11-21",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/518bbf9b-84c0-4d97-a8a4-00f624383b8a.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-KT83P",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://arena.jollyjoker.com.tr/etkinlik/KT83P/serdar-ortac/2026-11-27",
-      "title": "Serdar Ortaç",
-      "description": "JJ Arena Ataşehir · 21:00",
-      "startsAt": "2026-11-27",
-      "endsAt": "2026-11-27",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/26b94864-32b1-464c-8587-161471bffb03.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-HN25K",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://arena.jollyjoker.com.tr/etkinlik/HN25K/duman/2026-11-28",
-      "title": "Duman",
-      "description": "JJ Arena Ataşehir · 21:00",
-      "startsAt": "2026-11-28",
-      "endsAt": "2026-11-28",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/ef831ceb-ce1e-41cc-9a93-3c41010cfe2f.jpg",
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "jj-EW76E",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://arena.jollyjoker.com.tr/etkinlik/EW76E/can-bonomo/2026-11-29",
-      "title": "Can Bonomo",
-      "description": "JJ Arena Ataşehir · 19:00",
-      "startsAt": "2026-11-29",
-      "endsAt": "2026-11-29",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/4b172ae4-1bce-4604-a51c-26f78ebcb414.png",
-      "firstSeen": "2026-11-08"
-    },
-    {
       "id": "sizi-dinleyen-metropol-unuz-var",
       "mallId": "metropol-istanbul",
       "kind": "event",
@@ -695,7 +531,7 @@
       "isPaid": true,
       "url": "https://www.dasdas.com.tr/event/iki-kisilik-oyun",
       "title": "İki Kişilik Oyun",
-      "startsAt": "2026-11-09",
+      "startsAt": "2026-11-10",
       "endsAt": "2026-12-02",
       "description": "DasDas Ataşehir / Sahne · 18:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Foriginals%2Fmedia-1785931876898-iki-kisilik-oyun-siyah-beyaz-png%2F1785931876912-dsc02986-siyah-beyaz-png.png?alt=media&token=b9b9f81b-9b0f-47dd-b219-230df34af58d",
@@ -1157,16 +993,6 @@
       "firstSeen": "2026-11-09"
     },
     {
-      "id": "vialand-avm-de-1-000-tl-alisverise-semsiye-hediye",
-      "mallId": "isfanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.vialand.com/avm/etkinlikler-kampanyalar",
-      "title": "Vialand AVM’de 1.000 TL Alışverişe Şemsiye Hediye!",
-      "image": "https://trs3.cloudspark.com.tr/online/img/mall-page/events-campaigns-pages/semsiye-1000x1000-031126.jpeg?w=750&q=100",
-      "firstSeen": "2026-11-08"
-    },
-    {
       "id": "love-my-body",
       "mallId": "forum-istanbul",
       "kind": "event",
@@ -1350,6 +1176,38 @@
       "firstSeen": "2026-10-12"
     },
     {
+      "id": "marka-festivali-2026",
+      "mallId": "first-avenue",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.firstavenue.com.tr/etkinlikler/marka-festivali-2026",
+      "description": "First Avenue AVM 24 Ekim - 1 Kasım Garaj Günleri",
+      "startsAt": "2026-10-24",
+      "title": "Marka Festivali",
+      "image": "https://www.firstavenue.com.tr/img/f/8764017cf6a24a76a641c66ea01e5191/2-marka-festivali-2026-nmz9ohfr04.jpg?f=auto&v=3",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "29-ekim-cumhuriyet-bayrami-2026",
+      "mallId": "first-avenue",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.firstavenue.com.tr/etkinlikler/29-ekim-cumhuriyet-bayrami-2026",
+      "title": "29 Ekim Cumhuriyet Bayramı",
+      "image": "https://www.firstavenue.com.tr/img/f/894501fea4394b0c821519d914b314a2/29-ekim-cumhuriyet-bayrami-2026-a0bwav82kh.jpg?f=auto&v=3",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "sonbahar-festivali-2026",
+      "mallId": "first-avenue",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.firstavenue.com.tr/etkinlikler/sonbahar-festivali-2026",
+      "title": "Sonbahar Festivali",
+      "image": "https://www.firstavenue.com.tr/img/f/c77df68514594f62a11daaf493f0d000/2-sonbahar-festivali-2026-f892v6wzj0.jpg?f=auto&v=3",
+      "firstSeen": "2026-11-10"
+    },
+    {
       "id": "baby-shark-muzik-festivali",
       "mallId": "first-avenue",
       "kind": "event",
@@ -1401,17 +1259,6 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "anneler-yarisiyor",
-      "mallId": "first-avenue",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.firstavenue.com.tr/etkinlikler/anneler-yarisiyor",
-      "description": "Etkinlik; Meydan Katı |sahne/etkinlik alanında gerçekleşecektir.",
-      "title": "Anneler Yarışıyor",
-      "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/9525d917b3ea49328be362c5da8df045.jpg?f=auto&v=3",
-      "firstSeen": "2026-11-06"
-    },
-    {
       "id": "panco-sonbahar-koleksiyonu",
       "mallId": "first-avenue",
       "kind": "discount",
@@ -1421,6 +1268,17 @@
       "title": "Panço Sonbahar Koleksiyonu",
       "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/bd7d58d1af9145ce8d34e966a0c97722.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "suwen-1111-indirimleri-basladi",
+      "mallId": "first-avenue",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.firstavenue.com.tr/kampanyalar/suwen-1111-indirimleri-basladi",
+      "description": "11 Kasım 2026",
+      "title": "Suwen 11.11 İndirimleri Başladı!",
+      "image": "https://www.firstavenue.com.tr/img/f/cdd8d220e0cd45148af89dd3ebcab7d8/suwen-1111-indirimleri-basladi-ff6yirvsrb.jpg?f=auto&v=3",
+      "firstSeen": "2026-11-10"
     },
     {
       "id": "dr-kitap-fuarina-ozel-indirim",
@@ -1585,6 +1443,30 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "ara-tatil-eglencesi-carousel-avmde-cocuklari-bekliyor",
+      "mallId": "carousel",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://carousel.com.tr/ara-tatil-eglencesi-carousel-avmde-cocuklari-bekliyor/",
+      "publishedAt": "2026-11-09",
+      "description": "13 – 21 Kasım’da Tiyatrodan illüzyona, sevilen karakterlerden jonglör gösterisine uzanan ara tatil eğlencesi Carousel AVM’de çocukları bekliyor!",
+      "startsAt": "2026-11-21",
+      "title": "Ara tatil eğlencesi Carousel AVM’de çocukları bekliyor!",
+      "image": "https://carousel.com.tr/wp-content/uploads/2026/11/Ara-Tatil-Etkinlii-Genel-Grsel-819x1024.webp",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "10-kasim-saygi-ozlem-ve-minnetle",
+      "mallId": "carousel",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://carousel.com.tr/10-kasim-saygi-ozlem-ve-minnetle/",
+      "publishedAt": "2026-11-09",
+      "title": "10 Kasım Saygı, Özlem ve Minnetle…",
+      "image": "https://carousel.com.tr/wp-content/uploads/2026/11/10-kasim-717x1024.webp",
+      "firstSeen": "2026-11-10"
+    },
+    {
       "id": "29-ekim-cumhuriyet-bayrami",
       "mallId": "carousel",
       "kind": "event",
@@ -1728,155 +1610,6 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "jj-NZ47G",
-      "mallId": "istmarina",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://kartal.jollyjoker.com.tr/etkinlik/NZ47G/bengu/2026-11-11",
-      "title": "Bengü",
-      "description": "Jolly Joker Kartal istMarina · 21:00",
-      "startsAt": "2026-11-11",
-      "endsAt": "2026-11-11",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/d17518e0-31ea-4ae1-a33e-a6c1eb1b8e95.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-SH67V",
-      "mallId": "istmarina",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://kartal.jollyjoker.com.tr/etkinlik/SH67V/kerimcan-durmaz/2026-11-13",
-      "title": "Kerimcan Durmaz",
-      "description": "Jolly Joker Kartal istMarina · 21:00",
-      "startsAt": "2026-11-13",
-      "endsAt": "2026-11-13",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/0ab2da04-2d65-4840-8845-5072653e09ea.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-HG19U",
-      "mallId": "istmarina",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://kartal.jollyjoker.com.tr/etkinlik/HG19U/serdar-ortac/2026-11-14",
-      "title": "Serdar Ortaç",
-      "description": "Jolly Joker Kartal istMarina · 21:00",
-      "startsAt": "2026-11-14",
-      "endsAt": "2026-11-14",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/5e1625a2-61f9-4078-8720-8d8f73dd49ad.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-GL60G",
-      "mallId": "istmarina",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://kartal.jollyjoker.com.tr/etkinlik/GL60G/derya-bedavaci/2026-11-20",
-      "title": "Derya Bedavacı",
-      "description": "Jolly Joker Kartal istMarina · 21:00",
-      "startsAt": "2026-11-20",
-      "endsAt": "2026-11-20",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/7bd0bee1-1057-4b10-ad0b-dd817cf02586.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-UX13E",
-      "mallId": "istmarina",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://kartal.jollyjoker.com.tr/etkinlik/UX13E/merve-ozbey/2026-11-21",
-      "title": "Merve Özbey",
-      "description": "Jolly Joker Kartal istMarina · 21:00",
-      "startsAt": "2026-11-21",
-      "endsAt": "2026-11-21",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/9aac24a1-10df-4729-84ba-9ac0a414f619.png",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-FT68U",
-      "mallId": "istmarina",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://kartal.jollyjoker.com.tr/etkinlik/FT68U/askin-nur-yengi/2026-11-27",
-      "title": "Aşkın Nur Yengi",
-      "description": "Jolly Joker Kartal istMarina · 21:00",
-      "startsAt": "2026-11-27",
-      "endsAt": "2026-11-27",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/ae9ca34b-b499-4bbd-b138-de99d8d1a417.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "jj-NG55V",
-      "mallId": "istmarina",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://kartal.jollyjoker.com.tr/etkinlik/NG55V/bulent-ersoy/2026-11-28",
-      "title": "Bülent Ersoy",
-      "description": "Jolly Joker Kartal istMarina · 21:00",
-      "startsAt": "2026-11-28",
-      "endsAt": "2026-11-28",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/48b408ff-12d4-4d89-9199-b9633449b7dc.png",
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "jj-BE94X",
-      "mallId": "istmarina",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://kartal.jollyjoker.com.tr/etkinlik/BE94X/demet-akalin/2026-12-04",
-      "title": "Demet Akalın",
-      "description": "Jolly Joker Kartal istMarina · 21:00",
-      "startsAt": "2026-12-04",
-      "endsAt": "2026-12-04",
-      "image": "https://jjticketingstorage.blob.core.windows.net/content/940a3d3d-3695-410d-b505-74401679f2bc.png",
-      "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "skechers-kids-cocuk-festivali-2",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.zorlucenter.com.tr/avm/etkinlikler/skechers-kids-cocuk-festivali-2/",
-      "description": "E-bültenimize kaydolarak son haberlerden, içeriklerden, güncellemelerden veya size özel tekliflerimizden haberdar olabilirsiniz.",
-      "title": "Skechers Kids Çocuk Festivali",
-      "image": "https://www.zorlucenter.com.tr/media/qvpd31gh/etkinlik-center-banner.jpg",
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "emre-oktayoglu",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/emre-oktayoglu?p=1c0dabef-9043-4771-9ca7-0955b7839f4e",
-      "description": "Emre Oktayoğlu, ilk albümü “Yüzündeki Güneş” ile başlayan müzik yolculuğundan bugüne uzanan kendi repertuvarıyla 9 Kasım’da Zorlu PSM Touché by N Kolay sahnesinde.",
-      "startsAt": "2026-11-09",
-      "title": "EMRE OKTAYOĞLU",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "ibrahim-selim-ile-bu-gece-100-studio",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/ibrahim-selim-ile-bu-gece-100-studio?p=7e2da527-70ad-45aa-8f03-8aabecb74e98",
-      "description": "Hanımlar Beyler yaz bitti! Ama hiç korkmayın bizler mevsim geçişlerinizi hafifletmek, dönemsel depresyonunuza yara bandı olmak için işimizin başındayız!",
-      "title": "İBRAHİM SELİM İLE BU GECE",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "miray-akovaligil-ya-bende-bir-sey-yoksa",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/miray-akovaligil-ya-bende-bir-sey-yoksa?p=9c46be2f-e528-4ce8-8357-f66c57ebec2e",
-      "description": "Miray Akovalıgil, kariyer, aşk, sağlık dahil her alanda başarı kavramını sorgulatan stand up gösterisiyle seyircileriyle buluşuyor.",
-      "title": "MİRAY AKOVALIGİL \"YA BENDE BİR ŞEY YOKSA?\"",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-08"
-    },
-    {
       "id": "toz-2",
       "mallId": "zorlu-center",
       "kind": "event",
@@ -1974,6 +1707,39 @@
       "title": "GARANTİ BBVA GENÇ SUNAR: EUROLEAGUE: ASVEL – BEŞİKTAŞ",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
       "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "new-balance-presents-unseen-kids-tour",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/new-balance-presents-unseen-kids-tour?p=4a445f12-170e-4fc1-b93b-b2899555ae48",
+      "description": "New Balance Presents: Unseen Kids Tour Zorlu PSM’de!",
+      "title": "NEW BALANCE PRESENTS: UNSEEN KIDS TOUR",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "degisim-donusum",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/degisim-donusum?p=1e4ee750-03b6-4ca4-93cc-b16cdebd9ae8",
+      "description": "Başarılı bir siyasetçi, geçmişindeki bağımlılıkla mücadele eden eski bir avukat ve tek bir gün içinde açığa çıkan sırlar… Dışarıdan kusursuz görünen Mine ve Tarık’ın evliliği, sakladıkları gerçeklerin ortaya çıkmasıyla sarsıcı bir hesaplaşm",
+      "title": "DEĞİŞİM / DÖNÜŞÜM",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "jazzy-by-su-soley",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/jazzy-by-su-soley?p=024acf4d-58e7-44ab-a05e-94d8b7680a0d",
+      "description": "Su Soley muhteşem enerjisi ile Zorlu PSM touché by N Kolay sahnesinde!",
+      "title": "JAZZY BY SU SOLEY",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-10"
     },
     {
       "id": "gupi-ve-gulmeyen-kral-world-cinezone-imaxte",

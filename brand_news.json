@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T13:09:07+00:00",
+  "generatedAt": "2026-11-10T12:54:10+00:00",
   "news": [
     {
       "id": "news-64c8d09220dc",
@@ -8,25 +8,16 @@
       "description": "Guess %50'ye Varan İndirim; Gizia %50'ye Varan İndirimler",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
-    },
-    {
-      "id": "news-a899f3018aa0",
-      "brand": "Boyner",
-      "title": "Boyner — %25'e varan indirim",
-      "description": "Levis %25'e Varan İndirim; National Geographic %25'e Varan İndirim",
-      "source": "Boyner",
-      "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-37b00ab11d4c",
       "brand": "Boyner",
       "title": "Boyner — %60'a varan indirim",
-      "description": "U.S. Polo Assn. %60'a Varan İndirimlere Ek 400 TL Kupon Fırsatı; Pierre Cardin %60'a Varan İndirim; İlvi %60'a Varan İndirim; Fabrika %60'a Varan İndirim; …",
+      "description": "U.S Polo Assn. %60'a Varan İndirime Ek Süpriz İndirimler; Pierre Cardin %60'a Varan İndirim; İlvi %60'a Varan İndirim; Fabrika %60'a Varan İndirim; …",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-025cf391a045",
@@ -35,16 +26,7 @@
       "description": "Sebago %20'ye Varan İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
-    },
-    {
-      "id": "news-9cb83923fefd",
-      "brand": "Boyner",
-      "title": "Boyner — 2. ürüne %70 indirim",
-      "description": "Jack & Jones 2. Ürüne %70 İndirim",
-      "source": "Boyner",
-      "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-5f67e7c5ab3d",
@@ -53,7 +35,7 @@
       "description": "Boss %45 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-89600079cdde",
@@ -62,7 +44,25 @@
       "description": "Desa 3.Ürüne %30 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
+    },
+    {
+      "id": "news-a899f3018aa0",
+      "brand": "Boyner",
+      "title": "Boyner — %25'e varan indirim",
+      "description": "National Geographic %25'e Varan İndirim",
+      "source": "Boyner",
+      "url": "https://www.boyner.com.tr/kampanyalar",
+      "verifiedAt": "2026-11-10"
+    },
+    {
+      "id": "news-d414b6b19e6a",
+      "brand": "Boyner",
+      "title": "Boyner — %15 indirim",
+      "description": "Hopililere Özel 3000 TL Ve Üzeri %15 İndirim",
+      "source": "Boyner",
+      "url": "https://www.boyner.com.tr/kampanyalar",
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-4143bf72c783",
@@ -71,7 +71,7 @@
       "description": "2. Ürüne %50 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-9af4ae080e72",
@@ -80,7 +80,7 @@
       "description": "2 Ürüne %20, 3 Adet ve Üzerine %25 İndirim",
       "source": "Boyner",
       "url": "https://www.boyner.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-8b6f4c587b8e",
@@ -89,7 +89,7 @@
       "description": "Seçili Makyaj Kalemlerinde 1 Alana 1 Bedava; Seçili Ojelerde 1 Alana 1 Bedava; Seçili Mini Islak Mendil Çeşitlerinde 1 Alana 1 Bedava; Selpak Sofia Maylo Marka Kağıt Ürünlerinde 1 Alana 1 Bedava; …",
       "source": "Rossmann",
       "url": "https://www.rossmann.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-3c905ca1fe34",
@@ -98,7 +98,7 @@
       "description": "Yüz Makyaj Ürünlerinde %60 a varan indirim",
       "source": "Rossmann",
       "url": "https://www.rossmann.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-b4b009ece33d",
@@ -107,7 +107,7 @@
       "description": "Seçili Loreal Paris ve Garnier Maskelerde 3 Al 1 Öde",
       "source": "Rossmann",
       "url": "https://www.rossmann.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-5edcc7f0788a",
@@ -116,7 +116,7 @@
       "description": "Gillette Venüs Bıçaklarda 2. Ürüne %50 İndirim; Seçili Gillette Ürünlerinde 2. Ürüne %50 İndirim; Seçili Bepanthol Ürünlerinde 2. Ürüne %50 İndirim; F&S 2.Ürüne %50 İndirim; …",
       "source": "Rossmann",
       "url": "https://www.rossmann.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-6d2fc331a4e4",
@@ -125,7 +125,7 @@
       "description": "Makyaj Aksesuarlarında 3 al 2 Öde Fırsatı; Tüm Kağıt Maskelerde 3 Al 2 Öde; Seçili Gillette Venüs Ürünlerinde 3 al 2 öde; Tüm Kişisel Islak Mendillerde 3 Al 2 Öde Fırsatı; …",
       "source": "Rossmann",
       "url": "https://www.rossmann.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-6bffe9990691",
@@ -134,7 +134,7 @@
       "description": "Net %50 İndirim",
       "source": "Karaca",
       "url": "https://www.karaca.com/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-c2dc25cdb536",
@@ -143,7 +143,7 @@
       "description": "3.000 TL ve Üzerine 500 TL İndirim",
       "source": "Karaca",
       "url": "https://www.karaca.com/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-05e7860eb40f",
@@ -152,7 +152,7 @@
       "description": "Tek Tencere Tavalarda Net %25 İndirim",
       "source": "Karaca",
       "url": "https://www.karaca.com/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-277e6b95232b",
@@ -161,7 +161,7 @@
       "description": "Karaca Home %50'ye Varan İndirim; Jumbo %50'ye Varan İndirim; Homend %50'ye Varan İndirim",
       "source": "Karaca",
       "url": "https://www.karaca.com/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-20110e946153",
@@ -170,7 +170,7 @@
       "description": "Seçili Lisanslı Marka Ürünlerinde 2. Ürüne %50 İndirim",
       "source": "Linens",
       "url": "https://www.linens.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-10-05",
       "endsAt": "2026-11-11"
     },
@@ -181,7 +181,16 @@
       "description": "Taç Hazır Perdelerde 3 Al 2 Öde",
       "source": "Linens",
       "url": "https://www.linens.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
+    },
+    {
+      "id": "news-cb1ff79bb855",
+      "brand": "D'S Damat",
+      "title": "D'S Damat — 2 al 1 öde",
+      "description": "AKSESUAR  2 AL 1 ÖDE",
+      "source": "D'S Damat",
+      "url": "https://www.dsdamat.com/kampanyalar",
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-abd5539e8160",
@@ -190,7 +199,7 @@
       "description": "Outlet %40 İndirim",
       "source": "D'S Damat",
       "url": "https://www.dsdamat.com/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both"
     },
     {
@@ -200,7 +209,7 @@
       "description": "499 TL üzerine %30 İNDİRİM",
       "source": "Flormar",
       "url": "https://www.flormar.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-4932f27a232a",
@@ -209,7 +218,7 @@
       "description": "Mega Kasım'a Özel Net %40 İndirim",
       "source": "Hotiç",
       "url": "https://www.hotic.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "endsAt": "2026-11-15"
     },
     {
@@ -219,7 +228,7 @@
       "description": "Erkek İç Giyimde Net %50 İndirim; İç Giyimde Net %50 İndirim; Yeni Sezonda Net %50 İndirim",
       "source": "Dagi",
       "url": "https://www.dagi.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-93c8222f5480",
@@ -228,7 +237,7 @@
       "description": "Plaj Giyimde %70'e Varan İndirim",
       "source": "Dagi",
       "url": "https://www.dagi.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-ec54057a9c09",
@@ -237,7 +246,7 @@
       "description": "SEÇİLİ SAREV PİKE ÜRÜNLERİNDE %20 İNDİRİM",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both",
       "startsAt": "2026-08-01",
       "endsAt": "2026-11-30"
@@ -249,7 +258,7 @@
       "description": "Seçili Robin Yayla Ürünlerinde 2 Adet %20, 3 ve Üzeri Alımlarda %30 İndirim",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both",
       "startsAt": "2026-06-19",
       "endsAt": "2026-11-10"
@@ -261,7 +270,7 @@
       "description": "Begüm Salihoğlu Seçili Ürünlerde %20, 2 ve Üzeri Alımlarda %30 İndirim",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both",
       "startsAt": "2026-08-15",
       "endsAt": "2026-12-31"
@@ -273,7 +282,7 @@
       "description": "2026 Seçili Erkek Ürünlerinde %30 İndirim",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both",
       "startsAt": "2026-08-01",
       "endsAt": "2026-11-10"
@@ -285,7 +294,7 @@
       "description": "SEÇİLİ CEKET AYAKKABI ÜRÜNLERİNDE %30 İNDİRİM",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both",
       "startsAt": "2026-07-01",
       "endsAt": "2026-11-30"
@@ -297,7 +306,7 @@
       "description": "SEÇİLİ KADIN ÜRÜNLERİNDE %50 İNDİRİM",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both",
       "startsAt": "2026-10-16",
       "endsAt": "2026-12-31"
@@ -309,7 +318,7 @@
       "description": "Robin Yayla Koleksiyonunda Seçili Ürünlerde Sepette 2. Üründe %50 İndirim",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both",
       "startsAt": "2025-12-08",
       "endsAt": "2026-11-10"
@@ -321,7 +330,7 @@
       "description": "Robin Yayla Koleksiyonunda %50 İndirim",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both",
       "startsAt": "2025-02-06",
       "endsAt": "2026-11-10"
@@ -333,7 +342,7 @@
       "description": "Seçili Ürünlerde Net %60 İndirim",
       "source": "B&G Store",
       "url": "https://www.bgstore.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-b9d3e9db5eef",
@@ -342,7 +351,7 @@
       "description": "4 Mevsim Gömleklerde 1 Alana 1 Bedava; Yazlık Gömleklerde 1 Alana 1 Bedava; Tişörtlerde 1 Alana 1 Bedava; Polo Yaka Tişörtlerde 1 Alana 1 Bedava",
       "source": "Tudors",
       "url": "https://www.tudors.com/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-220cb7ad68c1",
@@ -351,7 +360,7 @@
       "description": "2 ve Üzeri Gömleklerde %20 İndirim; 2 Ve Üzeri Denim Gömleklerde %20 İndirim; 2 Ve Üzeri Exclusive Gömleklerde %20 İndirim; 2 Ve Üzeri Baskılı Tişörtlerde %20 İndirim; …",
       "source": "Tudors",
       "url": "https://www.tudors.com/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-88f186ee6e6f",
@@ -360,7 +369,7 @@
       "description": "Sepette %30'a Varan İndirim",
       "source": "Samsonite",
       "url": "https://www.samsonite.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both",
       "startsAt": "2026-11-01",
       "endsAt": "2026-11-30"
@@ -372,7 +381,7 @@
       "description": "Sepette Sürpriz %20 İndirim",
       "source": "Samsonite",
       "url": "https://www.samsonite.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both",
       "startsAt": "2026-11-01",
       "endsAt": "2026-11-30"
@@ -384,7 +393,7 @@
       "description": "2. Üründe Sepette %30 İndirim",
       "source": "Samsonite",
       "url": "https://www.samsonite.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both",
       "startsAt": "2026-11-01",
       "endsAt": "2026-11-30"
@@ -396,7 +405,7 @@
       "description": "CHAMPION ÜRÜNLERİNDE NET %50 İNDİRİM",
       "source": "Sneaks Up",
       "url": "https://www.sneaksup.com",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-a078fb33122d",
@@ -405,7 +414,7 @@
       "description": "SEÇİLİ OUTLET ÜRÜNLERİNDE %50'YE VARAN İNDİRİM",
       "source": "Puma",
       "url": "https://tr.puma.com/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-d6fbdd8f9250",
@@ -414,16 +423,27 @@
       "description": "Efsane Kasım %30, 2. Ürüne %50",
       "source": "Desa",
       "url": "https://www.desa.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
+    },
+    {
+      "id": "news-6b483bcfcc05",
+      "brand": "Desa",
+      "title": "Desa — 1. ürüne %30 indirim · 2. ürüne %50 indirim",
+      "description": "11.11'e Özel Seçili Ayakkabı ve Çantalarda 1. Ürüne %30, 2. Ürüne %50 İndirim",
+      "source": "Desa",
+      "url": "https://www.desa.com.tr/kampanyalar",
+      "verifiedAt": "2026-11-10",
+      "startsAt": "2026-11-06",
+      "endsAt": "2026-11-12"
     },
     {
       "id": "news-4529f29c025f",
       "brand": "Desa",
       "title": "Desa — 1. ürüne %30 indirim · 2. ürüne %50 indirim",
-      "description": "11.11'e Özel Seçili Ayakkabı ve Çantalarda 1. Ürüne %30, 2. Ürüne %50 İndirim; Seçili Ayakkabı ve Çantalarda 1. Ürüne %30, 2. Ürüne %50 İndirim; Seçili Bot, Çizme ve Ayakkabılarda 1. Ürüne %30, 2. Ürüne %50 İndirim; Seçili Bot ve Ayakkabılarda 1. Ürüne %30, 2. Ürüne %50 İndirim",
+      "description": "Seçili Ayakkabı ve Çantalarda 1. Ürüne %30, 2. Ürüne %50 İndirim; Seçili Bot, Çizme ve Ayakkabılarda 1. Ürüne %30, 2. Ürüne %50 İndirim; Seçili Bot ve Ayakkabılarda 1. Ürüne %30, 2. Ürüne %50 İndirim",
       "source": "Desa",
       "url": "https://www.desa.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-11-06",
       "endsAt": "2026-11-30"
     },
@@ -434,7 +454,7 @@
       "description": "Seçili Deri Ceketlerde %30 İndirim",
       "source": "Desa",
       "url": "https://www.desa.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-11-01",
       "endsAt": "2026-11-30"
     },
@@ -445,7 +465,7 @@
       "description": "Seçili İtalyan Luca Grossi Ayakkabılarda 1. Ürüne %30, 2. Ürüne %50 İndirim",
       "source": "Desa",
       "url": "https://www.desa.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-11-01",
       "endsAt": "2026-11-30"
     },
@@ -456,7 +476,7 @@
       "description": "Seçili deri aksesuarlarda birinci ürüne %10, İkinci ürüne %30 İndirim",
       "source": "Desa",
       "url": "https://www.desa.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-11-01",
       "endsAt": "2026-11-30"
     },
@@ -467,7 +487,7 @@
       "description": "20.000 TL üzeri deri giyim alışverişine seçili ayakkabı veya çantalarda %50 indirim",
       "source": "Desa",
       "url": "https://www.desa.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-11-01",
       "endsAt": "2026-11-30"
     },
@@ -478,7 +498,7 @@
       "description": "Seçili Seyahat Ürünlerinde %20 İndirim",
       "source": "Desa",
       "url": "https://www.desa.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-11-01",
       "endsAt": "2026-11-30"
     },
@@ -489,7 +509,7 @@
       "description": "Seyahat Ürünlerinde İkinci Ürüne %30 İndirim",
       "source": "Desa",
       "url": "https://www.desa.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-11-01",
       "endsAt": "2026-11-30"
     },
@@ -500,7 +520,7 @@
       "description": "Kış Aksesuarları  3 Al 2 Öde; Kış Aksesuarlarında 3 Al 2 Öde",
       "source": "GS Store",
       "url": "https://www.gsstore.org/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-00e7c2a0d6b1",
@@ -509,7 +529,7 @@
       "description": "Shop By Player  2 Al 1 Öde; Shop by Player Ürünlerinde 2 Al 1 Öde",
       "source": "GS Store",
       "url": "https://www.gsstore.org/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-0f23bf24acf1",
@@ -518,7 +538,7 @@
       "description": "Seçili Kış Ürünlerinde %50 İndirim",
       "source": "GS Store",
       "url": "https://www.gsstore.org/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-f181c742ffbc",
@@ -527,7 +547,7 @@
       "description": "Sonbahar / Kış Ürünlerinde %40'a Varan İndirim",
       "source": "W Collection",
       "url": "https://www.wcollection.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-f04276d62279",
@@ -536,7 +556,7 @@
       "description": "2 Ürün Alımında +%30 İndirim",
       "source": "W Collection",
       "url": "https://www.wcollection.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-0f9ac1dd5523",
@@ -545,7 +565,7 @@
       "description": "YENİ SEZONDA 5.000 TL'ye 1.000 TL, 10.000 TL'ye 2.500 TL İNDİRİM",
       "source": "Armine",
       "url": "https://www.armine.com/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-8393889ab9a6",
@@ -554,7 +574,7 @@
       "description": "Anne Penye Ürünlerinde 3 Al 2 Öde Kampanyası",
       "source": "Armine",
       "url": "https://www.armine.com/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both"
     },
     {
@@ -564,16 +584,7 @@
       "description": "2 VE ÜZERİ ÜRÜNE %30 İNDİRİM",
       "source": "Vakko",
       "url": "https://www.vakko.com/kampanyalar",
-      "verifiedAt": "2026-11-09"
-    },
-    {
-      "id": "news-8540492ab1bc",
-      "brand": "MUDO",
-      "title": "MUDO — %20 indirim",
-      "description": "3 ve Üzeri Ürüne %20 İndirim",
-      "source": "MUDO",
-      "url": "https://www.mudo.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-2c8cdf2551b6",
@@ -582,7 +593,7 @@
       "description": "İlk Ürün %20 Sonrakilerde %50 İndirim",
       "source": "Hatemoğlu",
       "url": "https://www.hatemoglu.com/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "endsAt": "2026-11-30"
     },
     {
@@ -592,7 +603,7 @@
       "description": "3 Adet Gömlek Alışverişine 1.000 TL İndirim; 3 Adet Pantolon Alışverişine 1.000 TL İndirim",
       "source": "Hatemoğlu",
       "url": "https://www.hatemoglu.com/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "endsAt": "2026-11-30"
     },
     {
@@ -602,7 +613,7 @@
       "description": "Her 10.000 TL'ye 2.000 TL İndirim",
       "source": "Hemington",
       "url": "https://www.hemington.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-8070b23a8c2a",
@@ -611,7 +622,7 @@
       "description": "Essentials T-Shirtlerde 3 Al 2 Öde; Çorap ve İç Giyimde 3 Al 2 Öde; Kravat ve Mendil Modellerinde 3 Al 2 Öde",
       "source": "Hemington",
       "url": "https://www.hemington.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-912f8ca7f55e",
@@ -620,7 +631,7 @@
       "description": "2 ÜRÜNE NET %50 İNDİRİME EK 3 VE ÜZERİNE + %10",
       "source": "Hemington",
       "url": "https://www.hemington.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-f5628727ea30",
@@ -629,7 +640,7 @@
       "description": "HER 12.500 TL VE ÜZERİNE 2.500 TL İNDİRİM",
       "source": "Hemington",
       "url": "https://www.hemington.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-e9005d01d499",
@@ -638,7 +649,7 @@
       "description": "7-11 Kasım Alışveriş Günleri Net %30  3+ Üründe %40 İndirim",
       "source": "Hemington",
       "url": "https://www.hemington.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-11-07",
       "endsAt": "2026-11-11"
     },
@@ -649,7 +660,7 @@
       "description": "20.000 TL ve Üzeri Alışverişlerde 4.000 TL İndirim",
       "source": "Roman",
       "url": "https://www.roman.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-9dadb5eb27e8",
@@ -658,7 +669,7 @@
       "description": "100.000 TL Ve Üzeri Alışverişlerde 30.000 TL İndirim",
       "source": "Roman",
       "url": "https://www.roman.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-1d302eca128e",
@@ -667,7 +678,7 @@
       "description": "50.000 TL Ve Üzeri Alışverişlerde 12.500 TL İndirim",
       "source": "Roman",
       "url": "https://www.roman.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-54ec9d20e3c9",
@@ -676,7 +687,7 @@
       "description": "2 Al 1 Öde Montlar; Parfümde 2 Al 1 Öde",
       "source": "İgs",
       "url": "https://www.igs.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-3e34a21a788d",
@@ -685,7 +696,7 @@
       "description": "Harcama Alt Limiti 5.000 TL ve üzeri alışverişlerde 500 TL indirim sağlar",
       "source": "INTERSPORT",
       "url": "https://www.intersport.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both"
     },
     {
@@ -695,7 +706,7 @@
       "description": "2. Ürüne %50 İndirim",
       "source": "Fenerium",
       "url": "https://www.fenerium.com/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-cb836ab42dd3",
@@ -704,7 +715,7 @@
       "description": "Promo 5 AL 4 ÖDE",
       "source": "Calzedonia",
       "url": "https://www.calzedonia.com/tr",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-e72bea520c46",
@@ -713,7 +724,7 @@
       "description": "Fragrance Sprey & Losyonlarda 1 Alana 2.'si %50 İndirimli",
       "source": "Victoria's Secret",
       "url": "https://www.victoriassecret.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-b6c3b80901e0",
@@ -722,7 +733,7 @@
       "description": "Seyahat Boyu & Dudak Ürünlerinde 3 Al 2 Öde",
       "source": "Victoria's Secret",
       "url": "https://www.victoriassecret.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-0017869095b9",
@@ -731,7 +742,7 @@
       "description": "5.000 TL altı alışverişte 2. üründe 500 TL indirim",
       "source": "Atasun Optik",
       "url": "https://www.atasunoptik.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-303f88ce1298",
@@ -740,7 +751,7 @@
       "description": "5.000 TL ve üzeri alışverişte 2. üründe %10 indirim",
       "source": "Atasun Optik",
       "url": "https://www.atasunoptik.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-01-01",
       "endsAt": "2026-12-31"
     },
@@ -751,7 +762,7 @@
       "description": "Seçili Ürünlerde 30% İndirim",
       "source": "Kiko",
       "url": "https://www.kikomilano.com.tr/kampanyalar/",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-11-03",
       "endsAt": "2026-11-11"
     },
@@ -762,7 +773,7 @@
       "description": "Glossy Lip Set'te 50% İndirim",
       "source": "Kiko",
       "url": "https://www.kikomilano.com.tr/kampanyalar/",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-10-27",
       "endsAt": "2026-11-30"
     },
@@ -773,7 +784,7 @@
       "description": "30 Ekim - 11 Kasım 2026 tarihleri arasında L'Occitane ürünlerinde %30'a varan indirim",
       "source": "L'Occitane",
       "url": "https://www.loccitane.com.tr/pages/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both",
       "startsAt": "2026-10-30",
       "endsAt": "2026-11-11"
@@ -785,7 +796,7 @@
       "description": "2. Ürüne %40 İndirim",
       "source": "Bambi",
       "url": "https://www.bambiayakkabi.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-571db09a572f",
@@ -794,7 +805,7 @@
       "description": "Büyük Fırsat Günleri Tüm Pırlantalarda Net %50 İndirim",
       "source": "D DIAMOND",
       "url": "https://www.ddiamond.com.tr/firsatlar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-a002cc97e4d8",
@@ -803,7 +814,7 @@
       "description": "Seri Sonu Fırsatları - %40 İndirimli Ürünler  Twigy",
       "source": "Twigy",
       "url": "https://www.twigy.com/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-b0b4eb418413",
@@ -812,7 +823,7 @@
       "description": "Hassas ciltlere uygun, hareket özgürlüğü sunan çocuk giyim ürünlerinde %50'ye varan indirim",
       "source": "Blackspade",
       "url": "https://www.blackspade.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-b950c2e757c2",
@@ -821,7 +832,7 @@
       "description": "PATİK VE KISA PATİK ÇORAPLARINDA 3 AL 2 ÖDE",
       "source": "LC Waikiki",
       "url": "https://www.lcw.com/anasayfa/firsatalani",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "channel": "both",
       "startsAt": "2026-11-04",
       "endsAt": "2026-11-15"
@@ -833,17 +844,16 @@
       "description": "Birlikte alımda seçili kılıfta %30 indirime ek, vade farksız 6 taksit fırsatı8",
       "source": "Samsung",
       "url": "https://www.samsung.com/tr/offer/offers/",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
-      "id": "news-8a58dddc03e2",
+      "id": "news-7c6a35fc2f94",
       "brand": "Media Markt",
       "title": "Media Markt — %40 indirim",
       "description": "Seçili Notebooklarla Birlikte MICROSOFT Office 365 %40 İndirimli",
       "source": "Media Markt",
       "url": "https://www.mediamarkt.com.tr/tr/campaign/kampanyalar",
-      "verifiedAt": "2026-11-09",
-      "endsAt": "2026-11-30"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-f4bc416a9b28",
@@ -852,7 +862,7 @@
       "description": "Xperion Monitör %30 İndirimli; Xperion kasa alımlarında Xperion Monitör %30 İndirimli",
       "source": "Media Markt",
       "url": "https://www.mediamarkt.com.tr/tr/campaign/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-c286a4ca24e7",
@@ -861,7 +871,7 @@
       "description": "Paribu Cineverse Büfelerinde Film Arasında %25 İndirim",
       "source": "Paribu Cineverse",
       "url": "https://www.paribucineverse.com/kampanyalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-7bb88d23b6d5",
@@ -870,7 +880,7 @@
       "description": "Seçili Ürünlerde %40'a Varan İndirim",
       "source": "Mad Parfumeur",
       "url": "https://www.madparfum.com/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-10-30",
       "endsAt": "2026-11-11"
     },
@@ -881,7 +891,7 @@
       "description": "3 Al 2 Öde Kupalar; 3 Al 2 Öde Kupa Kampanyası",
       "source": "Korkmaz",
       "url": "https://www.korkmazstore.com.tr/3-al-2-ode-kupalar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
     },
     {
       "id": "news-21b2ebc7fcf4",
@@ -890,7 +900,40 @@
       "description": "Tüm Kategorilerdeki Seçili Ürünlerde %50 İndirim; Ayın Fırsat Ürünü - %50 İndirimli",
       "source": "Tchibo",
       "url": "https://www.tchibo.com.tr/c/guncel-kampanya-firsatlar",
-      "verifiedAt": "2026-11-09"
+      "verifiedAt": "2026-11-10"
+    },
+    {
+      "id": "news-44a7a6770e99",
+      "brand": "Macro Center",
+      "title": "Macro Center — %40 indirim",
+      "description": "5 - 15 Kasım Koopman Ürünlerinde %40 İndirim",
+      "source": "Macro Center",
+      "url": "https://www.macrocenter.com.tr/kampanyalar",
+      "verifiedAt": "2026-11-10",
+      "startsAt": "2026-11-10",
+      "endsAt": "2026-11-30"
+    },
+    {
+      "id": "news-fa5a55105426",
+      "brand": "Macro Center",
+      "title": "Macro Center — %10 indirim",
+      "description": "10 - 30 Kasım Green Life Çaylarda %10 İndirim",
+      "source": "Macro Center",
+      "url": "https://www.macrocenter.com.tr/kampanyalar",
+      "verifiedAt": "2026-11-10",
+      "startsAt": "2026-11-10",
+      "endsAt": "2026-11-30"
+    },
+    {
+      "id": "news-bf77e064a0b4",
+      "brand": "Macro Center",
+      "title": "Macro Center — 300 TL indirim",
+      "description": "10 Kasım Sepete Seçili Listeden Ürün Alımınızda 300 TL İndirim",
+      "source": "Macro Center",
+      "url": "https://www.macrocenter.com.tr/kampanyalar",
+      "verifiedAt": "2026-11-10",
+      "startsAt": "2026-11-07",
+      "endsAt": "2026-11-22"
     },
     {
       "id": "news-9d7b05717243",
@@ -899,7 +942,7 @@
       "description": "9 - 15 Kasım The Life Co Markalı Ürünlerde %25 İndirim",
       "source": "Macro Center",
       "url": "https://www.macrocenter.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10",
       "startsAt": "2026-11-09",
       "endsAt": "2026-11-15"
     }
