@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:01:27+00:00",
+  "generatedAt": "2026-11-13T12:26:21+00:00",
   "campaigns": [
     {
       "id": "alisveris-festicali",
@@ -11,6 +11,16 @@
       "description": "Birbirinden ışıltılı ürünlerin yer aldığı alışveriş festivali Maltepe Piazza'da!",
       "url": "https://maltepepiazzaavm.com/tr/etkinlikler-kampanyalar/alisveris-festicali",
       "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "maltepe-park-ta-gun-erken-doguyor",
+      "mallId": "maltepe-park",
+      "title": "Maltepe Park'ta Gün Erken Doğuyor",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepeparkavm.com/storage/maltepeparkavm/event/May2026/gun-erken-doguyor-1280x720px.jpg",
+      "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/maltepe-park-ta-gun-erken-doguyor",
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "kitap-senligi",
@@ -44,16 +54,14 @@
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "28-uluslararasi-istanbul-kukla-festivali-mall-of-istanbul-da",
-      "mallId": "mall-of-istanbul",
+      "id": "i-yilige-sende-bir-i-lmek-at",
+      "mallId": "kozzy",
+      "title": "İyiliğe Sende Bir İlmek At!",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/etkinlikler/28-uluslararasi-istanbul-kukla-festivali-mall-of-istanbul-da",
-      "description": "Kuklaların renkli dünyası Mall of İstanbul’da hayat buluyor! 28. Uluslararası İstanbul Kukla Festivali kapsamında Bulgaristan, Macaristan ve Almanya’dan sanatçılar, 6–7–8 Kasım tarihlerinde Amfi Tiyatro’da ziyaretçilerimizle buluşuyor.",
-      "startsAt": "2026-11-08",
-      "title": "Expired",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/event/event_listing_image_tr/main/b0097add-1333-4434-a87d-9ec701c7f808.jpeg?1793796754321?1793796754321",
-      "firstSeen": "2026-11-12"
+      "image": "https://kozzyavm.com/storage/kozzyavm/event/October2026/losev-dijital-1280x720px.webp",
+      "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/i-yilige-sende-bir-i-lmek-at",
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "idilbaby-ve-mamino-wwz1eght9s",
@@ -62,10 +70,22 @@
       "isPaid": false,
       "url": "https://www.mallofistanbul.com.tr/firsatlar/idilbaby-ve-mamino-wwz1eght9s",
       "description": "4 Al 2 Öde",
-      "publishedAt": "2026-11-12",
+      "publishedAt": "2026-11-13",
       "title": "İdilbaby & Mamino",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f55a68c5-54db-48aa-9368-bcec12c78042.jpeg?1794485858067?1794485858067",
       "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "candyzoo-dsv8qp_wgyi",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/candyzoo-dsv8qp_wgyi",
+      "description": "Frozzle dondurma alana 2. frozzle %50 indirimli",
+      "publishedAt": "2026-11-13",
+      "title": "CandyZoo",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/bca71797-8b10-46d9-9fe8-c04548e6f2ac.jpeg?1794552160524?1794552160524",
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "zsa-zsa-zsu-6owkhcpolxl",
@@ -183,15 +203,26 @@
       "firstSeen": "2026-11-12"
     },
     {
-      "id": "neslihan-canpolat-zw-e9nituwx",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
+      "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
+      "mallId": "akmerkez",
+      "kind": "event",
       "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/neslihan-canpolat-zw-e9nituwx",
-      "publishedAt": "2026-10-21",
-      "title": "Neslihan Canpolat",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/11b7e0dc-e807-4183-a24c-750361c0a77b.jpeg?1792507700756?1792507700756",
-      "firstSeen": "2026-11-12"
+      "url": "https://www.akmerkez.com.tr/etkinlikler/sehirde-dogayla-bulusmaya-hazir-misiniz",
+      "description": "Akmerkez Terasta Tarım’da hafta sonu ziyaretleri başlıyor! Her cumartesi 11:00–13:00 saatleri arasında sizleri doğayla iç içe keyifli bir deneyime davet ediyoruz. Detaylı bilgi ve rezervasyon için bizimle iletişime geçebilirsiniz: +90 543 4",
+      "title": "🌿 Şehirde doğayla buluşmaya hazır mısınız?",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/939fe257-f840-4bc6-bd76-e6953e93a719.jpeg?1777272648381?1777272648381",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "ipek-hanim-ciftligi-akmerkez-de",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/ipek-hanim-ciftligi-akmerkez-de",
+      "description": "Keyifli deneyimin adresi ve kentin en gözde buluşma noktası Akmerkez; doğayla kurulan bağın en yalın hali İpek Hanım Çiftliği’ni ziyaretçileri ile buluşturuyor. Çiftlikte yetiştirilen ve mevsiminde hasat edilen sebze- meyvelerle, el emeği i",
+      "title": "İpek Hanım Çiftliği Akmerkez’de",
+      "image": "https://s3-eu-central-1.amazonaws.com/akis-gyo/images/event_image/ryEv5xTWY-main.jpeg?1630501468896",
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "35-indirim",
@@ -252,6 +283,50 @@
       "firstSeen": "2026-11-06"
     },
     {
+      "id": "otoparkimizda-3-saat-uecretsiz",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/otoparkimizda-3-saat-uecretsiz",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Otoparkımızda 3 Saat Ücretsiz",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/HkQbPbRpWl-main.jpeg?1777370876186",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "vadistanbul-suerdueruelebilirlik-vizyonuyla-marcom-awards-ta-uec-kez-zirvede",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-suerdueruelebilirlik-vizyonuyla-marcom-awards-ta-uec-kez-zirvede",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Vadistanbul Sürdürülebilirlik Vizyonuyla Marcom Awards'ta Üç Kez Zirvede",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/Sk2-idlxWl-main.jpeg?1762851589034",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "vadistanbul-da-evcil-hayvan-dostlarimizi-memnuniyetle-karsiliyoruz",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-da-evcil-hayvan-dostlarimizi-memnuniyetle-karsiliyoruz",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Vadistanbul’da Evcil Hayvan Dostlarımızı Memnuniyetle Karşılıyoruz",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1M8bdxcyx-main.jpeg?1785756755273",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "ayirdigimiz-her-atikla-gelecek-nesillere-guzel-yarinlar-birakiyoruz",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/ayirdigimiz-her-atikla-gelecek-nesillere-guzel-yarinlar-birakiyoruz",
+      "description": "Ayırdığımız Her Atıkla Gelecek Nesillere Güzel Yarınlar Bırakıyoruz!",
+      "title": "Ayırdığımız Her Atıkla Gelecek Nesillere Güzel Yarınlar Bırakıyoruz!",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/rkJzytubU-main.jpeg?1739803602777",
+      "firstSeen": "2026-11-13"
+    },
+    {
       "id": "10-kasim-atatuerk-ue-anma",
       "mallId": "vadistanbul",
       "kind": "event",
@@ -274,6 +349,39 @@
       "firstSeen": "2026-10-27"
     },
     {
+      "id": "paribu-acikhava-etkinlikleri-sjg-ydozczx",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/paribu-acikhava-etkinlikleri-sjg-ydozczx",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Paribu AçıkHava Etkinlikleri",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/HkZYwiM9ze-main.jpeg?1790257018102",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "vadistanbul-9-yasinda",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-9-yasinda",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Vadistanbul 9 Yaşında",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1WIKE-FMe-main.jpeg?1789114698189",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "senin-kahraman-hikayen-hangisi-bye-rikdugl",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/senin-kahraman-hikayen-hangisi-bye-rikdugl",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Senin Kahraman Hikayen Hangisi?",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ByZrskPuGx-main.jpeg?1788439353353",
+      "firstSeen": "2026-11-13"
+    },
+    {
       "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-wgdargwx-_q",
       "mallId": "watergarden",
       "kind": "event",
@@ -294,6 +402,105 @@
       "title": "Havuz Şov Saatleri",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/abb011dd-80dd-4f3f-a113-59c8f7dfeba8.jpeg?1791903048573?1791903048573",
       "firstSeen": "2026-10-14"
+    },
+    {
+      "id": "korsanlar-watergarden-i-ele-geciriyor-mqwrhcmk7t7",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.watergarden.com.tr/etkinlikler/korsanlar-watergarden-i-ele-geciriyor-mqwrhcmk7t7",
+      "description": "Korsanlar Watergarden'ı Ele Geçiriyor!",
+      "title": "Korsanlar Watergarden'ı Ele Geçiriyor!",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/f9cd31e4-dcbb-4af8-a220-17133e8e9e90.jpeg?1788964130823?1788964130823",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "watergarden-satranc-turnuvasi",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.watergarden.com.tr/etkinlikler/watergarden-satranc-turnuvasi",
+      "description": "Watergarden Satranç Turnuvası",
+      "title": "Watergarden Satranç Turnuvası",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/0d23b0ee-9281-420b-b7dc-91d1fede2c07.jpeg?1787915531658?1787915531658",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "modumuz-okula-donus-watergarden-da-paten-keyfi",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.watergarden.com.tr/etkinlikler/modumuz-okula-donus-watergarden-da-paten-keyfi",
+      "description": "Tatilin son günlerinde eğlencenin dozunu artırıyoruz!",
+      "title": "Modumuz Okula Dönüş: Watergarden’da Paten Keyfi!",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/cc5f1a72-2b84-44ca-80c1-66c2b061deeb.jpeg?1787235091375?1787235091375",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "watergarden-karayip-korsanlari",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.watergarden.com.tr/etkinlikler/watergarden-karayip-korsanlari",
+      "description": "Watergarden Karayip Korsanları",
+      "title": "Watergarden Karayip Korsanları",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/ac33bc8f-531f-43ff-a940-0fa8d4a7284a.jpeg?1786950871213?1786950871214",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "watergarden-da-yaza-merhaba-partisi",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.watergarden.com.tr/etkinlikler/watergarden-da-yaza-merhaba-partisi",
+      "description": "Watergarden'da YAZA MERHABA PARTİSİ",
+      "title": "Watergarden'da YAZA MERHABA PARTİSİ",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/cd907eac-eaf1-402e-9a69-33126b7af0b2.jpeg?1782135761964?1782135761964",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "watergarden-da-eglenceye-yelken-acin",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.watergarden.com.tr/etkinlikler/watergarden-da-eglenceye-yelken-acin",
+      "description": "Watergarden'da Eğlenceye Yelken Açın",
+      "title": "Watergarden'da Eğlenceye Yelken Açın",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/5366bfd9-60e6-42a3-836b-712dd9dea697.jpeg?1779432231509?1779432231509",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "eglenceli-atolyeler-watergarden-da",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.watergarden.com.tr/etkinlikler/eglenceli-atolyeler-watergarden-da",
+      "description": "Eğlenceli Atölyeler Watergarden'da",
+      "title": "Eğlenceli Atölyeler Watergarden'da",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/46be6ef7-8ddb-4f54-aa26-dbea49cebab8.jpeg?1779087912292?1779087912292",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "x-media-art-museum-wateragarden-da",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.watergarden.com.tr/etkinlikler/x-media-art-museum-wateragarden-da",
+      "description": "X Media Art Museum Wateragarden'da",
+      "title": "X Media Art Museum Wateragarden'da",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/0824c734-d5fe-455d-a7f2-ac9946d60fbd.jpeg?1778584918317?1778584918317",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "watergarden-motofest-2026",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.watergarden.com.tr/etkinlikler/watergarden-motofest-2026",
+      "description": "Watergarden MotoFest 2026",
+      "title": "Watergarden MotoFest 2026",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/e361c092-93f8-4671-83a8-4a82c23475e2.jpeg?1778053095204?1778053095204",
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "grand-opening",
@@ -319,41 +526,37 @@
       "firstSeen": "2026-11-11"
     },
     {
+      "id": "sizi-dinleyen-metropol-unuz-var",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.metropolistanbul.com/etkinlikler/sizi-dinleyen-metropol-unuz-var",
+      "description": "Sizi Dinleyen Metropol'ünüz Var",
+      "title": "Sizi Dinleyen Metropol'ünüz Var",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/3b124b29-2492-4489-8b4b-34b5f1ddb3aa.jpeg?1789996294379?1789996294379",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "metropol-istanbul-mobil-uygulamasi-yayinda",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.metropolistanbul.com/etkinlikler/metropol-istanbul-mobil-uygulamasi-yayinda",
+      "description": "Metropol İstanbul Mobil Uygulaması Yayında!",
+      "title": "Metropol İstanbul Mobil Uygulaması Yayında!",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/a6985faa-e0a5-4664-b75d-6d61540a469f.jpeg?1787555490982?1787555490982",
+      "firstSeen": "2026-11-13"
+    },
+    {
       "id": "kasim-ayina-ozel-indirim",
       "mallId": "metropol-istanbul",
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.metropolistanbul.com/firsatlarimiz/kasim-ayina-ozel-indirim",
-      "description": "Kasım Ayına Özel İndirim\nKasım Ayına Özel İndirim\nÇalışma Saatleri\n10:00 - 22:00\nKasım ayına özel KIXX Sports Club’da %40 indirim fırsatı seni bekliyor! Spora başlamak veya antrenman rutinini güçlendirmek için bu avantajı kaçırma. Fırsattan yararlanmak için Metropol İstanbul’u ziyaret et!",
+      "description": "Kasım Ayına Özel İndirim\nKasım Ayına Özel İndirim\nWorking Hours\n10:00 - 22:00\nKasım ayına özel KIXX Sports Club’da %40 indirim fırsatı seni bekliyor! Spora başlamak veya antrenman rutinini güçlendirmek için bu avantajı kaçırma. Fırsattan yararlanmak için Metropol İstanbul’u ziyaret et!",
       "title": "Kasım Ayına Özel İndirim",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/offer/offer_image_cover_tr/main/b0dc6e64-5fd6-46f5-a127-201c21548bdd.jpeg?1794378850422?1794378850422",
       "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "dasdas-hic-dunya",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/hic-dunya",
-      "title": "Hiç Dünya",
-      "startsAt": "2026-11-12",
-      "endsAt": "2026-11-12",
-      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1790166499607-hic-dunya-web-sitesi-600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1790166500001-hic-dunya-web-sitesi-600_320w.jpg?alt=media&token=c6307a04-cf98-470a-a0ed-71c22bc78b47",
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "dasdas-degisim-donusum",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/degisim-donusum",
-      "title": "Değişim / Dönüşüm",
-      "startsAt": "2026-11-12",
-      "endsAt": "2026-11-12",
-      "description": "DasDas Ataşehir / Sahne · 20:30",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1791481931122-degisim-donusum-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1791481931725-degisim-donusum-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=4eaa4312-42d7-4c87-9c91-934394e07a3d",
-      "firstSeen": "2026-11-08"
     },
     {
       "id": "dasdas-hortlak-kizin-hikayesi",
@@ -434,6 +637,82 @@
       "firstSeen": "2026-11-12"
     },
     {
+      "id": "dasdas-zengin-mutfagi",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/zengin-mutfagi",
+      "title": "Zengin Mutfağı",
+      "startsAt": "2026-11-16",
+      "endsAt": "2027-01-03",
+      "description": "DasDas Ataşehir / Sahne · 20:30",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1793704862963-zm-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1793704863835-zm-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=b6d20734-1957-4e96-afd8-ce42ef560749",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "dasdas-baska-hayat",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/baska-hayat",
+      "title": "Başka Hayat",
+      "startsAt": "2026-11-17",
+      "endsAt": "2026-11-17",
+      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1790350126344-baska-hayat-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1790350126915-baska-hayat-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=63fa2bc5-2922-437a-9efe-26171fe52225",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "pendorya-da-aninda-kazan",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
+      "title": "Pendorya Da Aninda Kazan",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "cocuk-atolyeleri",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/cocuk-atolyeleri",
+      "title": "Cocuk Atolyeleri",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/r1W-Y8y6bg-small.jpeg?1776408826672",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "sevinin-cocuklar-izleyin-beraber",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/sevinin-cocuklar-izleyin-beraber",
+      "title": "Sevinin Cocuklar Izleyin Beraber",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SklKCBAnZe-small.jpeg?1776340600665",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "rafadan-tayfa-hayrimator",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/rafadan-tayfa-hayrimator",
+      "title": "Rafadan Tayfa Hayrimator",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/HkFJF6sd6-small.jpeg?1704872162340",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "pjmasks-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
+      "title": "Pjmasks Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227",
+      "firstSeen": "2026-11-13"
+    },
+    {
       "id": "ugur-bocegi-ile-kara-kedi-rye5hjabq4",
       "mallId": "pendorya",
       "kind": "event",
@@ -473,6 +752,77 @@
       "title": "Bora Duran Pendorya Da",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/ByXvnyz5V-small.jpeg?1555328091617",
       "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "maysa-ve-bulut-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/maysa-ve-bulut-pendorya-da",
+      "description": "Maysa ve Bulut Pendorya'da",
+      "title": "Maysa Ve Bulut Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/S1Z6h2I7B-small.jpeg?1565080762086",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "bebekoloji-anadolu-da",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/bebekoloji-anadolu-da",
+      "title": "Bebekoloji Anadolu'da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/Hk_1Kee3S-small.jpeg?1574074592158",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "en-uzun-gunde-size-ozel-indirimlerle-magazamizda-bulusalim",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/en-uzun-gunde-size-ozel-indirimlerle-magazamizda-bulusalim",
+      "title": "En Uzun Günde Size Özel İndirimlerle Mağazamızda Buluşalım",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/ryYWgVqyS-small.jpeg?1561112578118",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "tum-kampanyalarimiza-buradan-ulasabilirsiniz",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/tum-kampanyalarimiza-buradan-ulasabilirsiniz",
+      "title": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/HkAypIV5N-small.jpeg?1555487975038",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "melon-pearls-starbucks-refresha",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/melon-pearls-starbucks-refresha",
+      "title": "Melon Pearls Starbucks Refresha",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/SyshGnTMxe-small.jpeg?1749037748391",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "en-iyisi-carsambalari-paribu-cineverse-te-film-izlemek",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/en-iyisi-carsambalari-paribu-cineverse-te-film-izlemek",
+      "title": "En İyisi Çarşambaları Paribu Cineverse'te Film İzlemek",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/S1GDglaaZg-small.jpeg?1777299546559",
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "cumhuriyet-in-sesi-tepe-nautilus-ta",
@@ -607,6 +957,38 @@
       "firstSeen": "2026-11-12"
     },
     {
+      "id": "love-my-body",
+      "mallId": "forum-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://forumistanbul.com.tr/firsat/love-my-body",
+      "description": "Forum İstanbul'da anlar, etkinlikler ve mekanın enerjisinden kareler.",
+      "title": "Love My Body",
+      "image": "https://forum-one.knscdn.com/images/promotion/promotion_image_tr/main/23499b0d-b924-4323-9d93-11ee401661e4.jpeg?1790932324396?1790932324396",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "yeni-sezon-giyimde-indirim",
+      "mallId": "forum-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://forumistanbul.com.tr/firsat/yeni-sezon-giyimde-indirim",
+      "description": "Forum İstanbul'da anlar, etkinlikler ve mekanın enerjisinden kareler.",
+      "title": "Yeni Sezon Giyimde İndirim",
+      "image": "https://forum-one.knscdn.com/images/promotion/promotion_image_tr/main/a4690fb8-9b3d-4f6f-8e44-bad4a55bae1d.jpeg?1791786156651?1791786156651",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "Galeri",
+      "mallId": "capitol",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.capitol.com.tr/tr/etkinlikler/Galeri",
+      "title": "Galeri",
+      "image": "https://www.capitol.com.tr/media/3f2fir3b/coyote-acme-800x800.jpg",
+      "firstSeen": "2026-11-13"
+    },
+    {
       "id": "concierge-etkinlik.jpg",
       "mallId": "buyaka",
       "kind": "event",
@@ -635,6 +1017,103 @@
       "title": "Alışverişini Yap, Şansı Yakala!",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/kampanya-araba-2026.jpg",
       "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "kupa-boyama-atolyesi",
+      "mallId": "ozdilekpark",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/kupa-boyama-atolyesi",
+      "description": "Etkinliklerimize katılan tüm minik misafirlerimize teşekkür ederiz.",
+      "title": "Kupa Boyama Atölyesi",
+      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/336/kucuk.jpg",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "cicek-kiz-cocuk-tiyatrosu",
+      "mallId": "ozdilekpark",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/cicek-kiz-cocuk-tiyatrosu",
+      "description": "Etkinliğimize katılan tüm minik misafirlerimize teşekkür ederiz.",
+      "title": "Çiçek Kız Çocuk Tiyatrosu",
+      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/338/kucuk.jpg",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "seramik-boyama-atolyesi",
+      "mallId": "ozdilekpark",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/seramik-boyama-atolyesi",
+      "description": "Etkinliklerimize katılan tüm minik misafirlerimize teşekkür ederiz.",
+      "title": "Seramik Boyama Atölyesi",
+      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/335/kucuk.jpg",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "rapunzel-cocuk-tiyatrosu",
+      "mallId": "ozdilekpark",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/rapunzel-cocuk-tiyatrosu",
+      "title": "Rapunzel Çocuk Tiyatrosu",
+      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/334/kucuk.jpg",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "teraryum-yapimi-atolyesi",
+      "mallId": "ozdilekpark",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/teraryum-yapimi-atolyesi",
+      "description": "Etkinliklerimize katılan tüm misafirlerimize teşekkür ederiz.",
+      "title": "Teraryum Yapımı Atölyesi",
+      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/333/kucuk.jpg",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "pinokyo-cocuk-tiyatrosu",
+      "mallId": "ozdilekpark",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/pinokyo-cocuk-tiyatrosu",
+      "description": "Etkinliklerimize katılan tüm misafirlerimize teşekkür ederiz.",
+      "title": "Pinokyo Çocuk Tiyatrosu",
+      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/332/kucuk.jpg",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "eglence-dolu-etkinlikler_4",
+      "mallId": "ozdilekpark",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/eglence-dolu-etkinlikler_4",
+      "description": "Etkinliklerimize katılan tüm minik misafirlerimize teşekkür ederiz.",
+      "title": "Eğlence Dolu Etkinlikler",
+      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/331/kucuk.jpg",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "okula-donus-heyecani-basliyor",
+      "mallId": "ozdilekpark",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/okula-donus-heyecani-basliyor",
+      "description": "Etkinliğimize katılan tüm minik misafirlerimize teşekkür ederiz.",
+      "title": "Okula Dönüş Heyecanı Başlıyor!",
+      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/324/kucuk.jpg",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "robot-ugur-bocegi-tasarimi-atolyesi",
+      "mallId": "ozdilekpark",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/robot-ugur-bocegi-tasarimi-atolyesi",
+      "title": "Robot Uğur Böceği Tasarımı Atölyesi",
+      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/319/kucuk.jpg",
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "cumhuriyet-coskusunu-stratejik-hamlelerle-kutluyoruz",
@@ -821,6 +1300,17 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "ormanin-bekcileri",
+      "mallId": "capacity",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.capacity.com.tr/etkinlikler/ormanin-bekcileri",
+      "description": "Kullanmış olduğunuz browser(web tarayıcı) kullanım süresini tamamladı! Lütfen browserınızı güncelleyiniz.",
+      "title": "Ormanın Bekçileri",
+      "image": "https://www.capacity.com.tr/uploads/events/thumb/01319635e6b5.jpg",
+      "firstSeen": "2026-11-13"
+    },
+    {
       "id": "anilarda-ataturk-sergisi-4",
       "mallId": "capacity",
       "kind": "event",
@@ -862,17 +1352,6 @@
       "description": "Kullanmış olduğunuz browser(web tarayıcı) kullanım süresini tamamladı! Lütfen browserınızı güncelleyiniz.",
       "title": "Karma Sergi",
       "image": "https://www.capacity.com.tr/uploads/events/thumb/af29025f496c.jpg",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "nakisla-yeniden-dogus-sergisi",
-      "mallId": "capacity",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.capacity.com.tr/etkinlikler/nakisla-yeniden-dogus-sergisi",
-      "description": "Kullanmış olduğunuz browser(web tarayıcı) kullanım süresini tamamladı! Lütfen browserınızı güncelleyiniz.",
-      "title": "Nakışla Yeniden Doğuş Sergisi",
-      "image": "https://www.capacity.com.tr/uploads/events/thumb/5b98ebca8398.jpg",
       "firstSeen": "2026-11-02"
     },
     {
@@ -1132,6 +1611,18 @@
       "firstSeen": "2026-11-11"
     },
     {
+      "id": "arab-strap",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/arab-strap",
+      "description": "Arab Strap 27 Kasım 2026 tarihinde %100 Studio’da!",
+      "startsAt": "2026-11-27",
+      "title": "MODUNDAYIZ SUNAR: ARAB STRAP",
+      "image": "https://www.zorlupsm.com/medium/Activity/Image/fb270bae-389f-4430-a1d9-65ff4388a30e",
+      "firstSeen": "2026-11-13"
+    },
+    {
       "id": "new-balance-presents-unseen-extreme-tour",
       "mallId": "zorlu-center",
       "kind": "event",
@@ -1156,15 +1647,16 @@
       "firstSeen": "2026-11-11"
     },
     {
-      "id": "unforgettables-by-cemil-autumn-leaves",
+      "id": "giant-rooks",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/unforgettables-by-cemil-autumn-leaves?p=5abb89b9-21fe-44de-bb44-8b0ea2cbfc39",
-      "description": "Başarılı yorumcu Cemil Sağyaşar, dünya müziğinde unutulmayan şarkılardan film melodilerine, Frank Sinatra'dan Tom Jones'a, Nat King Cole'dan Andy Williams'a uzanan bir genişlikte eşsiz ve zamansız şarkılardan oluşan projesi “Unforgettables ",
-      "title": "UNFORGETTABLES BY CEMİL - THE FALLING LEAVES",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-09"
+      "url": "https://www.zorlupsm.com/etkinlikler/giant-rooks",
+      "description": "Giant Rooks, 22 Ocak 2027’de %100 Studio’da!",
+      "startsAt": "2027-01-22",
+      "title": "MODUNDAYIZ SUNAR: GIANT ROOKS",
+      "image": "https://www.zorlupsm.com/medium/Activity/Image/4121f186-9d3d-4b5f-a957-379308c8b165",
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "bayanlar-baylar-dario-moreno-bir-gazino-hikayesi",
@@ -1211,17 +1703,6 @@
       "firstSeen": "2026-11-12"
     },
     {
-      "id": "jazzy-by-su-soley",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/jazzy-by-su-soley?p=024acf4d-58e7-44ab-a05e-94d8b7680a0d",
-      "description": "Su Soley muhteşem enerjisi ile Zorlu PSM touché by N Kolay sahnesinde!",
-      "title": "JAZZY BY SU SOLEY",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-12"
-    },
-    {
       "id": "toyzz-shopta-eglenceye-davetlisiniz",
       "mallId": "marmara-forum",
       "kind": "event",
@@ -1245,17 +1726,17 @@
       "firstSeen": "2026-11-08"
     },
     {
-      "id": "toyzz-shopta-3-al-2-ode-firsati",
+      "id": "toyzz-shopta-buyuk-firsat",
       "mallId": "marmara-forum",
       "kind": "discount",
       "isPaid": false,
-      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/49/toyzz-shopta-3-al-2-ode-firsati/",
-      "description": "3 Al 2 Öde Fırsatı Toyzz Shop'ta 13 Kasım-22 Kasım tarihleri arasında tüm ürünlerde geçerli 3 Al 2 Öde kampanyası mağazamızda.3 ürün alımında fiyatı en düşük ürün olan 1 ürün ücretsizdir.Kampanya stoklarla sınırlıdır.",
+      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/50/toyzz-shopta-buyuk-firsat/",
+      "description": "İşbu kampanya 13 Kasım-22 Kasım 2026 tarihleri arasında Marmara Forum Toyzz Shop mağazasında geçerlidir.3 ürün alımında,fiyatı en düşük olan 1 ürün ücretsizdir.Kampanya stoklarla sınırlıdır.",
       "startsAt": "2026-11-13",
       "endsAt": "2026-11-22",
-      "title": "Toyzz Shop'ta 3 Al 2 Öde Fırsatı!",
-      "image": "https://www.marmaraforum.com.tr/Images/Photos/cb99ba60-23bb-4f9c-a100-75c9fd38cd55.jpg?v=ZYj9rcZvDBnVFdYZRd3Q0C3KiEyr8A97ijs5A52OpVA",
-      "firstSeen": "2026-11-12"
+      "title": "TOYZZ SHOP'TA BÜYÜK FIRSAT!",
+      "image": "https://www.marmaraforum.com.tr/Images/Photos/5b203ce0-9f8d-4e04-a8ff-da88fb855f8b.jpg?v=GJOHC_BUTbX5jd2gqhzVZvA54FOdyudo98eceKoPBHQ",
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "candyzoo-marmara-forum-magaza-acilis-etkinligi",
