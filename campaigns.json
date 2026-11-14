@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:26:21+00:00",
+  "generatedAt": "2026-11-14T11:49:37+00:00",
   "campaigns": [
     {
       "id": "alisveris-festicali",
@@ -62,6 +62,17 @@
       "image": "https://kozzyavm.com/storage/kozzyavm/event/October2026/losev-dijital-1280x720px.webp",
       "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/i-yilige-sende-bir-i-lmek-at",
       "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "kasim-ara-tatilinde-eglence-sanat-ve-yaraticilik-mall-of-istanbul-da-bulusuyor",
+      "mallId": "mall-of-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/etkinlikler/kasim-ara-tatilinde-eglence-sanat-ve-yaraticilik-mall-of-istanbul-da-bulusuyor",
+      "description": "Çocuklar için birbirinden keyifli gösteriler, yaratıcı atölyeler, müzik ve hareket dolu etkinlikler ara tatil boyunca Mall of İstanbul’da sizi bekliyor! 💫",
+      "title": "Kasım ara tatilinde eğlence, sanat ve yaratıcılık Mall of İstanbul’da buluşuyor!",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/event/event_listing_image_tr/main/47ba132a-f7e7-4356-bae0-a9f29ec3ecf6.jpeg?1794578477091?1794578477091",
+      "firstSeen": "2026-11-14"
     },
     {
       "id": "idilbaby-ve-mamino-wwz1eght9s",
@@ -393,17 +404,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "havuz-sov-saatleri",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.watergarden.com.tr/etkinlikler/havuz-sov-saatleri",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Havuz Şov Saatleri",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/abb011dd-80dd-4f3f-a113-59c8f7dfeba8.jpeg?1791903048573?1791903048573",
-      "firstSeen": "2026-10-14"
-    },
-    {
       "id": "korsanlar-watergarden-i-ele-geciriyor-mqwrhcmk7t7",
       "mallId": "watergarden",
       "kind": "event",
@@ -553,36 +553,10 @@
       "kind": "discount",
       "isPaid": false,
       "url": "https://www.metropolistanbul.com/firsatlarimiz/kasim-ayina-ozel-indirim",
-      "description": "Kasım Ayına Özel İndirim\nKasım Ayına Özel İndirim\nWorking Hours\n10:00 - 22:00\nKasım ayına özel KIXX Sports Club’da %40 indirim fırsatı seni bekliyor! Spora başlamak veya antrenman rutinini güçlendirmek için bu avantajı kaçırma. Fırsattan yararlanmak için Metropol İstanbul’u ziyaret et!",
+      "description": "Kasım Ayına Özel İndirim\nKasım Ayına Özel İndirim\nÇalışma Saatleri\n10:00 - 22:00\nKasım ayına özel KIXX Sports Club’da %40 indirim fırsatı seni bekliyor! Spora başlamak veya antrenman rutinini güçlendirmek için bu avantajı kaçırma. Fırsattan yararlanmak için Metropol İstanbul’u ziyaret et!",
       "title": "Kasım Ayına Özel İndirim",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/offer/offer_image_cover_tr/main/b0dc6e64-5fd6-46f5-a127-201c21548bdd.jpeg?1794378850422?1794378850422",
       "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "dasdas-hortlak-kizin-hikayesi",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/hortlak-kizin-hikayesi",
-      "title": "Hortlak Kızın Hikayesi",
-      "startsAt": "2026-11-13",
-      "endsAt": "2026-12-12",
-      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Foriginals%2Fmedia-1786029368241-hkh-poster-1%2F1786029368255-hkh-poster-1.jpg?alt=media&token=ec98cc0f-eefe-4443-9f58-d29ac208dd84",
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "dasdas-meseden-neseye-bir-hikaye-bir-sarki-derya-beserler-ve-birol-namoglu",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/meseden-neseye-bir-hikaye-bir-sarki-derya-beserler-ve-birol-namoglu",
-      "title": "Meşeden Neşeye Bir Hikâye Bir Şarkı | Derya Beşerler ve Birol Namoğlu",
-      "startsAt": "2026-11-13",
-      "endsAt": "2026-11-13",
-      "description": "DasDas Ataşehir / Alternatif Sahne · 21:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1791467424230-meseden-neseye-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1791467424752-meseden-neseye-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=2776aa56-4317-4075-a59a-9b37064437d7",
-      "firstSeen": "2026-11-09"
     },
     {
       "id": "dasdas-dunyada-bir-yerde",
@@ -661,6 +635,32 @@
       "description": "DasDas Ataşehir / Açık Sahne · 20:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1790350126344-baska-hayat-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1790350126915-baska-hayat-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=63fa2bc5-2922-437a-9efe-26171fe52225",
       "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "dasdas-kendi-sahneni-tasarla-ahsap-tasarim-atolyesi",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/kendi-sahneni-tasarla-ahsap-tasarim-atolyesi",
+      "title": "Kendi Sahneni Tasarla!- Ahşap Tasarım Atölyesi",
+      "startsAt": "2026-11-18",
+      "endsAt": "2026-11-18",
+      "description": "DasDas Ataşehir / Alternatif Sahne · 11:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1794220582337-akademiks%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1794220582972-akademiks_320w.jpg?alt=media&token=b77b0294-599e-4cd6-b9bd-3f3dbab3d6d0",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "dasdas-intihar-dukkani",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/intihar-dukkani",
+      "title": "İntihar Dükkanı",
+      "startsAt": "2026-11-18",
+      "endsAt": "2026-12-16",
+      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Foriginals%2Fmedia-1789067966271-76%2F1789067966289-76.png?alt=media&token=3bb13e93-94a9-4380-a72c-4d5c76c9bb69",
+      "firstSeen": "2026-11-14"
     },
     {
       "id": "pendorya-da-aninda-kazan",
@@ -924,16 +924,6 @@
       "title": "Yapraklar Dökülür, Hayaller Renklenir",
       "image": "https://istanbulcevahir.com/wp-content/uploads/2026/11/kasim-etkinlikkucuk-tr-1.webp",
       "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "akbatinin-web-sitesine-gir-surpriz-hediyeni-yakala",
-      "mallId": "akbati",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://akbati.com/kampanyalar/akbatinin-web-sitesine-gir-surpriz-hediyeni-yakala/",
-      "description": "Akbatı’nın Web Sitesine Gir, Sürpriz Hediyeni Yakala!",
-      "title": "Akbatı’nın Web Sitesine Gir, Sürpriz Hediyeni Yakala!",
-      "firstSeen": "2026-10-14"
     },
     {
       "id": "masa-ile-koca-ayi-vialand-avm-de-13-14-15-kasim-2026",
@@ -1587,18 +1577,6 @@
       "firstSeen": "2026-11-11"
     },
     {
-      "id": "new-balance-presents-unseen-kids-tour",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/new-balance-presents-unseen-kids-tour",
-      "description": "New Balance Presents: Unseen Kids Tour Zorlu PSM’de!",
-      "startsAt": "2026-11-14",
-      "title": "NEW BALANCE PRESENTS: UNSEEN KIDS TOUR",
-      "image": "https://www.zorlupsm.com/medium/Activity/Image/2a16f4ee-51d2-46fb-aae7-03d03f4aeb3e",
-      "firstSeen": "2026-11-10"
-    },
-    {
       "id": "clap-your-hands-say-yeah",
       "mallId": "zorlu-center",
       "kind": "event",
@@ -1609,6 +1587,18 @@
       "title": "CLAP YOUR HANDS SAY YEAH",
       "image": "https://www.zorlupsm.com/medium/Activity/Image/0e841205-001e-45d8-9be5-77be90f1e083",
       "firstSeen": "2026-11-11"
+    },
+    {
+      "id": "new-balance-presents-unseen-kids-tour",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/new-balance-presents-unseen-kids-tour",
+      "description": "New Balance Presents: Unseen Kids Tour Zorlu PSM’de!",
+      "startsAt": "2026-11-21",
+      "title": "NEW BALANCE PRESENTS: UNSEEN KIDS TOUR",
+      "image": "https://www.zorlupsm.com/medium/Activity/Image/2a16f4ee-51d2-46fb-aae7-03d03f4aeb3e",
+      "firstSeen": "2026-11-10"
     },
     {
       "id": "arab-strap",
@@ -1623,18 +1613,6 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "new-balance-presents-unseen-extreme-tour",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/new-balance-presents-unseen-extreme-tour",
-      "description": "New Balance Presents: Unseen Extreme Tour ile Sınırları Zorla!",
-      "startsAt": "2026-11-15",
-      "title": "NEW BALANCE PRESENTS: UNSEEN EXTREME TOUR",
-      "image": "https://www.zorlupsm.com/medium/Activity/Image/1f78e99b-304b-49f7-ab1c-cae1c2bccb5b",
-      "firstSeen": "2026-11-11"
-    },
-    {
       "id": "gunesin-oglu",
       "mallId": "zorlu-center",
       "kind": "event",
@@ -1644,6 +1622,18 @@
       "startsAt": "2026-11-17",
       "title": "GÜNEŞİN OĞLU",
       "image": "https://www.zorlupsm.com/medium/Activity/Image/72b94e75-e8e8-42aa-a070-217f40d4e14e",
+      "firstSeen": "2026-11-11"
+    },
+    {
+      "id": "new-balance-presents-unseen-extreme-tour",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/new-balance-presents-unseen-extreme-tour",
+      "description": "New Balance Presents: Unseen Extreme Tour ile Sınırları Zorla!",
+      "startsAt": "2026-11-15",
+      "title": "NEW BALANCE PRESENTS: UNSEEN EXTREME TOUR",
+      "image": "https://www.zorlupsm.com/medium/Activity/Image/1f78e99b-304b-49f7-ab1c-cae1c2bccb5b",
       "firstSeen": "2026-11-11"
     },
     {
@@ -1657,28 +1647,6 @@
       "title": "MODUNDAYIZ SUNAR: GIANT ROOKS",
       "image": "https://www.zorlupsm.com/medium/Activity/Image/4121f186-9d3d-4b5f-a957-379308c8b165",
       "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "bayanlar-baylar-dario-moreno-bir-gazino-hikayesi",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/bayanlar-baylar-dario-moreno-bir-gazino-hikayesi?p=e4f397c2-0082-4733-926c-619bdf25fff5",
-      "description": "﻿“Bir gece, bir masada, bir ömürlük hikâye…”",
-      "title": "BAYANLAR BAYLAR DARIO MORENO: BİR GAZİNO HİKAYESİ",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "garanti-bbva-genc-sunar-euroleague-asvel-besiktas",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/garanti-bbva-genc-sunar-euroleague-asvel-besiktas?p=9b7e98f3-b2ed-4a22-850d-30315822432b",
-      "description": "EuroLeague grup maçları gösterimi Vestel Amfi'de!",
-      "title": "EUROLEAGUE: ASVEL – BEŞİKTAŞ",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-12"
     },
     {
       "id": "holiday-party-w-koffein-club-radio-starbucks",
@@ -1703,6 +1671,29 @@
       "firstSeen": "2026-11-12"
     },
     {
+      "id": "jazzy-by-su-soley",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/jazzy-by-su-soley?p=024acf4d-58e7-44ab-a05e-94d8b7680a0d",
+      "description": "Su Soley muhteşem enerjisi ile Zorlu PSM touché by N Kolay sahnesinde!",
+      "title": "JAZZY BY SU SOLEY",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "tuzbiber-stand-up-ismail-turkusev",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/tuzbiber-stand-up-ismail-turkusev?p=a1f12f3b-ba09-4d92-85ad-29e081ad61e0",
+      "description": "İsmail Türküsev, mevcuttaki en yeni ve benzersiz ama bir o kadar da alışılagelen gösterisiyle 15 Kasım'da touché by N Kolay'da!",
+      "startsAt": "2026-11-15",
+      "title": "İSMAİL TÜRKÜSEV STAND-UP",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-14"
+    },
+    {
       "id": "toyzz-shopta-eglenceye-davetlisiniz",
       "mallId": "marmara-forum",
       "kind": "event",
@@ -1724,6 +1715,19 @@
       "title": "GUPİ VE GÜLMEYEN KRAL WORLD CINEZONE IMAX'TE!",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/67487f08-888c-4cb5-ad02-fcc3dbb470fe.png?v=sSJNCefvvN7J5jlFZzHj9beCCXcsUTd0zDiNivamxqM",
       "firstSeen": "2026-11-08"
+    },
+    {
+      "id": "marmara-forum-acilisina-ozel-frozzle-kampanyasi",
+      "mallId": "marmara-forum",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/51/marmara-forum-acilisina-ozel-frozzle-kampanyasi/",
+      "description": "CandyZoo 14-15 Kasım tarihlerinde açılışa özel Frozzle dondurma alana 2.Frozzle %50 indirimlidir.",
+      "startsAt": "2026-11-14",
+      "endsAt": "2026-11-15",
+      "title": "Marmara Forum Açılışına Özel Frozzle Kampanyası!",
+      "image": "https://www.marmaraforum.com.tr/Images/Photos/220d05ea-050e-4526-8cbc-f64a62514841.jpg?v=kZzZ1Hy6tLZFgOoVF0SaTyUFdSEGC2Cph68Jn1wDO1c",
+      "firstSeen": "2026-11-14"
     },
     {
       "id": "toyzz-shopta-buyuk-firsat",
