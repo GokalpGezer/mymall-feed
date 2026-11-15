@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:49:37+00:00",
+  "generatedAt": "2026-11-15T12:10:49+00:00",
   "campaigns": [
     {
       "id": "alisveris-festicali",
@@ -404,6 +404,17 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "havuz-sov-saatleri",
+      "mallId": "watergarden",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.watergarden.com.tr/etkinlikler/havuz-sov-saatleri",
+      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
+      "title": "Havuz Şov Saatleri",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/abb011dd-80dd-4f3f-a113-59c8f7dfeba8.jpeg?1791903048573?1791903048573",
+      "firstSeen": "2026-11-15"
+    },
+    {
       "id": "korsanlar-watergarden-i-ele-geciriyor-mqwrhcmk7t7",
       "mallId": "watergarden",
       "kind": "event",
@@ -423,17 +434,6 @@
       "description": "Watergarden Satranç Turnuvası",
       "title": "Watergarden Satranç Turnuvası",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/0d23b0ee-9281-420b-b7dc-91d1fede2c07.jpeg?1787915531658?1787915531658",
-      "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "modumuz-okula-donus-watergarden-da-paten-keyfi",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.watergarden.com.tr/etkinlikler/modumuz-okula-donus-watergarden-da-paten-keyfi",
-      "description": "Tatilin son günlerinde eğlencenin dozunu artırıyoruz!",
-      "title": "Modumuz Okula Dönüş: Watergarden’da Paten Keyfi!",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/cc5f1a72-2b84-44ca-80c1-66c2b061deeb.jpeg?1787235091375?1787235091375",
       "firstSeen": "2026-11-13"
     },
     {
@@ -503,17 +503,6 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "grand-opening",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.metropolistanbul.com/etkinlikler/grand-opening",
-      "description": "Google analytics tarafından istek oranını kısaltmak için kullanır. Tetiklenmesinden itibaren 1 dakika içinde sonlanır.",
-      "title": "Grand Opening",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/531e7274-4ab6-45a1-ae59-f67942bb6f3a.jpeg?1794407520792?1794407520792",
-      "firstSeen": "2026-11-12"
-    },
-    {
       "id": "metropol-pop-up-market",
       "mallId": "metropol-istanbul",
       "kind": "event",
@@ -557,45 +546,6 @@
       "title": "Kasım Ayına Özel İndirim",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/offer/offer_image_cover_tr/main/b0dc6e64-5fd6-46f5-a127-201c21548bdd.jpeg?1794378850422?1794378850422",
       "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "dasdas-dunyada-bir-yerde",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/dunyada-bir-yerde",
-      "title": "Dünyada Bir Yerde",
-      "startsAt": "2026-11-14",
-      "endsAt": "2026-11-14",
-      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1789746966584-dunyada-bir-yerde-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1789746966957-dunyada-bir-yerde-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=19a34eb1-df6b-42a5-a66f-91bdda6343ff",
-      "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "dasdas-kukla-kabare-canli-show",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/kukla-kabare-canli-show",
-      "title": "Kukla Kabare - Canlı Show",
-      "startsAt": "2026-11-14",
-      "endsAt": "2026-11-14",
-      "description": "DasDas Ataşehir / Sahne · 21:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1790264867512-kukla-kabare-kare%2Fv1%2Fsharp-v1.2%2Fhero-desktop%2F1790264868119-kukla-kabare-kare_1080w.jpg?alt=media&token=242a5896-2f46-459c-98b7-32005ad46041",
-      "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "dasdas-kayip-renk-ajanlari",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/kayip-renk-ajanlari",
-      "title": "Kayıp Renk Ajanları",
-      "startsAt": "2026-11-15",
-      "endsAt": "2026-12-06",
-      "description": "DasDas Ataşehir / Açık Sahne · 13:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1793382125471-kayip-renk-ajanlari-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1793382126341-kay-p-renk-ajanlar-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=29a39cdb-2280-4078-bdae-ab9261502a69",
-      "firstSeen": "2026-11-12"
     },
     {
       "id": "dasdas-yasak-muzikal",
@@ -663,14 +613,54 @@
       "firstSeen": "2026-11-14"
     },
     {
-      "id": "pendorya-da-aninda-kazan",
+      "id": "dasdas-3u1-arada-shakespeare",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/3u1-arada-shakespeare",
+      "title": "3ü1 Arada Shakespeare",
+      "startsAt": "2026-11-19",
+      "endsAt": "2026-11-19",
+      "description": "DasDas Ataşehir / Açık Sahne · 13:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1790353909009-3-u1-arada-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1790353909753-3-u1-arada-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=83f9c14e-cfe2-4dbf-afc0-a5a7fbfd9e70",
+      "firstSeen": "2026-11-15"
+    },
+    {
+      "id": "dasdas-keske",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/keske",
+      "title": "Keşke",
+      "startsAt": "2026-11-20",
+      "endsAt": "2026-12-21",
+      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1791192075415-keske-600x600%2Fv1%2Fsharp-v1.2%2Fhero-desktop%2F1791192076041-keske-600x600_600w.jpg?alt=media&token=0236d723-2297-476a-9555-6e932ac27327",
+      "firstSeen": "2026-11-15"
+    },
+    {
+      "id": "dasdas-sen-ne-guzeldin-askimizin-sehri",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/sen-ne-guzeldin-askimizin-sehri",
+      "title": "Sen Ne Güzeldin Aşkımızın Şehri",
+      "startsAt": "2026-11-21",
+      "endsAt": "2026-11-21",
+      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1789744939690-sengas-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1789744940779-sengas-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=cb488cdd-4b88-4b4d-bfef-d47d1f1ca3d3",
+      "firstSeen": "2026-11-15"
+    },
+    {
+      "id": "ugur-bocegi-ile-kara-kedi",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
-      "title": "Pendorya Da Aninda Kazan",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289",
-      "firstSeen": "2026-11-13"
+      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi",
+      "description": "Uğur Böceği İle Kara Kedi",
+      "title": "Ugur Bocegi Ile Kara Kedi",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/HyDPNZL_N-small.jpeg?1555312906303",
+      "firstSeen": "2026-11-15"
     },
     {
       "id": "cocuk-atolyeleri",
@@ -703,55 +693,14 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "pjmasks-pendorya-da",
+      "id": "pendorya-da-aninda-kazan",
       "mallId": "pendorya",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
-      "title": "Pjmasks Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227",
+      "url": "https://www.pendorya.com/etkinlikler/pendorya-da-aninda-kazan",
+      "title": "Pendorya Da Aninda Kazan",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJR8OchlU-small.jpeg?1579096150289",
       "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "ugur-bocegi-ile-kara-kedi-rye5hjabq4",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/ugur-bocegi-ile-kara-kedi-rye5hjabq4",
-      "description": "Uğur Böceği ile Kara Kedi",
-      "title": "Ugur Bocegi Ile Kara Kedi",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/rJ9nyTW5N-small.jpeg?1555316658646",
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "yoresel-pazar",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/yoresel-pazar",
-      "title": "Yoresel Pazar",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SyfqxYPTH-small.jpeg?1575616650395",
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "pendorya-cocuk-kulubu",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/pendorya-cocuk-kulubu",
-      "title": "Pendorya Cocuk Kulubu",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/SJ_D7EbNL-small.jpeg?1582543712528",
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "bora-duran-pendorya-da",
-      "mallId": "pendorya",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/etkinlikler/bora-duran-pendorya-da",
-      "title": "Bora Duran Pendorya Da",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/ByXvnyz5V-small.jpeg?1555328091617",
-      "firstSeen": "2026-11-12"
     },
     {
       "id": "maysa-ve-bulut-pendorya-da",
@@ -765,6 +714,38 @@
       "firstSeen": "2026-11-13"
     },
     {
+      "id": "pjmasks-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/pjmasks-pendorya-da",
+      "title": "Pjmasks Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/BJvumAJ8H-small.jpeg?1567773552227",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "elif-in-dusleri-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/elif-in-dusleri-pendorya-da",
+      "description": "Elif'in Düşleri Pendorya'da",
+      "title": "Elif In Dusleri Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Hk-vBQse8-small.jpeg?1579001177807",
+      "firstSeen": "2026-11-15"
+    },
+    {
+      "id": "kostebekgiller-pendorya-da",
+      "mallId": "pendorya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/etkinlikler/kostebekgiller-pendorya-da",
+      "description": "Köstebekgiller Pendorya'da",
+      "title": "Kostebekgiller Pendorya Da",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/event_image/Bya1h23xB-small.jpeg?1562328037518",
+      "firstSeen": "2026-11-15"
+    },
+    {
       "id": "bebekoloji-anadolu-da",
       "mallId": "pendorya",
       "kind": "discount",
@@ -772,6 +753,16 @@
       "url": "https://www.pendorya.com/firsatlar/bebekoloji-anadolu-da",
       "title": "Bebekoloji Anadolu'da",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/Hk_1Kee3S-small.jpeg?1574074592158",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "mallId": "pendorya",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
+      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
+      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753",
       "firstSeen": "2026-11-13"
     },
     {
@@ -792,16 +783,6 @@
       "url": "https://www.pendorya.com/firsatlar/tum-kampanyalarimiza-buradan-ulasabilirsiniz",
       "title": "Tüm Kampanyalarımıza Buradan Ulaşabilirsiniz",
       "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/HkAypIV5N-small.jpeg?1555487975038",
-      "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "mallId": "pendorya",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.pendorya.com/firsatlar/pendorya-da-200-tl-ve-uzeri-alisverislerinizde-30-tl-yuklu-param-ascard-hediye",
-      "title": "Pendorya'da 200 TL ve üzeri Alışverişlerinizde 30 TL Yüklü Param Ascard Hediye",
-      "image": "https://s3-eu-central-1.amazonaws.com/pendorya/images/promotion_image/BJ1xXe434-small.jpeg?1557557991753",
       "firstSeen": "2026-11-13"
     },
     {
@@ -1082,17 +1063,6 @@
       "description": "Etkinliklerimize katılan tüm minik misafirlerimize teşekkür ederiz.",
       "title": "Eğlence Dolu Etkinlikler",
       "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/331/kucuk.jpg",
-      "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "okula-donus-heyecani-basliyor",
-      "mallId": "ozdilekpark",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.ozdilekparkistanbul.com/tr/etkinlikler/okula-donus-heyecani-basliyor",
-      "description": "Etkinliğimize katılan tüm minik misafirlerimize teşekkür ederiz.",
-      "title": "Okula Dönüş Heyecanı Başlıyor!",
-      "image": "https://www.ozdilekparkistanbul.com/tr/images/etkinlikler/324/kucuk.jpg",
       "firstSeen": "2026-11-13"
     },
     {
@@ -1432,19 +1402,6 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "dasdas-kucuk-dinleyiciler-buyuk-eserler-piyanoya-ile-bebek-konserleri",
-      "mallId": "istinye-park",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/kucuk-dinleyiciler-buyuk-eserler-piyanoya-ile-bebek-konserleri",
-      "title": "Küçük Dinleyiciler, Büyük Eserler: Piyanoya ile Bebek Konserleri",
-      "startsAt": "2026-11-14",
-      "endsAt": "2026-11-14",
-      "description": "DasDas İstinyePark / İstinye Açık Sahne · 15:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Foriginals%2Fmedia-1786823508512-290b9888-3a2b-4b94-b805-d404a8d3ef7b%2F1786823508523-290b9888-3a2b-4b94-b805-d404a8d3ef7b.jpeg?alt=media&token=a13389bc-4fc5-4fa1-ba59-e837f4699241",
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "dasdas-rapunzel",
       "mallId": "istinye-park",
       "kind": "event",
@@ -1631,7 +1588,7 @@
       "isPaid": true,
       "url": "https://www.zorlupsm.com/etkinlikler/new-balance-presents-unseen-extreme-tour",
       "description": "New Balance Presents: Unseen Extreme Tour ile Sınırları Zorla!",
-      "startsAt": "2026-11-15",
+      "startsAt": "2026-11-29",
       "title": "NEW BALANCE PRESENTS: UNSEEN EXTREME TOUR",
       "image": "https://www.zorlupsm.com/medium/Activity/Image/1f78e99b-304b-49f7-ab1c-cae1c2bccb5b",
       "firstSeen": "2026-11-11"
@@ -1649,39 +1606,6 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "holiday-party-w-koffein-club-radio-starbucks",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/holiday-party-w-koffein-club-radio-starbucks?p=61f935c1-70c9-401c-a380-cf8647005e21",
-      "description": "Holiday Party w/Koffein Club Radio & Starbucks Vestel Amfi'de!",
-      "title": "HOLIDAY PARTY W/KOFFEIN CLUB RADIO & STARBUCKS",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "degisim-donusum",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/degisim-donusum?p=1e4ee750-03b6-4ca4-93cc-b16cdebd9ae8",
-      "description": "Başarılı bir siyasetçi, geçmişindeki bağımlılıkla mücadele eden eski bir avukat ve tek bir gün içinde açığa çıkan sırlar… Dışarıdan kusursuz görünen Mine ve Tarık’ın evliliği, sakladıkları gerçeklerin ortaya çıkmasıyla sarsıcı bir hesaplaşm",
-      "title": "DEĞİŞİM / DÖNÜŞÜM",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "jazzy-by-su-soley",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/jazzy-by-su-soley?p=024acf4d-58e7-44ab-a05e-94d8b7680a0d",
-      "description": "Su Soley muhteşem enerjisi ile Zorlu PSM touché by N Kolay sahnesinde!",
-      "title": "JAZZY BY SU SOLEY",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-14"
-    },
-    {
       "id": "tuzbiber-stand-up-ismail-turkusev",
       "mallId": "zorlu-center",
       "kind": "event",
@@ -1692,6 +1616,39 @@
       "title": "İSMAİL TÜRKÜSEV STAND-UP",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
       "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "one-more",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/one-more?p=abfc1014-616d-4666-a7ca-bc8f3f6de697",
+      "description": "Giray Altınok, Kerem Özdoğan ve Doğan Akdoğan ile Polisiye Komedinin En Kaotik Hali: One More",
+      "title": "ONE MORE",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-15"
+    },
+    {
+      "id": "iki-bekar",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/iki-bekar?p=e6fd33c2-d692-43c8-8879-66e9b9eb20ce",
+      "description": "Yazar: Sam Bobrick Çeviri: Ekin Tunçay Turan Yönetmen: Emre Kınay Oyuncular: Emre Kınay / Evrim Alasya Müzik: Serdar Aslan Orkestra: Zafer Aslan / Tarkan Tekyıldız Ses ve Işık Tasarımı: Erkan Kalkan Dekor: Saldıray Çakar",
+      "title": "İKİ BEKAR",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-15"
+    },
+    {
+      "id": "ibrahim-selim-ile-bu-gece-100-studio",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/ibrahim-selim-ile-bu-gece-100-studio?p=b2fca540-b704-4f11-956b-2fc9f31ee075",
+      "description": "Hanımlar Beyler yaz bitti! Ama hiç korkmayın bizler mevsim geçişlerinizi hafifletmek, dönemsel depresyonunuza yara bandı olmak için işimizin başındayız!",
+      "title": "İBRAHİM SELİM İLE BU GECE",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-15"
     },
     {
       "id": "toyzz-shopta-eglenceye-davetlisiniz",
