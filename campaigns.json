@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:10:49+00:00",
+  "generatedAt": "2026-11-16T13:01:02+00:00",
   "campaigns": [
     {
       "id": "alisveris-festicali",
@@ -75,6 +75,18 @@
       "firstSeen": "2026-11-14"
     },
     {
+      "id": "porland-eur3aacafut",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/porland-eur3aacafut",
+      "description": "Kasıma Özel Tüm Ürünlerde %25 İndirim",
+      "publishedAt": "2026-11-16",
+      "title": "Porland",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/25a604e2-a07e-4fc8-a5a3-ae44e0eb2221.jpeg?1794817784420?1794817784420",
+      "firstSeen": "2026-11-16"
+    },
+    {
       "id": "idilbaby-ve-mamino-wwz1eght9s",
       "mallId": "mall-of-istanbul",
       "kind": "discount",
@@ -85,18 +97,6 @@
       "title": "İdilbaby & Mamino",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f55a68c5-54db-48aa-9368-bcec12c78042.jpeg?1794485858067?1794485858067",
       "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "candyzoo-dsv8qp_wgyi",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/candyzoo-dsv8qp_wgyi",
-      "description": "Frozzle dondurma alana 2. frozzle %50 indirimli",
-      "publishedAt": "2026-11-13",
-      "title": "CandyZoo",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/bca71797-8b10-46d9-9fe8-c04548e6f2ac.jpeg?1794552160524?1794552160524",
-      "firstSeen": "2026-11-13"
     },
     {
       "id": "zsa-zsa-zsu-6owkhcpolxl",
@@ -132,17 +132,6 @@
       "publishedAt": "2026-11-06",
       "title": "Carl's Jr.",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/4d00df62-f1c8-43aa-9472-2041c0ed6034.jpeg?1793963284261?1793963284261",
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "1-alana-1-hediye-wo-jx-bncjm",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/1-alana-1-hediye-wo-jx-bncjm",
-      "publishedAt": "2026-11-06",
-      "title": "1 Alana 1 Hediye",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/eabea5b3-7b7e-497b-833c-14da715e763e.jpeg?1793954119903?1793954119903",
       "firstSeen": "2026-11-06"
     },
     {
@@ -214,6 +203,17 @@
       "firstSeen": "2026-11-12"
     },
     {
+      "id": "neslihan-canpolat-zw-e9nituwx",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/neslihan-canpolat-zw-e9nituwx",
+      "publishedAt": "2026-10-21",
+      "title": "Neslihan Canpolat",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/11b7e0dc-e807-4183-a24c-750361c0a77b.jpeg?1792507700756?1792507700756",
+      "firstSeen": "2026-11-16"
+    },
+    {
       "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
       "mallId": "akmerkez",
       "kind": "event",
@@ -263,16 +263,6 @@
       "firstSeen": "2026-11-03"
     },
     {
-      "id": "10-indirim-9nqn8xjwkku",
-      "mallId": "akmerkez",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/firsatlar/10-indirim-9nqn8xjwkku",
-      "title": "%10 İndirim",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/2eb0df64-fa0b-467e-8d7b-8cb9773bcdcc.jpeg?1793966222406?1793966222409",
-      "firstSeen": "2026-11-06"
-    },
-    {
       "id": "10-indirim-socuxogf8cp",
       "mallId": "akmerkez",
       "kind": "discount",
@@ -283,15 +273,37 @@
       "firstSeen": "2026-11-06"
     },
     {
-      "id": "pop-up-market-bkmd2xc6gx",
+      "id": "winter-wonder-hediye-kuepue-yarismasi",
       "mallId": "vadistanbul",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.vadistanbul.com/etkinlikler/pop-up-market-bkmd2xc6gx",
+      "url": "https://www.vadistanbul.com/etkinlikler/winter-wonder-hediye-kuepue-yarismasi",
       "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Pop Up Market",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJbv3gcpGl-main.jpeg?1793883226329",
-      "firstSeen": "2026-11-06"
+      "title": "Winter Wonder Hediye Küpü Yarışması",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/S1o6PEuRGl-main.jpeg?1794815939323",
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "id": "winter-wonder-sahne-programi-r1xsrpeo0ge",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/winter-wonder-sahne-programi-r1xsrpeo0ge",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Winter Wonder Sahne Programı",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/B1rSDN_0Gl-main.jpeg?1794815805631",
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "id": "winter-wonder-byrcleoafx",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/winter-wonder-byrcleoafx",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Winter Wonder",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/BkVAI4ORGg-main.jpeg?1794815693440",
+      "firstSeen": "2026-11-16"
     },
     {
       "id": "otoparkimizda-3-saat-uecretsiz",
@@ -349,6 +361,17 @@
       "firstSeen": "2026-11-10"
     },
     {
+      "id": "pop-up-market-bkmd2xc6gx",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/pop-up-market-bkmd2xc6gx",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Pop Up Market",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/SJbv3gcpGl-main.jpeg?1793883226329",
+      "firstSeen": "2026-11-06"
+    },
+    {
       "id": "29-ekim-cumhuriyet-bayrami-kutlama-programi",
       "mallId": "vadistanbul",
       "kind": "event",
@@ -380,28 +403,6 @@
       "title": "Vadistanbul 9 Yaşında",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1WIKE-FMe-main.jpeg?1789114698189",
       "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "senin-kahraman-hikayen-hangisi-bye-rikdugl",
-      "mallId": "vadistanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.vadistanbul.com/etkinlikler/senin-kahraman-hikayen-hangisi-bye-rikdugl",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Senin Kahraman Hikayen Hangisi?",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/ByZrskPuGx-main.jpeg?1788439353353",
-      "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-wgdargwx-_q",
-      "mallId": "watergarden",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.watergarden.com.tr/etkinlikler/sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-wgdargwx-_q",
-      "description": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
-      "title": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/614e48a4-5bf0-4118-8c02-eb8d6e540a97.jpeg?1792132003975?1792132003975",
-      "firstSeen": "2026-10-16"
     },
     {
       "id": "havuz-sov-saatleri",
@@ -503,6 +504,17 @@
       "firstSeen": "2026-11-13"
     },
     {
+      "id": "winterpol-metropol-istanbul",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.metropolistanbul.com/etkinlikler/winterpol-metropol-istanbul",
+      "description": "Winterpol Metropol İstanbul",
+      "title": "Winterpol Metropol İstanbul",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/b5867699-9d89-4bb8-8160-110c59fa2815.jpeg?1794826433454?1794826433454",
+      "firstSeen": "2026-11-16"
+    },
+    {
       "id": "metropol-pop-up-market",
       "mallId": "metropol-istanbul",
       "kind": "event",
@@ -546,6 +558,17 @@
       "title": "Kasım Ayına Özel İndirim",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/offer/offer_image_cover_tr/main/b0dc6e64-5fd6-46f5-a127-201c21548bdd.jpeg?1794378850422?1794378850422",
       "firstSeen": "2026-11-11"
+    },
+    {
+      "id": "blak-coffee-co-diledigin-tatli-ve-kahve-400-tl",
+      "mallId": "metropol-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.metropolistanbul.com/firsatlarimiz/blak-coffee-co-diledigin-tatli-ve-kahve-400-tl",
+      "description": "Blak Coffee Co. – Dilediğin Tatlı ve Kahve 400 TL\nBlak Coffee Co. – Dilediğin Tatlı ve Kahve 400 TL\nÇalışma Saatleri\n10:00 - 22:00\nEn sevdiğin kahvenin yanına en iyi giden tatlıyı seçmek tamamen sana kalmış! Metropol şubemize özel hazırladığımız bu kampanya ile dilediğin tatlı ve kahve ikilisi 400₺. Bu lezzet molasını kaçırma\nKampanya Koşulları:\nKampanya yalnızca Metropol şubesinde geçerlidir ve diğer indirim veya kampanyalarla birleştirilemez.\nFiyata menüde yer alan dilediğiniz 1 adet kahve ve 1 adet tatlı dahildir.\nÖzel seri veya ekstralar (ek shot, alternatif sütler vb.) fiyat farkına tabi olabilir.\nBlak Coffee Co., kampanya süresini ve koşullarını değiştirme hakkını saklı tutar.",
+      "title": "Blak Coffee Co. – Dilediğin Tatlı ve Kahve 400 TL",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/offer/offer_image_cover_tr/main/3ba26775-6952-41f0-ba54-24d3049940c4.jpeg?1794828262687?1794828262687",
+      "firstSeen": "2026-11-16"
     },
     {
       "id": "dasdas-yasak-muzikal",
@@ -905,16 +928,6 @@
       "title": "Yapraklar Dökülür, Hayaller Renklenir",
       "image": "https://istanbulcevahir.com/wp-content/uploads/2026/11/kasim-etkinlikkucuk-tr-1.webp",
       "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "masa-ile-koca-ayi-vialand-avm-de-13-14-15-kasim-2026",
-      "mallId": "isfanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.vialand.com/avm/etkinlikler-kampanyalar",
-      "title": "Maşa ile Koca Ayı Vialand AVM’de | 13-14-15 Kasım 2026",
-      "image": "https://trs3.cloudspark.com.tr/online/img/mall-page/events-campaigns-pages/masaileayi-1000x1000-091126.jpeg?w=750&q=100",
-      "firstSeen": "2026-11-09"
     },
     {
       "id": "akil-oyunlari-senligi-starcity-outlette",
@@ -1410,7 +1423,7 @@
       "title": "Rapunzel",
       "startsAt": "2026-11-16",
       "endsAt": "2026-11-16",
-      "description": "DasDas İstinyePark / İstinye Açık Sahne · 14:00",
+      "description": "DasDas İstinyePark / İstinye Açık Sahne · 16:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1793360646500-rapunzel-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1793360647001-rapunzel-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=cbf2f69b-4a00-4426-8ab6-4ca8e18b031c",
       "firstSeen": "2026-11-02"
     },
@@ -1606,29 +1619,6 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "tuzbiber-stand-up-ismail-turkusev",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/tuzbiber-stand-up-ismail-turkusev?p=a1f12f3b-ba09-4d92-85ad-29e081ad61e0",
-      "description": "İsmail Türküsev, mevcuttaki en yeni ve benzersiz ama bir o kadar da alışılagelen gösterisiyle 15 Kasım'da touché by N Kolay'da!",
-      "startsAt": "2026-11-15",
-      "title": "İSMAİL TÜRKÜSEV STAND-UP",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-14"
-    },
-    {
-      "id": "one-more",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/one-more?p=abfc1014-616d-4666-a7ca-bc8f3f6de697",
-      "description": "Giray Altınok, Kerem Özdoğan ve Doğan Akdoğan ile Polisiye Komedinin En Kaotik Hali: One More",
-      "title": "ONE MORE",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-15"
-    },
-    {
       "id": "iki-bekar",
       "mallId": "zorlu-center",
       "kind": "event",
@@ -1651,16 +1641,27 @@
       "firstSeen": "2026-11-15"
     },
     {
-      "id": "toyzz-shopta-eglenceye-davetlisiniz",
-      "mallId": "marmara-forum",
+      "id": "one-more",
+      "mallId": "zorlu-center",
       "kind": "event",
-      "isPaid": false,
-      "url": "https://www.marmaraforum.com.tr/etkinlikler/etkinlik/26/toyzz-shopta-eglenceye-davetlisiniz/",
-      "description": "14 Kasım - 15 Kasım tarihleri arasında",
-      "startsAt": "2026-11-14",
-      "title": "Toyzz Shop'ta Eğlenceye Davetlisiniz!",
-      "image": "https://www.marmaraforum.com.tr/Images/Photos/f4b5f026-a911-462e-b8f7-bf955bd31db4.jpg?v=xI8W6t2f40qmd1G8eAv7D3njBnxM8ZNHR73405YmYOg",
-      "firstSeen": "2026-11-11"
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/one-more?p=a4033ef3-b3d6-4245-9c56-e4fce7285f72",
+      "description": "Giray Altınok, Kerem Özdoğan ve Doğan Akdoğan ile Polisiye Komedinin En Kaotik Hali: One More",
+      "title": "ONE MORE",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-15"
+    },
+    {
+      "id": "arca-oz-ile-super-lig-quiz-show",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/arca-oz-ile-super-lig-quiz-show?p=e39c106c-34ad-4e67-85c8-f5f6d56c5cbf",
+      "description": "Arca Öz ile Süper Lig Quiz Show 16 Kasım Pazartesi akşamı touche by N Kolay’da! Futbol tutkunları bu özel gecede bir araya geliyor. Bilgi, eğlence ve rekabet dolu unutulmaz bir geceye hazır olun!",
+      "startsAt": "2026-11-16",
+      "title": "ARCA ÖZ İLE SÜPER LİG QUIZ SHOW",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-16"
     },
     {
       "id": "gupi-ve-gulmeyen-kral-world-cinezone-imaxte",
@@ -1674,19 +1675,6 @@
       "firstSeen": "2026-11-08"
     },
     {
-      "id": "marmara-forum-acilisina-ozel-frozzle-kampanyasi",
-      "mallId": "marmara-forum",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/51/marmara-forum-acilisina-ozel-frozzle-kampanyasi/",
-      "description": "CandyZoo 14-15 Kasım tarihlerinde açılışa özel Frozzle dondurma alana 2.Frozzle %50 indirimlidir.",
-      "startsAt": "2026-11-14",
-      "endsAt": "2026-11-15",
-      "title": "Marmara Forum Açılışına Özel Frozzle Kampanyası!",
-      "image": "https://www.marmaraforum.com.tr/Images/Photos/220d05ea-050e-4526-8cbc-f64a62514841.jpg?v=kZzZ1Hy6tLZFgOoVF0SaTyUFdSEGC2Cph68Jn1wDO1c",
-      "firstSeen": "2026-11-14"
-    },
-    {
       "id": "toyzz-shopta-buyuk-firsat",
       "mallId": "marmara-forum",
       "kind": "discount",
@@ -1698,17 +1686,6 @@
       "title": "TOYZZ SHOP'TA BÜYÜK FIRSAT!",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/5b203ce0-9f8d-4e04-a8ff-da88fb855f8b.jpg?v=GJOHC_BUTbX5jd2gqhzVZvA54FOdyudo98eceKoPBHQ",
       "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "candyzoo-marmara-forum-magaza-acilis-etkinligi",
-      "mallId": "marmara-forum",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/48/candyzoo-marmara-forum-magaza-acilis-etkinligi/",
-      "description": "CandyZoo Marmara Forum mağaza açılışına özel,14 Kasım 2026 Cumartesi günü gerçekleşecek yüz boyama etkinliği ve bando gösterisine davetlisiniz.",
-      "title": "CandyZoo Marmara Forum Mağaza Açılış Etkinliği!",
-      "image": "https://www.marmaraforum.com.tr/Images/Photos/15a14999-235c-4237-b697-f92b98a90328.jpg?v=FF08Q7J6jfqNwzvfiRdnxO0QSFm2mQBg1f3I8jbUx_0",
-      "firstSeen": "2026-11-12"
     },
     {
       "id": "candyzoo-marmara-forumda-acildi",
