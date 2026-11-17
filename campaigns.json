@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:01:02+00:00",
+  "generatedAt": "2026-11-17T13:43:03+00:00",
   "campaigns": [
     {
       "id": "alisveris-festicali",
@@ -73,6 +73,17 @@
       "title": "Kasım ara tatilinde eğlence, sanat ve yaratıcılık Mall of İstanbul’da buluşuyor!",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/event/event_listing_image_tr/main/47ba132a-f7e7-4356-bae0-a9f29ec3ecf6.jpeg?1794578477091?1794578477091",
       "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "jumbo-x-homend",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/jumbo-x-homend",
+      "publishedAt": "2026-11-17",
+      "title": "Jumbo x Homend",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/7b8da7dc-7b4c-4ed7-aec3-e6a7b9b873f2.jpeg?1794895871253?1794895871253",
+      "firstSeen": "2026-11-17"
     },
     {
       "id": "porland-eur3aacafut",
@@ -203,17 +214,6 @@
       "firstSeen": "2026-11-12"
     },
     {
-      "id": "neslihan-canpolat-zw-e9nituwx",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/neslihan-canpolat-zw-e9nituwx",
-      "publishedAt": "2026-10-21",
-      "title": "Neslihan Canpolat",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/11b7e0dc-e807-4183-a24c-750361c0a77b.jpeg?1792507700756?1792507700756",
-      "firstSeen": "2026-11-16"
-    },
-    {
       "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
       "mallId": "akmerkez",
       "kind": "event",
@@ -271,6 +271,17 @@
       "title": "06-11-2026 / 30-11-2026",
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/promotion/promotion_list_image/main/a68996a2-0a23-4e85-bc38-1dfceb21b8f4.jpeg?1793966821627?1793966821627",
       "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "winter-wonder-haftalik-program-s1lztx_fage",
+      "mallId": "vadistanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.vadistanbul.com/etkinlikler/winter-wonder-haftalik-program-s1lztx_fage",
+      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
+      "title": "Winter Wonder Haftalık Program",
+      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/Sk-YxuKCzg-main.jpeg?1794895993673",
+      "firstSeen": "2026-11-17"
     },
     {
       "id": "winter-wonder-hediye-kuepue-yarismasi",
@@ -394,15 +405,15 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "vadistanbul-9-yasinda",
-      "mallId": "vadistanbul",
+      "id": "sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-wgdargwx-_q",
+      "mallId": "watergarden",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.vadistanbul.com/etkinlikler/vadistanbul-9-yasinda",
-      "description": "Vadistanbul etkinlik ve yeniliklerinden öncelikli haberdar olmak için e-bültene kayıt olun.",
-      "title": "Vadistanbul 9 Yaşında",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/H1WIKE-FMe-main.jpeg?1789114698189",
-      "firstSeen": "2026-11-13"
+      "url": "https://www.watergarden.com.tr/etkinlikler/sanat-cizgi-roman-ve-yaraticiligin-bulusma-noktasi-wgdargwx-_q",
+      "description": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
+      "title": "Sanat, çizgi roman ve yaratıcılığın buluşma noktası!",
+      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/614e48a4-5bf0-4118-8c02-eb8d6e540a97.jpeg?1792132003975?1792132003975",
+      "firstSeen": "2026-11-17"
     },
     {
       "id": "havuz-sov-saatleri",
@@ -571,32 +582,6 @@
       "firstSeen": "2026-11-16"
     },
     {
-      "id": "dasdas-yasak-muzikal",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/yasak-muzikal",
-      "title": "Yasak Müzikal",
-      "startsAt": "2026-11-16",
-      "endsAt": "2026-12-13",
-      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Foriginals%2Fmedia-1786087576068-ym9%2F1786087576080-58.png?alt=media&token=9ab611ec-ef4a-4cdb-8bb4-91c87ce0eb20",
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "dasdas-zengin-mutfagi",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/zengin-mutfagi",
-      "title": "Zengin Mutfağı",
-      "startsAt": "2026-11-16",
-      "endsAt": "2027-01-03",
-      "description": "DasDas Ataşehir / Sahne · 20:30",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1793704862963-zm-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1793704863835-zm-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=b6d20734-1957-4e96-afd8-ce42ef560749",
-      "firstSeen": "2026-11-13"
-    },
-    {
       "id": "dasdas-baska-hayat",
       "mallId": "metropol-istanbul",
       "kind": "event",
@@ -607,6 +592,19 @@
       "endsAt": "2026-11-17",
       "description": "DasDas Ataşehir / Açık Sahne · 20:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1790350126344-baska-hayat-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1790350126915-baska-hayat-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=63fa2bc5-2922-437a-9efe-26171fe52225",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "dasdas-zengin-mutfagi",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/zengin-mutfagi",
+      "title": "Zengin Mutfağı",
+      "startsAt": "2026-11-17",
+      "endsAt": "2027-01-03",
+      "description": "DasDas Ataşehir / Sahne · 20:30",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1793704862963-zm-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1793704863835-zm-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=b6d20734-1957-4e96-afd8-ce42ef560749",
       "firstSeen": "2026-11-13"
     },
     {
@@ -673,6 +671,18 @@
       "description": "DasDas Ataşehir / Açık Sahne · 20:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1789744939690-sengas-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1789744940779-sengas-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=cb488cdd-4b88-4b4d-bfef-d47d1f1ca3d3",
       "firstSeen": "2026-11-15"
+    },
+    {
+      "id": "dasdas-tuzbiber-6-li",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/tuzbiber-6-li",
+      "title": "TuzBiber 6'lı",
+      "startsAt": "2026-11-21",
+      "endsAt": "2026-11-27",
+      "description": "DasDas Ataşehir / Alternatif Sahne · 20:00",
+      "firstSeen": "2026-11-17"
     },
     {
       "id": "ugur-bocegi-ile-kara-kedi",
@@ -1328,28 +1338,6 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "cocuk-atolyelerimiz-her-hafta-sonu-devam-ediyor",
-      "mallId": "airport-avm",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://airportavm.com.tr/cocuk-atolyelerimiz-her-hafta-sonu-devam-ediyor/",
-      "publishedAt": "2026-10-17",
-      "description": "Airport Outlet Center’da çocuk atölyelerimiz, Yes To Science iş birliğiyle her hafta sonu devam ediyor. Bilim, robotik ve el becerisi atölyelerinde minik bilim insanlarımız hem eğleniyor hem de yeni şeyler öğreniyor.",
-      "title": "Çocuk Atölyelerimiz Her Hafta Sonu Devam Ediyor",
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "organik-pazar-her-cuma-antika-pazari-her-cumartesi",
-      "mallId": "airport-avm",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://airportavm.com.tr/organik-pazar-her-cuma-antika-pazari-her-cumartesi/",
-      "publishedAt": "2026-10-17",
-      "description": "Açık otopark alanımızda her hafta iki pazar kuruluyor.",
-      "title": "Organik Pazar Her Cuma, Antika Pazarı Her Cumartesi",
-      "firstSeen": "2026-11-12"
-    },
-    {
       "id": "etkinlik-detay-alisveris-festivali-66.html",
       "mallId": "axis-kagithane",
       "kind": "event",
@@ -1412,19 +1400,6 @@
       "publishedAt": "2026-10-27",
       "title": "29 Ekim Cumhuriyet Bayramı",
       "image": "https://carousel.com.tr/wp-content/uploads/2026/10/29-Ekim-Etkinlik-Web-Sitesi-717x1024.webp",
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "dasdas-rapunzel",
-      "mallId": "istinye-park",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/rapunzel",
-      "title": "Rapunzel",
-      "startsAt": "2026-11-16",
-      "endsAt": "2026-11-16",
-      "description": "DasDas İstinyePark / İstinye Açık Sahne · 16:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1793360646500-rapunzel-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1793360647001-rapunzel-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=cbf2f69b-4a00-4426-8ab6-4ca8e18b031c",
       "firstSeen": "2026-11-02"
     },
     {
@@ -1536,6 +1511,82 @@
       "firstSeen": "2026-11-12"
     },
     {
+      "id": "o-is-bende-film-gala-gecesi",
+      "mallId": "olimpa",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://olimpaavm.com/o-is-bende-film-gala-gecesi",
+      "title": "O İş Bende Film Gala Gecesi",
+      "image": "https://olimpaavm.com/img/20260131153800.jpg",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "zorlu-yilbasi-festivali-13",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.zorlucenter.com.tr/avm/etkinlikler/zorlu-yilbasi-festivali-13/",
+      "description": "Yılın en güzel zamanı Zorlu Yılbaşı Festivali ile başlıyor!",
+      "title": "Zorlu Yılbaşı Festivali 13",
+      "image": "https://www.zorlucenter.com.tr/media/uwpl2tpq/1140x1368.jpg",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "zorlu-yilbasi-festivali-13-konserler",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.zorlucenter.com.tr/avm/etkinlikler/zorlu-yilbasi-festivali-13-konserler/",
+      "description": "Zorlu Yılbaşı Festivali kapsamında gerçekleşecek birbirinden keyifli konserlerle müziğin ve eğlencenin tadını birlikte çıkarıyoruz. Sevdiğiniz sanatçılarla buluşmaya ve yeni yıl coşkusuna ortak olmaya hazır mısınız?",
+      "title": "Zorlu Yılbaşı Festivali 13 - Konserler",
+      "image": "https://www.zorlucenter.com.tr/media/osmfsaqf/1140x1368.jpg",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "zorlu-yilbasi-festivali-13-soft-analog-konseri",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.zorlucenter.com.tr/avm/etkinlikler/zorlu-yilbasi-festivali-13-soft-analog-konseri/",
+      "description": "Yeni Yıl heyecanına Soft Analog'un ritimleri eşlik ediyor!",
+      "title": "Zorlu Yılbaşı Festivali 13 - Soft Analog Konseri",
+      "image": "https://www.zorlucenter.com.tr/media/00mf13ye/1140x1368.jpg",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "zorlu-yilbasi-festivali-13-pandami-konseri",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.zorlucenter.com.tr/avm/etkinlikler/zorlu-yilbasi-festivali-13-pandami-konseri/",
+      "description": "Yeni Yıl heyecanına Pandami'nin ritimleri eşlik ediyor!",
+      "title": "Zorlu Yılbaşı Festivali 13 - Pandami Konseri",
+      "image": "https://www.zorlucenter.com.tr/media/kppbh5hn/1140x1368.jpg",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "zorlu-yilbasi-festivali-13-m-lisa-konseri",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.zorlucenter.com.tr/avm/etkinlikler/zorlu-yilbasi-festivali-13-m-lisa-konseri/",
+      "description": "Yeni Yıl heyecanına M Lisa'nın ritimleri eşlik ediyor!",
+      "title": "Zorlu Yılbaşı Festivali 13 - M Lisa Konseri",
+      "image": "https://www.zorlucenter.com.tr/media/r5sjxthc/1140x1368.jpg",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "hupalupa-store-etkinligi",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.zorlucenter.com.tr/avm/etkinlikler/hupalupa-store-etkinligi/",
+      "description": "Hupalupa Store ile eğlenceli atölyeler, benzersiz oyuncaklar ve sürpriz etkinlikler Metro Katı'nda sizi bekliyor.",
+      "title": "Hupalupa Store Etkinliği",
+      "image": "https://www.zorlucenter.com.tr/media/mgkeyaqy/1140x1368-100.jpg",
+      "firstSeen": "2026-11-17"
+    },
+    {
       "id": "paris-the-show",
       "mallId": "zorlu-center",
       "kind": "event",
@@ -1607,6 +1658,18 @@
       "firstSeen": "2026-11-11"
     },
     {
+      "id": "resa-saffa-park",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/resa-saffa-park",
+      "description": "Resa Saffa Park, 19 Aralık’ta %100 Studio’da!",
+      "startsAt": "2026-12-19",
+      "title": "MODUNDAYIZ SUNAR: RESA SAFFA PARK",
+      "image": "https://www.zorlupsm.com/medium/Activity/Image/c33ad259-e479-47e2-aa19-2bfb83c618e7",
+      "firstSeen": "2026-11-17"
+    },
+    {
       "id": "giant-rooks",
       "mallId": "zorlu-center",
       "kind": "event",
@@ -1619,49 +1682,50 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "iki-bekar",
+      "id": "selen-servi-ile-baskadir-sarkilar",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/iki-bekar?p=e6fd33c2-d692-43c8-8879-66e9b9eb20ce",
-      "description": "Yazar: Sam Bobrick Çeviri: Ekin Tunçay Turan Yönetmen: Emre Kınay Oyuncular: Emre Kınay / Evrim Alasya Müzik: Serdar Aslan Orkestra: Zafer Aslan / Tarkan Tekyıldız Ses ve Işık Tasarımı: Erkan Kalkan Dekor: Saldıray Çakar",
-      "title": "İKİ BEKAR",
+      "url": "https://www.zorlupsm.com/etkinlikler/selen-servi-ile-baskadir-sarkilar?p=6415bb43-a008-467e-a554-4ab9c4765abe",
+      "description": "Selen Servi ile “BAŞKADIR ŞARKILAR” 17 Kasım 2026 tarihinde Zorlu PSM'de!",
+      "startsAt": "2026-11-17",
+      "title": "SELEN SERVİ İLE ''BAŞKADIR ŞARKILAR''",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-15"
+      "firstSeen": "2026-11-17"
     },
     {
-      "id": "ibrahim-selim-ile-bu-gece-100-studio",
+      "id": "garanti-bbva-genc-sunar-euroleague-fenerbahce-asvel",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/ibrahim-selim-ile-bu-gece-100-studio?p=b2fca540-b704-4f11-956b-2fc9f31ee075",
-      "description": "Hanımlar Beyler yaz bitti! Ama hiç korkmayın bizler mevsim geçişlerinizi hafifletmek, dönemsel depresyonunuza yara bandı olmak için işimizin başındayız!",
-      "title": "İBRAHİM SELİM İLE BU GECE",
+      "url": "https://www.zorlupsm.com/etkinlikler/garanti-bbva-genc-sunar-euroleague-fenerbahce-asvel?p=be014db8-05f3-4683-abe9-b40b2a68b4bc",
+      "description": "EuroLeague grup maçları gösterimi Vestel Amfi'de!",
+      "title": "EUROLEAGUE: FENERBAHÇE – ASVEL",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-15"
+      "firstSeen": "2026-11-17"
     },
     {
-      "id": "one-more",
+      "id": "goldilocks-and-the-three-bears-a-violin-story",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/one-more?p=a4033ef3-b3d6-4245-9c56-e4fce7285f72",
-      "description": "Giray Altınok, Kerem Özdoğan ve Doğan Akdoğan ile Polisiye Komedinin En Kaotik Hali: One More",
-      "title": "ONE MORE",
+      "url": "https://www.zorlupsm.com/etkinlikler/goldilocks-and-the-three-bears-a-violin-story?p=00e2f1a0-44a6-4bef-a84c-0966723f7677",
+      "description": "(İngilizce Çocuk Müzikali)",
+      "title": "GOLDILOCKS AND THE THREE BEARS - A VIOLIN STORY",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-15"
+      "firstSeen": "2026-11-17"
     },
     {
-      "id": "arca-oz-ile-super-lig-quiz-show",
-      "mallId": "zorlu-center",
+      "id": "forum-wishland-ile-yeni-yilin-buyusu-basliyor",
+      "mallId": "marmara-forum",
       "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/arca-oz-ile-super-lig-quiz-show?p=e39c106c-34ad-4e67-85c8-f5f6d56c5cbf",
-      "description": "Arca Öz ile Süper Lig Quiz Show 16 Kasım Pazartesi akşamı touche by N Kolay’da! Futbol tutkunları bu özel gecede bir araya geliyor. Bilgi, eğlence ve rekabet dolu unutulmaz bir geceye hazır olun!",
-      "startsAt": "2026-11-16",
-      "title": "ARCA ÖZ İLE SÜPER LİG QUIZ SHOW",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-16"
+      "isPaid": false,
+      "url": "https://www.marmaraforum.com.tr/etkinlikler/etkinlik/28/forum-wishland-ile-yeni-yilin-buyusu-basliyor/",
+      "description": "Dileklerin, müziğin, eğlencenin ve unutulmaz deneyimlerin buluştuğu Forum Wishland, 1-31 Aralık tarihleri arasında ziyaretçilerini yeni yılın büyülü dünyasına davet ediyor.",
+      "startsAt": "2026-12-31",
+      "title": "Forum Wishland ile Yeni Yılın Büyüsü Başlıyor!",
+      "image": "https://www.marmaraforum.com.tr/Images/Photos/10a458f8-15ee-4310-be21-246bfe1f3ee2.jpg?v=aJJ8yqcpDzpYY-fVoqiNiLVxcM5JNNqIT-1-BZQOcHs",
+      "firstSeen": "2026-11-17"
     },
     {
       "id": "gupi-ve-gulmeyen-kral-world-cinezone-imaxte",
@@ -1673,6 +1737,28 @@
       "title": "GUPİ VE GÜLMEYEN KRAL WORLD CINEZONE IMAX'TE!",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/67487f08-888c-4cb5-ad02-fcc3dbb470fe.png?v=sSJNCefvvN7J5jlFZzHj9beCCXcsUTd0zDiNivamxqM",
       "firstSeen": "2026-11-08"
+    },
+    {
+      "id": "jumboda-buyuk-kampanya",
+      "mallId": "marmara-forum",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/55/jumboda-buyuk-kampanya/",
+      "description": "SMEG 3'lü set 49.999 TL",
+      "title": "JUMBO'da BÜYÜK KAMPANYA!",
+      "image": "https://www.marmaraforum.com.tr/Images/Photos/de41d4d0-e2a0-44e1-a290-9ba7fc2fc17c.jpg?v=daL90_SJ8qCoEt5A1nvhW2WY-ZDiTXPFbsH5aN4UvAE",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "jumboda-kitchenaid",
+      "mallId": "marmara-forum",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/54/jumboda-kitchenaid/",
+      "description": "KITCHENAID Jumbo da",
+      "title": "JUMBO'da KITCHENAID!",
+      "image": "https://www.marmaraforum.com.tr/Images/Photos/5215abcc-6970-420b-ba0d-ef6a153ca081.jpg?v=ExfXND1Y5YnFeyT8IS1U3HVRc9DNq9bZF1ebFllMNP0",
+      "firstSeen": "2026-11-17"
     },
     {
       "id": "toyzz-shopta-buyuk-firsat",
