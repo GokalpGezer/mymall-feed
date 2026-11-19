@@ -455,6 +455,17 @@
       "logo": "assets/mall_logos/olimpa.png"
     },
     {
+      "id": "metroway",
+      "name": "MetroWay",
+      "city": "Başakşehir",
+      "active": true,
+      "location": {
+        "lat": 41.11913,
+        "lng": 28.7655
+      },
+      "logo": "assets/mall_logos/metroway.png"
+    },
+    {
       "id": "pelican-mall",
       "name": "Pelican Mall",
       "city": "Avcılar",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:16:09+00:00",
+  "generatedAt": "2026-11-19T13:23:23+00:00",
   "discounts": [
     {
       "id": "gratis-stores-60-20261118",
@@ -9,9 +9,9 @@
       "url": "https://www.gratis.com/kampanyalar",
       "channel": "both",
       "condition": "Gratis mağazalarında 18–30 Kasım; kapsam: Seçili Markalarda",
-      "startsAt": "2026-11-18",
+      "startsAt": "2026-11-19",
       "endsAt": "2026-11-30",
-      "verifiedAt": "2026-11-18"
+      "verifiedAt": "2026-11-19"
     },
     {
       "id": "gratis-stores-50-20261104",
@@ -21,81 +21,9 @@
       "url": "https://www.gratis.com/kampanyalar",
       "channel": "both",
       "condition": "Gratis mağazalarında 4–30 Kasım; kapsam: Venüs 3 ve Üzeri Yedek Traş Bıçaklarında 2. Ürüne",
-      "startsAt": "2026-11-18",
+      "startsAt": "2026-11-19",
       "endsAt": "2026-11-30",
-      "verifiedAt": "2026-11-18"
-    },
-    {
-      "id": "hm-welcome",
-      "brand": "H&M",
-      "title": "H&M — %10 indirim",
-      "source": "H&M",
-      "url": "https://www2.hm.com/tr_tr/member/info.html",
-      "channel": "both",
-      "condition": "Yeni H&M Member üyeliği (18+); kupon hesaba 24 saat içinde yüklenir; kasada üyelik kuponu",
-      "startsAt": "2026-10-20",
-      "endsAt": null,
-      "verifiedAt": "2026-10-20"
-    },
-    {
-      "id": "watsons-targeted",
-      "brand": "Watsons",
-      "title": "Watsons — %20 indirim",
-      "source": "Watsons",
-      "url": "https://www.watsons.com.tr/kampanyalar",
-      "channel": "both",
-      "condition": "Bildirim alan WClub üyelerine; 750 TL ve üzeri; en çok 200 TL; bildirimden itibaren 7 gün; tek kullanım",
-      "startsAt": "2026-10-20",
-      "endsAt": null,
-      "verifiedAt": "2026-10-20"
-    },
-    {
-      "id": "teknosa-welcome",
-      "brand": "Teknosa",
-      "title": "Teknosa — 100 TL hediye çeki",
-      "source": "Teknosa",
-      "url": "https://www.teknosa.com/kampanyalar/TeknoClub-Uye-Kampanyasi/TeknoClub-Uye-Kampanyasi",
-      "channel": "both",
-      "condition": "1 ocak 2026 sonrası TeknoClub üyeliği; 500 TL ve üzeri; ilk alışverişte tek kullanım; başka kampanyayla birleştirilemez; hariç: Apple, Monster, Dyson, Bosch markalı ürünlerde, Sony PS5 ve Microsoft Xbox Series X&Series S konsollarda, robot süpürgelerde, fritözlerde, TeknoGaranti hizmetlerinde, HDD, SSD ve Dijital kartlarda",
-      "startsAt": "2026-10-20",
-      "endsAt": "2026-12-31",
-      "verifiedAt": "2026-10-20"
-    },
-    {
-      "id": "teknosa-birthday",
-      "brand": "Teknosa",
-      "title": "Teknosa — 250 TL hediye çeki",
-      "source": "Teknosa",
-      "url": "https://www.teknosa.com/kampanyalar/TeknoClub-Dogumgunu/TeknoClub-Dogumgunu",
-      "channel": "both",
-      "condition": "TeknoClub üyesinin doğum günü ayında; doğum tarihi önceki aydan kayıtlı; 1.000 TL ve üzeri; yılda bir; kasada SMS alan telefon numarası; başka kampanyayla birleştirilemez; hariç: Dyson, Monster markalı ürünler, Sony marka ve Xbox konsollar, Apple iPhone 18 ve iPhone Duo modelleri, Samsung S25 modelleri, Apple Watch 12, Apple Watch Ultra 4 Akıllı Saat modelleri, HDD, Dijital kartlar ve ek garanti",
-      "startsAt": "2026-10-20",
-      "endsAt": null,
-      "verifiedAt": "2026-10-20"
-    },
-    {
-      "id": "teknosa-energy-appliance",
-      "brand": "Teknosa",
-      "title": "Teknosa — 750 TL indirim",
-      "source": "Teknosa",
-      "url": "https://www.teknosa.com/kampanyalar/TeknoClub-Surdurebilirlik/TeknoClub-Surdurebilirlik",
-      "channel": "both",
-      "condition": "TeknoClub üyelerine; A enerji sınıfı beyaz eşyalarda; başka kampanyayla birleştirilemez",
-      "startsAt": "2026-10-20",
-      "endsAt": "2026-12-31",
-      "verifiedAt": "2026-10-20"
-    },
-    {
-      "id": "teknosa-energy-screen",
-      "brand": "Teknosa",
-      "title": "Teknosa — %15 indirim",
-      "source": "Teknosa",
-      "url": "https://www.teknosa.com/kampanyalar/TeknoClub-Surdurebilirlik/TeknoClub-Surdurebilirlik",
-      "channel": "both",
-      "condition": "TeknoClub üyelerine; ömür boyu ekran koruma hizmetinde; başka kampanyayla birleştirilemez",
-      "startsAt": "2026-10-20",
-      "endsAt": "2026-12-31",
-      "verifiedAt": "2026-10-20"
+      "verifiedAt": "2026-11-19"
     },
     {
       "id": "news-abd5539e8160",
@@ -104,20 +32,8 @@
       "description": "Outlet %40 İndirim",
       "source": "D'S Damat",
       "url": "https://www.dsdamat.com/kampanyalar",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "channel": "both"
-    },
-    {
-      "id": "news-9ebac40fee1a",
-      "brand": "Flormar",
-      "title": "Flormar — %50 indirim",
-      "description": "499 TL Üzeri Alışverişlerde %50 İndirim",
-      "source": "Flormar",
-      "url": "https://www.flormar.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-18",
-      "channel": "both",
-      "startsAt": "2026-11-13",
-      "endsAt": "2026-11-19"
     },
     {
       "id": "news-ec54057a9c09",
@@ -126,7 +42,7 @@
       "description": "SEÇİLİ SAREV PİKE ÜRÜNLERİNDE %20 İNDİRİM",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "channel": "both",
       "startsAt": "2026-08-01",
       "endsAt": "2026-11-30"
@@ -138,7 +54,7 @@
       "description": "Begüm Salihoğlu Seçili Ürünlerde %20, 2 ve Üzeri Alımlarda %30 İndirim",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "channel": "both",
       "startsAt": "2026-08-15",
       "endsAt": "2026-12-31"
@@ -150,7 +66,7 @@
       "description": "2026 Seçili Erkek Ürünlerinde %30 İndirim",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "channel": "both",
       "startsAt": "2026-08-01",
       "endsAt": "2026-11-30"
@@ -162,7 +78,7 @@
       "description": "SEÇİLİ CEKET AYAKKABI ÜRÜNLERİNDE %30 İNDİRİM",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "channel": "both",
       "startsAt": "2026-07-01",
       "endsAt": "2026-11-30"
@@ -174,7 +90,7 @@
       "description": "SEÇİLİ KADIN ÜRÜNLERİNDE %50 İNDİRİM",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "channel": "both",
       "startsAt": "2026-10-16",
       "endsAt": "2026-12-31"
@@ -186,7 +102,7 @@
       "description": "Sepette %30'a Varan İndirim",
       "source": "Samsonite",
       "url": "https://www.samsonite.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "channel": "both",
       "startsAt": "2026-11-01",
       "endsAt": "2026-11-30"
@@ -198,7 +114,7 @@
       "description": "Sepette Sürpriz %20 İndirim",
       "source": "Samsonite",
       "url": "https://www.samsonite.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "channel": "both",
       "startsAt": "2026-11-01",
       "endsAt": "2026-11-30"
@@ -210,7 +126,7 @@
       "description": "2. Üründe Sepette %30 İndirim",
       "source": "Samsonite",
       "url": "https://www.samsonite.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "channel": "both",
       "startsAt": "2026-11-01",
       "endsAt": "2026-11-30"
@@ -222,7 +138,7 @@
       "description": "Anne Penye Ürünlerinde 3 Al 2 Öde Kampanyası",
       "source": "Armine",
       "url": "https://www.armine.com/kampanyalar",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "channel": "both"
     },
     {
@@ -232,7 +148,7 @@
       "description": "Harcama Alt Limiti 5.000 TL ve üzeri alışverişlerde 500 TL indirim sağlar",
       "source": "INTERSPORT",
       "url": "https://www.intersport.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "channel": "both"
     },
     {
@@ -242,7 +158,7 @@
       "description": "30 Ekim - 30 Kasım 2026 tarihleri arasında L'Occitane ürünlerinde %30'a varan indirim",
       "source": "L'Occitane",
       "url": "https://www.loccitane.com.tr/pages/kampanyalar",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "channel": "both",
       "startsAt": "2026-10-30",
       "endsAt": "2026-11-30"
@@ -254,7 +170,7 @@
       "description": "750 TL VE ÜZERİ KADIN VE ERKEK PARFÜMLERİNDE SEPETTE %40 İNDİRİM",
       "source": "LC Waikiki",
       "url": "https://www.lcw.com/anasayfa/firsatalani",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "channel": "both",
       "startsAt": "2026-11-16",
       "endsAt": "2027-01-10"
