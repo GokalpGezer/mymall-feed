@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-19T13:23:23+00:00",
+  "generatedAt": "2026-11-20T13:08:18+00:00",
   "campaigns": [
+    {
+      "id": "cocuk-atolyeleri",
+      "mallId": "maltepe-piazza",
+      "title": "Atölye",
+      "kind": "event",
+      "isPaid": false,
+      "image": "https://maltepepiazzaavm.com/storage/maltepepiazzaavm/event/November2026/maltepe-piazza-cocuk-atolyesi-1280x720px.webp",
+      "description": "Eğlenceli çocuk atölyelerine davetlisiniz!",
+      "url": "https://maltepepiazzaavm.com/tr/etkinlikler-kampanyalar/cocuk-atolyeleri",
+      "firstSeen": "2026-11-20"
+    },
     {
       "id": "alisveris-festicali",
       "mallId": "maltepe-piazza",
@@ -94,6 +105,17 @@
       "title": "Kasım ara tatilinde eğlence, sanat ve yaratıcılık Mall of İstanbul’da buluşuyor!",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/event/event_listing_image_tr/main/47ba132a-f7e7-4356-bae0-a9f29ec3ecf6.jpeg?1794578477091?1794578477091",
       "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "penelope-xp5qje8omnv",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/penelope-xp5qje8omnv",
+      "publishedAt": "2026-11-19",
+      "title": "Penelope",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/be041e55-7698-4523-9fec-ca242bda0eff.jpeg?1795095744356?1795095744356",
+      "firstSeen": "2026-11-20"
     },
     {
       "id": "ecco-qbhee9cmfld",
@@ -224,37 +246,68 @@
       "firstSeen": "2026-10-31"
     },
     {
-      "id": "wagamama-5zbgodbihav",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/wagamama-5zbgodbihav",
-      "publishedAt": "2026-10-30",
-      "title": "Wagamama",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/40121d09-b49c-44dd-9313-4bd702a4115b.jpeg?1793351765615?1793351765615",
-      "firstSeen": "2026-10-30"
-    },
-    {
-      "id": "sehirde-dogayla-bulusmaya-hazir-misiniz",
+      "id": "nevsah-fidan-karamehmet-ile-zihin-uzun-ve-saglikli-yasamin-en-cok-goez-ardi-edilen-teknolojisi",
       "mallId": "akmerkez",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/sehirde-dogayla-bulusmaya-hazir-misiniz",
-      "description": "Akmerkez Terasta Tarım’da hafta sonu ziyaretleri başlıyor! Her cumartesi 11:00–13:00 saatleri arasında sizleri doğayla iç içe keyifli bir deneyime davet ediyoruz. Detaylı bilgi ve rezervasyon için bizimle iletişime geçebilirsiniz: +90 543 4",
-      "title": "🌿 Şehirde doğayla buluşmaya hazır mısınız?",
-      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/939fe257-f840-4bc6-bd76-e6953e93a719.jpeg?1777272648381?1777272648381",
-      "firstSeen": "2026-11-13"
+      "url": "https://www.akmerkez.com.tr/etkinlikler/nevsah-fidan-karamehmet-ile-zihin-uzun-ve-saglikli-yasamin-en-cok-goez-ardi-edilen-teknolojisi",
+      "description": "Live Well @akmerkez ’de iyi yaşam buluşmaları, bu kez zihnin yaşamımızdaki rolüne odaklanıyor. 🧠 Girişimci, Yazar ve İnsan Davranış Uzmanı Nevşah Fidan Karamehmet ile “Zihin: Uzun ve Sağlıklı Yaşamın En Çok Göz Ardı Edilen Teknolojisi” söyl",
+      "startsAt": "2026-11-21",
+      "publishedAt": "2026-11-20",
+      "title": "Nevşah Fidan Karamehmet ile “Zihin: Uzun ve Sağlıklı Yaşamın En Çok Göz Ardı Edilen Teknolojisi",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/dbea9c95-8c95-469c-9f38-659beb59e8c3.jpeg?1795159060674?1795159060674",
+      "firstSeen": "2026-11-20"
     },
     {
-      "id": "ipek-hanim-ciftligi-akmerkez-de",
+      "id": "selin-kutucular-ile-sofrada-iyi-hissetmek",
       "mallId": "akmerkez",
       "kind": "event",
       "isPaid": false,
-      "url": "https://www.akmerkez.com.tr/etkinlikler/ipek-hanim-ciftligi-akmerkez-de",
-      "description": "Keyifli deneyimin adresi ve kentin en gözde buluşma noktası Akmerkez; doğayla kurulan bağın en yalın hali İpek Hanım Çiftliği’ni ziyaretçileri ile buluşturuyor. Çiftlikte yetiştirilen ve mevsiminde hasat edilen sebze- meyvelerle, el emeği i",
-      "title": "İpek Hanım Çiftliği Akmerkez’de",
-      "image": "https://s3-eu-central-1.amazonaws.com/akis-gyo/images/event_image/ryEv5xTWY-main.jpeg?1630501468896",
-      "firstSeen": "2026-11-13"
+      "url": "https://www.akmerkez.com.tr/etkinlikler/selin-kutucular-ile-sofrada-iyi-hissetmek",
+      "description": "Live Well @akmerkez ’de iyi yaşam buluşmaları, yeni yıl sofralarından ilham alarak devam ediyor. 🥗 Beslenme Uzmanı ve Glutensiz Mutfak Şefi Candan Kaplan ile Yazar ve Deneyim Tasarımcısı Selin Kutucular’ın katılacağı ve @mudoconcept ile haz",
+      "startsAt": "2026-11-23",
+      "publishedAt": "2026-11-20",
+      "title": "Selin Kutucular ile “Sofrada İyi Hissetmek”",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/e55ef0f6-1c32-4518-9516-b88d75580dbf.jpeg?1795159143783?1795159143783",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "isil-tan-ve-bihter-ayyildiz-ile-topraktan-ruha-iyi-yasamin-yolculugu",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/isil-tan-ve-bihter-ayyildiz-ile-topraktan-ruha-iyi-yasamin-yolculugu",
+      "description": "Live Well @akmerkez ’de iyi yaşamı keşfetmeye devam ediyoruz. 🌿 Hatice Teyze Doğal Ürünler Kurucusu Işıl Tan ve PlumeMag ve Green Up Meetings Kurucusu Bihter Ayyıldız ile “Topraktan Ruha: İyi Yaşamın Yolculuğu” söyleşisinde buluşuyoruz. Siz",
+      "startsAt": "2026-11-24",
+      "publishedAt": "2026-11-20",
+      "title": "Işıl Tan ve Bihter Ayyıldız ile “Topraktan Ruha: İyi Yaşamın Yolculuğu”",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/bb531368-9c0d-40da-b4dc-7aea09549a0b.jpeg?1795159261848?1795159261848",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "erhan-ali-yilmaz-ve-kardiyoloji-uzmani-dr-tuerker-pabuccu-ile-hayatin-ritmi-zihin-ve-kalp-dengesi",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/erhan-ali-yilmaz-ve-kardiyoloji-uzmani-dr-tuerker-pabuccu-ile-hayatin-ritmi-zihin-ve-kalp-dengesi",
+      "description": "Zihin ve kalp arasındaki dengeyi keşfetmeye hazır mısınız? Topluluk Önünde Konuşma Okulu Kurucusu ve Mindfulness Eğitmeni Erhan Ali Yılmaz ile Kardiyoloji Uzmanı Dr. Türker Pabuccu, “Hayatın Ritmi: Zihin ve Kalp Dengesi” başlıklı buluşmada ",
+      "startsAt": "2026-11-26",
+      "publishedAt": "2026-11-20",
+      "title": "Erhan Ali Yılmaz ve Kardiyoloji Uzmanı Dr. Türker Pabuccu ile “Hayatın Ritmi: Zihin ve Kalp Dengesi”",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/18501dd7-b118-4b0f-b887-113f7e988063.jpeg?1795159308378?1795159308378",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "live-well-ck7vcnxfbq3",
+      "mallId": "akmerkez",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.akmerkez.com.tr/etkinlikler/live-well-ck7vcnxfbq3",
+      "description": "Kullanıcıları ayırt etmek için kullanılır. Tetiklenmesinin ardından 2 sene süre dolumu vardır.",
+      "publishedAt": "2026-11-20",
+      "title": "Live Well",
+      "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/af4e1914-c0ec-4e43-8ff0-d0b3dfe54428.jpeg?1795159826460?1795159826460",
+      "firstSeen": "2026-11-20"
     },
     {
       "id": "35-indirim",
@@ -378,19 +431,6 @@
       "title": "Winterpol Metropol İstanbul",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/b5867699-9d89-4bb8-8160-110c59fa2815.jpeg?1794826433454?1794826433454",
       "firstSeen": "2026-11-16"
-    },
-    {
-      "id": "metropol-pop-up-market",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.metropolistanbul.com/etkinlikler/metropol-pop-up-market",
-      "description": "Butik markalar ve ilham veren keşifler Metropol Pop-Up Market’te! 9-19 Kasım tarihleri arasında Metropol İstanbul zemin katta seni bekleyen birbirinden özel markaları keşfet!",
-      "startsAt": "2026-11-19",
-      "publishedAt": "2026-11-11",
-      "title": "Metropol Pop-Up Market",
-      "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/1b502ade-8137-4671-b327-c2e25a4a5e02.jpeg?1794385020514?1794385020514",
-      "firstSeen": "2026-11-11"
     },
     {
       "id": "kasim-ayina-ozel-indirim",
@@ -1047,19 +1087,6 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "dasdas-karlar-ulkesi-mechule-dogru",
-      "mallId": "istinye-park",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/karlar-ulkesi-mechule-dogru",
-      "title": "Karlar Ülkesi Meçhule Doğru",
-      "startsAt": "2026-11-20",
-      "endsAt": "2026-11-20",
-      "description": "DasDas İstinyePark / İstinye Açık Sahne · 13:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1793360656783-karlar-ulkesi-mechule-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1793360657348-karlar-ulkesi-mechule-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=106f48c0-63a4-4857-88f4-2f07ab4a4c9b",
-      "firstSeen": "2026-11-03"
-    },
-    {
       "id": "dasdas-onum-arkam-duygularim-sobe",
       "mallId": "istinye-park",
       "kind": "event",
@@ -1278,49 +1305,38 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "cocuklar-icin-karikatur-ve-karakter-tasarimi-fabrikasi",
+      "id": "kara-kiz",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/cocuklar-icin-karikatur-ve-karakter-tasarimi-fabrikasi?p=811a7904-8a24-4c1d-af35-f84f2453345f",
-      "description": "Karikatür ve Karakter Tasarımı Fabrikası 19 Kasım’da Zorlu PSM’de!",
-      "startsAt": "2026-11-19",
-      "title": "ÇOCUKLAR İÇİN KARİKATÜR VE KARAKTER TASARIMI FABRİKASI",
+      "url": "https://www.zorlupsm.com/etkinlikler/kara-kiz?p=24d777bf-d5d0-4bde-8120-c96bd661b1b0",
+      "description": "Ecem Erkek’in yazıp oynadığı tek kişilik şarkılı oyun Kara Kız, 90’lı yıllarda geleneksel bir ailede büyüyen bir kızın hikayesi. Küçükken pembelerle bezenip, kabarık eteklerle tüm yolculukları babasının omuzlarında yapan o prenseslerin deği",
+      "title": "KARA KIZ",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-19"
+      "firstSeen": "2026-11-20"
     },
     {
-      "id": "toz-2",
+      "id": "euroleague-anadolu-efes-asvel",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/toz-2?p=3a105441-2064-4427-a4c1-5cf41679af72",
-      "description": "Kasım 2021’de sahnelenmeye başlayan, Afife Tiyatro Ödüllü “TOZ”, bugüne kadar 350’nin üzerinde temsil yaparak tiyatroseverlerin büyük ilgisini kazandı. Oyun, 6. sezonunda da seyirciyle buluşmayı sürdürüyor.",
-      "title": "TOZ",
+      "url": "https://www.zorlupsm.com/etkinlikler/euroleague-anadolu-efes-asvel?p=f18e5e27-9297-43bd-b342-f28405716abf",
+      "description": "EuroLeague grup maçları gösterimleri Vestel Amfi'de!",
+      "title": "EUROLEAGUE: ANADOLU EFES - ASVEL",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-19"
+      "firstSeen": "2026-11-20"
     },
     {
-      "id": "murat-onur-oner-funny-dunya",
+      "id": "senfonil-nil-karaibrahimgil",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/murat-onur-oner-funny-dunya?p=ca4d72f7-98f8-4fc8-ba0a-b8e7baa7d0a3",
-      "description": "Hayatta en istikrar sağladığı şeyin insanları güldürmek olduğunu fark eden Murat Onur Öner, çoklu kişiliklerinden sıyrılıyor ve ilk tek kişilik stand-up gösterisi \"FUNNY DÜNYA\" ile Zorlu PSM %100 Studio'da.",
-      "title": "MURAT ONUR ÖNER - \"FUNNY DÜNYA\"",
+      "url": "https://www.zorlupsm.com/etkinlikler/senfonil-nil-karaibrahimgil?p=d9ff576a-8266-43fe-a335-540922ee7866",
+      "description": "Nil Karaibrahimgil Şek organizasyonuyla 20 Kasım 2026 Cuma akşamı, Zorlu PSM’de müzikseverlerle buluşacak.",
+      "startsAt": "2026-11-20",
+      "title": "SENFONİL | NİL KARAİBRAHİMGİL",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "ozge-ozel-yeni-dokuman",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/ozge-ozel-yeni-dokuman?p=b5acaa42-308e-400a-b68c-aa02a048cd9b",
-      "description": "İlk gösterisi “Çiççek Gibi”yi yayınladıktan sonra kolları sıvayan Özge Özel, artistliğin lüzmu yok diyerek sıvadığı kolları indiriyor, mikrofonu eline alıyor ve konudan konuya ceylan gibi sektiği, ismiyle müsemma yeni gösterisi “Yeni Doküma",
-      "title": "ÖZGE ÖZEL YENİ DOKÜMAN",
-      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-19"
+      "firstSeen": "2026-11-20"
     },
     {
       "id": "forum-wishland-ile-yeni-yilin-buyusu-basliyor",
