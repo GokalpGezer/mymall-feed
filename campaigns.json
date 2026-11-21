@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T13:08:18+00:00",
+  "generatedAt": "2026-11-21T12:54:31+00:00",
   "campaigns": [
     {
       "id": "cocuk-atolyeleri",
@@ -508,6 +508,19 @@
       "firstSeen": "2026-11-18"
     },
     {
+      "id": "dasdas-dimitris-bampillis-ile-gerceklik-tiyatrosunda-hibrit-isler-yaratmak",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/dimitris-bampillis-ile-gerceklik-tiyatrosunda-hibrit-isler-yaratmak",
+      "title": "Dimitris Bampillis ile Gerçeklik Tiyatrosunda Hibrit İşler Yaratmak",
+      "startsAt": "2026-11-26",
+      "endsAt": "2026-11-28",
+      "description": "DasDas Ataşehir / Alternatif Sahne · 10:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1794768261313-gerceklik-tiyatrosu-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1794768261919-gerceklik-tiyatrosu-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=76c75211-14f4-4716-842b-a7b3f3a0a066",
+      "firstSeen": "2026-11-21"
+    },
+    {
       "id": "dasdas-ben-coktan-gidersiniz-sanmistim",
       "mallId": "metropol-istanbul",
       "kind": "event",
@@ -544,19 +557,6 @@
       "endsAt": "2026-11-27",
       "description": "DasDas Ataşehir / Sahne · 20:30",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1792587217151-akustik-hikayeler-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1792587217806-akustik-hikayeler-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=51dbfaaa-7bd3-4058-bc55-ccd1dd29b60c",
-      "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "dasdas-starry-night",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/starry-night",
-      "title": "Starry Night",
-      "startsAt": "2026-11-29",
-      "endsAt": "2026-11-29",
-      "description": "DasDas Ataşehir / Açık Sahne · 14:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1790353702525-starry-night-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1790353703246-starry-night-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=6d0f3987-42d5-4342-b36b-36d2f197ba99",
       "firstSeen": "2026-11-19"
     },
     {
@@ -670,6 +670,18 @@
       "title": "AKIL OYUNLARI ŞENLİĞİ STARCITY OUTLET’TE!",
       "image": "https://www.starcity.com.tr/upload/article/179446815355153.jpg",
       "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "yeni-yila-en-guzel-baslangic-forum-istanbul-yilbasi-koyu",
+      "mallId": "forum-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://forumistanbul.com.tr/etkinlik/yeni-yila-en-guzel-baslangic-forum-istanbul-yilbasi-koyu",
+      "description": "Forum İstanbul Yılbaşı Köyü’nde ücretsiz buz pisti, canlı müzik, kortejler ve çocuk atölyeleriyle yeni yıl heyecanını keşfet!",
+      "publishedAt": "2026-11-20",
+      "title": "Yeni Yıla En Güzel Başlangıç: Forum İstanbul Yılbaşı Köyü",
+      "image": "https://forum-one.knscdn.com/images/event/event_image/main/a725b652-30de-4129-b00e-d3a59dd07325.jpeg?1795186948303?1795186948303",
+      "firstSeen": "2026-11-21"
     },
     {
       "id": "Galeri",
@@ -1251,7 +1263,7 @@
       "isPaid": true,
       "url": "https://www.zorlupsm.com/etkinlikler/new-balance-presents-unseen-kids-tour",
       "description": "New Balance Presents: Unseen Kids Tour Zorlu PSM’de!",
-      "startsAt": "2026-11-21",
+      "startsAt": "2026-11-28",
       "title": "NEW BALANCE PRESENTS: UNSEEN KIDS TOUR",
       "image": "https://www.zorlupsm.com/medium/Activity/Image/2a16f4ee-51d2-46fb-aae7-03d03f4aeb3e",
       "firstSeen": "2026-11-10"
@@ -1305,38 +1317,49 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "kara-kiz",
+      "id": "bir-bedenin-sahneleri-scenes-of-a-body",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/kara-kiz?p=24d777bf-d5d0-4bde-8120-c96bd661b1b0",
-      "description": "Ecem Erkek’in yazıp oynadığı tek kişilik şarkılı oyun Kara Kız, 90’lı yıllarda geleneksel bir ailede büyüyen bir kızın hikayesi. Küçükken pembelerle bezenip, kabarık eteklerle tüm yolculukları babasının omuzlarında yapan o prenseslerin deği",
-      "title": "KARA KIZ",
+      "url": "https://www.zorlupsm.com/etkinlikler/bir-bedenin-sahneleri-scenes-of-a-body?p=bb6c6ab9-58b8-47b5-a966-cce6e80ed2c4",
+      "description": "Bir Bedenin Sahneleri, bedenin hafızası, dönüşümü, sınırları ve olasılıkları üzerine şiirsel ve samimi bir performans. Hareket, jest ve bedenin varlığı aracılığıyla performans; çocukları kendi bedenlerini merak ve özenle keşfetmeye, her ayr",
+      "title": "BİR BEDENİN SAHNELERİ (SCENES OF A BODY)",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-20"
+      "firstSeen": "2026-11-21"
     },
     {
-      "id": "euroleague-anadolu-efes-asvel",
+      "id": "fikirden-markaya-yapay-zeka-ile-uretim-atolyesi",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/euroleague-anadolu-efes-asvel?p=f18e5e27-9297-43bd-b342-f28405716abf",
-      "description": "EuroLeague grup maçları gösterimleri Vestel Amfi'de!",
-      "title": "EUROLEAGUE: ANADOLU EFES - ASVEL",
+      "url": "https://www.zorlupsm.com/etkinlikler/fikirden-markaya-yapay-zeka-ile-uretim-atolyesi?p=9acad65e-5c40-43e3-8c17-d5e2e497ad1a",
+      "description": "Projeni hayata geçirip bir markaya dönüştürme yolculuğunda yeni nesil teknolojileri keşfetme zamanı.",
+      "title": "FİKİRDEN MARKAYA: YAPAY ZEKA İLE ÜRETİM ATÖLYESİ",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-20"
+      "firstSeen": "2026-11-21"
     },
     {
-      "id": "senfonil-nil-karaibrahimgil",
+      "id": "garanti-bbva-genc-konserleri-neo-turkish-psych-by-gaye-su-akyol",
       "mallId": "zorlu-center",
       "kind": "event",
       "isPaid": true,
-      "url": "https://www.zorlupsm.com/etkinlikler/senfonil-nil-karaibrahimgil?p=d9ff576a-8266-43fe-a335-540922ee7866",
-      "description": "Nil Karaibrahimgil Şek organizasyonuyla 20 Kasım 2026 Cuma akşamı, Zorlu PSM’de müzikseverlerle buluşacak.",
-      "startsAt": "2026-11-20",
-      "title": "SENFONİL | NİL KARAİBRAHİMGİL",
+      "url": "https://www.zorlupsm.com/etkinlikler/garanti-bbva-genc-konserleri-neo-turkish-psych-by-gaye-su-akyol?p=38e59de7-d7d0-402c-9c6d-eeba956cc013",
+      "description": "Garanti BBVA Genç Konserleri: Neo Turkish Psych by Gaye Su Akyol, 21 Kasım’da Zorlu PSM’de!",
+      "startsAt": "2026-11-21",
+      "title": "GARANTİ BBVA GENÇ KONSERLERİ: NEO TURKISH PSYCH BY GAYE SU AKYOL",
       "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
-      "firstSeen": "2026-11-20"
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "id": "date-night-with-tugrul-tulek",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/date-night-with-tugrul-tulek?p=25d49852-bfa4-48ff-a40c-6027267534d4",
+      "description": "‘Tuğrul Tülek ile Date Night Şarkıları’ oyuncu, yönetmen ve müzisyen olarak sanat dünyasında farklı disiplinlerdeki performanslarıyla tanınan Tuğrul Tülek’in yeni sahne projesi.",
+      "title": "DATE NIGHT WITH TUĞRUL TÜLEK",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-21"
     },
     {
       "id": "forum-wishland-ile-yeni-yilin-buyusu-basliyor",
@@ -1360,6 +1383,43 @@
       "title": "GUPİ VE GÜLMEYEN KRAL WORLD CINEZONE IMAX'TE!",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/67487f08-888c-4cb5-ad02-fcc3dbb470fe.png?v=sSJNCefvvN7J5jlFZzHj9beCCXcsUTd0zDiNivamxqM",
       "firstSeen": "2026-11-08"
+    },
+    {
+      "id": "united-colors-of-benettonda-black-friday",
+      "mallId": "marmara-forum",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/62/united-colors-of-benettonda-black-friday/",
+      "description": "TÜM ÜRÜNLERDE %40 İNDİRİM 1 HAFTA GEÇERLİDİR.",
+      "title": "UNITED COLORS OF BENETTON'da BLACK FRIDAY!",
+      "image": "https://www.marmaraforum.com.tr/Images/Photos/bbadd570-8ae5-4cac-9ea6-7db034fc2f6c.jpg?v=flrlvakr8BgBLmy687euaRCRXMGY1QZxLTQSYuLpZ04",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "id": "ramseyde-40-net-indirim",
+      "mallId": "marmara-forum",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/60/ramseyde-40-net-indirim/",
+      "description": "Bu kampanya 28 Ekim-30 Kasım 2026 tarihleri arasında RAMSEY mağazalarında RAMSEY markaları yeni sezon takım elbise,çeket ve dış giyim alışverişlerde 2 ve üzeri alımlarda geçerlidir.RAMSEY mağazalarında uygulanan diğer indirim,kampanya,hediye çeki uygulamalarıyla birşeltirilemez.RAMSEY değişiklik yapma hakkını saklı tutar.",
+      "startsAt": "2026-10-28",
+      "endsAt": "2026-11-30",
+      "title": "RAMSEY'DE %40 NET İNDİRİM!",
+      "image": "https://www.marmaraforum.com.tr/Images/Photos/0e707682-386e-40c2-af6c-ca25ba3606b9.jpg?v=vbZH6QFvlkCl_dGR-qWKH21iY6hSJJp_Kl1csPhHnKI",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "id": "kipde-40-indirim",
+      "mallId": "marmara-forum",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/59/kipde-40-indirim/",
+      "description": "Bu kampanya 5 Kasım - 31 Aralık 2026 tarihleri arasında KİP mağazalarında KİP markalı 2 ve üzeri takım elbise, ceket, dış giyim alışverişlerinde geçerlidir. KİP mağazalarında uygulanan diğer indirim, kampanya, hediye çeki uygulamaları ile birleştirilemez. Kip değişiklik yapma hakkını saklı tutar.",
+      "startsAt": "2026-11-05",
+      "endsAt": "2026-12-31",
+      "title": "KIP'de %40 İNDİRİM!",
+      "image": "https://www.marmaraforum.com.tr/Images/Photos/55439fa7-a8fb-4c67-89fb-f649ff06e389.jpg?v=MOo0eOmTrTGlH66TPEum2DPtqB0jCEls_4zdl9muNfw",
+      "firstSeen": "2026-11-21"
     },
     {
       "id": "kasim-ayina-ozel-oyuncak-indirimleri-toysrusta",
@@ -1467,28 +1527,6 @@
       "endsAt": "2026-11-29",
       "title": "COLUMBİA BÜYÜK KASIM FIRSATLARI!",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/89138a99-9978-4581-9240-73bea94cf694.jpg?v=QuZUQAP3sc-h6ie6mVHL0K--COZzwJYRd_ZBm4hiHAk",
-      "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "amasya-et-urunlerinde-bakiyenizi-lezzete-donusturun",
-      "mallId": "marmara-forum",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/31/amasya-et-urunlerinde-bakiyenizi-lezzete-donusturun/",
-      "description": "Ödemeler yalnızca mobil uygulama (karekod) üzerinden yapılır. Fiziki kartla ödeme alınmamaktadır.",
-      "title": "AMASYA ET ÜRÜNLERİ'nde BAKİYENİZİ LEZZETE DÖNÜŞTÜRÜN!",
-      "image": "https://www.marmaraforum.com.tr/Images/Photos/03597897-f74b-4c89-b178-df8d791809c8.jpeg?v=a6hJRDHh7PxItRHnCCVyeCkrLUPVTlphbkqGQhUOwyM",
-      "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "sushivespiceda-sinirsiz-lezzetler",
-      "mallId": "marmara-forum",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/30/sushivespiceda-sinirsiz-lezzetler/",
-      "description": "Her gün 12:00-17:00 arasında sınırsız açık büfe.",
-      "title": "SUSHI&SPICE'da SINIRSIZ LEZZETLER!",
-      "image": "https://www.marmaraforum.com.tr/Images/Photos/2ae6d675-4321-433f-8c31-14597c60e5ce.jpeg?v=oRZzAKvskil2GPw1CiP2lTu5QwA0Vo6pRulDGO0uNlY",
       "firstSeen": "2026-11-08"
     },
     {
