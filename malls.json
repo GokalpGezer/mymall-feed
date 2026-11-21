@@ -661,17 +661,6 @@
       "logo": "assets/mall_logos/metropol-istanbul.png"
     },
     {
-      "id": "bulvar-216",
-      "name": "Bulvar 216",
-      "city": "Ataşehir",
-      "active": true,
-      "location": {
-        "lat": 40.99436,
-        "lng": 29.11057
-      },
-      "logo": "assets/mall_logos/bulvar-216.png"
-    },
-    {
       "id": "brandium",
       "name": "Brandium",
       "city": "Ataşehir",
@@ -856,6 +845,17 @@
         "lat": 40.9995295,
         "lng": 28.7994611
       }
+    },
+    {
+      "id": "citys-istanbul",
+      "name": "City's İstanbul",
+      "city": "Ataşehir",
+      "active": true,
+      "location": {
+        "lat": 40.97919,
+        "lng": 29.09984
+      },
+      "logo": "assets/mall_logos/citys-nisantasi.png"
     }
   ]
 }
