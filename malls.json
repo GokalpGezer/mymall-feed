@@ -856,6 +856,17 @@
         "lng": 29.09984
       },
       "logo": "assets/mall_logos/citys-nisantasi.png"
+    },
+    {
+      "id": "istanbul-avm",
+      "name": "İstanbul Alışveriş Merkezi",
+      "city": "Ümraniye",
+      "active": true,
+      "location": {
+        "lat": 41.0014568,
+        "lng": 29.10941445
+      },
+      "logo": "assets/mall_logos/istanbul-avm.png"
     }
   ]
 }

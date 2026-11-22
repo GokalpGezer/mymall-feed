@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:52:24+00:00",
+  "generatedAt": "2026-11-22T20:35:31+00:00",
   "news": [
     {
       "id": "news-37b00ab11d4c",
@@ -279,7 +279,7 @@
       "id": "news-0e466368942c",
       "brand": "Dagi",
       "title": "Dagi — %50 indirim",
-      "description": "Erkek İç Giyimde Net %50 İndirim; İç Giyimde Net %50 İndirim; Yeni Sezonda Net %50 İndirim",
+      "description": "İç Giyimde Net %50 İndirim; Yeni Sezonda Net %50 İndirim",
       "source": "Dagi",
       "url": "https://www.dagi.com.tr/kampanyalar",
       "verifiedAt": "2026-11-22"
@@ -931,7 +931,7 @@
       "endsAt": "2026-11-22"
     },
     {
-      "id": "news-c927b918d2c8",
+      "id": "news-a92041989647",
       "brand": "Macro Center",
       "title": "Macro Center — %20 indirim",
       "description": "18 - 30 Kasım Süper Bilim Setlerinde %20 İndirim",
@@ -939,7 +939,7 @@
       "url": "https://www.macrocenter.com.tr/kampanyalar",
       "verifiedAt": "2026-11-22",
       "startsAt": "2026-11-18",
-      "endsAt": "2026-12-31"
+      "endsAt": "2026-11-30"
     },
     {
       "id": "news-e522c4087141",
