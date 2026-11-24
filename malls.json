@@ -434,16 +434,6 @@
       "logo": "assets/mall_logos/deposite.png"
     },
     {
-      "id": "merkez-kayasehir",
-      "name": "Merkez Kayaşehir",
-      "city": "Başakşehir",
-      "active": false,
-      "location": {
-        "lat": 41.10794,
-        "lng": 28.75755
-      }
-    },
-    {
       "id": "olimpa",
       "name": "Olimpa",
       "city": "Başakşehir",
