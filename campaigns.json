@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:33:07+00:00",
+  "generatedAt": "2026-11-26T14:02:59+00:00",
   "campaigns": [
     {
       "id": "atirus-karaca-kapanis",
@@ -50,6 +50,178 @@
       }
     },
     {
+      "id": "alisveris-tasarim-gunleri",
+      "mallId": "tepe-nautilus",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.tepenautilus.com/etkinlikler/alisveris-tasarim-gunleri",
+      "description": "Kullanıcıları ayırt etmek için kullanılır. Tetiklenmesinin ardından 2 sene süre dolumu vardır.",
+      "title": "Alışveriş Tasarım Günleri",
+      "sourcePage": "https://www.tepenautilus.com/etkinlikler",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T10:13:57+00:00",
+      "lastCheckedAt": "2026-11-26T10:13:57+00:00"
+    },
+    {
+      "id": "yilbasi-alisveris-ve-tasarim-guenleri",
+      "mallId": "tepe-nautilus",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.tepenautilus.com/etkinlikler/yilbasi-alisveris-ve-tasarim-guenleri",
+      "description": "Kullanıcıları ayırt etmek için kullanılır. Tetiklenmesinin ardından 2 sene süre dolumu vardır.",
+      "title": "Yılbaşı Alışveriş Ve Tasarım Günleri",
+      "sourcePage": "https://www.tepenautilus.com/etkinlikler",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T10:13:57+00:00",
+      "lastCheckedAt": "2026-11-26T10:13:57+00:00"
+    },
+    {
+      "id": "cumhuriyet-coskusunu-birlikte-kutlayalim",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/cumhuriyet-coskusunu-birlikte-kutlayalim/",
+      "description": "Cumhuriyetimizin değerlerini yaşatmanın gururuyla, bu anlamlı günü hep birlikte coşkuyla paylaşalım.",
+      "title": "Cumhuriyet Coşkusunu Birlikte Kutlayalım!",
+      "sourcePage": "https://akbati.com/etkinlikler/",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T10:13:57+00:00",
+      "lastCheckedAt": "2026-11-26T10:13:57+00:00"
+    },
+    {
+      "id": "cumhuriyet-coskusunu-akbatida-yasa",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/cumhuriyet-coskusunu-akbatida-yasa/",
+      "description": "Akbatı mobil uygulamasını indir, danışma noktasında göster, sinema ve patlamış mısır hediyeni al.",
+      "title": "Cumhuriyet Coşkusunu Akbatı’da Yaşa!",
+      "sourcePage": "https://akbati.com/etkinlikler/",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T10:13:57+00:00",
+      "lastCheckedAt": "2026-11-26T10:13:57+00:00"
+    },
+    {
+      "id": "teknosa-ile-eglence-kesif-ve-surprizler-akbatida",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/teknosa-ile-eglence-kesif-ve-surprizler-akbatida/",
+      "description": "Teknosa ile eğlence, keşif ve sürprizler Akbatı’da !",
+      "title": "Teknosa İle Eğlence, Keşif ve Sürprizler Akbatı’da!",
+      "sourcePage": "https://akbati.com/etkinlikler/",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T10:13:57+00:00",
+      "lastCheckedAt": "2026-11-26T10:13:57+00:00"
+    },
+    {
+      "id": "acik-hava-sinemasi-akbatida",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/acik-hava-sinemasi-akbatida/",
+      "description": "Açık Hava Sineması, Akbatı’da! Yıldızların altında, açık havada sinema keyfi… Bu yazın en güzel film geceleri Akbatı’da!",
+      "title": "Açık Hava Sineması, Akbatı’da!",
+      "sourcePage": "https://akbati.com/etkinlikler/",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T10:13:57+00:00",
+      "lastCheckedAt": "2026-11-26T10:13:57+00:00"
+    },
+    {
+      "id": "cocuk-tiyatrosu-senligi-akbatida",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/cocuk-tiyatrosu-senligi-akbatida/",
+      "description": "Bu Yaz Hafta Sonları Tiyatroyla Renklensin",
+      "title": "Çocuk Tiyatrosu Şenliği Akbatı’da",
+      "sourcePage": "https://akbati.com/etkinlikler/",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T10:13:57+00:00",
+      "lastCheckedAt": "2026-11-26T10:13:57+00:00"
+    },
+    {
+      "id": "loccitane-akbati",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/loccitane-akbati/",
+      "description": "L’Occitane’in mis kokulu ikonik el kremleri ile deneyim ve size özel sürprizler için L’Occitane Akbatı alanında buluşalım!",
+      "title": "L’OCCITANE | Akbatı",
+      "sourcePage": "https://akbati.com/etkinlikler/",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T10:13:57+00:00",
+      "lastCheckedAt": "2026-11-26T10:13:57+00:00"
+    },
+    {
+      "id": "akbati-terasta-yoga",
+      "mallId": "akbati",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://akbati.com/etkinlikler/akbati-terasta-yoga/",
+      "description": "• Katılım ücretsizdir. • Etkinlik kontenjanla sınırlıdır. • Katılım için Akbatı Mobil Uygulaması üzerinden rezervasyon kodu alınması gerekmektedir.",
+      "title": "Akbatı Teras’ta Yoga",
+      "sourcePage": "https://akbati.com/etkinlikler/",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T10:13:57+00:00",
+      "lastCheckedAt": "2026-11-26T10:13:57+00:00"
+    },
+    {
+      "id": "akbatinin-web-sitesine-gir-surpriz-hediyeni-yakala-2",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/akbatinin-web-sitesine-gir-surpriz-hediyeni-yakala-2/",
+      "publishedAt": "2026-11-25",
+      "description": "Akbatı’nın Web Sitesine Gir, Sürpriz Hediyeni Yakala!\n2026-11-25\nTüm Kampanyalar\nAkbatı’nın Web Sitesine Gir, Sürpriz Hediyeni Yakala!\nAkbatı’nın web sitesindeki katılım formunu doldurun, her 10. katılımcıdan biri olun!\nToplam 10 kişi, sürpriz hediye‘nin sahibi olacak.\n*Hediyeler stoklarla sınırlıdır.\n*Katılım koşulları için www.akbati.com adresini ziyaret edin.",
+      "title": "Akbatı’nın Web Sitesine Gir, Sürpriz Hediyeni Yakala!",
+      "sourcePage": "https://akbati.com/kampanyalar/",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T10:13:57+00:00",
+      "lastCheckedAt": "2026-11-26T10:13:57+00:00"
+    },
+    {
+      "id": "akbati-mobil-uygulamasi-kullanicilari-kazaniyor",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/akbati-mobil-uygulamasi-kullanicilari-kazaniyor/",
+      "description": "Akbatı Mobil Uygulaması Kullanıcıları Kazanıyor\nTüm Kampanyalar",
+      "title": "Akbatı Mobil Uygulaması Kullanıcıları Kazanıyor",
+      "sourcePage": "https://akbati.com/kampanyalar/",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T10:13:57+00:00",
+      "lastCheckedAt": "2026-11-26T10:13:57+00:00"
+    },
+    {
+      "id": "akbatinin-yeni-web-sitesine-gir-surpriz-hediyeni-yakala",
+      "mallId": "akbati",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://akbati.com/kampanyalar/akbatinin-yeni-web-sitesine-gir-surpriz-hediyeni-yakala/",
+      "description": "Akbatı’nın Yeni Web Sitesine Gir, Sürpriz Hediyeni Yakala!\nTüm Kampanyalar\nAkbatı’nın Yeni Web Sitesine Gir, Sürpriz Hediyeni Yakala!\nAkbatı’nın yeni web sitesindeki katılım formunu doldurun, her 10. katılımcıdan biri olun! Toplam 20 kişi, 1,000 TL değerinde Boyner Hediye Çeki‘nin sahibi olacak.\n*Hediyeler stoklarla sınırlıdır.\n*Katılım koşulları için www.akbati.com adresini ziyaret edin",
+      "title": "Akbatı’nın Yeni Web Sitesine Gir, Sürpriz Hediyeni Yakala!",
+      "sourcePage": "https://akbati.com/kampanyalar/",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T10:13:57+00:00",
+      "lastCheckedAt": "2026-11-26T10:13:57+00:00"
+    },
+    {
+      "id": "ama-bu-baligin-parmaklari-var",
+      "mallId": "akasya",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.ak-asya.com.tr/akasya-etkinlikler/",
+      "title": "Ama Bu Balığın Parmakları Var",
+      "startsAt": "2026-11-28",
+      "endsAt": "2026-11-29",
+      "description": "13.00 · Akasya Kültür Sanat",
+      "image": "https://www.ak-asya.com.tr/wp-content/uploads/2026/01/28Kasim_BaliginParmaklari.jpg",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T10:13:57+00:00",
+      "lastCheckedAt": "2026-11-26T10:13:57+00:00"
+    },
+    {
       "id": "yilbasi-festivali",
       "mallId": "maltepe-park",
       "title": "Yılbaşı Festivali",
@@ -59,8 +231,8 @@
       "description": "Dev yılbaşı dekorları, birbirinden özel fotoğraf çekim alanları, yılbaşı postanesi, tren, atlıkarınca dekoru, kar küresi ve sürprizlerle dolu büyülü bir dünya Yılbaşı Festivali Maltepealtepe Park'ta sizi bekliyor.",
       "url": "https://maltepeparkavm.com/tr/etkinlikler-kampanyalar/yilbasi-festivali",
       "firstSeen": "2026-11-25",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "i-ri-s-fotograf-sergi-si",
@@ -71,8 +243,8 @@
       "image": "https://kozzyavm.com/storage/kozzyavm/event/November2026/sergi-kozzy-1280x720px.webp",
       "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/i-ri-s-fotograf-sergi-si",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "kozyatagi-kultur-merkezi-kasim-ayi-tiyatro-programi",
@@ -83,8 +255,8 @@
       "image": "https://kozzyavm.com/storage/kozzyavm/event/November2026/kkm-kozzy-1280x720.webp",
       "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/kozyatagi-kultur-merkezi-kasim-ayi-tiyatro-programi",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "kozzy-kasim-alisveris-festivali",
@@ -95,8 +267,8 @@
       "image": "https://kozzyavm.com/storage/kozzyavm/event/November2026/alisveris-fesitivali-kozzy-1280x720px.webp",
       "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/kozzy-kasim-alisveris-festivali",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "i-yilige-sende-bir-i-lmek-at",
@@ -107,8 +279,8 @@
       "image": "https://kozzyavm.com/storage/kozzyavm/event/October2026/losev-dijital-1280x720px.webp",
       "url": "https://kozzyavm.com/tr/etkinlikler-kampanyalar/i-yilige-sende-bir-i-lmek-at",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "source-d27b4b8dd140ec498f",
@@ -121,8 +293,8 @@
       "image": "https://www.flyinn.com.tr/resimler/orta/post1080x1350_2432.jpg",
       "publishedAt": "2026-11-02",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "source-147b0cb997cb8b6073",
@@ -137,8 +309,37 @@
       "startsAt": "2026-10-16",
       "endsAt": "2027-01-17",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-22T20:30:58+00:00",
-      "lastCheckedAt": "2026-11-22T20:30:58+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "kasim-ara-tatilinde-eglence-sanat-ve-yaraticilik-mall-of-istanbul-da-bulusuyor",
+      "mallId": "mall-of-istanbul",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/etkinlikler/kasim-ara-tatilinde-eglence-sanat-ve-yaraticilik-mall-of-istanbul-da-bulusuyor",
+      "description": "Çocuklar için birbirinden keyifli gösteriler, yaratıcı atölyeler, müzik ve hareket dolu etkinlikler ara tatil boyunca Mall of İstanbul’da sizi bekliyor! 💫",
+      "publishedAt": "2026-11-13",
+      "title": "Expired",
+      "sourcePage": "https://www.mallofistanbul.com.tr/etkinlikler",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/event/event_listing_image_tr/main/47ba132a-f7e7-4356-bae0-a9f29ec3ecf6.jpeg?1794578477091?1794578477091",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "yargici-ss2u1i_y-ju",
+      "mallId": "mall-of-istanbul",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.mallofistanbul.com.tr/firsatlar/yargici-ss2u1i_y-ju",
+      "publishedAt": "2026-11-26",
+      "title": "Yargıcı",
+      "sourcePage": "https://www.mallofistanbul.com.tr/firsatlar",
+      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/bc053f0e-be42-429f-8774-74a6fe158d20.jpeg?1795684909899?1795684909899",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "zsa-zsa-zsu-hqvgdpa6d1q",
@@ -151,8 +352,8 @@
       "sourcePage": "https://www.mallofistanbul.com.tr/firsatlar",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/b1e734a5-5e93-4776-90ce-2fcbba6a2e4a.jpeg?1795438409554?1795438409554",
       "firstSeen": "2026-11-23",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "porland-uoqpq4tizco",
@@ -166,8 +367,8 @@
       "sourcePage": "https://www.mallofistanbul.com.tr/firsatlar",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/8c6e9afd-4ce0-470f-a31f-06e171bcc263.jpeg?1795431273310?1795431273310",
       "firstSeen": "2026-11-23",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "faik-sonmez-gmaiy6crpyd",
@@ -180,8 +381,8 @@
       "sourcePage": "https://www.mallofistanbul.com.tr/firsatlar",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/ba8dc0e4-fe51-4f29-a5d6-9dfab1ec5605.jpeg?1795425107323?1795425107323",
       "firstSeen": "2026-11-23",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "neslihan-canpolat-uxj_r7w2ykf",
@@ -195,8 +396,8 @@
       "sourcePage": "https://www.mallofistanbul.com.tr/firsatlar",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f664e750-ab0f-401f-b46a-9e41882996f2.jpeg?1795417035706?1795417035706",
       "firstSeen": "2026-11-23",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "penelope-xp5qje8omnv",
@@ -209,8 +410,8 @@
       "sourcePage": "https://www.mallofistanbul.com.tr/firsatlar",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/be041e55-7698-4523-9fec-ca242bda0eff.jpeg?1795095744356?1795095744356",
       "firstSeen": "2026-11-20",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "ecco-qbhee9cmfld",
@@ -223,8 +424,8 @@
       "sourcePage": "https://www.mallofistanbul.com.tr/firsatlar",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/856051af-549b-4485-ae88-fb1f4e2eafe9.jpeg?1795003900398?1795003900398",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "jumbo-x-homend",
@@ -237,8 +438,8 @@
       "sourcePage": "https://www.mallofistanbul.com.tr/firsatlar",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/7b8da7dc-7b4c-4ed7-aec3-e6a7b9b873f2.jpeg?1794895871253?1794895871253",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "idilbaby-ve-mamino-wwz1eght9s",
@@ -252,8 +453,8 @@
       "sourcePage": "https://www.mallofistanbul.com.tr/firsatlar",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/f55a68c5-54db-48aa-9368-bcec12c78042.jpeg?1794485858067?1794485858067",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "takma-takma",
@@ -267,8 +468,8 @@
       "sourcePage": "https://www.mallofistanbul.com.tr/firsatlar",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/1d9fd0e0-89b3-4b07-aa06-84138030c1ab.jpeg?1794212325234?1794212325234",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "carl-s-jr-nv2vuggsw2i",
@@ -282,23 +483,8 @@
       "sourcePage": "https://www.mallofistanbul.com.tr/firsatlar",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/4d00df62-f1c8-43aa-9472-2041c0ed6034.jpeg?1793963284261?1793963284261",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
-    },
-    {
-      "id": "yargici-rsoatce672",
-      "mallId": "mall-of-istanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.mallofistanbul.com.tr/firsatlar/yargici-rsoatce672",
-      "description": "%40'a Varan İndirim",
-      "publishedAt": "2026-11-04",
-      "title": "Yargıcı",
-      "sourcePage": "https://www.mallofistanbul.com.tr/firsatlar",
-      "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/0e730026-4216-45e2-9d03-272df7375648.jpeg?1793774009680?1793774009680",
-      "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "deichmann-3wmi4qu2vlr",
@@ -311,8 +497,8 @@
       "sourcePage": "https://www.mallofistanbul.com.tr/firsatlar",
       "image": "https://mall-of-istanbul.s3.eu-central-1.amazonaws.com/images/promotion/promotion_listing_image_tr/main/801cf475-28b2-4259-804c-8a60cc69208d.jpeg?1793705344671?1793705344671",
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "erhan-ali-yilmaz-ve-kardiyoloji-uzmani-dr-tuerker-pabuccu-ile-hayatin-ritmi-zihin-ve-kalp-dengesi",
@@ -327,8 +513,8 @@
       "sourcePage": "https://www.akmerkez.com.tr/etkinlikler",
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/18501dd7-b118-4b0f-b887-113f7e988063.jpeg?1795159308378?1795159308378",
       "firstSeen": "2026-11-20",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "live-well-ck7vcnxfbq3",
@@ -342,8 +528,8 @@
       "sourcePage": "https://www.akmerkez.com.tr/etkinlikler",
       "image": "https://akis-gyo.s3.eu-central-1.amazonaws.com/images/event/event_image/main/af4e1914-c0ec-4e43-8ff0-d0b3dfe54428.jpeg?1795159826460?1795159826460",
       "firstSeen": "2026-11-20",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "35-indirim",
@@ -354,8 +540,8 @@
       "title": "%35 İndirim",
       "sourcePage": "https://www.akmerkez.com.tr/firsatlar",
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "30-indirim",
@@ -366,8 +552,8 @@
       "title": "%30 İndirim",
       "sourcePage": "https://www.akmerkez.com.tr/firsatlar",
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "40-indirim",
@@ -378,8 +564,8 @@
       "title": "%40 İndirim",
       "sourcePage": "https://www.akmerkez.com.tr/firsatlar",
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "winter-wonder-hediye-kuepue-bilgi-yarismasi",
@@ -393,8 +579,8 @@
       "sourcePage": "https://www.vadistanbul.com/etkinlikler",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/Syu6YpzJXe-main.jpeg?1795508672806",
       "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "winter-wonder-haftalik-program-syxfrkag1qx",
@@ -408,8 +594,8 @@
       "sourcePage": "https://www.vadistanbul.com/etkinlikler",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/rkMSJpGJXe-main.jpeg?1795505978610",
       "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "winter-wonder-sahne-programi-r1xsrpeo0ge",
@@ -423,8 +609,8 @@
       "sourcePage": "https://www.vadistanbul.com/etkinlikler",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/B1rSDN_0Gl-main.jpeg?1794815805631",
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "winter-wonder-byrcleoafx",
@@ -438,22 +624,8 @@
       "sourcePage": "https://www.vadistanbul.com/etkinlikler",
       "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/event_image/BkVAI4ORGg-main.jpeg?1794815693440",
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
-    },
-    {
-      "id": "2-ueruene-50-az-oede",
-      "mallId": "vadistanbul",
-      "kind": "discount",
-      "isPaid": false,
-      "url": "https://www.vadistanbul.com/alisveris-firsatlari/2-ueruene-50-az-oede",
-      "publishedAt": "2026-11-25",
-      "title": "Find out more",
-      "sourcePage": "https://www.vadistanbul.com/alisveris-firsatlari",
-      "image": "https://s3-eu-central-1.amazonaws.com/vadi-istanbul/images/promotion_image/rJu5prVyQl-small.jpeg?1795607952745",
-      "firstSeen": "2026-11-25",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "winterpol-metropol-istanbul",
@@ -467,8 +639,8 @@
       "sourcePage": "https://www.metropolistanbul.com/etkinlikler",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/event/event_image_cover_tr/main/b5867699-9d89-4bb8-8160-110c59fa2815.jpeg?1794826433454?1794826433454",
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "kasim-ayina-ozel-indirim",
@@ -482,8 +654,8 @@
       "sourcePage": "https://www.metropolistanbul.com/firsatlarimiz",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/offer/offer_image_cover_tr/main/b0dc6e64-5fd6-46f5-a127-201c21548bdd.jpeg?1794378850422?1794378850422",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "blak-coffee-co-diledigin-tatli-ve-kahve-400-tl",
@@ -497,8 +669,8 @@
       "sourcePage": "https://www.metropolistanbul.com/firsatlarimiz",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/offer/offer_image_cover_tr/main/3ba26775-6952-41f0-ba54-24d3049940c4.jpeg?1794828262687?1794828262687",
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "ogle-menusu-25-indirim",
@@ -514,23 +686,8 @@
       "sourcePage": "https://www.metropolistanbul.com/firsatlarimiz",
       "image": "https://citypartners.fra1.digitaloceanspaces.com/images/offer/offer_image_cover_tr/main/811aa7ce-880f-407b-be2d-879c0b9f3986.jpeg?1795529134723?1795529134723",
       "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
-    },
-    {
-      "id": "dasdas-dimitris-bampillis-ile-gerceklik-tiyatrosunda-hibrit-isler-yaratmak",
-      "mallId": "metropol-istanbul",
-      "kind": "event",
-      "isPaid": true,
-      "url": "https://www.dasdas.com.tr/event/dimitris-bampillis-ile-gerceklik-tiyatrosunda-hibrit-isler-yaratmak",
-      "title": "Dimitris Bampillis ile Gerçeklik Tiyatrosunda Hibrit İşler Yaratmak",
-      "startsAt": "2026-11-26",
-      "endsAt": "2026-11-28",
-      "description": "DasDas Ataşehir / Alternatif Sahne · 10:00",
-      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1794768261313-gerceklik-tiyatrosu-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1794768261919-gerceklik-tiyatrosu-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=76c75211-14f4-4716-842b-a7b3f3a0a066",
-      "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "dasdas-ben-coktan-gidersiniz-sanmistim",
@@ -544,8 +701,8 @@
       "description": "DasDas Ataşehir / Sahne · 20:30",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1791295017614-ben-coktan-gidersiniz-sanmistim-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1791295018158-ben-coktan-gidersiniz-sanm-st-m-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=96bede07-8c7f-492f-a0ac-9bcef4eb8b2e",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "dasdas-tam-suramda-duruyor",
@@ -559,8 +716,8 @@
       "description": "DasDas Ataşehir / Açık Sahne · 20:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1791295099681-tsd-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1791295100298-tsd-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=f5472415-65e7-4528-a124-adb35cc0ab18",
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "dasdas-tuzbiber-6-li",
@@ -573,8 +730,8 @@
       "endsAt": "2026-11-27",
       "description": "DasDas Ataşehir / Alternatif Sahne · 20:00",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "dasdas-akustik-hikayeler",
@@ -588,8 +745,8 @@
       "description": "DasDas Ataşehir / Sahne · 20:30",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1792587217151-akustik-hikayeler-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1792587217806-akustik-hikayeler-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=51dbfaaa-7bd3-4058-bc55-ccd1dd29b60c",
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "dasdas-starry-night",
@@ -603,8 +760,8 @@
       "description": "DasDas Ataşehir / Açık Sahne · 14:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1790353702525-starry-night-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1790353703246-starry-night-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=6d0f3987-42d5-4342-b36b-36d2f197ba99",
       "firstSeen": "2026-11-22",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "dasdas-oyun-mahalli",
@@ -618,8 +775,8 @@
       "description": "DasDas Ataşehir / Alternatif Sahne · 19:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Foriginals%2Fmedia-1787480212106-pp-2%2F1787480212135-pp-2.png?alt=media&token=39ed6d55-c290-47e4-9d83-896b0dd9cf34",
       "firstSeen": "2026-11-22",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "dasdas-annemin-cenazesi-tiyatro-oyunu",
@@ -633,8 +790,23 @@
       "description": "DasDas Ataşehir / Açık Sahne · 20:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1790070655534-annemin-cenaze-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1790070657024-annemin-cenaze-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=ac323440-187f-4d2f-b17a-99874cbc2564",
       "firstSeen": "2026-11-22",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "dasdas-kanatli-karinca",
+      "mallId": "metropol-istanbul",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.dasdas.com.tr/event/kanatli-karinca",
+      "title": "Kanatlı Karınca",
+      "startsAt": "2026-12-01",
+      "endsAt": "2026-12-01",
+      "description": "DasDas Ataşehir / Açık Sahne · 20:00",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Fprocessed%2Fmedia-1792850297300-kanatli-karinca-etkinlik-hero-gorseli-600x600%2Fv1%2Fsharp-v1.2%2Fcontent-card%2F1792850298010-kanatl-kar-nca-etkinlik-hero-gorseli-600x600-_320w.jpg?alt=media&token=ab142502-b6b0-4763-8798-3e80b2bbb87b",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "yeni-yila-en-guzel-baslangic-forum-istanbul-yilbasi-koyu",
@@ -648,8 +820,8 @@
       "sourcePage": "https://forumistanbul.com.tr/etkinlik-firsat",
       "image": "https://forum-one.knscdn.com/images/event/event_image/main/a725b652-30de-4129-b00e-d3a59dd07325.jpeg?1795186948303?1795186948303",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "concierge-etkinlik.jpg",
@@ -661,8 +833,8 @@
       "sourcePage": "https://www.buyaka.com.tr/etkinlik/",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/etkinlik/concierge-etkinlik.jpg",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "kampanya-araba-2026.jpg",
@@ -674,8 +846,8 @@
       "sourcePage": "https://www.buyaka.com.tr/kampanya/",
       "image": "https://www.buyaka.com.tr/r/w-337_h-477/imgs/kampanya/kampanya-araba-2026.jpg",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "panco-sonbahar-koleksiyonu",
@@ -688,8 +860,8 @@
       "sourcePage": "https://www.firstavenue.com.tr/kampanyalar",
       "image": "https://www.firstavenue.com.tr/img/public/02d06eceaad74e4b88f10840b1c4636b/bd7d58d1af9145ce8d34e966a0c97722.jpg?f=auto&v=3",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "dasdas-onum-arkam-duygularim-sobe",
@@ -703,8 +875,8 @@
       "description": "DasDas İstinyePark / İstinye Açık Sahne · 13:00",
       "image": "https://firebasestorage.googleapis.com/v0/b/dasdas-demo-2.firebasestorage.app/o/media%2Foriginals%2Fmedia-1788969422051-onum-arkam-sobe-etkinlik-hero-gorseli-600x600%2F1788969422080-onum-arkam-sobe-etkinlik-hero-gorseli-600x600-.png?alt=media&token=53d99202-efe8-48ed-bf1d-2a76e54c5f58",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "zorlu-yilbasi-festivali-13",
@@ -717,8 +889,8 @@
       "sourcePage": "https://www.zorlucenter.com.tr/avm/etkinlikler",
       "image": "https://www.zorlucenter.com.tr/media/uwpl2tpq/1140x1368.jpg",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "zorlu-yilbasi-festivali-13-konserler",
@@ -731,22 +903,8 @@
       "sourcePage": "https://www.zorlucenter.com.tr/avm/etkinlikler",
       "image": "https://www.zorlucenter.com.tr/media/osmfsaqf/1140x1368.jpg",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
-    },
-    {
-      "id": "zorlu-yilbasi-festivali-13-soft-analog-konseri",
-      "mallId": "zorlu-center",
-      "kind": "event",
-      "isPaid": false,
-      "url": "https://www.zorlucenter.com.tr/avm/etkinlikler/zorlu-yilbasi-festivali-13-soft-analog-konseri/",
-      "description": "Yeni Yıl heyecanına Soft Analog'un ritimleri eşlik ediyor!",
-      "title": "Zorlu Yılbaşı Festivali 13 - Soft Analog Konseri",
-      "sourcePage": "https://www.zorlucenter.com.tr/avm/etkinlikler",
-      "image": "https://www.zorlucenter.com.tr/media/00mf13ye/1140x1368.jpg",
-      "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "zorlu-yilbasi-festivali-13-pandami-konseri",
@@ -759,8 +917,8 @@
       "sourcePage": "https://www.zorlucenter.com.tr/avm/etkinlikler",
       "image": "https://www.zorlucenter.com.tr/media/kppbh5hn/1140x1368.jpg",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "zorlu-yilbasi-festivali-13-m-lisa-konseri",
@@ -773,8 +931,8 @@
       "sourcePage": "https://www.zorlucenter.com.tr/avm/etkinlikler",
       "image": "https://www.zorlucenter.com.tr/media/r5sjxthc/1140x1368.jpg",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "hupalupa-store-etkinligi",
@@ -787,8 +945,8 @@
       "sourcePage": "https://www.zorlucenter.com.tr/avm/etkinlikler",
       "image": "https://www.zorlucenter.com.tr/media/mgkeyaqy/1140x1368-100.jpg",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "paris-the-show",
@@ -801,8 +959,8 @@
       "title": "PARİS! THE SHOW",
       "sourcePage": "https://www.zorlupsm.com/",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "clap-your-hands-say-yeah",
@@ -816,8 +974,8 @@
       "sourcePage": "https://www.zorlupsm.com/",
       "image": "https://www.zorlupsm.com/medium/Activity/Image/0e841205-001e-45d8-9be5-77be90f1e083",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "new-balance-presents-unseen-kids-tour",
@@ -831,8 +989,8 @@
       "sourcePage": "https://www.zorlupsm.com/",
       "image": "https://www.zorlupsm.com/medium/Activity/Image/2a16f4ee-51d2-46fb-aae7-03d03f4aeb3e",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "arab-strap",
@@ -846,8 +1004,8 @@
       "sourcePage": "https://www.zorlupsm.com/",
       "image": "https://www.zorlupsm.com/medium/Activity/Image/fb270bae-389f-4430-a1d9-65ff4388a30e",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "new-balance-presents-unseen-extreme-tour",
@@ -861,8 +1019,8 @@
       "sourcePage": "https://www.zorlupsm.com/",
       "image": "https://www.zorlupsm.com/medium/Activity/Image/1f78e99b-304b-49f7-ab1c-cae1c2bccb5b",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "resa-saffa-park",
@@ -876,8 +1034,8 @@
       "sourcePage": "https://www.zorlupsm.com/",
       "image": "https://www.zorlupsm.com/medium/Activity/Image/c33ad259-e479-47e2-aa19-2bfb83c618e7",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "giant-rooks",
@@ -891,6 +1049,77 @@
       "sourcePage": "https://www.zorlupsm.com/",
       "image": "https://www.zorlupsm.com/medium/Activity/Image/4121f186-9d3d-4b5f-a957-379308c8b165",
       "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "luka-sulic",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/luka-sulic?p=8c2eadee-5d53-4505-bd4d-644bf1c29728",
+      "description": "2Cellos ile dünya çapında büyük başarılara imza atan Luka Šulić yeni albümü ‘Life Tour’ kapsamında Zorlu PSM’ye geliyor!",
+      "title": "LUKA SULIC",
+      "sourcePage": "https://www.zorlupsm.com/",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "uzun-mesafe-kosucusunun-yalnizligi",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/uzun-mesafe-kosucusunun-yalnizligi?p=45c4c6f1-ec86-4b28-a237-6dae5488ba20",
+      "description": "Uzun Mesafe Koşucusunun Yalnızlığı 26 Kasım'da Zorlu PSM %100 Studio sahnesinde.",
+      "startsAt": "2026-11-26",
+      "title": "UZUN MESAFE KOŞUCUSUNUN YALNIZLIĞI",
+      "sourcePage": "https://www.zorlupsm.com/",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "onur-gokcek-stand-up",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/onur-gokcek-stand-up?p=d069e46d-9a2f-4c4a-983f-87e239b549ab",
+      "description": "Paylaştığı Stand-Up performansları ve Nemlizade dizisi ile beğeni toplayan Onur Gökçek, canlı gösterinin değerini bilenlere, tespitlerle süslediği en yeni ve en komik hikayelerini tek kişilik gösterisinde anlatıyor. Onur Gökçek, touché by N",
+      "title": "ONUR GÖKÇEK STAND UP",
+      "sourcePage": "https://www.zorlupsm.com/",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "poem-x-burn-hayal-yigini-kolektif-yazi-pratigi-atolyesi",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": true,
+      "url": "https://www.zorlupsm.com/etkinlikler/poem-x-burn-hayal-yigini-kolektif-yazi-pratigi-atolyesi?p=932184d8-00fc-482e-8a5c-2b326200c7b3",
+      "description": "Ece Çeşme ve Filiz Ersin ile üretim pratiğini PSM Genç’e taşıyoruz. 📖✍️",
+      "title": "(POEM*) X (BURN) - HAYAL YIĞINI (KOLEKTİF YAZI PRATİĞİ) ATÖLYESİ",
+      "sourcePage": "https://www.zorlupsm.com/",
+      "image": "https://www.zorlupsm.com/_assets/images/star-white.png",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "zorlu-yilbasi-festivali-13-soft-analog-konseri",
+      "mallId": "zorlu-center",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://www.zorlucenter.com.tr/avm/etkinlikler/zorlu-yilbasi-festivali-13-soft-analog-konseri/",
+      "description": "Yeni Yıl heyecanına Soft Analog'un ritimleri eşlik ediyor!",
+      "title": "Zorlu Yılbaşı Festivali 13 - Soft Analog Konseri",
+      "sourcePage": "https://www.zorlucenter.com.tr/avm/etkinlikler",
+      "image": "https://www.zorlucenter.com.tr/media/00mf13ye/1140x1368.jpg",
+      "firstSeen": "2026-11-17",
       "lastSeen": "2026-11-25T14:33:07+00:00",
       "lastCheckedAt": "2026-11-25T14:33:07+00:00"
     },
@@ -1077,6 +1306,58 @@
       "lastCheckedAt": "2026-11-21T14:11:11+00:00"
     },
     {
+      "id": "source-84c8737655794b88a2",
+      "mallId": "viaport-asia",
+      "kind": "discount",
+      "title": "TOMMY HILFIGER kampanyası",
+      "url": "https://www.viaport.com.tr/kampanyalar",
+      "isPaid": false,
+      "sourcePage": "https://www.viaport.com.tr/kampanyalar",
+      "image": "https://kampanya.viaportmarina.com/media/campaigns/web/b85055e2-1da0-4333-b4c3-d7ba6995295d.webp",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "source-5acbb9d1857dcbf569",
+      "mallId": "viaport-asia",
+      "kind": "discount",
+      "title": "DEICHMANN kampanyası",
+      "url": "https://www.viaport.com.tr/kampanyalar",
+      "isPaid": false,
+      "sourcePage": "https://www.viaport.com.tr/kampanyalar",
+      "image": "https://kampanya.viaportmarina.com/media/campaigns/web/62194c03-5c45-4933-8ccf-c8b299216b3c.webp",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "source-b8617a0e2fec65e461",
+      "mallId": "viaport-asia",
+      "kind": "discount",
+      "title": "KAYRA kampanyası",
+      "url": "https://www.viaport.com.tr/kampanyalar",
+      "isPaid": false,
+      "sourcePage": "https://www.viaport.com.tr/kampanyalar",
+      "image": "https://kampanya.viaportmarina.com/media/campaigns/web/a519c94a-ec2b-4f66-8db4-a32759693dbd.webp",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "source-4f89f2b62e5509dadb",
+      "mallId": "viaport-asia",
+      "kind": "discount",
+      "title": "PANÇO kampanyası",
+      "url": "https://www.viaport.com.tr/kampanyalar",
+      "isPaid": false,
+      "sourcePage": "https://www.viaport.com.tr/kampanyalar",
+      "image": "https://kampanya.viaportmarina.com/media/campaigns/web/b93d709f-5045-4b56-a13f-0862b5c97ef2.webp",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
       "id": "toyzz-shopta-eglenceye-davetlisiniz",
       "mallId": "marmara-forum",
       "kind": "event",
@@ -1087,8 +1368,8 @@
       "sourcePage": "https://www.marmaraforum.com.tr/etkinlikler",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/cc535a25-ddfd-42d2-9653-8505d0fd79c3.jpg?v=Tq_iQpfC0v7857EPEeui7NfzXueYS5pw-fkqFKDyqHM",
       "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "forum-wishland-ile-yeni-yilin-buyusu-basliyor",
@@ -1102,8 +1383,8 @@
       "sourcePage": "https://www.marmaraforum.com.tr/etkinlikler",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/10a458f8-15ee-4310-be21-246bfe1f3ee2.jpg?v=aJJ8yqcpDzpYY-fVoqiNiLVxcM5JNNqIT-1-BZQOcHs",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "gupi-ve-gulmeyen-kral-world-cinezone-imaxte",
@@ -1116,8 +1397,24 @@
       "sourcePage": "https://www.marmaraforum.com.tr/etkinlikler",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/67487f08-888c-4cb5-ad02-fcc3dbb470fe.png?v=sSJNCefvvN7J5jlFZzHj9beCCXcsUTd0zDiNivamxqM",
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "marmara-forumda-barbie-findikkiran-fotograf-alanina-davetlisiniz",
+      "mallId": "marmara-forum",
+      "kind": "discount",
+      "isPaid": false,
+      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/63/marmara-forumda-barbie-findikkiran-fotograf-alanina-davetlisiniz/",
+      "description": "Toyzz Shop x Barbie iş birliğiyle Marmara Forum’da gerçekleşecek Barbie Fındıkkıran Fotoğraf Alanı’na davetlisin!\n28-29 Kasım tarihlerinde 13.00-18.00 saatleri arasında masalsı atmosferde fotoğraf çektirerek bu özel anı ölümsüzleştirebilirsin.\nBir Masal, Bir Poz, Sana Özel Bir Hatıra! ✨",
+      "startsAt": "2026-11-28",
+      "endsAt": "2026-11-29",
+      "title": "Marmara Forum'da Barbie Fındıkkıran Fotoğraf Alanına Davetlisiniz!",
+      "sourcePage": "https://www.marmaraforum.com.tr/kampanyalar",
+      "image": "https://www.marmaraforum.com.tr/Images/Photos/9e5cccb5-0d82-427a-81b5-e9807b948bc2.jpg?v=eu1Zv5iWtIKrNyYni3sDDBjnBdSE_CQw81FP8EWlVx8",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "united-colors-of-benettonda-black-friday",
@@ -1130,8 +1427,8 @@
       "sourcePage": "https://www.marmaraforum.com.tr/kampanyalar",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/bbadd570-8ae5-4cac-9ea6-7db034fc2f6c.jpg?v=flrlvakr8BgBLmy687euaRCRXMGY1QZxLTQSYuLpZ04",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "ramseyde-40-net-indirim",
@@ -1146,8 +1443,8 @@
       "sourcePage": "https://www.marmaraforum.com.tr/kampanyalar",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/0e707682-386e-40c2-af6c-ca25ba3606b9.jpg?v=vbZH6QFvlkCl_dGR-qWKH21iY6hSJJp_Kl1csPhHnKI",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "kipde-40-indirim",
@@ -1162,8 +1459,8 @@
       "sourcePage": "https://www.marmaraforum.com.tr/kampanyalar",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/55439fa7-a8fb-4c67-89fb-f649ff06e389.jpg?v=MOo0eOmTrTGlH66TPEum2DPtqB0jCEls_4zdl9muNfw",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "kasim-ayina-ozel-oyuncak-indirimleri-toysrusta",
@@ -1178,8 +1475,8 @@
       "sourcePage": "https://www.marmaraforum.com.tr/kampanyalar",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/71e36020-f0cc-463b-af8f-000452713dfc.jpg?v=gt1IgvSTyr_AEYhmGwwCR1TmHuV611RGowSH8fPxsWo",
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "minisoda-tum-urunlerde-3-al-2-ode-firsati",
@@ -1194,8 +1491,8 @@
       "sourcePage": "https://www.marmaraforum.com.tr/kampanyalar",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/a0a080e5-da3d-4e7b-82c3-9d5170bf591c.png?v=Ek3qHg3ocsY-0b9Wi0Nd3Ljak91LQyBaHJCYdKujhP4",
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "jumboda-buyuk-kampanya",
@@ -1208,8 +1505,8 @@
       "sourcePage": "https://www.marmaraforum.com.tr/kampanyalar",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/de41d4d0-e2a0-44e1-a290-9ba7fc2fc17c.jpg?v=daL90_SJ8qCoEt5A1nvhW2WY-ZDiTXPFbsH5aN4UvAE",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "jumboda-kitchenaid",
@@ -1222,8 +1519,8 @@
       "sourcePage": "https://www.marmaraforum.com.tr/kampanyalar",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/5215abcc-6970-420b-ba0d-ef6a153ca081.jpg?v=ExfXND1Y5YnFeyT8IS1U3HVRc9DNq9bZF1ebFllMNP0",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "candyzoo-marmara-forumda-acildi",
@@ -1235,8 +1532,8 @@
       "sourcePage": "https://www.marmaraforum.com.tr/kampanyalar",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/f3a65b60-4633-4b1d-b51d-2ae4d138a247.jpg?v=PBMK9JAkfi7ZldV7vowfIPHK1PYcN32mqNo5yvBqZhI",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "guzel-sofralarin-bulusma-noktasi-bigchefs",
@@ -1249,8 +1546,8 @@
       "sourcePage": "https://www.marmaraforum.com.tr/kampanyalar",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/f16827bf-ff59-49d6-bc8a-16feeb196dda.jpg?v=Q85VaRCtn9TD2aekucbvXd8zCfuKohf9vSSpaCsuGQk",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "columbia-buyuk-kasim-firsatlari",
@@ -1265,24 +1562,36 @@
       "sourcePage": "https://www.marmaraforum.com.tr/kampanyalar",
       "image": "https://www.marmaraforum.com.tr/Images/Photos/89138a99-9978-4581-9240-73bea94cf694.jpg?v=QuZUQAP3sc-h6ie6mVHL0K--COZzwJYRd_ZBm4hiHAk",
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
-      "id": "ramsey-yeni-sezona-ozel-hediye",
-      "mallId": "marmara-forum",
-      "kind": "discount",
+      "id": "kasim-ayina-ozel-500-tl-indirim-ceki",
+      "mallId": "anatolium-marmara",
+      "kind": "event",
       "isPaid": false,
-      "url": "https://www.marmaraforum.com.tr/kampanyalar/kampanya/41/ramsey-yeni-sezona-ozel-hediye/",
-      "description": "Bu kampanya 30 Eylül-30 Kasım 2026 tarihleri arasında RAMSEY mağazalarında RAMSEY markalı yeni sezon ürünlerde aynı gün içinde aynı faturadaki alışverişlerde geçerlidir.\nRAMSEY mağazalarında uygulanan diğer indirim,kampanya,hediye çeki uygulamalarıyla birleştirilemez.RAMSEY değişiklik yapma hakkını saklı tutar.",
-      "startsAt": "2026-09-30",
-      "endsAt": "2026-11-30",
-      "title": "RAMSEY YENİ SEZONA ÖZEL HEDİYE!",
-      "sourcePage": "https://www.marmaraforum.com.tr/kampanyalar",
-      "image": "https://www.marmaraforum.com.tr/Images/Photos/38a8b9fd-2da5-4909-81df-f6860c956afc.jpg?v=CMRtrD3kclYclc1mGjNDVUPvpENqD9dQEgJA0bgN52k",
-      "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "url": "https://anatolium-marmara.com/etkinlik/kasim-ayina-ozel-500-tl-indirim-ceki",
+      "description": "Alışveriş yaparken kazanmaya hazır mısınız?",
+      "title": "KASIM AYINA ÖZEL 500 TL İNDİRİM ÇEKİ",
+      "sourcePage": "https://anatolium-marmara.com/etkinlikler",
+      "image": "https://anatolium-marmara.com/uploads/etkinlik/Anatolium_Çek_Kampanyası_1080x1350.jpg",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "robocar-poli-anatolium-marmara-da",
+      "mallId": "anatolium-marmara",
+      "kind": "event",
+      "isPaid": false,
+      "url": "https://anatolium-marmara.com/etkinlik/robocar-poli-anatolium-marmara-da",
+      "description": "Evden çıkarken hep “Hadi artık geç kaldık...” dersiniz ya; bu kez montunu giyip kapıda sizi bekleyen onlar olacak! Çünkü planda Robocar Poli var!",
+      "title": "ROBOCAR POLI ANATOLIUM MARMARA'DA!",
+      "sourcePage": "https://anatolium-marmara.com/etkinlikler",
+      "image": "https://anatolium-marmara.com/uploads/etkinlik/ROBOCAR_POLI_POST.jpg",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "filiz-ozkol-ile-yeni-yilda-burclari-neler-bekliyor",
@@ -1295,8 +1604,47 @@
       "endsAt": "2026-12-18",
       "description": "Yeni yılın yaklaşmasıyla birlikte, ünlü astrolog Filiz Özkol, merakla beklenen 2027 Astroloji Söyleşisi için 212 Outlet’e konuk oluyor. Yeni yılda burçları nelerin beklediği, hangi burçların birbirleriyle uyumlu olduğu, dikkat edilmesi gereken konular ve çok daha fazlasıyla ilgili bilgileri paylaşma",
       "firstSeen": "2026-11-25",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "source-e5b23141450b5a2ca6",
+      "mallId": "pelican-mall",
+      "kind": "event",
+      "title": "Kitap Fuarı",
+      "url": "https://pelicanmall.com.tr/kampanyalar.php",
+      "isPaid": false,
+      "sourcePage": "https://pelicanmall.com.tr/kampanyalar.php",
+      "image": "https://pelicanmall.com.tr/admin/upload/9273-kitap_fuari.jpg",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "source-a4db630b9ef9497e6d",
+      "mallId": "pelican-mall",
+      "kind": "discount",
+      "title": "Saloon Burger kampanyası",
+      "url": "https://pelicanmall.com.tr/kampanyalar.php",
+      "isPaid": false,
+      "sourcePage": "https://pelicanmall.com.tr/kampanyalar.php",
+      "image": "https://pelicanmall.com.tr/admin/upload/5948-saloon_burger.jpg",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
+    },
+    {
+      "id": "source-14a915fca696a481d2",
+      "mallId": "pelican-mall",
+      "kind": "discount",
+      "title": "Flo kampanyası",
+      "url": "https://pelicanmall.com.tr/kampanyalar.php",
+      "isPaid": false,
+      "sourcePage": "https://pelicanmall.com.tr/kampanyalar.php",
+      "image": "https://pelicanmall.com.tr/admin/upload/1864-1080x1080.png",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     },
     {
       "id": "istanbul-sancaktepe-grubu-il-birinciligi%c2%a0satranc-turnuvasi",
@@ -1309,8 +1657,8 @@
       "sourcePage": "https://ringsavm.com/tr/etkinlikler",
       "image": "https://ringsavm.com/Content/img/eventMaskInverse.png",
       "firstSeen": "2026-11-25",
-      "lastSeen": "2026-11-25T14:33:07+00:00",
-      "lastCheckedAt": "2026-11-25T14:33:07+00:00"
+      "lastSeen": "2026-11-26T14:02:59+00:00",
+      "lastCheckedAt": "2026-11-26T14:02:59+00:00"
     }
   ]
 }

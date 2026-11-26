@@ -522,20 +522,10 @@
       "logo": "assets/mall_logos/perlavista.png"
     },
     {
-      "id": "paradise-avm",
-      "name": "Paradise",
-      "city": "Beylikdüzü",
-      "active": false,
-      "location": {
-        "lat": 41.00403,
-        "lng": 28.62532
-      }
-    },
-    {
       "id": "atirus",
       "name": "Atirus",
       "city": "Büyükçekmece",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 41.0212,
         "lng": 28.58376
@@ -545,7 +535,7 @@
       "id": "aymerkez",
       "name": "Aymerkez",
       "city": "Büyükçekmece",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 41.01401,
         "lng": 28.54367
@@ -566,7 +556,7 @@
       "id": "vega-avm",
       "name": "Vega AVM",
       "city": "Silivri",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 41.07728,
         "lng": 28.25172
@@ -739,6 +729,17 @@
       "logo": "assets/mall_logos/istmarina.png"
     },
     {
+      "id": "ritim-istanbul",
+      "name": "Ritim İstanbul",
+      "city": "Maltepe",
+      "active": true,
+      "location": {
+        "lat": 40.92187,
+        "lng": 29.15862
+      },
+      "logo": "assets/mall_logos/ritim-istanbul.png"
+    },
+    {
       "id": "neomarin",
       "name": "Neomarin",
       "city": "Pendik",
@@ -772,21 +773,10 @@
       "logo": "assets/mall_logos/viaport-asia.png"
     },
     {
-      "id": "world-atlantis",
-      "name": "World Atlantis",
-      "city": "Pendik",
-      "active": true,
-      "location": {
-        "lat": 40.92827,
-        "lng": 29.31055
-      },
-      "logo": "assets/mall_logos/world-atlantis.png"
-    },
-    {
       "id": "viaport-marina",
       "name": "Viaport Marina",
       "city": "Tuzla",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 40.81724,
         "lng": 29.31606
