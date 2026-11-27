@@ -743,7 +743,7 @@
       "id": "neomarin",
       "name": "Neomarin",
       "city": "Pendik",
-      "active": false,
+      "active": true,
       "location": {
         "lat": 40.86379,
         "lng": 29.27358

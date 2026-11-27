@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-26T14:07:38+00:00",
+  "generatedAt": "2026-11-27T14:12:46+00:00",
   "discounts": [
+    {
+      "id": "gratis-stores-50-20261127",
+      "brand": "Gratis",
+      "title": "Gratis — %50 indirim",
+      "source": "Gratis",
+      "url": "https://www.gratis.com/kampanyalar",
+      "channel": "both",
+      "condition": "Gratis mağazalarında 27–29 Kasım; kapsam: Tüm Ürünlerde Geçerli",
+      "startsAt": "2026-11-27",
+      "endsAt": "2026-11-29",
+      "verifiedAt": "2026-11-27"
+    },
     {
       "id": "gratis-stores-60-20261118",
       "brand": "Gratis",
@@ -9,21 +21,9 @@
       "url": "https://www.gratis.com/kampanyalar",
       "channel": "both",
       "condition": "Gratis mağazalarında 18–30 Kasım; kapsam: Seçili Markalarda",
-      "startsAt": "2026-11-26",
+      "startsAt": "2026-11-27",
       "endsAt": "2026-11-30",
-      "verifiedAt": "2026-11-26"
-    },
-    {
-      "id": "gratis-stores-50-20261104",
-      "brand": "Gratis",
-      "title": "Gratis — %50 indirim",
-      "source": "Gratis",
-      "url": "https://www.gratis.com/kampanyalar",
-      "channel": "both",
-      "condition": "Gratis mağazalarında 4–30 Kasım; kapsam: Venüs 3 ve Üzeri Yedek Traş Bıçaklarında 2. Ürüne",
-      "startsAt": "2026-11-26",
-      "endsAt": "2026-11-30",
-      "verifiedAt": "2026-11-26"
+      "verifiedAt": "2026-11-27"
     },
     {
       "id": "news-abd5539e8160",
@@ -32,8 +32,22 @@
       "description": "Outlet %40 İndirim",
       "source": "D'S Damat",
       "url": "https://www.dsdamat.com/kampanyalar",
-      "verifiedAt": "2026-11-26",
-      "channel": "both"
+      "verifiedAt": "2026-11-27",
+      "channel": "both",
+      "firstSeenAt": "2026-11-26"
+    },
+    {
+      "id": "news-be832c8243c1",
+      "brand": "Flormar",
+      "title": "Flormar — %70 indirim",
+      "description": "Bir İlk %70 İNDİRİM",
+      "source": "Flormar",
+      "url": "https://www.flormar.com.tr/kampanyalar",
+      "verifiedAt": "2026-11-27",
+      "channel": "both",
+      "startsAt": "2026-11-26",
+      "endsAt": "2026-11-28",
+      "firstSeenAt": "2026-11-27"
     },
     {
       "id": "news-ec54057a9c09",
@@ -42,10 +56,11 @@
       "description": "SEÇİLİ SAREV PİKE ÜRÜNLERİNDE %20 İNDİRİM",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "channel": "both",
       "startsAt": "2026-08-01",
-      "endsAt": "2026-11-30"
+      "endsAt": "2026-11-30",
+      "firstSeenAt": "2026-11-26"
     },
     {
       "id": "news-559af969ca65",
@@ -54,10 +69,11 @@
       "description": "Öğretmenler Günü %20 İndirim",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "channel": "both",
       "startsAt": "2026-11-24",
-      "endsAt": "2026-11-30"
+      "endsAt": "2026-11-30",
+      "firstSeenAt": "2026-11-26"
     },
     {
       "id": "news-7797c5507d2e",
@@ -66,10 +82,11 @@
       "description": "Begüm Salihoğlu Seçili Ürünlerde %20, 2 ve Üzeri Alımlarda %30 İndirim",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "channel": "both",
       "startsAt": "2026-08-15",
-      "endsAt": "2026-12-31"
+      "endsAt": "2026-12-31",
+      "firstSeenAt": "2026-11-26"
     },
     {
       "id": "news-438f4be79c25",
@@ -78,10 +95,11 @@
       "description": "2026 Seçili Erkek Ürünlerinde %30 İndirim",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "channel": "both",
       "startsAt": "2026-08-01",
-      "endsAt": "2026-11-30"
+      "endsAt": "2026-11-30",
+      "firstSeenAt": "2026-11-26"
     },
     {
       "id": "news-00721a67b9a8",
@@ -90,10 +108,11 @@
       "description": "SEÇİLİ CEKET AYAKKABI ÜRÜNLERİNDE %30 İNDİRİM",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "channel": "both",
       "startsAt": "2026-07-01",
-      "endsAt": "2026-11-30"
+      "endsAt": "2026-11-30",
+      "firstSeenAt": "2026-11-26"
     },
     {
       "id": "news-339992165c7f",
@@ -102,46 +121,11 @@
       "description": "SEÇİLİ KADIN ÜRÜNLERİNDE %50 İNDİRİM",
       "source": "Sarar",
       "url": "https://www.sarar.com/kampanyalar",
-      "verifiedAt": "2026-11-26",
+      "verifiedAt": "2026-11-27",
       "channel": "both",
       "startsAt": "2026-10-16",
-      "endsAt": "2026-12-31"
-    },
-    {
-      "id": "news-88f186ee6e6f",
-      "brand": "Samsonite",
-      "title": "Samsonite — %30'a varan indirim",
-      "description": "Sepette %30'a Varan İndirim",
-      "source": "Samsonite",
-      "url": "https://www.samsonite.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-26",
-      "channel": "both",
-      "startsAt": "2026-11-01",
-      "endsAt": "2026-11-30"
-    },
-    {
-      "id": "news-b17e53f521ea",
-      "brand": "Samsonite",
-      "title": "Samsonite — %20 indirim",
-      "description": "Sepette Sürpriz %20 İndirim",
-      "source": "Samsonite",
-      "url": "https://www.samsonite.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-26",
-      "channel": "both",
-      "startsAt": "2026-11-01",
-      "endsAt": "2026-11-30"
-    },
-    {
-      "id": "news-0a5f0df25e05",
-      "brand": "Samsonite",
-      "title": "Samsonite — %30 indirim",
-      "description": "2. Üründe Sepette %30 İndirim",
-      "source": "Samsonite",
-      "url": "https://www.samsonite.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-26",
-      "channel": "both",
-      "startsAt": "2026-11-01",
-      "endsAt": "2026-11-30"
+      "endsAt": "2026-12-31",
+      "firstSeenAt": "2026-11-26"
     },
     {
       "id": "news-8393889ab9a6",
@@ -150,8 +134,9 @@
       "description": "Anne Penye Ürünlerinde 3 Al 2 Öde Kampanyası",
       "source": "Armine",
       "url": "https://www.armine.com/kampanyalar",
-      "verifiedAt": "2026-11-26",
-      "channel": "both"
+      "verifiedAt": "2026-11-27",
+      "channel": "both",
+      "firstSeenAt": "2026-11-26"
     },
     {
       "id": "news-3e34a21a788d",
@@ -160,8 +145,225 @@
       "description": "Harcama Alt Limiti 5.000 TL ve üzeri alışverişlerde 500 TL indirim sağlar",
       "source": "INTERSPORT",
       "url": "https://www.intersport.com.tr/kampanyalar",
-      "verifiedAt": "2026-11-26",
-      "channel": "both"
+      "verifiedAt": "2026-11-27",
+      "channel": "both",
+      "firstSeenAt": "2026-11-26"
+    },
+    {
+      "id": "news-c7e656932b4c",
+      "brand": "McDonald's",
+      "title": "McDonald's — Saat 12.00’ye Kadar Seçili Küçük Boy Burger Menüleri 125 TL",
+      "description": "Saat 12.00’ye Kadar Seçili Küçük Boy Burger Menüleri 125 TL!\nSaat 12.00’ye Kadar Seçili Küçük Boy Burger Menüleri 125 TL!\nGörseller reklam amaçlı olup ürünlerin sunum ve servis şekilleri restoranlara göre farklılık gösterebilir. - Kampanya kapsamında bir adet Cheeseburger, bir adet küçük boy patates ve bir adet küçük boy içecek 285 TL yerine 125-TL’den veya bir adet Çıtır Tavuk Burger, bir adet küçük boy patates ve bir adet küçük boy içecek 170 TL yerine 125-TL’den satışa sunulacaktır. - Kampanya, seçili restoranlarda saat 12.00’ye kadar verilecek restoranlardaki restoran içi siparişlerde geçerlidir. - Görselde yer alan fiyatlar seçili restoranlarda geçerli olup havaalanı restoranlarında ve eve siparişlerde geçerli değildir. - Ürünler restoranın çeşitli şubelerinde geçici olarak temin edilemeyebilir. - McDonald’s’ın önceden haber vermeksizin fiyatlarda değişiklik yapma ve kampanyaları durdurma hakkı saklıdır. - Fiyatlara KDV dahildir. - McDonald's International Property Company Ltd., McDonald’s ve McCafé markaları ve ambleminin tek hak sahibidir. - Sağlığınız için günde 4-5 porsiyon sebze ve meyve tüketiniz. - “Coca-Cola”, “Coke”, “Coca-Cola Zero”, “Coke Zero”, dinamik kuşak ve kontur şişe The Coca-Cola Company’nin tescilli markalarıdır.\nKampanyaya katılan restoranlar için tıklayınız.",
+      "source": "McDonald's",
+      "url": "https://www.mcdonalds.com.tr/kampanyalar/saat_11-30_secili_burger",
+      "channel": "instore",
+      "verifiedAt": "2026-11-27",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-6e6e4d53a981",
+      "brand": "McDonald's",
+      "title": "McDonald's — Saat 12.00’ye Kadar Seçili Kahvaltılıklar + 2 Çay 125 TL",
+      "description": "Saat 12.00’ye Kadar Seçili Kahvaltılıklar + 2 Çay 125 TL!\nSaat 12.00’ye Kadar Seçili Kahvaltılıklar + 2 Çay 125 TL!\nGörseller reklam amaçlı olup ürünlerin sunum ve servis şekilleri restoranlara göre farklılık gösterebilir. - Kampanya kapsamında iki adet Demleme Çay ile bir adet Hindi Füme Sandviç 260-TL, bir adet Çift Kaşarlı Tost 260-TL veya 2 adet Kruvasan ise 330-TL yerine 125-TL’den satışa sunulacaktır. - Kampanya, içinde McCafé bulunan seçili restoranlarda saat 12.00’ye kadar verilecek restoranlardaki restoran içi siparişlerde geçerlidir. - Görselde yer alan fiyatlar seçili restoranlarda geçerli olup havaalanı restoranlarında ve eve siparişlerde geçerli değildir. - Ürünler restoranın çeşitli şubelerinde geçici olarak temin edilemeyebilir. - McDonald’s’ın önceden haber vermeksizin fiyatlarda değişiklik yapma ve kampanyaları durdurma hakkı saklıdır. - Fiyatlara KDV dahildir. - McDonald's International Property Company Ltd., McDonald’s ve McCafé markaları ve ambleminin tek hak sahibidir. - Sağlığınız için günde 4-5 porsiyon sebze ve meyve tüketiniz.\nKampanyaya katılan restoranlar için tıklayınız.",
+      "source": "McDonald's",
+      "url": "https://www.mcdonalds.com.tr/kampanyalar/saat_11-30_secili_kahvaltilikler",
+      "channel": "instore",
+      "verifiedAt": "2026-11-27",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-2a0c70e1b5d5",
+      "brand": "Yargıcı",
+      "title": "Yargıcı — %40 indirim",
+      "description": "Yeni Sezon Sonbahar/Kış Kadın Koleksiyonu’nda %40 İndirim\nKampanya Tarihleri\nKampanya, 25 - 30 Kasım 2026 tarihleri arasında tarihleri arasında geçerlidir.\nKampanya Detayları\nKampanya Sonbahar/Kış Kadın Koleksiyonu ürünleri için geçerlidir. Kampanyaya Premium Essentials ve Homeworks Koleksiyonları dahil değildir. Hediye çeki alımlarında geçerli değildir. Farklı kampanyalarla birleştirilemez. Kampanya, Yargıcı mağazalarında ve online satış kanallarında geçerlidir. Stoklarla sınırlıdır. Yargıcı Konfeksiyon İhracat ve Tic. A.Ş., kampanya koşullarında değişiklik yapma hakkını saklı tutar. Detaylı bilgi için mağazalarımızı ziyaret edebilir ya da müşteri hizmetleri ile iletişime geçebilirsiniz.\nKampanyalı Ürünleri Keşfetmek İçin Tıkla.",
+      "source": "Yargıcı",
+      "url": "https://www.yargici.com/kampanya-detaylari-2",
+      "channel": "both",
+      "verifiedAt": "2026-11-27",
+      "startsAt": "2026-11-25",
+      "endsAt": "2026-11-30",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-375d43f5f280",
+      "brand": "Yargıcı",
+      "title": "Yargıcı — %40 indirim",
+      "description": "Yeni Sezon Sonbahar/Kış Erkek Koleksiyonu’nda %40 İndirim\nKampanya Tarihleri\nKampanya, 25 - 30 Kasım 2026 tarihleri arasında tarihleri arasında geçerlidir.\nKampanya Detayları\nKampanya Sonbahar/Kış Erkek Koleksiyonu ürünleri için geçerlidir. Kampanyaya Premium Essentials ve Homeworks Koleksiyonları dahil değildir. Hediye çeki alımlarında geçerli değildir. Farklı kampanyalarla birleştirilemez. Kampanya, Yargıcı mağazalarında ve online satış kanallarında geçerlidir. Stoklarla sınırlıdır. Yargıcı Konfeksiyon İhracat ve Tic. A.Ş., kampanya koşullarında değişiklik yapma hakkını saklı tutar. Detaylı bilgi için mağazalarımızı ziyaret edebilir ya da müşteri hizmetleri ile iletişime geçebilirsiniz.\nKampanyalı Ürünleri Keşfetmek İçin Tıkla.",
+      "source": "Yargıcı",
+      "url": "https://www.yargici.com/kampanya-detaylari-8",
+      "channel": "both",
+      "verifiedAt": "2026-11-27",
+      "startsAt": "2026-11-25",
+      "endsAt": "2026-11-30",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-edb261eb682c",
+      "brand": "Yargıcı",
+      "title": "Yargıcı — %40'a varan indirim",
+      "description": "Sonbahar/Kış Homeworks Koleksiyonu'nda %40'a Varan İndirim.\nKampanya Tarihleri\nKampanya, 03 - 30 Kasım 2026 tarihleri arasında tarihleri arasında geçerlidir.\nKampanya Detayları\nKampanya seçili Sonbahar/Kış Homeworks Koleksiyonu ürünleri için geçerlidir. Kampanyaya Premium Essentials Koleksiyonu dahil değildir. Hediye çeki alımlarında geçerli değildir. Farklı kampanyalarla birleştirilemez. Kampanya, Yargıcı mağazalarında ve online satış kanallarında geçerlidir. Stoklarla sınırlıdır. Yargıcı Konfeksiyon İhracat ve Tic. A.Ş., kampanya koşullarında değişiklik yapma hakkını saklı tutar. Detaylı bilgi için mağazalarımızı ziyaret edebilir ya da müşteri hizmetleri ile iletişime geçebilirsiniz.\nKampanyalı Ürünleri Keşfetmek İçin Tıkla.",
+      "source": "Yargıcı",
+      "url": "https://www.yargici.com/kampanya-detaylari-9",
+      "channel": "both",
+      "verifiedAt": "2026-11-27",
+      "startsAt": "2026-11-03",
+      "endsAt": "2026-11-30",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-8b312846b407",
+      "brand": "Yargıcı",
+      "title": "Yargıcı — %70'e varan indirim",
+      "description": "Outlet Koleksiyonu'nda %70'e Varan İndirim\nKampanya Tarihleri\nKampanya 08 Ekim - 30 Kasım 2026 tarihleri arasında geçerlidir.\nKampanya Detayları\nKampanya, Outlet Koleksiyonu ürünlerinde geçerlidir. Hediye çeki alımlarında geçerli değildir. Farklı kampanyalarla birleştirilemez. Kampanya, Yargıcı mağazalarında ve online satış kanallarında geçerlidir. Stoklarla sınırlıdır. Yargıcı Konfeksiyon İhracat ve Tic. A.Ş., kampanya koşullarında değişiklik yapma hakkını saklı tutar. Detaylı bilgi için mağazalarımızı ziyaret edebilir ya da müşteri hizmetleri ile iletişime geçebilirsiniz.\nKampanyalı Ürünleri Keşfetmek İçin Tıkla.",
+      "source": "Yargıcı",
+      "url": "https://www.yargici.com/kampanya-detaylari-6",
+      "channel": "both",
+      "verifiedAt": "2026-11-27",
+      "startsAt": "2026-10-08",
+      "endsAt": "2026-11-30",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-a0144fcba081",
+      "brand": "Siemens",
+      "title": "Siemens — 15.000 TL indirim",
+      "description": "Seçili 11 KG çamaşır makinesi alımlarında, kurutma makinesinde geçerli 15.000 TL indirim fırsatını kaçırma!\nYaşam alanını Alman mühendisliği ve akıllı teknolojilerle yenilemenin tam zamanı. Kampanya için son gün 30 Kasım!\nKampanya 13 Kasım - 30 Kasım 2026 tarihleri arasında yetkili Siemens fiziki mağazalarında geçerlidir.",
+      "source": "Siemens",
+      "url": "https://www.siemens-home.bsh-group.com/tr/kampanyalar",
+      "channel": "instore",
+      "verifiedAt": "2026-11-27",
+      "startsAt": "2026-11-13",
+      "endsAt": "2026-11-30",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-48848a26c6e2",
+      "brand": "Siemens",
+      "title": "Siemens — %50 indirim",
+      "description": "Beyaz eşya alımlarında kahve keyfi %50 indirimli\nSeçili beyaz eşya ürünlerinde (buzdolabı, derin dondurucular, çamaşır, kurutma, bulaşık makineleri ve ankastre ürün grupları) yapılan 150.000 TL ve üstü alışverişlerde TP551E19 kodlu kahve makinesini %50 indirimli satın alma fırsatı Siemens'te.\nKampanya 17 Kasım - 30 Kasım 2026 tarihleri arasında yetkili Siemens fiziki mağazalarında geçerlidir.",
+      "source": "Siemens",
+      "url": "https://www.siemens-home.bsh-group.com/tr/kampanyalar",
+      "channel": "instore",
+      "verifiedAt": "2026-11-27",
+      "startsAt": "2026-11-17",
+      "endsAt": "2026-11-30",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-9d60900d492a",
+      "brand": "Siemens",
+      "title": "Siemens — 10.000 TL indirim",
+      "description": "Seçili beyaz eşya ile birlikte kurutma makinesi alımlarında 10.000 TL indirim\nAlman mühendisliğinin üstün teknolojisini yaşam alanına taşı. Seçili beyaz eşya alımlarında kurutma makinesinde 10.000 TL indirim avantajı seni bekliyor. 30 Kasım'a kadar keşfet!\nKampanya 13 Kasım - 30 Kasım 2026 tarihleri arasında yetkili Siemens fiziki mağazalarında geçerlidir.",
+      "source": "Siemens",
+      "url": "https://www.siemens-home.bsh-group.com/tr/kampanyalar",
+      "channel": "instore",
+      "verifiedAt": "2026-11-27",
+      "startsAt": "2026-11-13",
+      "endsAt": "2026-11-30",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-3475934e28b3",
+      "brand": "Nautica",
+      "title": "Nautica — %30'a varan indirim",
+      "description": "Kampanya Tarihi: 19.11.2026 - 30.11.2026\nBLACK WEEK'e Özel Seçili Ürünlerde %30'a Varan İndirim ve Tüm İndirimlere Ek Sepette %10 İndirim!\nSeçili ürünlerde %30'a varan indirimi Nautica Online ve Nautica mağazalarında keşfedin.\nNautica Online'da geçerli tüm indirimlere ek sepette %10 indirimi fırsatını kaçırmayın.\nNautica, kampanya koşullarında istediği zaman değişiklik yapma hakkına sahiptir.\nKampanya www.nautica-tr.com internet sitesinde ve mağazalarında 30 Kasım 2026 23:59'a kadar, seçili ürünlerinde geçerlidir.\nBaşka kampanyalarla birleştirilemez.\nAlışverişe Başlayın",
+      "source": "Nautica",
+      "url": "https://www.nautica-tr.com/kampanyalar",
+      "channel": "both",
+      "verifiedAt": "2026-11-27",
+      "startsAt": "2026-11-19",
+      "endsAt": "2026-11-30",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-89a55b9f521c",
+      "brand": "Altınyıldız Classics",
+      "title": "Altınyıldız Classics — 1 alana 1 bedava",
+      "description": "Tüm Ürünlerde 1 Alana 1 Bedava!\nKampanya Detayları\nKampanya 30 Ekim - 30 Kasım 2026 tarihleri arasında Fırsat, Seremoni ve outlet grubu ürünler hariç tüm ürünlerde geçerlidir.BR Mağazacılık Tic. A.Ş kampanya süresi ve içeriği ile ilgili değişiklik yapma hakkına sahiptir.",
+      "source": "Altınyıldız Classics",
+      "url": "https://www.altinyildizclassics.com/magaza-kampanyalari-s",
+      "channel": "instore",
+      "verifiedAt": "2026-11-27",
+      "startsAt": "2026-10-30",
+      "endsAt": "2026-11-30",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-42de7c54d168",
+      "brand": "Burger Yiyelim",
+      "title": "Burger Yiyelim — Efsaneler Karması Menü 870 TL",
+      "description": "Efsaneler Karması Menü\nDublex Burger\nCheese Burger\nBüyük Boy Patates\n2 İçecek\n→ 870₺\nBurger Yiyelim önceden haber vermeksizin fiyatlarda değişiklik yapma, kampanyayı dilediği zaman sonlandırma veya kampanya sürecini değiştirme hakkına sahiptir. Belirtilen kampanya sadece belirli restoranlarda ve gel-al serviste geçerlidir. Görseller temsilidir; sunum, fiyat ve kampanyalar restorana göre farklılık gösterebilir. Üstü çizili fiyatlar ürünler tek tek alındığında toplam fiyatıdır. Bu kampanya başka bir kampanya ile birleştirilemez.",
+      "source": "Burger Yiyelim",
+      "url": "https://www.burgeryiyelim.com/kampanyalar/restoran-kampanyalari/efsaneler-karmasi-menu",
+      "channel": "instore",
+      "verifiedAt": "2026-11-27",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-45c3ae320f4d",
+      "brand": "Burger Yiyelim",
+      "title": "Burger Yiyelim — Beraber Yiyelim Menü 790 TL",
+      "description": "Beraber Yiyelim Menü\n2 Tenders\n4 Soğan Halkası\nBüyük Boy Patates\n2 İçecek\n→ 790₺\nBurger Yiyelim önceden haber vermeksizin fiyatlarda değişiklik yapma, kampanyayı dilediği zaman sonlandırma veya kampanya sürecini değiştirme hakkına sahiptir. Belirtilen kampanya sadece belirli restoranlarda ve gel-al serviste geçerlidir. Görseller temsilidir; sunum, fiyat ve kampanyalar restorana göre farklılık gösterebilir. Üstü çizili fiyatlar ürünler tek tek alındığında toplam fiyatıdır. Bu kampanya başka bir kampanya ile birleştirilemez. Fiyatlara KDV dahildir.",
+      "source": "Burger Yiyelim",
+      "url": "https://www.burgeryiyelim.com/kampanyalar/restoran-kampanyalari/beraber-yiyelim-menu",
+      "channel": "instore",
+      "verifiedAt": "2026-11-27",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-52f03ad3f1bc",
+      "brand": "Burger Yiyelim",
+      "title": "Burger Yiyelim — Dört Dörtlük Menü 800 TL",
+      "description": "Dört Dörtlük Menü\nGurme Tavuk Burger\nMedium Cheese Burger\n2 Tenders\n4 Soğan Halkası\nBüyük Boy Patates\nChurros\n2 İçecek\n→ 800₺\nBurger Yiyelim önceden haber vermeksizin fiyatlarda değişiklik yapma, kampanyayı dilediği zaman sonlandırma veya kampanya sürecini değiştirme hakkına sahiptir. Belirtilen kampanya sadece belirli restoranlarda ve gel-al serviste geçerlidir. Görseller temsilidir; sunum, fiyat ve kampanyalar restorana göre farklılık gösterebilir. Üstü çizili fiyatlar ürünler tek tek alındığında toplam fiyatıdır. Bu kampanya başka bir kampanya ile birleştirilemez. Fiyatlara KDV dahildir.",
+      "source": "Burger Yiyelim",
+      "url": "https://www.burgeryiyelim.com/kampanyalar/restoran-kampanyalari/dort-dortluk-menu",
+      "channel": "instore",
+      "verifiedAt": "2026-11-27",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-d3724f5c7ef5",
+      "brand": "Burger Yiyelim",
+      "title": "Burger Yiyelim — Çıtıra Doy Menü 750 TL",
+      "description": "Çıtıra Doy Menü\n2 Gurme Tavuk Burger\nBüyük Boy Patates\n4 Soğan Halkası\n2 Tenders\n2 İçecek\nChurros\n→ 750₺\nBurger Yiyelim önceden haber vermeksizin fiyatlarda değişiklik yapma, kampanyayı dilediği zaman sonlandırma veya kampanya sürecini değiştirme hakkına sahiptir. Belirtilen kampanya sadece belirli restoranlarda ve gel-al serviste geçerlidir. Görseller temsilidir; sunum, fiyat ve kampanyalar restorana göre farklılık gösterebilir. Üstü çizili fiyatlar ürünler tek tek alındığında toplam fiyatıdır. Bu kampanya başka bir kampanya ile birleştirilemez.",
+      "source": "Burger Yiyelim",
+      "url": "https://www.burgeryiyelim.com/kampanyalar/restoran-kampanyalari/citira-doy-menu",
+      "channel": "instore",
+      "verifiedAt": "2026-11-27",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-652460ea716b",
+      "brand": "Burger Yiyelim",
+      "title": "Burger Yiyelim — Tek Kişilik Dev Kadro Menü 395 TL",
+      "description": "Tek Kişilik Dev Kadro Menü\nMedium Cheese Burger\nPatates Kızartması\n2 Tenders\nİçecek\n→ 395₺\nBurger Yiyelim önceden haber vermeksizin fiyatlarda değişiklik yapma, kampanyayı dilediği zaman sonlandırma veya kampanya sürecini değiştirme hakkına sahiptir. Belirtilen kampanya sadece belirli restoranlarda ve gel-al serviste geçerlidir. Görseller temsilidir; sunum, fiyat ve kampanyalar restorana göre farklılık gösterebilir. Üstü çizili fiyatlar ürünler tek tek alındığında toplam fiyatıdır. Bu kampanya başka bir kampanya ile birleştirilemez.",
+      "source": "Burger Yiyelim",
+      "url": "https://www.burgeryiyelim.com/kampanyalar/restoran-kampanyalari/tek-kisilik-dev-kadro",
+      "channel": "instore",
+      "verifiedAt": "2026-11-27",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-0a4dfb28ade6",
+      "brand": "Burger Yiyelim",
+      "title": "Burger Yiyelim — Seçim Senin Menü 680 TL",
+      "description": "Seçim Senin Menü\nSeçeceğin 2 Burger (İster Medium Burger - İster Gurme Tavuk)\nBüyük Boy Patates\n4 Soğan Halkası\n2 İçecek\n→ 680₺\nBurger Yiyelim önceden haber vermeksizin fiyatlarda değişiklik yapma, kampanyayı dilediği zaman sonlandırma veya kampanya sürecini değiştirme hakkına sahiptir. Belirtilen kampanya sadece belirli restoranlarda ve gel-al serviste geçerlidir. Görseller temsilidir; sunum, fiyat ve kampanyalar restorana göre farklılık gösterebilir. Üstü çizili fiyatlar ürünler tek tek alındığında toplam fiyatıdır. Bu kampanya başka bir kampanya ile birleştirilemez.",
+      "source": "Burger Yiyelim",
+      "url": "https://www.burgeryiyelim.com/kampanyalar/restoran-kampanyalari/secim-senin-menu",
+      "channel": "instore",
+      "verifiedAt": "2026-11-27",
+      "firstSeenAt": "2026-11-27"
+    },
+    {
+      "id": "news-0ba5fa2ec8a7",
+      "brand": "Burger Yiyelim",
+      "title": "Burger Yiyelim — Mega Gurme Menü 395 TL",
+      "description": "Mega Gurme Menü\nGurme Tavuk Burger\n4'lü Soğan Halkası\n2 Tenders\nPatates Kızartması\nİçecek\n395₺\nBurger Yiyelim önceden haber vermeksizin fiyatlarda değişiklik yapma, kampanyayı dilediği zaman sonlandırma veya kampanya sürecini değiştirme hakkına sahiptir. Belirtilen kampanya sadece belirli restoranlarda ve gel-al serviste geçerlidir. Görseller temsilidir; sunum, fiyat ve kampanyalar restorana göre farklılık gösterebilir. Üstü çizili fiyatlar ürünler tek tek alındığında toplam fiyatıdır. Bu kampanya başka bir kampanya ile birleştirilemez. Fiyatlara KDV dahildir.",
+      "source": "Burger Yiyelim",
+      "url": "https://www.burgeryiyelim.com/kampanyalar/restoran-kampanyalari/mega-gurme-menu",
+      "channel": "instore",
+      "verifiedAt": "2026-11-27",
+      "firstSeenAt": "2026-11-27"
     }
   ]
 }
